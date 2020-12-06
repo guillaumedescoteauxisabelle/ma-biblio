@@ -28,3 +28,27 @@ type: text-highlight
 created: 2020-12-03T19:41:33.287Z
 color: green
 An examination of some of the intrinsic characteristics of the eye (eye   used here   as a shorthand for the entire visual perceptual system), leads  to an enhanced  appreciation of some of the  limitations and subtleties of painting.
+---
+page: 16
+type: text-highlight
+created: 2020-12-03T22:34:52.496Z
+color: yellow
+Flemish style
+---
+page: 16
+type: text-highlight
+created: 2020-12-03T22:35:50.666Z
+color: yellow
+Cubist Style
+---
+page: 16
+type: text-highlight
+created: 2020-12-03T22:36:09.721Z
+color: yellow
+American Primitive Style
+---
+page: 16
+type: text-highlight
+created: 2020-12-03T22:36:36.951Z
+color: yellow
+Baroque style

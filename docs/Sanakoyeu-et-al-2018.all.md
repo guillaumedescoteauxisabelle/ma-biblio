@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](24cd8985-2a1c-42fe-b2ca-91da54d141f1)
 
 
@@ -15,7 +15,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 A Style-Aware Content Loss for Real-time HD Style Transfer
 
 
@@ -24,7 +24,7 @@ Citer: (Sanakoyeu et al., 2018)
 
 FTag: Sanakoyeu-et-al-2018
 
-APA7: Sanakoyeu, A., Kotovenko, D., Lang, S., & Ommer, B. (2018). A Style-Aware Content Loss for Real-time HD Style Transfer. _ArXiv:1807.10201 [Cs] _. [http://arxiv.org/abs/1807.10201] (http://arxiv.org/abs/1807.10201)
+APA7: Sanakoyeu, A., Kotovenko, D., Lang, S., & Ommer, B. (2018). A Style-Aware Content Loss for Real-time HD Style Transfer. _ArXiv:1807.10201 [Cs] _. [http://arxiv.org/abs/1807.10201](http://arxiv.org/abs/1807.10201)
 
 
 

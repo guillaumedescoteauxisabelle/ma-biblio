@@ -92,11 +92,11 @@ FTag:  Parenteau-2018
 APA7: Parenteau, R. (2018). _La matière comme générateur d’expérience au sein des espaces intérieurs: Peter Zumthor et l’esthétique des atmosphères_. 197.
 
 -----------------------------------  
- [MTHO-TP1-Scratch] (https://docs.google.com/document/d/18Bcyqz1oX6zWN8Jn2X5cKWOPoX95R05kxv4_1F139pY/edit#)
+ [MTHO-TP1-Scratch](https://docs.google.com/document/d/18Bcyqz1oX6zWN8Jn2X5cKWOPoX95R05kxv4_1F139pY/edit#)
 
   
 
- [MTHO-TP1-FINALDOC] (https://docs.google.com/document/d/1dBAdnXveCnWjMttFNRMboQCisdb3bhhJSOKlvgn-bpo/edit)
+ [MTHO-TP1-FINALDOC](https://docs.google.com/document/d/1dBAdnXveCnWjMttFNRMboQCisdb3bhhJSOKlvgn-bpo/edit)
 
   
 

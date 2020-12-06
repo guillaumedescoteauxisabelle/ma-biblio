@@ -298,3 +298,33 @@ type: text-highlight
 created: 2020-10-28T22:48:34.074Z
 color: green
 lors de l’étape de cadrage ou framing, le praticien va tenter de conserver l’unicité de la situation, et va inventer une nouvelle descriptio
+---
+page: 33
+type: text-highlight
+created: 2020-12-03T01:35:15.375Z
+color: #FF6900
+les penseurs des disciplines du design se sont demandé comment cesser d’être vus comme une sous - catégori e des arts, et ont souhaité que le design devienne une science
+---
+page: 115
+type: text-highlight
+created: 2020-12-03T01:37:01.269Z
+color: yellow
+Paradigme du Il et du Je
+---
+page: 157
+type: text-highlight
+created: 2020-12-03T01:39:00.137Z
+color: yellow
+Le premier principe méthodologique que privilégient systématiquement (au point d’en faire un impératif) les épistémologies positivistes et réalistes est donc bien celui de la division, ou de la décomposition selon des catégori es préétablies : on l’appelle depuis Aristote, le principe de l’Analytique (Le Moigne, 1995, p. 28) .
+---
+page: 157
+type: text-highlight
+created: 2020-12-03T01:39:04.121Z
+color: yellow
+Ainsi la logique déductive acquiert - elle un statut discipli naire privilégié dans le champ des connaissances : non seulement elle permet d’ordonner les énoncés décrivant la réalité dégagée à l’aide du principe de la modélisation analytique, mais en outre elle assure que cet ordonnancement (« longue chaine de raison s toutes simples »), étant lui - même naturel ou réel, rend indiscutablement compte et raison de cette réalité (Le Moigne, 1995, p. 33) .
+---
+page: 361
+type: text-highlight
+created: 2020-12-05T02:44:42.578Z
+color: #9900EF
+. Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé

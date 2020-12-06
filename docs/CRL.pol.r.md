@@ -50,7 +50,7 @@ Le compte rendu de lecture
 
   
 
- [Voir fichier REPO] (https://github.com/jgwill/www.fichiers/blob/master/_dictations/CRL.md)
+ [Voir fichier REPO](https://github.com/jgwill/www.fichiers/blob/master/_dictations/CRL.md)
 
 
 

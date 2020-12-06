@@ -630,6 +630,39 @@
 
 ----
 
+# Poltronieri-et-Hanska-2019
+
+
+## [Poltronieri-et-Hanska-2019.all.html](Poltronieri-et-Hanska-2019.all.html)
+## [Poltronieri-et-Hanska-2019.ht.all.html](Poltronieri-et-Hanska-2019.ht.all.html)
+## [Poltronieri-et-Hanska-2019.pol.fc.html](Poltronieri-et-Hanska-2019.pol.fc.html)
+## [Poltronieri-et-Hanska-2019.pol.r.html](Poltronieri-et-Hanska-2019.pol.r.html)
+## [Poltronieri-et-Hanska-2019.sag.html](Poltronieri-et-Hanska-2019.sag.html)
+## [Poltronieri-et-Hanska-2019.sag.j.html](Poltronieri-et-Hanska-2019.sag.j.html)
+## [Poltronieri-et-Hanska-2019.sag.l.html](Poltronieri-et-Hanska-2019.sag.l.html)
+## [Poltronieri-et-Hanska-2019.sag.ndl.html](Poltronieri-et-Hanska-2019.sag.ndl.html)
+## [Poltronieri-et-Hanska-2019.sag.q.html](Poltronieri-et-Hanska-2019.sag.q.html)
+## [Poltronieri-et-Hanska-2019.sag.r.html](Poltronieri-et-Hanska-2019.sag.r.html)
+
+----
+
+# Pouyanfar-et-al-2018
+
+
+## [Pouyanfar-et-al-2018.all.html](Pouyanfar-et-al-2018.all.html)
+## [Pouyanfar-et-al-2018.ht.all.html](Pouyanfar-et-al-2018.ht.all.html)
+## [Pouyanfar-et-al-2018.ht.concept.html](Pouyanfar-et-al-2018.ht.concept.html)
+## [Pouyanfar-et-al-2018.pol.fc.html](Pouyanfar-et-al-2018.pol.fc.html)
+## [Pouyanfar-et-al-2018.pol.r.html](Pouyanfar-et-al-2018.pol.r.html)
+## [Pouyanfar-et-al-2018.sag.html](Pouyanfar-et-al-2018.sag.html)
+## [Pouyanfar-et-al-2018.sag.j.html](Pouyanfar-et-al-2018.sag.j.html)
+## [Pouyanfar-et-al-2018.sag.l.html](Pouyanfar-et-al-2018.sag.l.html)
+## [Pouyanfar-et-al-2018.sag.ndl.html](Pouyanfar-et-al-2018.sag.ndl.html)
+## [Pouyanfar-et-al-2018.sag.q.html](Pouyanfar-et-al-2018.sag.q.html)
+## [Pouyanfar-et-al-2018.sag.r.html](Pouyanfar-et-al-2018.sag.r.html)
+
+----
+
 # Rivieres-Smith-1984
 
 
@@ -798,6 +831,38 @@
 
 ----
 
+# Strunk-Jr-et-White-2020
+
+
+## [Strunk-Jr-et-White-2020.all.html](Strunk-Jr-et-White-2020.all.html)
+## [Strunk-Jr-et-White-2020.ht.all.html](Strunk-Jr-et-White-2020.ht.all.html)
+## [Strunk-Jr-et-White-2020.pol.fc.html](Strunk-Jr-et-White-2020.pol.fc.html)
+## [Strunk-Jr-et-White-2020.pol.r.html](Strunk-Jr-et-White-2020.pol.r.html)
+## [Strunk-Jr-et-White-2020.sag.html](Strunk-Jr-et-White-2020.sag.html)
+## [Strunk-Jr-et-White-2020.sag.j.html](Strunk-Jr-et-White-2020.sag.j.html)
+## [Strunk-Jr-et-White-2020.sag.l.html](Strunk-Jr-et-White-2020.sag.l.html)
+## [Strunk-Jr-et-White-2020.sag.ndl.html](Strunk-Jr-et-White-2020.sag.ndl.html)
+## [Strunk-Jr-et-White-2020.sag.q.html](Strunk-Jr-et-White-2020.sag.q.html)
+## [Strunk-Jr-et-White-2020.sag.r.html](Strunk-Jr-et-White-2020.sag.r.html)
+
+----
+
+# Style-Visual-Arts-2020
+
+
+## [Style-Visual-Arts-2020.all.html](Style-Visual-Arts-2020.all.html)
+## [Style-Visual-Arts-2020.ht.all.html](Style-Visual-Arts-2020.ht.all.html)
+## [Style-Visual-Arts-2020.pol.fc.html](Style-Visual-Arts-2020.pol.fc.html)
+## [Style-Visual-Arts-2020.pol.r.html](Style-Visual-Arts-2020.pol.r.html)
+## [Style-Visual-Arts-2020.sag.html](Style-Visual-Arts-2020.sag.html)
+## [Style-Visual-Arts-2020.sag.j.html](Style-Visual-Arts-2020.sag.j.html)
+## [Style-Visual-Arts-2020.sag.l.html](Style-Visual-Arts-2020.sag.l.html)
+## [Style-Visual-Arts-2020.sag.ndl.html](Style-Visual-Arts-2020.sag.ndl.html)
+## [Style-Visual-Arts-2020.sag.q.html](Style-Visual-Arts-2020.sag.q.html)
+## [Style-Visual-Arts-2020.sag.r.html](Style-Visual-Arts-2020.sag.r.html)
+
+----
+
 # Terry-Mynatt-2002
 
 
@@ -843,6 +908,22 @@
 
 ----
 
+# Wang-et-al-2017
+
+
+## [Wang-et-al-2017.all.html](Wang-et-al-2017.all.html)
+## [Wang-et-al-2017.ht.all.html](Wang-et-al-2017.ht.all.html)
+## [Wang-et-al-2017.pol.fc.html](Wang-et-al-2017.pol.fc.html)
+## [Wang-et-al-2017.pol.r.html](Wang-et-al-2017.pol.r.html)
+## [Wang-et-al-2017.sag.html](Wang-et-al-2017.sag.html)
+## [Wang-et-al-2017.sag.j.html](Wang-et-al-2017.sag.j.html)
+## [Wang-et-al-2017.sag.l.html](Wang-et-al-2017.sag.l.html)
+## [Wang-et-al-2017.sag.ndl.html](Wang-et-al-2017.sag.ndl.html)
+## [Wang-et-al-2017.sag.q.html](Wang-et-al-2017.sag.q.html)
+## [Wang-et-al-2017.sag.r.html](Wang-et-al-2017.sag.r.html)
+
+----
+
 # Wang-Goertzel-2012
 
 
@@ -872,6 +953,22 @@
 ## [Whitelaw-2004.sag.ndl.html](Whitelaw-2004.sag.ndl.html)
 ## [Whitelaw-2004.sag.q.html](Whitelaw-2004.sag.q.html)
 ## [Whitelaw-2004.sag.r.html](Whitelaw-2004.sag.r.html)
+
+----
+
+# Woodfield-1994
+
+
+## [Woodfield-1994.all.html](Woodfield-1994.all.html)
+## [Woodfield-1994.ht.all.html](Woodfield-1994.ht.all.html)
+## [Woodfield-1994.pol.fc.html](Woodfield-1994.pol.fc.html)
+## [Woodfield-1994.pol.r.html](Woodfield-1994.pol.r.html)
+## [Woodfield-1994.sag.html](Woodfield-1994.sag.html)
+## [Woodfield-1994.sag.j.html](Woodfield-1994.sag.j.html)
+## [Woodfield-1994.sag.l.html](Woodfield-1994.sag.l.html)
+## [Woodfield-1994.sag.ndl.html](Woodfield-1994.sag.ndl.html)
+## [Woodfield-1994.sag.q.html](Woodfield-1994.sag.q.html)
+## [Woodfield-1994.sag.r.html](Woodfield-1994.sag.r.html)
 
 ----
 

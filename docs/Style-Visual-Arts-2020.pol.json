@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12CyXVdFeV",
+      "guid": "12CyXVdFeV",
+      "created": "2020-12-05T02:03:18.357Z",
+      "lastUpdated": "2020-12-05T02:03:18.357Z",
+      "rects": {
+        "0": {
+          "left": 47,
+          "top": 84,
+          "right": 295,
+          "bottom": 121,
+          "width": 247,
+          "height": 37
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Style (visual arts)"
+        }
+      },
+      "text": {
+        "TEXT": "Style (visual arts)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1PifRpyxRw",
+      "guid": "1PifRpyxRw",
+      "created": "2020-12-05T02:03:33.378Z",
+      "lastUpdated": "2020-12-05T02:03:33.378Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": ""
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12VFESZJ26",
+      "guid": "12VFESZJ26",
+      "created": "2020-12-05T06:41:18.617Z",
+      "lastUpdated": "2020-12-05T06:42:29.093Z",
+      "rects": {
+        "0": {
+          "left": 47,
+          "top": 145,
+          "right": 91,
+          "bottom": 163,
+          "width": 43,
+          "height": 18
+        },
+        "1": {
+          "left": 92,
+          "top": 145,
+          "right": 159,
+          "bottom": 163,
+          "width": 67,
+          "height": 18
+        },
+        "2": {
+          "left": 157,
+          "top": 145,
+          "right": 165,
+          "bottom": 163,
+          "width": 8,
+          "height": 18
+        },
+        "3": {
+          "left": 167,
+          "top": 145,
+          "right": 198,
+          "bottom": 163,
+          "width": 31,
+          "height": 18
+        },
+        "4": {
+          "left": 197,
+          "top": 145,
+          "right": 496,
+          "bottom": 163,
+          "width": 299,
+          "height": 18
+        },
+        "5": {
+          "left": 47,
+          "top": 165,
+          "right": 320,
+          "bottom": 183,
+          "width": 272,
+          "height": 18
+        },
+        "6": {
+          "left": 313,
+          "top": 162,
+          "right": 329,
+          "bottom": 177,
+          "width": 16,
+          "height": 14
+        },
+        "7": {
+          "left": 328,
+          "top": 165,
+          "right": 495,
+          "bottom": 183,
+          "width": 167,
+          "height": 18
+        },
+        "8": {
+          "left": 47,
+          "top": 184,
+          "right": 502,
+          "bottom": 202,
+          "width": 454,
+          "height": 18
+        },
+        "9": {
+          "left": 47,
+          "top": 204,
+          "right": 341,
+          "bottom": 222,
+          "width": 293,
+          "height": 18
+        },
+        "10": {
+          "left": 333,
+          "top": 201,
+          "right": 349,
+          "bottom": 216,
+          "width": 16,
+          "height": 14
+        },
+        "11": {
+          "left": 348,
+          "top": 204,
+          "right": 352,
+          "bottom": 222,
+          "width": 4,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In the "
+        },
+        "1": {
+          "text": "visual arts"
+        },
+        "2": {
+          "text": ", "
+        },
+        "3": {
+          "text": "style"
+        },
+        "4": {
+          "text": " is a \"...distinctive manner which permits the"
+        },
+        "5": {
+          "text": "grouping of works into related categories\""
+        },
+        "6": {
+          "text": "[1]"
+        },
+        "7": {
+          "text": " or \"...any distinctive, and"
+        },
+        "8": {
+          "text": "therefore recognizable, way in which an act is performed or an artifact"
+        },
+        "9": {
+          "text": "made or ought to be performed and made\"."
+        },
+        "10": {
+          "text": "[2]"
+        },
+        "11": {
+          "text": " "
+        }
+      },
+      "text": {
+        "TEXT": "In the visual arts , style is a \"...distinctive manner which permits the grouping of works into related categories\" [1] or \"...any distinctive, and therefore recognizable, way in which an act is performed or an artifact made or ought to be performed and made\". [2] "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "ref2012042038": {
+          "id": "ref2012042038",
+          "label": "ref2012042038"
+        }
+      }
+    },
+    {
+      "id": "12YKxPbW9r",
+      "guid": "1sthvD3knp",
+      "created": "2020-12-05T06:41:53.300Z",
+      "lastUpdated": "2020-12-05T06:42:01.822Z",
+      "rects": {
+        "0": {
+          "left": 284,
+          "top": 84,
+          "right": 295,
+          "bottom": 121,
+          "width": 10,
+          "height": 37
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ")"
+        }
+      },
+      "text": {
+        "TEXT": ")"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (“Style (Visual Arts),” 2020)</p>\n<p>FTag: Style-Visual-Arts-2020</p>\n<div style=\"line-height:2;text-indent:-2em\">\n<div>APA7: Style (visual arts). (2020). In <em>Wikipedia</em>. <a href=\"https://en.wikipedia.org/w/index.php?title=Style_(visual_arts)&amp;oldid=976407137\">https://en.wikipedia.org/w/index.php?title=Style_(visual_arts)&amp;oldid=976407137</a></div>\n</div>\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+

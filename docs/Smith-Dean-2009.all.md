@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Practice-led Research, Research-led Practice in the Creative Arts
 -----------------------------------------------------------------
 
@@ -19,7 +19,7 @@ FTag:  Smith-Dean-2009
 
 APA7: Smith, H., & Dean, R. T. (2009). _Practice-led Research, Research- led Practice in the Creative Arts_. 27.
 
- [SNote] (http://simp.ly/p/s9g3xP)
+ [SNote](http://simp.ly/p/s9g3xP)
 
 
 

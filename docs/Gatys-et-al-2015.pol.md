@@ -40,3 +40,9 @@ type: text-highlight
 created: 2020-11-06T16:58:35.261Z
 color: yellow
 .   Convolutional Neural Networks consist of layers of small computational units that process visual information hierarchically in a feed-forward man- ner
+---
+page: 1
+type: text-highlight
+created: 2020-12-06T07:56:09.524Z
+color: yellow
+ composing a complex interplay between the con- tent and style of an image

@@ -1,0 +1,48 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/KHUDIJLT",
+		"type": "paper-conference",
+		"abstract": "Artificial Intelligence (AI) and art share a common past, where artists employed AI algorithms to generate art. This paper explores the early days of AI-generated images, using Harold Cohen's AARON software as a paradigm of symbolic AI creative systems, and contextualizes the use of modern neural network technologies to create visual artworks. It discusses the methodologies and strategies used to make art using AI in the 1960s, comparing them to new AI algorithms. The discussion focuses on GOFAI (Good Old Fashioned Artificial Intelligence) and GANs (Generative Adversarial Networks) as the main technologies used in distinct historical periods to generate images. Vilém Flusser's conception of technical images provides a conceptual framework for examining the qualities and attributes of AI-generated images.",
+		"collection-title": "ARTECH 2019",
+		"container-title": "Proceedings of the 9th International Conference on Digital and Interactive Arts",
+		"DOI": "10.1145/3359852.3359865",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-7250-3",
+		"note": "ZSCC: 0000000",
+		"page": "1–8",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Technical Images and Visual Art in the Era of Artificial Intelligence: From GOFAI to GANs",
+		"title-short": "Technical Images and Visual Art in the Era of Artificial Intelligence",
+		"URL": "http://doi.org/10.1145/3359852.3359865",
+		"author": [
+			{
+				"family": "Poltronieri",
+				"given": "Fabrizio Augusto"
+			},
+			{
+				"family": "Hanska",
+				"given": "Max"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					23
+				]
+			]
+		}
+	}
+]

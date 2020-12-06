@@ -22,7 +22,7 @@ demonstrated that these technical limitations can be alleviated as follows
 
 
 
-(2) Layers of pre-trained deep CNNs can be activated to match content and style statistics, and thus perform a neural style transfer (NST) between arbitrary images [Gatys et al. 2016b] (Figure 1)
+(2) Layers of pre-trained deep CNNs can be activated to match content and style statistics, and thus perform a neural style transfer (NST) between arbitrary images [Gatys et al. 2016b](Figure 1)
 
 
 
@@ -156,7 +156,7 @@ FTag:Semmo-et-al-2017
 
 Biblio:
 
-Semmo, A., Isenberg, T., & Döllner, J. (2017). Neural style transfer: A paradigm shift for image-based artistic rendering? _Proceedings of the Symposium on Non-Photorealistic Animation and Rendering - NPAR ’17_, 1–13. [https://doi.org/10.1145/3092919.3092920] (https://doi.org/10.1145/3092919.3092920)
+Semmo, A., Isenberg, T., & Döllner, J. (2017). Neural style transfer: A paradigm shift for image-based artistic rendering? _Proceedings of the Symposium on Non-Photorealistic Animation and Rendering - NPAR ’17_, 1–13. [https://doi.org/10.1145/3092919.3092920](https://doi.org/10.1145/3092919.3092920)
 
 
 

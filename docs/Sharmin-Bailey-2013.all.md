@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 ReflectionSpace: An Interactive Visualization Tool for Supporting Reflection - on - action in Design
 
 
@@ -16,7 +16,7 @@ Citer: (Sharmin & Bailey, 2013)
 
 FTag: Sharmin-Bailey-2013
 
-APA7: Sharmin, M., & Bailey, B. P. (2013). ReflectionSpace: An interactive visualization tool for supporting reflection- _on_ -action in design. _Proceedings of the 9th ACM Conference on Creativity & Cognition - C&C ’13_, 83. [https://doi.org/10.1145/2466627.2466645] (https://doi.org/10.1145/2466627.2466645)
+APA7: Sharmin, M., & Bailey, B. P. (2013). ReflectionSpace: An interactive visualization tool for supporting reflection- _on_ -action in design. _Proceedings of the 9th ACM Conference on Creativity & Cognition - C&C ’13_, 83. [https://doi.org/10.1145/2466627.2466645](https://doi.org/10.1145/2466627.2466645)
 
 
 

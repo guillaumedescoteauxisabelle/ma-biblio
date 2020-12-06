@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+
 ![](11ba622f-03f3-4274-8b78-941c9ffb2bee)
 
 
@@ -15,8 +15,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
-Houdini Engine: Evolution Towards a Procedural Pipeline  [(Xu & Campeanuy, 2014)] (https://www.zotero.org/google-docs/?PXkeiQ)
+# #### Section annotation polaire
+Houdini Engine: Evolution Towards a Procedural Pipeline  [(Xu & Campeanuy, 2014)](https://www.zotero.org/google-docs/?PXkeiQ)
 
 
 

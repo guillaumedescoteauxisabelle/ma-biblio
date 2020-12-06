@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 
 
 
@@ -31,7 +31,7 @@ Le modèle du praticien réflexif découle de l’épistémologie de la pratique
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 Les casual games : définition à l’aide du savoir professionnel des designers de jeu
 
 
@@ -188,7 +188,7 @@ La réflexion en cours action comprend quatre étapes: la description de la situ
 
 **4.4 Validité de la recherche**
 
-La véritable question que doit se poser le chercheur concerne la façon dont sa présence et son expérience interfèrentavec l’étude [Creswell, 2007] (Chiapello, 2012, p.91)
+La véritable question que doit se poser le chercheur concerne la façon dont sa présence et son expérience interfèrentavec l’étude [Creswell, 2007](Chiapello, 2012, p.91)
 
 **------------------------------------------**
 

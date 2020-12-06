@@ -7,7 +7,7 @@ Citer:(Esser et al., 2019)
 
 FTag: Esser-et-al-2019
 
-APA7: Esser, P., Haux, J., & Ommer, B. (2019). Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis. _ArXiv:1910.10223 [Cs] _. [http://arxiv.org/abs/1910.10223] (http://arxiv.org/abs/1910.10223)
+APA7: Esser, P., Haux, J., & Ommer, B. (2019). Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis. _ArXiv:1910.10223 [Cs] _. [http://arxiv.org/abs/1910.10223](http://arxiv.org/abs/1910.10223)
 
 
 

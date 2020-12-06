@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 L’observation en situation : en jeux, possibilités et limites
 
 

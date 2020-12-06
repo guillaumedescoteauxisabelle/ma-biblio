@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Le pragmatisme comme épistémologie pour le design de jeux Enquête sur la créativité et le processus de design.  (Chiapello,2019)
 
 
@@ -32,7 +32,7 @@ Citer: (Chiapello, 2020)
 
 FTag: Chiapello-2020
 
-APA7: Chiapello, L. (2020). _Le pragmatisme comme épistémologie pour le design de jeux: Enquête sur la créativité et le processus de design_. [https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384] (https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384) [] (https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)
+APA7: Chiapello, L. (2020). _Le pragmatisme comme épistémologie pour le design de jeux: Enquête sur la créativité et le processus de design_. [https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384) [](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)
 
 --------------------------------------------
 
@@ -229,7 +229,7 @@ Cela signifie également que la création est envisagée ici comme une opératio
 
 
 
-« il ne s’agit donc pas d’un mécanisme de libre association, paré du nom de créativité, mais d’un acte positif de libération, dans lequel le rapport avec le problème initial n’est jamais complètement perdu de vue » [Joas, 1999 [1992] , p.144] (Chiapello, 2019, p.337)
+« il ne s’agit donc pas d’un mécanisme de libre association, paré du nom de créativité, mais d’un acte positif de libération, dans lequel le rapport avec le problème initial n’est jamais complètement perdu de vue » [Joas, 1999 [1992] , p.144](Chiapello, 2019, p.337)
 
 
 
@@ -256,7 +256,7 @@ l'abduction et le processus d'enquête comme processus créatif
 
 
 
- [...]   l’abduction « qui correspond à la **production d’hypothèses nouvelles** dans un **acte créateur** » [Joas, 1999 [1992] , p.144] (Chiapello, 2020, p.337)
+ [...]   l’abduction « qui correspond à la **production d’hypothèses nouvelles** dans un **acte créateur** » [Joas, 1999 [1992] , p.144](Chiapello, 2020, p.337)
 
 
 
@@ -273,6 +273,27 @@ Schön revient lui aussi sur la formation des idées [...] avec les concepts de 
 
 
  [...] lors de l’étape de cadrage ou framing, le praticien va tenter de conserver l’unicité de la situation, et va inventer une nouvelle description [de la situation] [...]   Le praticien cherche à voir les éléments uniques de la situation. [...] le praticien fait appel à un ensemble d’images, de compréhensions, d’exemples ou même d’actions qu’il a utilisés ou vus par le passé.
+
+
+
+les penseurs des disciplines du design se sont demandé comment cesser d’être vus comme une sous - catégori e des arts, et ont souhaité que le design devienne une science
+
+
+
+Paradigme du Il et du Je
+========================
+
+
+
+Le premier principe méthodologique que privilégient systématiquement (au point d’en faire un impératif) les épistémologies positivistes et réalistes est donc bien celui de la division, ou de la décomposition selon des catégori es préétablies : on l’appelle depuis Aristote, le principe de l’Analytique (Le Moigne, 1995, p. 28) .
+
+
+
+Ainsi la logique déductive acquiert - elle un statut discipli naire privilégié dans le champ des connaissances : non seulement elle permet d’ordonner les énoncés décrivant la réalité dégagée à l’aide du principe de la modélisation analytique, mais en outre elle assure que cet ordonnancement (« longue chaine de raison s toutes simples »), étant lui - même naturel ou réel, rend indiscutablement compte et raison de cette réalité (Le Moigne, 1995, p. 33) .
+
+
+
+Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé
 
 
 

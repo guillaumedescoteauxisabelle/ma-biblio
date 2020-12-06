@@ -1,0 +1,1312 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1MX7AzBHkx",
+      "guid": "12ARiktgbN",
+      "created": "2020-12-06T05:44:18.648Z",
+      "lastUpdated": "2020-12-06T07:50:48.343Z",
+      "rects": {
+        "0": {
+          "left": 204,
+          "top": 101,
+          "right": 616,
+          "bottom": 127,
+          "width": 411,
+          "height": 25
+        },
+        "1": {
+          "left": 261,
+          "top": 128,
+          "right": 559,
+          "bottom": 153,
+          "width": 297,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Technical Images and Visual Art in the"
+        },
+        "1": {
+          "text": "Era of Artificial Intelligence"
+        }
+      },
+      "text": {
+        "TEXT": "Technical Images and Visual Art in the Era of Artificial Intelligence"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Technical Images and Visual Art in the Era of Artificial Intelligence</h1>"
+      }
+    },
+    {
+      "id": "12FVovNhKn",
+      "guid": "12SsrALHpU",
+      "created": "2020-12-06T05:44:24.756Z",
+      "lastUpdated": "2020-12-06T06:29:34.051Z",
+      "rects": {
+        "0": {
+          "left": 336,
+          "top": 162,
+          "right": 485,
+          "bottom": 180,
+          "width": 149,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "From GOFAI to GANs"
+        }
+      },
+      "text": {
+        "TEXT": "From GOFAI to GANs"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>From GOFAI to GANs</p><p><br></p><p>Citer: (Poltronieri &amp; Hänska, 2019)</p><p><br></p><p><br></p><p>FTag: Poltronieri-et-Hanska-2019</p><p><br></p><p><br></p><p>APA7: Poltronieri, F. A., &amp; Hänska, M. (2019). Technical Images and Visual Art in the Era of Artificial Intelligence: From GOFAI to GANs. Proceedings of the 9th International Conference on Digital and Interactive Arts, 1–8. https://doi.org/10.1145/3359852.3359865</p><div><br></div>"
+      }
+    },
+    {
+      "id": "12dDjs3cy1",
+      "guid": "12dDjs3cy1",
+      "created": "2020-12-06T05:45:04.283Z",
+      "lastUpdated": "2020-12-06T05:45:04.283Z",
+      "rects": {
+        "0": {
+          "left": 341,
+          "top": 409,
+          "right": 399,
+          "bottom": 422,
+          "width": 58,
+          "height": 13
+        },
+        "1": {
+          "left": 72,
+          "top": 424,
+          "right": 113,
+          "bottom": 437,
+          "width": 41,
+          "height": 13
+        },
+        "2": {
+          "left": 114,
+          "top": 424,
+          "right": 372,
+          "bottom": 437,
+          "width": 258,
+          "height": 13
+        },
+        "3": {
+          "left": 367,
+          "top": 424,
+          "right": 396,
+          "bottom": 437,
+          "width": 28,
+          "height": 13
+        },
+        "4": {
+          "left": 72,
+          "top": 439,
+          "right": 135,
+          "bottom": 452,
+          "width": 62,
+          "height": 13
+        },
+        "5": {
+          "left": 134,
+          "top": 439,
+          "right": 396,
+          "bottom": 452,
+          "width": 261,
+          "height": 13
+        },
+        "6": {
+          "left": 72,
+          "top": 454,
+          "right": 220,
+          "bottom": 467,
+          "width": 147,
+          "height": 13
+        },
+        "7": {
+          "left": 218,
+          "top": 454,
+          "right": 399,
+          "bottom": 467,
+          "width": 180,
+          "height": 13
+        },
+        "8": {
+          "left": 72,
+          "top": 469,
+          "right": 209,
+          "bottom": 482,
+          "width": 136,
+          "height": 13
+        },
+        "9": {
+          "left": 206,
+          "top": 469,
+          "right": 317,
+          "bottom": 482,
+          "width": 110,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "AI creative "
+        },
+        "1": {
+          "text": "systems,"
+        },
+        "2": {
+          "text": "  and  contextualizes  the  use  of  modern  neural  net"
+        },
+        "3": {
+          "text": "work "
+        },
+        "4": {
+          "text": "technologies"
+        },
+        "5": {
+          "text": "    to    create    visual    artworks.    It    discusses    the "
+        },
+        "6": {
+          "text": "methodologies  and  strategies"
+        },
+        "7": {
+          "text": "  used  to  make  art  using  AI  in  the "
+        },
+        "8": {
+          "text": "1960s,  comparing  them  to"
+        },
+        "9": {
+          "text": "  new  AI  algorithms.  "
+        }
+      },
+      "text": {
+        "TEXT": "AI creative systems, and  contextualizes  the  use  of  modern  neural  net work technologies to    create    visual    artworks.    It    discusses    the methodologies  and  strategies used  to  make  art  using  AI  in  the 1960s,  comparing  them  to new  AI  algorithms."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12XpSPLrg2",
+      "guid": "1YGcCfD1Mm",
+      "created": "2020-12-06T05:45:35.993Z",
+      "lastUpdated": "2020-12-06T07:50:37.304Z",
+      "rects": {
+        "0": {
+          "left": 133,
+          "top": 484,
+          "right": 226,
+          "bottom": 497,
+          "width": 92,
+          "height": 13
+        },
+        "1": {
+          "left": 223,
+          "top": 484,
+          "right": 399,
+          "bottom": 497,
+          "width": 175,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "GOFAI  (Good  Old"
+        },
+        "1": {
+          "text": "  Fashioned  Artificial  Intelligence) "
+        }
+      },
+      "text": {
+        "TEXT": "GOFAI  (Good  Old Fashioned  Artificial  Intelligence)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      },
+      "revisedText": {
+        "HTML": "<h2>GOFAI  (Good  Old Fashioned  Artificial  Intelligence)</h2>"
+      }
+    },
+    {
+      "id": "1WagQt5K9s",
+      "guid": "12Ggd2QeJg",
+      "created": "2020-12-06T05:45:40.729Z",
+      "lastUpdated": "2020-12-06T07:50:31.139Z",
+      "rects": {
+        "0": {
+          "left": 100,
+          "top": 499,
+          "right": 150,
+          "bottom": 512,
+          "width": 50,
+          "height": 13
+        },
+        "1": {
+          "left": 148,
+          "top": 499,
+          "right": 259,
+          "bottom": 512,
+          "width": 111,
+          "height": 13
+        },
+        "2": {
+          "left": 258,
+          "top": 499,
+          "right": 319,
+          "bottom": 512,
+          "width": 60,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "GANs   (G"
+        },
+        "1": {
+          "text": "enerative   Adversarial"
+        },
+        "2": {
+          "text": "   Networks) "
+        }
+      },
+      "text": {
+        "TEXT": "GANs   (G enerative   Adversarial Networks)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      },
+      "revisedText": {
+        "HTML": "<h2>GANs   (Generative   Adversarial Networks)</h2>"
+      }
+    },
+    {
+      "id": "12hsWKaVHx",
+      "guid": "19csCKy6cR",
+      "created": "2020-12-06T05:47:08.715Z",
+      "lastUpdated": "2020-12-06T07:50:15.628Z",
+      "rects": {
+        "0": {
+          "left": 527,
+          "top": 863,
+          "right": 613,
+          "bottom": 876,
+          "width": 86,
+          "height": 13
+        },
+        "1": {
+          "left": 613,
+          "top": 863,
+          "right": 639,
+          "bottom": 876,
+          "width": 25,
+          "height": 13
+        },
+        "2": {
+          "left": 639,
+          "top": 863,
+          "right": 750,
+          "bottom": 876,
+          "width": 110,
+          "height": 13
+        },
+        "3": {
+          "left": 424,
+          "top": 878,
+          "right": 532,
+          "bottom": 891,
+          "width": 107,
+          "height": 13
+        },
+        "4": {
+          "left": 529,
+          "top": 878,
+          "right": 559,
+          "bottom": 891,
+          "width": 29,
+          "height": 13
+        },
+        "5": {
+          "left": 560,
+          "top": 878,
+          "right": 619,
+          "bottom": 891,
+          "width": 59,
+          "height": 13
+        },
+        "6": {
+          "left": 617,
+          "top": 878,
+          "right": 661,
+          "bottom": 891,
+          "width": 44,
+          "height": 13
+        },
+        "7": {
+          "left": 662,
+          "top": 878,
+          "right": 707,
+          "bottom": 891,
+          "width": 44,
+          "height": 13
+        },
+        "8": {
+          "left": 706,
+          "top": 878,
+          "right": 749,
+          "bottom": 891,
+          "width": 42,
+          "height": 13
+        },
+        "9": {
+          "left": 424,
+          "top": 893,
+          "right": 610,
+          "bottom": 906,
+          "width": 185,
+          "height": 13
+        },
+        "10": {
+          "left": 610,
+          "top": 893,
+          "right": 747,
+          "bottom": 906,
+          "width": 136,
+          "height": 13
+        },
+        "11": {
+          "left": 424,
+          "top": 908,
+          "right": 750,
+          "bottom": 921,
+          "width": 325,
+          "height": 13
+        },
+        "12": {
+          "left": 424,
+          "top": 923,
+          "right": 708,
+          "bottom": 936,
+          "width": 283,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " the new NVIDIA "
+        },
+        "1": {
+          "text": "Style"
+        },
+        "2": {
+          "text": "Gan takes 41 days to "
+        },
+        "3": {
+          "text": "train using the Flickr"
+        },
+        "4": {
+          "text": "-Faces"
+        },
+        "5": {
+          "text": "-HQ (FFHQ"
+        },
+        "6": {
+          "text": ") dataset "
+        },
+        "7": {
+          "text": "— a high"
+        },
+        "8": {
+          "text": "-quality "
+        },
+        "9": {
+          "text": "70k  images  dataset  of  human  faces "
+        },
+        "10": {
+          "text": "—  at  1024x1024  resolution "
+        },
+        "11": {
+          "text": "using one Tesla V100 GPU and six days to train the same dataset "
+        },
+        "12": {
+          "text": "and  resolution  using  eight  Tesla  V100  GPUs  in  paralle"
+        }
+      },
+      "text": {
+        "TEXT": "the new NVIDIA Style Gan takes 41 days to train using the Flickr -Faces -HQ (FFHQ ) dataset — a high -quality 70k  images  dataset  of  human  faces —  at  1024x1024  resolution using one Tesla V100 GPU and six days to train the same dataset and  resolution  using  eight  Tesla  V100  GPUs  in  paralle"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "tags": {
+        "AITraining": {
+          "id": "AITraining",
+          "label": "AITraining"
+        }
+      },
+      "revisedText": {
+        "HTML": "&gt;[...] the new NVIDIA Style Gan takes 41 days to train using the Flickr -Faces -HQ (FFHQ ) dataset — a high -quality 70k  images  dataset  of  human  faces —  at  1024x1024  resolution using one Tesla V100 GPU and six days to train the same dataset and  resolution  using  eight  Tesla  V100  GPUs  in  paralle"
+      }
+    },
+    {
+      "id": "19eZRmsj42",
+      "guid": "12DVGnwAm6",
+      "created": "2020-12-06T06:29:59.332Z",
+      "lastUpdated": "2020-12-06T06:30:53.830Z",
+      "rects": {
+        "0": {
+          "left": 72,
+          "top": 768,
+          "right": 84,
+          "bottom": 779,
+          "width": 11,
+          "height": 10
+        },
+        "1": {
+          "left": 92,
+          "top": 768,
+          "right": 181,
+          "bottom": 779,
+          "width": 88,
+          "height": 10
+        },
+        "2": {
+          "left": 189,
+          "top": 768,
+          "right": 228,
+          "bottom": 779,
+          "width": 38,
+          "height": 10
+        },
+        "3": {
+          "left": 225,
+          "top": 768,
+          "right": 252,
+          "bottom": 779,
+          "width": 27,
+          "height": 10
+        },
+        "4": {
+          "left": 251,
+          "top": 769,
+          "right": 257,
+          "bottom": 779,
+          "width": 5,
+          "height": 10
+        },
+        "5": {
+          "left": 265,
+          "top": 768,
+          "right": 285,
+          "bottom": 779,
+          "width": 19,
+          "height": 10
+        },
+        "6": {
+          "left": 296,
+          "top": 768,
+          "right": 404,
+          "bottom": 779,
+          "width": 108,
+          "height": 10
+        },
+        "7": {
+          "left": 92,
+          "top": 779,
+          "right": 290,
+          "bottom": 790,
+          "width": 197,
+          "height": 10
+        },
+        "8": {
+          "left": 278,
+          "top": 779,
+          "right": 301,
+          "bottom": 790,
+          "width": 22,
+          "height": 10
+        },
+        "9": {
+          "left": 302,
+          "top": 779,
+          "right": 401,
+          "bottom": 790,
+          "width": 99,
+          "height": 10
+        },
+        "10": {
+          "left": 92,
+          "top": 789,
+          "right": 126,
+          "bottom": 800,
+          "width": 33,
+          "height": 10
+        },
+        "11": {
+          "left": 124,
+          "top": 789,
+          "right": 129,
+          "bottom": 800,
+          "width": 5,
+          "height": 10
+        },
+        "12": {
+          "left": 131,
+          "top": 789,
+          "right": 174,
+          "bottom": 800,
+          "width": 42,
+          "height": 10
+        },
+        "13": {
+          "left": 173,
+          "top": 790,
+          "right": 178,
+          "bottom": 800,
+          "width": 5,
+          "height": 10
+        },
+        "14": {
+          "left": 178,
+          "top": 789,
+          "right": 369,
+          "bottom": 800,
+          "width": 191,
+          "height": 10
+        },
+        "15": {
+          "left": 356,
+          "top": 789,
+          "right": 361,
+          "bottom": 800,
+          "width": 5,
+          "height": 10
+        },
+        "16": {
+          "left": 363,
+          "top": 789,
+          "right": 398,
+          "bottom": 800,
+          "width": 34,
+          "height": 10
+        },
+        "17": {
+          "left": 92,
+          "top": 800,
+          "right": 140,
+          "bottom": 811,
+          "width": 47,
+          "height": 10
+        },
+        "18": {
+          "left": 137,
+          "top": 801,
+          "right": 143,
+          "bottom": 811,
+          "width": 5,
+          "height": 10
+        },
+        "19": {
+          "left": 143,
+          "top": 800,
+          "right": 200,
+          "bottom": 811,
+          "width": 57,
+          "height": 10
+        },
+        "20": {
+          "left": 198,
+          "top": 801,
+          "right": 203,
+          "bottom": 811,
+          "width": 5,
+          "height": 10
+        },
+        "21": {
+          "left": 202,
+          "top": 800,
+          "right": 214,
+          "bottom": 811,
+          "width": 11,
+          "height": 10
+        },
+        "22": {
+          "left": 214,
+          "top": 800,
+          "right": 292,
+          "bottom": 811,
+          "width": 77,
+          "height": 10
+        },
+        "23": {
+          "left": 290,
+          "top": 800,
+          "right": 319,
+          "bottom": 811,
+          "width": 29,
+          "height": 10
+        },
+        "24": {
+          "left": 319,
+          "top": 800,
+          "right": 346,
+          "bottom": 811,
+          "width": 27,
+          "height": 10
+        },
+        "25": {
+          "left": 347,
+          "top": 801,
+          "right": 357,
+          "bottom": 811,
+          "width": 9,
+          "height": 10
+        },
+        "26": {
+          "left": 357,
+          "top": 800,
+          "right": 396,
+          "bottom": 811,
+          "width": 38,
+          "height": 10
+        },
+        "27": {
+          "left": 92,
+          "top": 811,
+          "right": 104,
+          "bottom": 822,
+          "width": 11,
+          "height": 10
+        },
+        "28": {
+          "left": 104,
+          "top": 811,
+          "right": 311,
+          "bottom": 822,
+          "width": 207,
+          "height": 10
+        },
+        "29": {
+          "left": 300,
+          "top": 811,
+          "right": 305,
+          "bottom": 822,
+          "width": 5,
+          "height": 10
+        },
+        "30": {
+          "left": 307,
+          "top": 811,
+          "right": 401,
+          "bottom": 822,
+          "width": 94,
+          "height": 10
+        },
+        "31": {
+          "left": 92,
+          "top": 821,
+          "right": 151,
+          "bottom": 832,
+          "width": 58,
+          "height": 10
+        },
+        "32": {
+          "left": 147,
+          "top": 821,
+          "right": 221,
+          "bottom": 832,
+          "width": 73,
+          "height": 10
+        },
+        "33": {
+          "left": 217,
+          "top": 821,
+          "right": 222,
+          "bottom": 832,
+          "width": 5,
+          "height": 10
+        },
+        "34": {
+          "left": 222,
+          "top": 821,
+          "right": 246,
+          "bottom": 832,
+          "width": 23,
+          "height": 10
+        },
+        "35": {
+          "left": 244,
+          "top": 822,
+          "right": 250,
+          "bottom": 832,
+          "width": 5,
+          "height": 10
+        },
+        "36": {
+          "left": 250,
+          "top": 821,
+          "right": 298,
+          "bottom": 832,
+          "width": 48,
+          "height": 10
+        },
+        "37": {
+          "left": 296,
+          "top": 821,
+          "right": 391,
+          "bottom": 832,
+          "width": 94,
+          "height": 10
+        },
+        "38": {
+          "left": 387,
+          "top": 822,
+          "right": 393,
+          "bottom": 832,
+          "width": 5,
+          "height": 10
+        },
+        "39": {
+          "left": 72,
+          "top": 832,
+          "right": 84,
+          "bottom": 843,
+          "width": 11,
+          "height": 10
+        },
+        "40": {
+          "left": 92,
+          "top": 832,
+          "right": 169,
+          "bottom": 843,
+          "width": 76,
+          "height": 10
+        },
+        "41": {
+          "left": 167,
+          "top": 832,
+          "right": 173,
+          "bottom": 842,
+          "width": 5,
+          "height": 10
+        },
+        "42": {
+          "left": 172,
+          "top": 832,
+          "right": 192,
+          "bottom": 843,
+          "width": 19,
+          "height": 10
+        },
+        "43": {
+          "left": 194,
+          "top": 832,
+          "right": 344,
+          "bottom": 843,
+          "width": 149,
+          "height": 10
+        },
+        "44": {
+          "left": 337,
+          "top": 832,
+          "right": 341,
+          "bottom": 843,
+          "width": 3,
+          "height": 10
+        },
+        "45": {
+          "left": 341,
+          "top": 832,
+          "right": 397,
+          "bottom": 843,
+          "width": 56,
+          "height": 10
+        },
+        "46": {
+          "left": 92,
+          "top": 843,
+          "right": 127,
+          "bottom": 854,
+          "width": 34,
+          "height": 10
+        },
+        "47": {
+          "left": 128,
+          "top": 843,
+          "right": 253,
+          "bottom": 854,
+          "width": 124,
+          "height": 10
+        },
+        "48": {
+          "left": 250,
+          "top": 843,
+          "right": 256,
+          "bottom": 853,
+          "width": 5,
+          "height": 10
+        },
+        "49": {
+          "left": 257,
+          "top": 843,
+          "right": 293,
+          "bottom": 854,
+          "width": 36,
+          "height": 10
+        },
+        "50": {
+          "left": 292,
+          "top": 843,
+          "right": 298,
+          "bottom": 853,
+          "width": 5,
+          "height": 10
+        },
+        "51": {
+          "left": 298,
+          "top": 843,
+          "right": 322,
+          "bottom": 854,
+          "width": 24,
+          "height": 10
+        },
+        "52": {
+          "left": 321,
+          "top": 843,
+          "right": 339,
+          "bottom": 854,
+          "width": 18,
+          "height": 10
+        },
+        "53": {
+          "left": 337,
+          "top": 843,
+          "right": 399,
+          "bottom": 854,
+          "width": 61,
+          "height": 10
+        },
+        "54": {
+          "left": 92,
+          "top": 853,
+          "right": 109,
+          "bottom": 864,
+          "width": 16,
+          "height": 10
+        },
+        "55": {
+          "left": 109,
+          "top": 853,
+          "right": 114,
+          "bottom": 864,
+          "width": 5,
+          "height": 10
+        },
+        "56": {
+          "left": 113,
+          "top": 853,
+          "right": 180,
+          "bottom": 864,
+          "width": 66,
+          "height": 10
+        },
+        "57": {
+          "left": 176,
+          "top": 854,
+          "right": 182,
+          "bottom": 864,
+          "width": 5,
+          "height": 10
+        },
+        "58": {
+          "left": 182,
+          "top": 853,
+          "right": 205,
+          "bottom": 864,
+          "width": 23,
+          "height": 10
+        },
+        "59": {
+          "left": 204,
+          "top": 853,
+          "right": 209,
+          "bottom": 864,
+          "width": 5,
+          "height": 10
+        },
+        "60": {
+          "left": 209,
+          "top": 853,
+          "right": 258,
+          "bottom": 864,
+          "width": 49,
+          "height": 10
+        },
+        "61": {
+          "left": 256,
+          "top": 853,
+          "right": 261,
+          "bottom": 864,
+          "width": 5,
+          "height": 10
+        },
+        "62": {
+          "left": 260,
+          "top": 853,
+          "right": 299,
+          "bottom": 864,
+          "width": 39,
+          "height": 10
+        },
+        "63": {
+          "left": 297,
+          "top": 854,
+          "right": 303,
+          "bottom": 864,
+          "width": 5,
+          "height": 10
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[1]"
+        },
+        "1": {
+          "text": "Fabrizio     Poltronieri,"
+        },
+        "2": {
+          "text": "Alex     H"
+        },
+        "3": {
+          "text": "eilmair"
+        },
+        "4": {
+          "text": "."
+        },
+        "5": {
+          "text": "2013."
+        },
+        "6": {
+          "text": "Der     Zufall     und     die "
+        },
+        "7": {
+          "text": "Symmetriebrechung   der   synthetischen   Bilder"
+        },
+        "8": {
+          "text": ".   In "
+        },
+        "9": {
+          "text": "Michael   Hanke,   Steffi "
+        },
+        "10": {
+          "text": "Winkler"
+        },
+        "11": {
+          "text": ". "
+        },
+        "12": {
+          "text": "Vom  Begri"
+        },
+        "13": {
+          "text": "ff"
+        },
+        "14": {
+          "text": "  zum  Bild:  Medienkultur  nach  Vilém  Flusser"
+        },
+        "15": {
+          "text": ", "
+        },
+        "16": {
+          "text": "Tectum "
+        },
+        "17": {
+          "text": "Wissenscha"
+        },
+        "18": {
+          "text": "ft"
+        },
+        "19": {
+          "text": "sverlag, Berlin"
+        },
+        "20": {
+          "text": "."
+        },
+        "21": {
+          "text": "[2]"
+        },
+        "22": {
+          "text": "Fabrizio  Poltronieri"
+        },
+        "23": {
+          "text": ".  2018. "
+        },
+        "24": {
+          "text": "Visual "
+        },
+        "25": {
+          "text": "Th"
+        },
+        "26": {
+          "text": "eogonies: "
+        },
+        "27": {
+          "text": "Ch"
+        },
+        "28": {
+          "text": "ance,  control  and  automation  in  algorithmic  art"
+        },
+        "29": {
+          "text": ". "
+        },
+        "30": {
+          "text": "Journal  of  Gaming  & "
+        },
+        "31": {
+          "text": "Virtual Worlds"
+        },
+        "32": {
+          "text": ", 3 (Oct. 2018), 287"
+        },
+        "33": {
+          "text": "–"
+        },
+        "34": {
+          "text": "293. h"
+        },
+        "35": {
+          "text": "tt"
+        },
+        "36": {
+          "text": "ps://doi.org/"
+        },
+        "37": {
+          "text": "10.1386/jgvw.10.3.287_3"
+        },
+        "38": {
+          "text": "."
+        },
+        "39": {
+          "text": "[3]"
+        },
+        "40": {
+          "text": "Fabrizio Poltronieri"
+        },
+        "41": {
+          "text": "."
+        },
+        "42": {
+          "text": "2014."
+        },
+        "43": {
+          "text": "Communicology, appatatus, and Post"
+        },
+        "44": {
+          "text": "-"
+        },
+        "45": {
+          "text": "history:Vilém "
+        },
+        "46": {
+          "text": "Flusser’s"
+        },
+        "47": {
+          "text": "concepts applied to video game"
+        },
+        "48": {
+          "text": "s"
+        },
+        "49": {
+          "text": "and gami"
+        },
+        "50": {
+          "text": "fi"
+        },
+        "51": {
+          "text": "cation"
+        },
+        "52": {
+          "text": ". In "
+        },
+        "53": {
+          "text": "Mathias Fuchs "
+        },
+        "54": {
+          "text": "et al"
+        },
+        "55": {
+          "text": ". "
+        },
+        "56": {
+          "text": "Rethinking Gami"
+        },
+        "57": {
+          "text": "fi"
+        },
+        "58": {
+          "text": "cation"
+        },
+        "59": {
+          "text": ", "
+        },
+        "60": {
+          "text": "meson press"
+        },
+        "61": {
+          "text": ", "
+        },
+        "62": {
+          "text": "Lüneburg"
+        },
+        "63": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "[1] Fabrizio     Poltronieri, Alex     H eilmair . 2013. Der     Zufall     und     die Symmetriebrechung   der   synthetischen   Bilder .   In Michael   Hanke,   Steffi Winkler . Vom  Begri ff zum  Bild:  Medienkultur  nach  Vilém  Flusser , Tectum Wissenscha ft sverlag, Berlin . [2] Fabrizio  Poltronieri .  2018. Visual Th eogonies: Ch ance,  control  and  automation  in  algorithmic  art . Journal  of  Gaming  & Virtual Worlds , 3 (Oct. 2018), 287 – 293. h tt ps://doi.org/ 10.1386/jgvw.10.3.287_3 . [3] Fabrizio Poltronieri . 2014. Communicology, appatatus, and Post - history:Vilém Flusser’s concepts applied to video game s and gami fi cation . In Mathias Fuchs et al . Rethinking Gami fi cation , meson press , Lüneburg ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>[1] Fabrizio     Poltronieri, Alex     H eilmair . 2013. Der     Zufall     und     die Symmetriebrechung   der   synthetischen   Bilder .   In Michael   Hanke,   Steffi Winkler . Vom  Begri ff zum  Bild:  Medienkultur  nach  Vilém  Flusser , Tectum Wissenscha ft sverlag, Berlin . </p><p>[2] Fabrizio  Poltronieri .  2018. Visual Th eogonies: Ch ance,  control  and  automation  in  algorithmic  art . Journal  of  Gaming  &amp; Virtual Worlds , 3 (Oct. 2018), 287 – 293. h tt ps://doi.org/ 10.1386/jgvw.10.3.287_3 . [3] Fabrizio Poltronieri . 2014. Communicology, appatatus, and Post - history:Vilém Flusser’s concepts applied to video game s and gami fi cation . In Mathias Fuchs et al . Rethinking Gami fi cation , meson press , Lüneburg .</p>"
+      },
+      "tags": {
+        "ConceptLadderOfAbstraction": {
+          "id": "ConceptLadderOfAbstraction",
+          "label": "ConceptLadderOfAbstraction"
+        }
+      }
+    },
+    {
+      "id": "1ursjBBSi7",
+      "guid": "1ursjBBSi7",
+      "created": "2020-12-06T06:32:17.355Z",
+      "lastUpdated": "2020-12-06T06:44:26.300Z",
+      "rects": {
+        "0": {
+          "left": 70.42788129744652,
+          "top": 24.11672108208955,
+          "width": 10.351966873706004,
+          "height": 7.995735607675908
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12bz3NaD3gonoN98HEGx",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12bz3NaD3gonoN98HEGx.png"
+        },
+        "width": 1200,
+        "height": 722,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 415,
+        "y": 177,
+        "width": 337,
+        "height": 203
+      },
+      "tags": {
+        "ConceptLadderOfAbstraction": {
+          "id": "ConceptLadderOfAbstraction",
+          "label": "ConceptLadderOfAbstraction"
+        }
+      }
+    },
+    {
+      "id": "123fFFYjm5k57L32tLU6",
+      "guid": "123fFFYjm5k57L32tLU6",
+      "created": "2020-12-06T06:33:19.640Z",
+      "lastUpdated": "2020-12-06T06:33:19.640Z",
+      "content": {
+        "HTML": "<p><span>\n\nFigure  1:The  Flusserian Ladder  of  Abstraction.  Starting  from the  concrete  world,  there  follows  a  negative  sequence  of abstraction   where   one   reaches   a   peak,   represented   by dimensionless calculations that form the synthetic images.\n\n</span><br></p>"
+      },
+      "ref": "area-highlight:1ursjBBSi7"
+    },
+    {
+      "id": "1H7geMdaGr",
+      "guid": "1H7geMdaGr",
+      "created": "2020-12-06T07:51:45.253Z",
+      "lastUpdated": "2020-12-06T07:52:17.587Z",
+      "rects": {
+        "0": {
+          "left": 17.63504312301407,
+          "top": 24.63801078568923,
+          "width": 6.808896958692692,
+          "height": 5.261311820413891
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12RaQGPjKDNM5HqiyzUN",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12RaQGPjKDNM5HqiyzUN.png"
+        },
+        "width": 1297,
+        "height": 784,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 65,
+        "y": 235,
+        "width": 293,
+        "height": 177
+      },
+      "tags": {
+        "GAN": {
+          "id": "GAN",
+          "label": "GAN"
+        }
+      }
+    }
+  ]
+
+}
+

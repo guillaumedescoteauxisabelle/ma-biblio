@@ -611,7 +611,7 @@ Le raisonnement automatique fait partie du vaste champ de l’IA symbolique appl
 
 
 
-La formalisation du raisonnement humain remonte à Aristote et à l’identification de règles formelles utilisées dans l’argumentation philosophique [...] (sillogisme)
+La formalisation du raisonnement humain remonte à Aristote et à l’identification de règles formelles utilisées dans l’argumentation philosophique [...](sillogisme)
 
 
 

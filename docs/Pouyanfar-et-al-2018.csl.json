@@ -1,0 +1,75 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/ZL4MUCPJ",
+		"type": "article-journal",
+		"abstract": "The field of machine learning is witnessing its golden era as deep learning slowly becomes the leader in this domain. Deep learning uses multiple layers to represent the abstractions of data to build computational models. Some key enabler deep learning algorithms such as generative adversarial networks, convolutional neural networks, and model transfers have completely changed our perception of information processing. However, there exists an aperture of understanding behind this tremendously fast-paced domain, because it was never previously represented from a multiscope perspective. The lack of core understanding renders these powerful methods as black-box machines that inhibit development at a fundamental level. Moreover, deep learning has repeatedly been perceived as a silver bullet to all stumbling blocks in machine learning, which is far from the truth. This article presents a comprehensive review of historical and recent state-of-the-art approaches in visual, audio, and text processing; social network analysis; and natural language processing, followed by the in-depth analysis on pivoting and groundbreaking advances in deep learning applications. It was also undertaken to review the issues faced in deep learning such as unsupervised learning, black-box models, and online learning and to illustrate how these challenges can be transformed into prolific future research avenues.",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/3234150",
+		"ISSN": "0360-0300",
+		"issue": "5",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"note": "ZSCC: 0000248",
+		"page": "92:1–92:36",
+		"source": "January 2019",
+		"title": "A Survey on Deep Learning: Algorithms, Techniques, and Applications",
+		"title-short": "A Survey on Deep Learning",
+		"URL": "http://doi.org/10.1145/3234150",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Pouyanfar",
+				"given": "Samira"
+			},
+			{
+				"family": "Sadiq",
+				"given": "Saad"
+			},
+			{
+				"family": "Yan",
+				"given": "Yilin"
+			},
+			{
+				"family": "Tian",
+				"given": "Haiman"
+			},
+			{
+				"family": "Tao",
+				"given": "Yudong"
+			},
+			{
+				"family": "Reyes",
+				"given": "Maria Presa"
+			},
+			{
+				"family": "Shyu",
+				"given": "Mei-Ling"
+			},
+			{
+				"family": "Chen",
+				"given": "Shu-Ching"
+			},
+			{
+				"family": "Iyengar",
+				"given": "S. S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					18
+				]
+			]
+		}
+	}
+]

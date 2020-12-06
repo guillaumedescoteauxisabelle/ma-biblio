@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 
 
 
@@ -61,7 +61,7 @@ Pourquoi avons-nous besoin de réaliser cette recherche et de connaitre les rés
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 La spécification de la problématique
 
 
@@ -156,7 +156,7 @@ Selon certaines réalités, il y a un désir de généraliser pour produire de l
 
 > [démarche] qui part de données empiriques pour construire des catégories conceptuelles et des relations, est **inductive** et **générative**.
 
-> [...]   la réalité est en quête d'une théorie. [Lecompte et Preissle, 1993] ( Chevrier, 2006, p.55)
+> [...]   la réalité est en quête d'une théorie. [Lecompte et Preissle, 1993]( Chevrier, 2006, p.55)
 
 
 

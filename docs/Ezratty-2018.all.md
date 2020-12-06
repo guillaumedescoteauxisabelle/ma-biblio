@@ -17,7 +17,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](1GtALuTSoJg7rGhrM7pw.png)
 
 
@@ -884,7 +884,7 @@ l’information circule de gauche à droite pendant l’exécution du réseau de
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 Histoire et sémantique de l’IA
 
 
@@ -1498,7 +1498,7 @@ Le raisonnement automatique fait partie du vaste champ de l’IA symbolique appl
 
 
 
-La formalisation du raisonnement humain remonte à Aristote et à l’identification de règles formelles utilisées dans l’argumentation philosophique [...] (sillogisme)
+La formalisation du raisonnement humain remonte à Aristote et à l’identification de règles formelles utilisées dans l’argumentation philosophique [...](sillogisme)
 
 
 

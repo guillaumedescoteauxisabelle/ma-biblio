@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](308e6cd8-3e68-4e6a-b40d-3b41a7ff1fe5)
 
 
@@ -15,7 +15,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 
 
 ![](12SfxzkvNooYpjYdHQE1.png)

@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Structure in Art Practice: Technology as an Agent for Concept Development
 =========================================================================
 
@@ -17,7 +17,7 @@ Citer: (Edmonds, 2002)
 
 FTag: Edmonds-2002
 
-APA7: Edmonds, E. (2002). Structure in Art Practice: Technology as an Agent for Concept Development. _Leonardo_, _35_(1), 65–71. [https://doi.org/10.1162/002409402753689344] (https://doi.org/10.1162/002409402753689344)
+APA7: Edmonds, E. (2002). Structure in Art Practice: Technology as an Agent for Concept Development. _Leonardo_, _35_(1), 65–71. [https://doi.org/10.1162/002409402753689344](https://doi.org/10.1162/002409402753689344)
 
 
 

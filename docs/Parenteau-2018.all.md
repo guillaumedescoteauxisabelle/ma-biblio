@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](12Q6mouXwsBkg5uiG5jm.png)
 ![](1SRo374Zez319G6J6tNS.png)
 ![](1aDhRUc3ULqiGTzNRn2L.png)
@@ -85,7 +85,7 @@ Quel est le type de recherche ? Explicative. Exploration des corrélations entre
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 
 
 ![](12Q6mouXwsBkg5uiG5jm.png)
@@ -180,11 +180,11 @@ FTag:  Parenteau-2018
 APA7: Parenteau, R. (2018). _La matière comme générateur d’expérience au sein des espaces intérieurs: Peter Zumthor et l’esthétique des atmosphères_. 197.
 
 -----------------------------------  
- [MTHO-TP1-Scratch] (https://docs.google.com/document/d/18Bcyqz1oX6zWN8Jn2X5cKWOPoX95R05kxv4_1F139pY/edit#)
+ [MTHO-TP1-Scratch](https://docs.google.com/document/d/18Bcyqz1oX6zWN8Jn2X5cKWOPoX95R05kxv4_1F139pY/edit#)
 
   
 
- [MTHO-TP1-FINALDOC] (https://docs.google.com/document/d/1dBAdnXveCnWjMttFNRMboQCisdb3bhhJSOKlvgn-bpo/edit)
+ [MTHO-TP1-FINALDOC](https://docs.google.com/document/d/1dBAdnXveCnWjMttFNRMboQCisdb3bhhJSOKlvgn-bpo/edit)
 
   
 

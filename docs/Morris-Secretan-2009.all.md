@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 
 
 
@@ -31,7 +31,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 Computational Creativity Support
 
 
@@ -102,7 +102,7 @@ Citer: (Morris & Secretan, 2009)
 
 FTag: Morris-Secretan-2009
 
-APA7: Morris, D., & Secretan, J. (2009). Computational creativity support: Using algorithms and machine learning to help people be more creative. _CHI ’09 Extended Abstracts on Human Factors in Computing Systems_, 4733–4736. [https://doi.org/10.1145/1520340.1520728] (https://doi.org/10.1145/1520340.1520728)
+APA7: Morris, D., & Secretan, J. (2009). Computational creativity support: Using algorithms and machine learning to help people be more creative. _CHI ’09 Extended Abstracts on Human Factors in Computing Systems_, 4733–4736. [https://doi.org/10.1145/1520340.1520728](https://doi.org/10.1145/1520340.1520728)
 
 
 

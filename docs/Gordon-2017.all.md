@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](afd655e7-1544-46ce-b653-70943dcbcd64)
 
 
@@ -45,7 +45,7 @@ le concept en milieu scientifique et un terme apparenté utilisé dans le langag
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 STRATÉGIE DE VÉRIFICATION
 
 

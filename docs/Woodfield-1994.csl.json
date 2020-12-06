@@ -1,0 +1,29 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/QF5X7LIU",
+		"type": "article-journal",
+		"abstract": "An early critique of Riegl and Panofsky, advocating a functionalist approach to imagery that Gombrich later described as an 'ecology of images'.",
+		"container-title": "British Journal of Aesthetics",
+		"DOI": "10.1093/bjaesthetics/34.2.134",
+		"journalAbbreviation": "British Journal of Aesthetics",
+		"note": "ZSCC: 0000007",
+		"source": "ResearchGate",
+		"title": "Gombrich, formalism and the description of works of Art",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Woodfield",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					4,
+					1
+				]
+			]
+		}
+	}
+]

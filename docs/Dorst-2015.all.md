@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 FRAME INNOVATION : CREATE NEW THINKING BY DESIGN
 ================================================
 
@@ -21,7 +21,7 @@ Citer: (Dorst, 2015)
 
 FTag: Dorst-2015
 
-APA7: Dorst, K. (2015). _Frame innovation: Create new thinking by design_ (Vol. 32). The MIT Press. [https://doi.org/10.1016/j.destud.2011.07.006] (https://doi.org/10.1016/j.destud.2011.07.006)
+APA7: Dorst, K. (2015). _Frame innovation: Create new thinking by design_ (Vol. 32). The MIT Press. [https://doi.org/10.1016/j.destud.2011.07.006](https://doi.org/10.1016/j.destud.2011.07.006)
 
 
 

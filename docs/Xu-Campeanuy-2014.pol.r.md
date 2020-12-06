@@ -1,4 +1,4 @@
-Houdini Engine: Evolution Towards a Procedural Pipeline  [(Xu & Campeanuy, 2014)] (https://www.zotero.org/google-docs/?PXkeiQ)
+Houdini Engine: Evolution Towards a Procedural Pipeline  [(Xu & Campeanuy, 2014)](https://www.zotero.org/google-docs/?PXkeiQ)
 
 
 

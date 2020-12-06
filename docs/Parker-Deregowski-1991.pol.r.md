@@ -36,6 +36,26 @@ An examination of some of the intrinsic characteristics of the eye (eye used her
 
 
 
+Flemish style
+=============
+
+
+
+High Cubist Style
+=================
+
+
+
+American Primitive Style
+========================
+
+
+
+Baroque style
+=============
+
+
+
 
 
 

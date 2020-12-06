@@ -7,12 +7,12 @@ symbolic and connectionist computation
 What is symbolic computation ?
 ------------------------------
 
-See: [ [Ezratty-2018] ]   [ [SymbolicComputation] ]  
+See: [[Ezratty-2018]]   [[SymbolicComputation]]  
 
 What is connectionnist computation ?
 ------------------------------------
 
-See: [ [Ezratty-2018] ]   \ [\ [ConnectionnistComputation\] \] 
+See: [[Ezratty-2018]]   \ [\ [ConnectionnistComputation\] \] 
 
 
 

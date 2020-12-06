@@ -5612,28 +5612,785 @@
           "label": "PratiqueReflexive"
         }
       }
+    },
+    {
+      "id": "1rwXgiHy3j",
+      "guid": "1rwXgiHy3j",
+      "created": "2020-12-03T01:35:15.375Z",
+      "lastUpdated": "2020-12-03T01:35:15.375Z",
+      "rects": {
+        "0": {
+          "left": 416,
+          "top": 407,
+          "right": 723,
+          "bottom": 425,
+          "width": 306,
+          "height": 18
+        },
+        "1": {
+          "left": 104,
+          "top": 434,
+          "right": 464,
+          "bottom": 452,
+          "width": 360,
+          "height": 18
+        },
+        "2": {
+          "left": 449,
+          "top": 434,
+          "right": 454,
+          "bottom": 452,
+          "width": 5,
+          "height": 18
+        },
+        "3": {
+          "left": 454,
+          "top": 434,
+          "right": 508,
+          "bottom": 452,
+          "width": 53,
+          "height": 18
+        },
+        "4": {
+          "left": 508,
+          "top": 434,
+          "right": 723,
+          "bottom": 452,
+          "width": 215,
+          "height": 18
+        },
+        "5": {
+          "left": 104,
+          "top": 462,
+          "right": 296,
+          "bottom": 480,
+          "width": 192,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " les penseurs des disciplines du design se sont "
+        },
+        "1": {
+          "text": "demandé comment cesser d’être vus comme une sous"
+        },
+        "2": {
+          "text": "-"
+        },
+        "3": {
+          "text": "catégori"
+        },
+        "4": {
+          "text": "e des arts, et ont souhaité que le "
+        },
+        "5": {
+          "text": "design devienne une science"
+        }
+      },
+      "text": {
+        "TEXT": "les penseurs des disciplines du design se sont demandé comment cesser d’être vus comme une sous - catégori e des arts, et ont souhaité que le design devienne une science"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "17cFRFfZ5e",
+      "guid": "1TF52quLCX",
+      "created": "2020-12-03T01:37:01.269Z",
+      "lastUpdated": "2020-12-03T01:37:10.777Z",
+      "rects": {
+        "0": {
+          "left": 189,
+          "top": 809,
+          "right": 359,
+          "bottom": 827,
+          "width": 169,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Paradigme du Il et du Je"
+        }
+      },
+      "text": {
+        "TEXT": "Paradigme du Il et du Je"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Paradigme du Il et du Je</h1>"
+      }
+    },
+    {
+      "id": "1QPD3v4gAD",
+      "guid": "1QPD3v4gAD",
+      "created": "2020-12-03T01:39:00.137Z",
+      "lastUpdated": "2020-12-03T01:39:00.137Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 249,
+          "right": 714,
+          "bottom": 267,
+          "width": 591,
+          "height": 18
+        },
+        "1": {
+          "left": 123,
+          "top": 277,
+          "right": 712,
+          "bottom": 295,
+          "width": 589,
+          "height": 18
+        },
+        "2": {
+          "left": 123,
+          "top": 304,
+          "right": 417,
+          "bottom": 322,
+          "width": 294,
+          "height": 18
+        },
+        "3": {
+          "left": 417,
+          "top": 304,
+          "right": 472,
+          "bottom": 322,
+          "width": 55,
+          "height": 18
+        },
+        "4": {
+          "left": 472,
+          "top": 304,
+          "right": 564,
+          "bottom": 322,
+          "width": 92,
+          "height": 18
+        },
+        "5": {
+          "left": 556,
+          "top": 304,
+          "right": 650,
+          "bottom": 322,
+          "width": 94,
+          "height": 18
+        },
+        "6": {
+          "left": 651,
+          "top": 304,
+          "right": 698,
+          "bottom": 322,
+          "width": 46,
+          "height": 18
+        },
+        "7": {
+          "left": 123,
+          "top": 332,
+          "right": 361,
+          "bottom": 350,
+          "width": 238,
+          "height": 18
+        },
+        "8": {
+          "left": 356,
+          "top": 332,
+          "right": 495,
+          "bottom": 350,
+          "width": 139,
+          "height": 18
+        },
+        "9": {
+          "left": 495,
+          "top": 332,
+          "right": 517,
+          "bottom": 350,
+          "width": 22,
+          "height": 18
+        },
+        "10": {
+          "left": 516,
+          "top": 332,
+          "right": 524,
+          "bottom": 350,
+          "width": 8,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le premier principe méthodologique que privilégient systématiquement (au point d’en "
+        },
+        "1": {
+          "text": "faire un impératif) les épistémologies positivistes et réalistes est donc bien celui de la "
+        },
+        "2": {
+          "text": "division, ou de la décomposition selon des "
+        },
+        "3": {
+          "text": "catégori"
+        },
+        "4": {
+          "text": "es préétablies"
+        },
+        "5": {
+          "text": ": on l’appelle "
+        },
+        "6": {
+          "text": "depuis "
+        },
+        "7": {
+          "text": "Aristote, le principe de l’Analytique "
+        },
+        "8": {
+          "text": "(Le Moigne, 1995, p."
+        },
+        "9": {
+          "text": "28)"
+        },
+        "10": {
+          "text": ". "
+        }
+      },
+      "text": {
+        "TEXT": "Le premier principe méthodologique que privilégient systématiquement (au point d’en faire un impératif) les épistémologies positivistes et réalistes est donc bien celui de la division, ou de la décomposition selon des catégori es préétablies : on l’appelle depuis Aristote, le principe de l’Analytique (Le Moigne, 1995, p. 28) ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1KYxsiWhGA",
+      "guid": "1KYxsiWhGA",
+      "created": "2020-12-03T01:39:04.121Z",
+      "lastUpdated": "2020-12-03T01:39:04.121Z",
+      "rects": {
+        "0": {
+          "left": 127,
+          "top": 549,
+          "right": 359,
+          "bottom": 567,
+          "width": 232,
+          "height": 18
+        },
+        "1": {
+          "left": 353,
+          "top": 549,
+          "right": 358,
+          "bottom": 567,
+          "width": 5,
+          "height": 18
+        },
+        "2": {
+          "left": 359,
+          "top": 549,
+          "right": 496,
+          "bottom": 567,
+          "width": 137,
+          "height": 18
+        },
+        "3": {
+          "left": 494,
+          "top": 549,
+          "right": 703,
+          "bottom": 567,
+          "width": 209,
+          "height": 18
+        },
+        "4": {
+          "left": 123,
+          "top": 576,
+          "right": 243,
+          "bottom": 595,
+          "width": 120,
+          "height": 18
+        },
+        "5": {
+          "left": 244,
+          "top": 576,
+          "right": 711,
+          "bottom": 595,
+          "width": 467,
+          "height": 18
+        },
+        "6": {
+          "left": 123,
+          "top": 604,
+          "right": 713,
+          "bottom": 622,
+          "width": 590,
+          "height": 18
+        },
+        "7": {
+          "left": 123,
+          "top": 632,
+          "right": 274,
+          "bottom": 650,
+          "width": 151,
+          "height": 18
+        },
+        "8": {
+          "left": 273,
+          "top": 632,
+          "right": 321,
+          "bottom": 650,
+          "width": 48,
+          "height": 18
+        },
+        "9": {
+          "left": 319,
+          "top": 632,
+          "right": 363,
+          "bottom": 650,
+          "width": 43,
+          "height": 18
+        },
+        "10": {
+          "left": 365,
+          "top": 632,
+          "right": 426,
+          "bottom": 650,
+          "width": 61,
+          "height": 18
+        },
+        "11": {
+          "left": 425,
+          "top": 632,
+          "right": 526,
+          "bottom": 650,
+          "width": 101,
+          "height": 18
+        },
+        "12": {
+          "left": 528,
+          "top": 632,
+          "right": 602,
+          "bottom": 650,
+          "width": 74,
+          "height": 18
+        },
+        "13": {
+          "left": 600,
+          "top": 632,
+          "right": 606,
+          "bottom": 650,
+          "width": 5,
+          "height": 18
+        },
+        "14": {
+          "left": 606,
+          "top": 632,
+          "right": 701,
+          "bottom": 650,
+          "width": 95,
+          "height": 18
+        },
+        "15": {
+          "left": 123,
+          "top": 659,
+          "right": 542,
+          "bottom": 678,
+          "width": 419,
+          "height": 18
+        },
+        "16": {
+          "left": 530,
+          "top": 659,
+          "right": 668,
+          "bottom": 678,
+          "width": 138,
+          "height": 18
+        },
+        "17": {
+          "left": 667,
+          "top": 659,
+          "right": 690,
+          "bottom": 678,
+          "width": 22,
+          "height": 18
+        },
+        "18": {
+          "left": 689,
+          "top": 659,
+          "right": 693,
+          "bottom": 678,
+          "width": 4,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ainsi la logique déductive acquiert"
+        },
+        "1": {
+          "text": "-"
+        },
+        "2": {
+          "text": "elle un statut discipli"
+        },
+        "3": {
+          "text": "naire privilégié dans le champ "
+        },
+        "4": {
+          "text": "des connaissances"
+        },
+        "5": {
+          "text": ": non seulement elle permet d’ordonner les énoncés décrivant la réalité "
+        },
+        "6": {
+          "text": "dégagée à l’aide du principe de la modélisation analytique, mais en outre elle assure que "
+        },
+        "7": {
+          "text": "cet ordonnancement («"
+        },
+        "8": {
+          "text": "longue "
+        },
+        "9": {
+          "text": "chaine"
+        },
+        "10": {
+          "text": "de raison"
+        },
+        "11": {
+          "text": "s toutes simples"
+        },
+        "12": {
+          "text": "»), étant lui"
+        },
+        "13": {
+          "text": "-"
+        },
+        "14": {
+          "text": "même naturel "
+        },
+        "15": {
+          "text": "ou réel, rend indiscutablement compte et raison de cette réalité "
+        },
+        "16": {
+          "text": "(Le Moigne, 1995, p."
+        },
+        "17": {
+          "text": "33)"
+        },
+        "18": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "Ainsi la logique déductive acquiert - elle un statut discipli naire privilégié dans le champ des connaissances : non seulement elle permet d’ordonner les énoncés décrivant la réalité dégagée à l’aide du principe de la modélisation analytique, mais en outre elle assure que cet ordonnancement (« longue chaine de raison s toutes simples »), étant lui - même naturel ou réel, rend indiscutablement compte et raison de cette réalité (Le Moigne, 1995, p. 33) ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Cfi7LyuuY",
+      "guid": "1U2gqzULhj",
+      "created": "2020-12-05T02:44:42.578Z",
+      "lastUpdated": "2020-12-05T06:39:54.586Z",
+      "rects": {
+        "0": {
+          "left": 429,
+          "top": 340,
+          "right": 735,
+          "bottom": 358,
+          "width": 306,
+          "height": 18
+        },
+        "1": {
+          "left": 104,
+          "top": 367,
+          "right": 185,
+          "bottom": 386,
+          "width": 81,
+          "height": 18
+        },
+        "2": {
+          "left": 186,
+          "top": 367,
+          "right": 207,
+          "bottom": 386,
+          "width": 20,
+          "height": 18
+        },
+        "3": {
+          "left": 210,
+          "top": 367,
+          "right": 362,
+          "bottom": 386,
+          "width": 151,
+          "height": 18
+        },
+        "4": {
+          "left": 362,
+          "top": 367,
+          "right": 645,
+          "bottom": 386,
+          "width": 282,
+          "height": 18
+        },
+        "5": {
+          "left": 638,
+          "top": 367,
+          "right": 718,
+          "bottom": 386,
+          "width": 79,
+          "height": 18
+        },
+        "6": {
+          "left": 104,
+          "top": 395,
+          "right": 274,
+          "bottom": 413,
+          "width": 170,
+          "height": 18
+        },
+        "7": {
+          "left": 274,
+          "top": 395,
+          "right": 293,
+          "bottom": 413,
+          "width": 18,
+          "height": 18
+        },
+        "8": {
+          "left": 296,
+          "top": 395,
+          "right": 726,
+          "bottom": 413,
+          "width": 429,
+          "height": 18
+        },
+        "9": {
+          "left": 104,
+          "top": 423,
+          "right": 286,
+          "bottom": 441,
+          "width": 182,
+          "height": 18
+        },
+        "10": {
+          "left": 286,
+          "top": 423,
+          "right": 294,
+          "bottom": 441,
+          "width": 7,
+          "height": 18
+        },
+        "11": {
+          "left": 298,
+          "top": 423,
+          "right": 442,
+          "bottom": 441,
+          "width": 143,
+          "height": 18
+        },
+        "12": {
+          "left": 104,
+          "top": 450,
+          "right": 306,
+          "bottom": 468,
+          "width": 202,
+          "height": 18
+        },
+        "13": {
+          "left": 304,
+          "top": 450,
+          "right": 371,
+          "bottom": 468,
+          "width": 67,
+          "height": 18
+        },
+        "14": {
+          "left": 372,
+          "top": 450,
+          "right": 380,
+          "bottom": 468,
+          "width": 7,
+          "height": 18
+        },
+        "15": {
+          "left": 384,
+          "top": 450,
+          "right": 451,
+          "bottom": 468,
+          "width": 66,
+          "height": 18
+        },
+        "16": {
+          "left": 450,
+          "top": 450,
+          "right": 496,
+          "bottom": 468,
+          "width": 45,
+          "height": 18
+        },
+        "17": {
+          "left": 495,
+          "top": 450,
+          "right": 530,
+          "bottom": 468,
+          "width": 35,
+          "height": 18
+        },
+        "18": {
+          "left": 533,
+          "top": 450,
+          "right": 722,
+          "bottom": 468,
+          "width": 188,
+          "height": 18
+        },
+        "19": {
+          "left": 104,
+          "top": 478,
+          "right": 204,
+          "bottom": 496,
+          "width": 100,
+          "height": 18
+        },
+        "20": {
+          "left": 201,
+          "top": 478,
+          "right": 207,
+          "bottom": 496,
+          "width": 6,
+          "height": 18
+        },
+        "21": {
+          "left": 207,
+          "top": 478,
+          "right": 295,
+          "bottom": 496,
+          "width": 87,
+          "height": 18
+        },
+        "22": {
+          "left": 292,
+          "top": 478,
+          "right": 308,
+          "bottom": 496,
+          "width": 16,
+          "height": 18
+        },
+        "23": {
+          "left": 312,
+          "top": 478,
+          "right": 637,
+          "bottom": 496,
+          "width": 325,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ". Il ne réduit pas la situation à une catégorie, à "
+        },
+        "1": {
+          "text": "un énième «"
+        },
+        "2": {
+          "text": "cas"
+        },
+        "3": {
+          "text": "». Le praticien cherche"
+        },
+        "4": {
+          "text": "à voir les éléments uniques de la situation. "
+        },
+        "5": {
+          "text": "Schön pose "
+        },
+        "6": {
+          "text": "alors la question suivante"
+        },
+        "7": {
+          "text": ": «"
+        },
+        "8": {
+          "text": "How can an inquirer use what he already knows in a situation "
+        },
+        "9": {
+          "text": "which he take to be unique?"
+        },
+        "10": {
+          "text": "»"
+        },
+        "11": {
+          "text": "(Schön, 1983, p.139)."
+        },
+        "12": {
+          "text": "Schön propose le concept de «"
+        },
+        "13": {
+          "text": "répertoire"
+        },
+        "14": {
+          "text": "»"
+        },
+        "15": {
+          "text": ": le pratici"
+        },
+        "16": {
+          "text": "en fait "
+        },
+        "17": {
+          "text": "appel"
+        },
+        "18": {
+          "text": "à un ensemble d’images, de "
+        },
+        "19": {
+          "text": "compréhension"
+        },
+        "20": {
+          "text": "s"
+        },
+        "21": {
+          "text": ", d’exemples "
+        },
+        "22": {
+          "text": "ou"
+        },
+        "23": {
+          "text": "même d’actions qu’il a utilisés ou vus par le passé"
+        }
+      },
+      "text": {
+        "TEXT": ". Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé"
+      },
+      "tags": {
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        },
+        "EnjeuxDuCategorique": {
+          "id": "EnjeuxDuCategorique",
+          "label": "EnjeuxDuCategorique"
+        }
+      }
     }
   ]
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

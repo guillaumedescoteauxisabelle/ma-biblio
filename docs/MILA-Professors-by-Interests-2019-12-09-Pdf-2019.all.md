@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 MILA - PROFESSORS BY RESEARCH INTERESTS
 =======================================
 
@@ -126,7 +126,7 @@ Citer: (_MILA - Professors-by-Interests-2019-12-09.Pdf_, 2019)
 
 FTag:MILA-Professors-by-Interests-2019-12-09-Pdf-2019
 
-APA7:  _MILA - Professors-by-interests-2019-12-09.pdf_. (2019). [https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf] (https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf)
+APA7:  _MILA - Professors-by-interests-2019-12-09.pdf_. (2019). [https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf](https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf)
 
 
 

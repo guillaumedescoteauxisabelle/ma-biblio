@@ -39,7 +39,7 @@ Code Repositories
 
   
 
-**GitHub repository:** [https://github.com/jeffheaton/aifh] (https://github.com/jeffheaton/aifh)
+**GitHub repository:** [https://github.com/jeffheaton/aifh](https://github.com/jeffheaton/aifh)
 
 
 

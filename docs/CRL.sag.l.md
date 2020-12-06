@@ -30,21 +30,21 @@ Qu'est-ce que la connaissance directe?
 
 
 
-Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
-              
-              Une compression de la source.
-              
-
-----
-
-
-
 <!--- o:1.3.1 -->  
 <!--- y:txt -->  
   
 >"Compte tenu des objectifs de ce cours, le compte rendu est ici réduit à quatre éléments : une analyse, une synthèse, un bilan rapide du texte étudié et un final critique" (p. 1)  
 
 
+
+----
+
+
+
+Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
+              
+              Une compression de la source.
+              
 
 ----
 
@@ -1055,21 +1055,21 @@ En gros les sous-section vont éclairer plus amplement ce que discuté dans cett
 
 
 
-Titre de la section  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.1.2.1 -->  
 <!--- y:txt -->  
   
 >"Selon les cas, l'étude peut commencer par une indication expresse de ses intentions, ou une simple désignation générale du sujet traité, ou ne donner aucune indication de cet ordre" (p. 3.2.1)  
 
 
+
+----
+
+
+
+Titre de la section  
+              
+              
+              
 
 ----
 
@@ -1095,24 +1095,6 @@ Il peut y avoir une indication des intentions. Voir s'il y a une désignation g�
 
 
 
-Qu'est-ce qui a donné naissance à la publication?  
-              
-              
-              
-
-----
-
-
-
-quelle est la nature exacte du projet?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.1.4.1 -->  
 <!--- y:txt -->  
   
@@ -1133,12 +1115,30 @@ Choix possibles. Soit possible de la nature exacte du projet. Ces éléments don
 
 
 
+Qu'est-ce qui a donné naissance à la publication?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.2.1.6.1 -->  
 <!--- y:txt -->  
   
 >"? N'oubliez pas que le titre de l'article, du chapitre ou du livre contient en général des indices en ce sens" (p. 3.2.1)  
 
 
+
+----
+
+
+
+quelle est la nature exacte du projet?  
+              
+              
+              
 
 ----
 

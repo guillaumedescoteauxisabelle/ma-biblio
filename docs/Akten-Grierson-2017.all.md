@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Real-time interactive sequence generation and control with Recurrent Neural Network ensembles
 =============================================================================================
 
@@ -21,7 +21,7 @@ Citer: (Akten & Grierson, 2017)
 
 FTag: Akten-Grierson-2017
 
-APA7: Akten, M., & Grierson, M. (2017). Real-time interactive sequence generation and control with Recurrent Neural Network ensembles. _ArXiv:1612.04687 [Cs] _. [http://arxiv.org/abs/1612.04687] (http://arxiv.org/abs/1612.04687)
+APA7: Akten, M., & Grierson, M. (2017). Real-time interactive sequence generation and control with Recurrent Neural Network ensembles. _ArXiv:1612.04687 [Cs] _. [http://arxiv.org/abs/1612.04687](http://arxiv.org/abs/1612.04687)
 
 
 

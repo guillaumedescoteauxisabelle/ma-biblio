@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](2846cf28-2481-4a80-8a60-78865774d8f8)
 ![](5e34828b-3c5e-4d99-ac60-ef5c1cca2518)
 
@@ -16,7 +16,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 creativity support tools enable discovery and innovation on a broader scale than ever before;
 
 
@@ -35,15 +35,15 @@ Creativity includes discovery or invention of a significant idea, pattern, metho
 
 CREATIVITYSUPPORTTOOLS Accelerating Discovery and Innovation  
   
- [https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0] (https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0)
+ [https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0](https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0)
 
   
 
- [https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0] (https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)
+ [https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0](https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)
 
   
 
- [https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0] (https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0)
+ [https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0](https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0)
 
 
 
@@ -55,7 +55,7 @@ CREATIVITYSUPPORTTOOLS Accelerating Discovery and Innovation
 
 A H ISTORIC S HIFT  
   
- [] (https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)** [Écouter] (https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)**
+ [](https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)** [Écouter](https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0)**
 
 
 

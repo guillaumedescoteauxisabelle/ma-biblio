@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](1EbP7TLDDXWJSZftjt9u.png)
 ![](0fe59652-ab80-4406-b20d-c10b43ff0c04)
 
@@ -16,13 +16,13 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 Brian Cantwell Smith,
 =====================
 
   
 
-Smith received his BS, MS and **PhD degrees** from the [Massachusetts Institute of Technology] (https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). He was a founder of the [Center for the Study of Language and Information] (https://en.wikipedia.org/wiki/Center_for_the_Study_of_Language_and_Information "Center for the Study of Language and Information") at [Stanford University] (https://en.wikipedia.org/wiki/Stanford_University "Stanford University"), and a founder and first president of [Computer Professionals for Social Responsibility] (https://en.wikipedia.org/wiki/Computer_Professionals_for_Social_Responsibility "Computer Professionals for Social Responsibility"). Smith served as principal scientist at the [Xerox Palo Alto Research Center] (https://en.wikipedia.org/wiki/Xerox_Palo_Alto_Research_Center "Xerox Palo Alto Research Center"), in the 1980s.
+Smith received his BS, MS and **PhD degrees** from the [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). He was a founder of the [Center for the Study of Language and Information](https://en.wikipedia.org/wiki/Center_for_the_Study_of_Language_and_Information "Center for the Study of Language and Information") at [Stanford University](https://en.wikipedia.org/wiki/Stanford_University "Stanford University"), and a founder and first president of [Computer Professionals for Social Responsibility](https://en.wikipedia.org/wiki/Computer_Professionals_for_Social_Responsibility "Computer Professionals for Social Responsibility"). Smith served as principal scientist at the [Xerox Palo Alto Research Center](https://en.wikipedia.org/wiki/Xerox_Palo_Alto_Research_Center "Xerox Palo Alto Research Center"), in the 1980s.
 
 (https://en.wikipedia.org/wiki/Brian\_Cantwell\_Smith)
 

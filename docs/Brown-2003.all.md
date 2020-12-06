@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Generative computation and the arts
 ===================================
 
@@ -17,7 +17,7 @@ Citer: (Brown, 2003)
 
 FTag: Brown-2003
 
-APA7: Brown, P. (2003). Generative computation and the arts. _Digital Creativity_, _14_(1), 1–2. [https://doi.org/10.1076/digc.14.1.1.8809] (https://doi.org/10.1076/digc.14.1.1.8809)
+APA7: Brown, P. (2003). Generative computation and the arts. _Digital Creativity_, _14_(1), 1–2. [https://doi.org/10.1076/digc.14.1.1.8809](https://doi.org/10.1076/digc.14.1.1.8809)
 
 
 

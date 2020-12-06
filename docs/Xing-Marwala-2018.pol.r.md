@@ -86,7 +86,7 @@ Creativity and Artificial Intelligence: A Digital Art Perspective
 
   
 
- [Ouvrir la Fiche] (http://simp.ly/p/J0rHqd)
+ [Ouvrir la Fiche](http://simp.ly/p/J0rHqd)
 
 
 
@@ -129,7 +129,7 @@ Citer: (Xing & Marwala, 2018)
 
 FTag:Xing-Marwala-2018
 
-APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A Digital Art Perspective_. [https://arxiv.org/abs/1807.08195v1] (https://arxiv.org/abs/1807.08195v1)
+APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A Digital Art Perspective_. [https://arxiv.org/abs/1807.08195v1](https://arxiv.org/abs/1807.08195v1)
 
 
 

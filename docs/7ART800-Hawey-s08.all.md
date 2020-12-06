@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Séance 09 : La cueillette des données de recherche qualitative • L’objectif de cette séance est de se familiariser avec les instruments (méthodes) servant à recueillir des données à partir de propos et/ou d’observations auprès de participants et sur le terrain d’une pratique vécue de conception, création ou réception.
 
 

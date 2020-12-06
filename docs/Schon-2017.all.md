@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](12MZy2SPkHdtegFP8phg.png)
 ![](1uy6GMy9dZP9tjogJZfK.png)
 ![](12SBZuhxJvXTRmXCaRjJ.png)
@@ -17,7 +17,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 The reflective practice of design teams
 
 
@@ -26,7 +26,7 @@ Citer: (Valkenburg & Dorst, 1998)
 
 FTag: Valkenburg-Dorst-1998
 
-APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8] (https://doi.org/10.1016/S0142-694X(98)00011-8)
+APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8](https://doi.org/10.1016/S0142-694X(98)00011-8)
 
 
 

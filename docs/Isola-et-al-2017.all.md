@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
+##### Section carte de lecture polaire
 ![](f2714547-7987-4e33-8f16-60f4edefc687)
 
 
@@ -15,7 +15,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-### Section annotation polaire
+##### Section annotation polaire
 Image-to-Image Translation with Conditional Adversarial Networks
 
 
@@ -24,7 +24,7 @@ Citer: (Isola et al., 2017)
 
 FTag: Isola-et-al-2017
 
-APA7: Isola, P., Zhu, J.-Y., Zhou, T., & Efros, A. A. (2017). _Image-To-Image Translation With Conditional Adversarial Networks_. 1125–1134. [https://openaccess.thecvf.com/content\_cvpr\_2017/html/Isola\_Image-To-Image\_Translation\_With\_CVPR\_2017\_paper.html] (https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
+APA7: Isola, P., Zhu, J.-Y., Zhou, T., & Efros, A. A. (2017). _Image-To-Image Translation With Conditional Adversarial Networks_. 1125–1134. [https://openaccess.thecvf.com/content\_cvpr\_2017/html/Isola\_Image-To-Image\_Translation\_With\_CVPR\_2017\_paper.html](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
 
 
 

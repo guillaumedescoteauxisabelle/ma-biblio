@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Memo Akten’s Learning to See : from machine vision to the machinic unconscious
 ==============================================================================
 
@@ -17,7 +17,7 @@ Citer: (Celis Bueno & Schultz Abarca, 2020)
 
 FTag: Celis-Bueno-Schultz-Abarca-2020
 
-APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2] (https://doi.org/10.1007/s00146-020-01071-2)
+APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2](https://doi.org/10.1007/s00146-020-01071-2)
 
 
 

@@ -154,7 +154,7 @@ La réflexion en cours action comprend quatre étapes: la description de la situ
 
 **4.4 Validité de la recherche**
 
-La véritable question que doit se poser le chercheur concerne la façon dont sa présence et son expérience interfèrentavec l’étude [Creswell, 2007] (Chiapello, 2012, p.91)
+La véritable question que doit se poser le chercheur concerne la façon dont sa présence et son expérience interfèrentavec l’étude [Creswell, 2007](Chiapello, 2012, p.91)
 
 **------------------------------------------**
 

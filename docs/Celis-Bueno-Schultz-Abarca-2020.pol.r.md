@@ -7,7 +7,7 @@ Citer: (Celis Bueno & Schultz Abarca, 2020)
 
 FTag: Celis-Bueno-Schultz-Abarca-2020
 
-APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2] (https://doi.org/10.1007/s00146-020-01071-2)
+APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2](https://doi.org/10.1007/s00146-020-01071-2)
 
 
 

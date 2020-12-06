@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1ivRTVepGW",
+      "guid": "1rsWyD6Tmp",
+      "created": "2020-12-05T02:08:33.875Z",
+      "lastUpdated": "2020-12-05T02:08:41.736Z",
+      "rects": {
+        "0": {
+          "left": 169,
+          "top": 76,
+          "right": 418,
+          "bottom": 106,
+          "width": 248,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The Elements of Style"
+        }
+      },
+      "text": {
+        "TEXT": "The Elements of Style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>The Elements of Style</h1>"
+      }
+    },
+    {
+      "id": "1amqThcTW5",
+      "guid": "12TzZK2Uxi",
+      "created": "2020-12-05T02:08:36.858Z",
+      "lastUpdated": "2020-12-05T02:09:04.108Z",
+      "rects": {
+        "0": {
+          "left": 222,
+          "top": 120,
+          "right": 370,
+          "bottom": 142,
+          "width": 148,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "William Strunk, Jr."
+        }
+      },
+      "text": {
+        "TEXT": "William Strunk, Jr."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>William Strunk, Jr.</h2><p><span>\n<p>Citer: (Strunk Jr &amp; White, 2020)</p>\n<p>FTag: Strunk-Jr-et-White-2020</p>\n<p>APA7: Strunk Jr, W., &amp; White, E. B. (2020). <em>The Elements of Style, Fourth Edition</em>. Independently published.</p>\n<p>&nbsp;</p>\n\n</span><br></p>"
+      }
+    },
+    {
+      "id": "12vc4GeQz1",
+      "guid": "12CF9sEjfk",
+      "created": "2020-12-05T02:09:31.388Z",
+      "lastUpdated": "2020-12-05T02:11:48.516Z",
+      "rects": {
+        "0": {
+          "left": 265,
+          "top": 281,
+          "right": 321,
+          "bottom": 303,
+          "width": 56,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "© 2011"
+        }
+      },
+      "text": {
+        "TEXT": "© 2011"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>@STCStatus : Rejecting : Plant English Style / not visual style</h1>"
+      }
+    },
+    {
+      "id": "1QgoEe1omQ",
+      "guid": "1QgoEe1omQ",
+      "created": "2020-12-05T02:11:10.575Z",
+      "lastUpdated": "2020-12-05T02:11:10.575Z",
+      "rects": {
+        "0": {
+          "left": 66,
+          "top": 102,
+          "right": 527,
+          "bottom": 123,
+          "width": 461,
+          "height": 21
+        },
+        "1": {
+          "left": 37,
+          "top": 124,
+          "right": 528,
+          "bottom": 145,
+          "width": 490,
+          "height": 21
+        },
+        "2": {
+          "left": 37,
+          "top": 146,
+          "right": 529,
+          "bottom": 167,
+          "width": 492,
+          "height": 21
+        },
+        "3": {
+          "left": 37,
+          "top": 168,
+          "right": 269,
+          "bottom": 190,
+          "width": 232,
+          "height": 21
+        },
+        "4": {
+          "left": 269,
+          "top": 168,
+          "right": 306,
+          "bottom": 190,
+          "width": 36,
+          "height": 21
+        },
+        "5": {
+          "left": 306,
+          "top": 168,
+          "right": 311,
+          "bottom": 190,
+          "width": 5,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This book is intended for use in English courses in which"
+        },
+        "1": {
+          "text": "the  practice  of  composition  is  combined  with  the  study  of"
+        },
+        "2": {
+          "text": "literature.  It  aims  to  give  in  brief  space  the  principal"
+        },
+        "3": {
+          "text": "requirements of plain English "
+        },
+        "4": {
+          "text": "style"
+        },
+        "5": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "This book is intended for use in English courses in which the  practice  of  composition  is  combined  with  the  study  of literature.  It  aims  to  give  in  brief  space  the  principal requirements of plain English style ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+

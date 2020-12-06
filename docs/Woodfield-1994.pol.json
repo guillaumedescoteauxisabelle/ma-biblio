@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1HuMU1ZqKx",
+      "guid": "1qhJUuK1So",
+      "created": "2020-12-05T07:42:30.184Z",
+      "lastUpdated": "2020-12-05T07:42:38.809Z",
+      "rects": {
+        "0": {
+          "left": 53,
+          "top": 119,
+          "right": 539,
+          "bottom": 139,
+          "width": 486,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Gombrich, formalism and the description of works of "
+        }
+      },
+      "text": {
+        "TEXT": "Gombrich, formalism and the description of works of"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Gombrich, formalism and the description of works of Art</h1>"
+      }
+    },
+    {
+      "id": "12FkTf7hAk",
+      "guid": "12StPCoQfg",
+      "created": "2020-12-05T07:42:58.777Z",
+      "lastUpdated": "2020-12-05T07:49:51.761Z",
+      "rects": {
+        "0": {
+          "left": 146,
+          "top": 169,
+          "right": 207,
+          "bottom": 186,
+          "width": 61,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Woodfield"
+        }
+      },
+      "text": {
+        "TEXT": "Woodfield"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Woodfield, 1994)</p>\n<p>FTag: Woodfield-1994</p>\n<p>APA7: Woodfield, R. (1994). Gombrich, formalism and the description of works of Art. <em>British Journal of Aesthetics</em>, <em>34</em>. <a href=\"https://doi.org/10.1093/bjaesthetics/34.2.134\">https://doi.org/10.1093/bjaesthetics/34.2.134</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "1rCNvPcMCa",
+      "guid": "1rCNvPcMCa",
+      "created": "2020-12-05T07:48:50.395Z",
+      "lastUpdated": "2020-12-05T07:50:07.647Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 151,
+          "right": 281,
+          "bottom": 168,
+          "width": 137,
+          "height": 16
+        },
+        "1": {
+          "left": 281,
+          "top": 151,
+          "right": 309,
+          "bottom": 168,
+          "width": 28,
+          "height": 16
+        },
+        "2": {
+          "left": 309,
+          "top": 151,
+          "right": 646,
+          "bottom": 168,
+          "width": 336,
+          "height": 16
+        },
+        "3": {
+          "left": 649,
+          "top": 151,
+          "right": 673,
+          "bottom": 168,
+          "width": 24,
+          "height": 16
+        },
+        "4": {
+          "left": 144,
+          "top": 169,
+          "right": 662,
+          "bottom": 186,
+          "width": 518,
+          "height": 16
+        },
+        "5": {
+          "left": 664,
+          "top": 166,
+          "right": 674,
+          "bottom": 177,
+          "width": 9,
+          "height": 10
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We see here how little "
+        },
+        "1": {
+          "text": "style"
+        },
+        "2": {
+          "text": " is determined by observations of nature alone, and that "
+        },
+        "3": {
+          "text": "it is "
+        },
+        "4": {
+          "text": "always decorative principles, convictions of taste, to which the last decision is assigned."
+        },
+        "5": {
+          "text": "19"
+        }
+      },
+      "text": {
+        "TEXT": "We see here how little style is determined by observations of nature alone, and that it is always decorative principles, convictions of taste, to which the last decision is assigned. 19"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "ref2012042038": {
+          "id": "ref2012042038",
+          "label": "ref2012042038"
+        }
+      }
+    },
+    {
+      "id": "1YcU3K5xxz",
+      "guid": "1WSD7EXmMf",
+      "created": "2020-12-05T07:51:00.413Z",
+      "lastUpdated": "2020-12-05T07:51:35.560Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 846,
+          "right": 104,
+          "bottom": 856,
+          "width": 8,
+          "height": 9
+        },
+        "1": {
+          "left": 107,
+          "top": 849,
+          "right": 156,
+          "bottom": 864,
+          "width": 49,
+          "height": 15
+        },
+        "2": {
+          "left": 157,
+          "top": 849,
+          "right": 320,
+          "bottom": 864,
+          "width": 163,
+          "height": 15
+        },
+        "3": {
+          "left": 319,
+          "top": 849,
+          "right": 348,
+          "bottom": 864,
+          "width": 28,
+          "height": 15
+        },
+        "4": {
+          "left": 351,
+          "top": 849,
+          "right": 429,
+          "bottom": 864,
+          "width": 77,
+          "height": 15
+        },
+        "5": {
+          "left": 426,
+          "top": 849,
+          "right": 531,
+          "bottom": 864,
+          "width": 104,
+          "height": 15
+        },
+        "6": {
+          "left": 528,
+          "top": 849,
+          "right": 657,
+          "bottom": 864,
+          "width": 128,
+          "height": 15
+        },
+        "7": {
+          "left": 96,
+          "top": 865,
+          "right": 217,
+          "bottom": 880,
+          "width": 121,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "19"
+        },
+        "1": {
+          "text": "Wölfflin, "
+        },
+        "2": {
+          "text": "Kunstgeschichteliche Grundbe"
+        },
+        "3": {
+          "text": "griffe"
+        },
+        "4": {
+          "text": "(1915), trans. "
+        },
+        "5": {
+          "text": "M. D. Hottinger as "
+        },
+        "6": {
+          "text": "Principles of Art History"
+        },
+        "7": {
+          "text": "(London, 1932), p. 51."
+        }
+      },
+      "text": {
+        "TEXT": "19 Wölfflin, Kunstgeschichteliche Grundbe griffe (1915), trans. M. D. Hottinger as Principles of Art History (London, 1932), p. 51."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "ref2012042038": {
+          "id": "ref2012042038",
+          "label": "ref2012042038"
+        }
+      },
+      "revisedText": {
+        "HTML": "^19 Wölfflin, Kunstgeschichteliche Grundbe griffe (1915), trans. M. D. Hottinger as Principles of Art History (London, 1932), p. 51."
+      }
+    }
+  ]
+
+}
+

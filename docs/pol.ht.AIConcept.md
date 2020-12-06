@@ -36,3 +36,23 @@ unconditional image modeling,
 
 
 
+# ( [[Poltronieri-et-Hanska-2019]])
+
+
+GOFAI (Good Old Fashioned Artificial Intelligence)
+--------------------------------------------------
+
+
+GANs (Generative Adversarial Networks)
+--------------------------------------
+
+
+
+# ( [[Pouyanfar-et-al-2018]])
+
+
+Deep learning, which has its roots from conventional neural networks, significantly outperforms its predecessors. It utilizes graph technologies with transformations among neurons to develop many-layered learning models.
+
+
+
+

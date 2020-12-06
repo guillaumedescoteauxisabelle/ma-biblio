@@ -6,8 +6,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-### Section carte de lecture polaire
-### Section annotation polaire
+##### Section carte de lecture polaire
+##### Section annotation polaire
 Collaborative creativity
 
 
@@ -87,7 +87,7 @@ Citer:(Akten, 2016)
 
 FTag: Akten-2016
 
-APA7: Akten, M. (2016). Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…. _Medium_. [https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0] (https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0)
+APA7: Akten, M. (2016). Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…. _Medium_. [https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0](https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0)
 
 
 

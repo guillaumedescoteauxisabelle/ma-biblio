@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "125SECSemQ",
+      "guid": "1qFr9AyXP2",
+      "created": "2020-11-30T03:15:40.220Z",
+      "lastUpdated": "2020-11-30T03:15:45.382Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 107,
+          "right": 529,
+          "bottom": 129,
+          "width": 468,
+          "height": 21
+        },
+        "1": {
+          "left": 60,
+          "top": 129,
+          "right": 208,
+          "bottom": 151,
+          "width": 147,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A Survey on Deep Learning: Algorithms, Techniques,"
+        },
+        "1": {
+          "text": "and Applications"
+        }
+      },
+      "text": {
+        "TEXT": "A Survey on Deep Learning: Algorithms, Techniques, and Applications"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>A Survey on Deep Learning: Algorithms, Techniques, and Applications</h1>"
+      }
+    },
+    {
+      "id": "1FnakbfCG9",
+      "guid": "12WDEfZmBm",
+      "created": "2020-11-30T03:15:49.217Z",
+      "lastUpdated": "2020-11-30T03:18:39.586Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 173,
+          "right": 199,
+          "bottom": 189,
+          "width": 138,
+          "height": 16
+        },
+        "1": {
+          "left": 204,
+          "top": 175,
+          "right": 360,
+          "bottom": 188,
+          "width": 156,
+          "height": 13
+        },
+        "2": {
+          "left": 60,
+          "top": 190,
+          "right": 239,
+          "bottom": 207,
+          "width": 178,
+          "height": 16
+        },
+        "3": {
+          "left": 245,
+          "top": 192,
+          "right": 347,
+          "bottom": 206,
+          "width": 101,
+          "height": 13
+        },
+        "4": {
+          "left": 60,
+          "top": 207,
+          "right": 154,
+          "bottom": 224,
+          "width": 94,
+          "height": 16
+        },
+        "5": {
+          "left": 160,
+          "top": 209,
+          "right": 316,
+          "bottom": 223,
+          "width": 156,
+          "height": 13
+        },
+        "6": {
+          "left": 60,
+          "top": 225,
+          "right": 154,
+          "bottom": 241,
+          "width": 93,
+          "height": 16
+        },
+        "7": {
+          "left": 159,
+          "top": 227,
+          "right": 260,
+          "bottom": 240,
+          "width": 101,
+          "height": 13
+        },
+        "8": {
+          "left": 60,
+          "top": 242,
+          "right": 195,
+          "bottom": 258,
+          "width": 134,
+          "height": 16
+        },
+        "9": {
+          "left": 201,
+          "top": 244,
+          "right": 357,
+          "bottom": 258,
+          "width": 156,
+          "height": 13
+        },
+        "10": {
+          "left": 60,
+          "top": 259,
+          "right": 166,
+          "bottom": 276,
+          "width": 105,
+          "height": 16
+        },
+        "11": {
+          "left": 171,
+          "top": 261,
+          "right": 272,
+          "bottom": 275,
+          "width": 101,
+          "height": 13
+        },
+        "12": {
+          "left": 60,
+          "top": 276,
+          "right": 302,
+          "bottom": 293,
+          "width": 241,
+          "height": 16
+        },
+        "13": {
+          "left": 307,
+          "top": 278,
+          "right": 464,
+          "bottom": 292,
+          "width": 156,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "SAMIRA POUYANFAR,"
+        },
+        "1": {
+          "text": "Florida International University"
+        },
+        "2": {
+          "text": "SAAD SADIQ and YILIN YAN,"
+        },
+        "3": {
+          "text": "University of Miami"
+        },
+        "4": {
+          "text": "HAIMAN TIAN,"
+        },
+        "5": {
+          "text": "Florida International University"
+        },
+        "6": {
+          "text": "YUDONG TAO,"
+        },
+        "7": {
+          "text": "University of Miami"
+        },
+        "8": {
+          "text": "MARIA PRESA REYES,"
+        },
+        "9": {
+          "text": "Florida International University"
+        },
+        "10": {
+          "text": "MEI-LING SHYU,"
+        },
+        "11": {
+          "text": "University of Miami"
+        },
+        "12": {
+          "text": "SHU-CHING CHEN and S. S. IYENGAR,"
+        },
+        "13": {
+          "text": "Florida International University"
+        }
+      },
+      "text": {
+        "TEXT": "SAMIRA POUYANFAR, Florida International University SAAD SADIQ and YILIN YAN, University of Miami HAIMAN TIAN, Florida International University YUDONG TAO, University of Miami MARIA PRESA REYES, Florida International University MEI-LING SHYU, University of Miami SHU-CHING CHEN and S. S. IYENGAR, Florida International University"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Pouyanfar et al., 2018)</p>\n<p>FTag: Pouyanfar-et-al-2018</p>\n<p>APA7: Pouyanfar, S., Sadiq, S., Yan, Y., Tian, H., Tao, Y., Reyes, M. P., Shyu, M.-L., Chen, S.-C., &amp; Iyengar, S. S. (2018). A Survey on Deep Learning: Algorithms, Techniques, and Applications. <em>ACM Computing Surveys</em>, <em>51</em>(5), 92:1–92:36. <a href=\"https://doi.org/10.1145/3234150\">https://doi.org/10.1145/3234150</a></p>\n\n</span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "17qdmzxJEL",
+      "guid": "12J7MSK9Qk",
+      "created": "2020-11-30T03:18:57.248Z",
+      "lastUpdated": "2020-11-30T03:28:36.340Z",
+      "rects": {
+        "0": {
+          "left": 124,
+          "top": 332,
+          "right": 588,
+          "bottom": 345,
+          "width": 463,
+          "height": 13
+        },
+        "1": {
+          "left": 60,
+          "top": 346,
+          "right": 99,
+          "bottom": 360,
+          "width": 38,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Deep learning uses multiple layers to represent the abstractions of data to build computational"
+        },
+        "1": {
+          "text": "models."
+        }
+      },
+      "text": {
+        "TEXT": "Deep learning uses multiple layers to represent the abstractions of data to build computational models."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "DL": {
+          "id": "DL",
+          "label": "DL"
+        },
+        "AIDef": {
+          "id": "AIDef",
+          "label": "AIDef"
+        },
+        "DeepLearning": {
+          "id": "DeepLearning",
+          "label": "DeepLearning"
+        },
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        }
+      },
+      "revisedText": {
+        "HTML": "&gt;Deep learning uses multiple layers to represent the abstractions of data to build computational models."
+      }
+    },
+    {
+      "id": "12u3jd7Tnh",
+      "guid": "1cYeGpuiWr",
+      "created": "2020-11-30T03:22:46.410Z",
+      "lastUpdated": "2020-12-02T01:00:30.299Z",
+      "rects": {
+        "0": {
+          "left": 249,
+          "top": 176,
+          "right": 429,
+          "bottom": 191,
+          "width": 179,
+          "height": 14
+        },
+        "1": {
+          "left": 429,
+          "top": 176,
+          "right": 486,
+          "bottom": 191,
+          "width": 56,
+          "height": 14
+        },
+        "2": {
+          "left": 486,
+          "top": 176,
+          "right": 564,
+          "bottom": 191,
+          "width": 78,
+          "height": 14
+        },
+        "3": {
+          "left": 554,
+          "top": 176,
+          "right": 567,
+          "bottom": 191,
+          "width": 12,
+          "height": 14
+        },
+        "4": {
+          "left": 567,
+          "top": 176,
+          "right": 571,
+          "bottom": 191,
+          "width": 4,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " “deep learning,” also known as "
+        },
+        "1": {
+          "text": "representa"
+        },
+        "2": {
+          "text": "tion learning ["
+        },
+        "3": {
+          "text": "29"
+        },
+        "4": {
+          "text": "]"
+        }
+      },
+      "text": {
+        "TEXT": "“deep learning,” also known as representa tion learning [ 29 ]"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "DL": {
+          "id": "DL",
+          "label": "DL"
+        },
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        }
+      },
+      "revisedText": {
+        "HTML": "<h2>&gt;[...] “deep learning,” also known as representation learning [ 29 ]</h2><p><br></p><p><span>\n\n[29] Li Deng. 2014. A tutorial survey of architectures, algorithms, and applications for deep learning.APSIPA Transactionson Signal and Information Processing 3 (2014), 1–29.\n\n</span><br></p>"
+      }
+    },
+    {
+      "id": "12fdGv8K4z",
+      "guid": "12nEpDivWZ",
+      "created": "2020-12-02T01:01:17.403Z",
+      "lastUpdated": "2020-12-02T01:01:32.764Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 128,
+          "right": 591,
+          "bottom": 143,
+          "width": 531,
+          "height": 14
+        },
+        "1": {
+          "left": 60,
+          "top": 144,
+          "right": 596,
+          "bottom": 159,
+          "width": 535,
+          "height": 14
+        },
+        "2": {
+          "left": 60,
+          "top": 160,
+          "right": 521,
+          "bottom": 175,
+          "width": 460,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In recent years, machine learning has become more and more popular in research and has been"
+        },
+        "1": {
+          "text": "incorporated in a large number of applications, including multimedia concept retrieval, image clas-"
+        },
+        "2": {
+          "text": "sification, video recommendation, social network analysis, text mining, and so forth"
+        }
+      },
+      "text": {
+        "TEXT": "In recent years, machine learning has become more and more popular in research and has been incorporated in a large number of applications, including multimedia concept retrieval, image clas- sification, video recommendation, social network analysis, text mining, and so forth"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "In recent years, machine learning has become more and more popular in research and has been incorporated in a large number of applications, including multimedia concept retrieval, image clas- sification, video recommendation, social network analysis, text mining, and so forth."
+      },
+      "tags": {
+        "AIContext": {
+          "id": "AIContext",
+          "label": "AIContext"
+        }
+      }
+    },
+    {
+      "id": "124dsWHn6V",
+      "guid": "12VWgysYux",
+      "created": "2020-12-02T01:02:08.549Z",
+      "lastUpdated": "2020-12-02T01:03:10.225Z",
+      "rects": {
+        "0": {
+          "left": 141,
+          "top": 224,
+          "right": 595,
+          "bottom": 239,
+          "width": 453,
+          "height": 14
+        },
+        "1": {
+          "left": 60,
+          "top": 240,
+          "right": 594,
+          "bottom": 255,
+          "width": 534,
+          "height": 14
+        },
+        "2": {
+          "left": 60,
+          "top": 255,
+          "right": 290,
+          "bottom": 270,
+          "width": 230,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Deep learning, which has its roots from conventional neural networks, significantly"
+        },
+        "1": {
+          "text": "outperforms its predecessors. It utilizes graph technologies with transformations among neurons"
+        },
+        "2": {
+          "text": "to develop many-layered learning models."
+        }
+      },
+      "text": {
+        "TEXT": "Deep learning, which has its roots from conventional neural networks, significantly outperforms its predecessors. It utilizes graph technologies with transformations among neurons to develop many-layered learning models."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>Deep learning, which has its roots from conventional neural networks, significantly outperforms its predecessors. It utilizes graph technologies with transformations among neurons to develop many-layered learning models.</p><p>#concept</p>"
+      },
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        },
+        "DLConcept": {
+          "id": "DLConcept",
+          "label": "DLConcept"
+        },
+        "ref2012012000": {
+          "id": "ref2012012000",
+          "label": "ref2012012000"
+        }
+      }
+    },
+    {
+      "id": "12WLftENUn",
+      "guid": "12Fd3TZTRq",
+      "created": "2020-12-05T06:43:37.078Z",
+      "lastUpdated": "2020-12-05T06:43:50.118Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 267,
+          "right": 255,
+          "bottom": 282,
+          "width": 194,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "2.4  Deep Generative Networks"
+        }
+      },
+      "text": {
+        "TEXT": "2.4  Deep Generative Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>2.4  Deep Generative Networks</h1>"
+      }
+    },
+    {
+      "id": "1WqKJRt5KN",
+      "guid": "1Yxy1dZqWA",
+      "created": "2020-12-05T06:45:14.079Z",
+      "lastUpdated": "2020-12-05T06:46:24.162Z",
+      "rects": {
+        "0": {
+          "left": 194,
+          "top": 346,
+          "right": 414,
+          "bottom": 360,
+          "width": 219,
+          "height": 13
+        },
+        "1": {
+          "left": 414,
+          "top": 346,
+          "right": 452,
+          "bottom": 360,
+          "width": 37,
+          "height": 13
+        },
+        "2": {
+          "left": 452,
+          "top": 346,
+          "right": 591,
+          "bottom": 360,
+          "width": 139,
+          "height": 13
+        },
+        "3": {
+          "left": 60,
+          "top": 361,
+          "right": 590,
+          "bottom": 374,
+          "width": 529,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "deep learning algorithms such as generative "
+        },
+        "1": {
+          "text": "adversa"
+        },
+        "2": {
+          "text": "rial networks, convolutional"
+        },
+        "3": {
+          "text": "neural networks, and model transfers have completely changed our perception of information processing."
+        }
+      },
+      "text": {
+        "TEXT": "deep learning algorithms such as generative adversa rial networks, convolutional neural networks, and model transfers have completely changed our perception of information processing."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>&gt;[...] deep learning algorithms such as generative adversarial networks, convolutional neural networks, and model transfers have completely changed our perception of information processing.&nbsp;<span>\n\n(Pouyanfar et al., 2018, p.1)\n\n</span></p>"
+      },
+      "tags": {
+        "AIEtat": {
+          "id": "AIEtat",
+          "label": "AIEtat"
+        }
+      }
+    }
+  ]
+
+}
+

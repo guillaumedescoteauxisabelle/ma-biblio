@@ -13,3 +13,21 @@ We propose an additional classifier that estimates the minimal amount of regular
 
 
 
+# ( [[Gatys-et-al-2015]])
+
+
+In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the content and style of an image
+
+
+> [...] composing a complex interplay between the content and style of an image
+---------------------------------------------------------------------------------
+
+
+
+# ( [[Parker-Deregowski-1991]])
+
+
+Style and content can be seen to be independent of each other and viewers may be moved by either, even though in the greatest works the two aspects harmonise and complement each other.
+
+
+

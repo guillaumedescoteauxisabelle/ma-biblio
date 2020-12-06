@@ -6,7 +6,7 @@ Citer: (Valkenburg & Dorst, 1998)
 
 FTag: Valkenburg-Dorst-1998
 
-APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8] (https://doi.org/10.1016/S0142-694X(98)00011-8)
+APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8](https://doi.org/10.1016/S0142-694X(98)00011-8)
 
 
 

@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12ULoUpET4",
+      "guid": "12ULoUpET4",
+      "created": "2020-12-06T07:26:23.014Z",
+      "lastUpdated": "2020-12-06T07:26:23.014Z",
+      "rects": {
+        "0": {
+          "left": 78,
+          "top": 141,
+          "right": 718,
+          "bottom": 162,
+          "width": 640,
+          "height": 21
+        },
+        "1": {
+          "left": 285,
+          "top": 165,
+          "right": 392,
+          "bottom": 186,
+          "width": 106,
+          "height": 21
+        },
+        "2": {
+          "left": 392,
+          "top": 165,
+          "right": 434,
+          "bottom": 186,
+          "width": 42,
+          "height": 21
+        },
+        "3": {
+          "left": 434,
+          "top": 165,
+          "right": 510,
+          "bottom": 186,
+          "width": 75,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for"
+        },
+        "1": {
+          "text": "Fast Artistic "
+        },
+        "2": {
+          "text": "Style"
+        },
+        "3": {
+          "text": " Transfer"
+        }
+      },
+      "text": {
+        "TEXT": "Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12sLPGRfBb",
+      "guid": "1iHt7CPG4R",
+      "created": "2020-12-06T07:26:30.144Z",
+      "lastUpdated": "2020-12-06T07:26:53.896Z",
+      "rects": {
+        "0": {
+          "left": 169,
+          "top": 231,
+          "right": 235,
+          "bottom": 249,
+          "width": 65,
+          "height": 18
+        },
+        "1": {
+          "left": 233,
+          "top": 229,
+          "right": 247,
+          "bottom": 241,
+          "width": 14,
+          "height": 12
+        },
+        "2": {
+          "left": 247,
+          "top": 231,
+          "right": 390,
+          "bottom": 249,
+          "width": 142,
+          "height": 18
+        },
+        "3": {
+          "left": 384,
+          "top": 229,
+          "right": 390,
+          "bottom": 241,
+          "width": 5,
+          "height": 12
+        },
+        "4": {
+          "left": 390,
+          "top": 231,
+          "right": 480,
+          "bottom": 249,
+          "width": 89,
+          "height": 18
+        },
+        "5": {
+          "left": 478,
+          "top": 229,
+          "right": 483,
+          "bottom": 241,
+          "width": 5,
+          "height": 12
+        },
+        "6": {
+          "left": 484,
+          "top": 231,
+          "right": 621,
+          "bottom": 249,
+          "width": 137,
+          "height": 18
+        },
+        "7": {
+          "left": 618,
+          "top": 229,
+          "right": 623,
+          "bottom": 241,
+          "width": 5,
+          "height": 12
+        },
+        "8": {
+          "left": 253,
+          "top": 261,
+          "right": 259,
+          "bottom": 273,
+          "width": 5,
+          "height": 12
+        },
+        "9": {
+          "left": 259,
+          "top": 263,
+          "right": 549,
+          "bottom": 281,
+          "width": 289,
+          "height": 18
+        },
+        "10": {
+          "left": 277,
+          "top": 280,
+          "right": 282,
+          "bottom": 292,
+          "width": 5,
+          "height": 12
+        },
+        "11": {
+          "left": 283,
+          "top": 281,
+          "right": 523,
+          "bottom": 299,
+          "width": 239,
+          "height": 18
+        },
+        "12": {
+          "left": 211,
+          "top": 302,
+          "right": 215,
+          "bottom": 316,
+          "width": 4,
+          "height": 13
+        },
+        "13": {
+          "left": 217,
+          "top": 304,
+          "right": 356,
+          "bottom": 317,
+          "width": 139,
+          "height": 12
+        },
+        "14": {
+          "left": 360,
+          "top": 302,
+          "right": 364,
+          "bottom": 316,
+          "width": 4,
+          "height": 13
+        },
+        "15": {
+          "left": 367,
+          "top": 304,
+          "right": 576,
+          "bottom": 317,
+          "width": 209,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Xin Wang"
+        },
+        "1": {
+          "text": "1,2"
+        },
+        "2": {
+          "text": ",   Geoffrey Oxholm"
+        },
+        "3": {
+          "text": "2"
+        },
+        "4": {
+          "text": ",   Da Zhang"
+        },
+        "5": {
+          "text": "1"
+        },
+        "6": {
+          "text": ",   Yuan-Fang Wang"
+        },
+        "7": {
+          "text": "1"
+        },
+        "8": {
+          "text": "1"
+        },
+        "9": {
+          "text": "University of California, Santa Barbara, CA"
+        },
+        "10": {
+          "text": "2"
+        },
+        "11": {
+          "text": "Adobe Research, San Francisco, CA"
+        },
+        "12": {
+          "text": "{"
+        },
+        "13": {
+          "text": "xwang,dazhang,yfwang"
+        },
+        "14": {
+          "text": "}"
+        },
+        "15": {
+          "text": "@cs.ucsb.edu, oxholm@adobe.com"
+        }
+      },
+      "text": {
+        "TEXT": "Xin Wang 1,2 ,   Geoffrey Oxholm 2 ,   Da Zhang 1 ,   Yuan-Fang Wang 1 1 University of California, Santa Barbara, CA 2 Adobe Research, San Francisco, CA { xwang,dazhang,yfwang } @cs.ucsb.edu, oxholm@adobe.com"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Citer:(Wang et al., 2017)</p><p><br></p><p>FTag:Wang-et-al-2017</p><p><br></p><p>APA7:Wang, X., Oxholm, G., Zhang, D., &amp; Wang, Y.-F. (2017). Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer. 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 7178–7186. https://doi.org/10.1109/CVPR.2017.759</p><div><br></div>"
+      }
+    },
+    {
+      "id": "1M9czbseL6",
+      "guid": "1wWWifbzsZ",
+      "created": "2020-12-06T07:27:00.932Z",
+      "lastUpdated": "2020-12-06T07:27:19.328Z",
+      "rects": {
+        "0": {
+          "left": 194,
+          "top": 365,
+          "right": 256,
+          "bottom": 383,
+          "width": 61,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Abstract"
+        }
+      },
+      "text": {
+        "TEXT": "Abstract"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>@STCStatus : Really Technical</h1>"
+      }
+    }
+  ]
+
+}
+

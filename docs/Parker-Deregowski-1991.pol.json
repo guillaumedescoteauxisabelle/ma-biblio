@@ -172,10 +172,10 @@
       }
     },
     {
-      "id": "1nG7pA4kqP",
+      "id": "12L1CkokUC",
       "guid": "1nG7pA4kqP",
       "created": "2020-12-03T19:40:16.941Z",
-      "lastUpdated": "2020-12-03T19:40:16.941Z",
+      "lastUpdated": "2020-12-03T22:32:58.217Z",
       "rects": {
         "0": {
           "left": 327,
@@ -528,7 +528,16 @@
       "notes": {},
       "questions": {},
       "flashcards": {},
-      "color": "yellow"
+      "color": "yellow",
+      "tags": {
+        "ref2012031450": {
+          "id": "ref2012031450",
+          "label": "ref2012031450"
+        }
+      },
+      "revisedText": {
+        "HTML": "Style  and content can be seen to be independent of each other and viewers  may be moved by  either, even though in the greatest works the two aspects harmonise and complement each other."
+      }
     },
     {
       "id": "12MXjy7zR5",
@@ -899,6 +908,213 @@
       "questions": {},
       "flashcards": {},
       "color": "green"
+    },
+    {
+      "id": "12DT8rfGU9",
+      "guid": "16KHcGuVtE",
+      "created": "2020-12-03T22:34:52.496Z",
+      "lastUpdated": "2020-12-03T22:35:16.963Z",
+      "rects": {
+        "0": {
+          "left": 377,
+          "top": 485,
+          "right": 433,
+          "bottom": 503,
+          "width": 56,
+          "height": 18
+        },
+        "1": {
+          "left": 434,
+          "top": 485,
+          "right": 465,
+          "bottom": 503,
+          "width": 31,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Flemish "
+        },
+        "1": {
+          "text": "style"
+        }
+      },
+      "text": {
+        "TEXT": "Flemish style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Flemish style</h1>"
+      },
+      "tags": {
+        "StyleExample": {
+          "id": "StyleExample",
+          "label": "StyleExample"
+        }
+      }
+    },
+    {
+      "id": "1FR2jRC9Mt",
+      "guid": "1Ku4GHVhyV",
+      "created": "2020-12-03T22:35:50.666Z",
+      "lastUpdated": "2020-12-03T22:36:31.734Z",
+      "rects": {
+        "0": {
+          "left": 65,
+          "top": 503,
+          "right": 113,
+          "bottom": 521,
+          "width": 48,
+          "height": 18
+        },
+        "1": {
+          "left": 114,
+          "top": 503,
+          "right": 146,
+          "bottom": 521,
+          "width": 32,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Cubist "
+        },
+        "1": {
+          "text": "Style"
+        }
+      },
+      "text": {
+        "TEXT": "Cubist Style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>High Cubist Style</h1>"
+      },
+      "tags": {
+        "StyleExample": {
+          "id": "StyleExample",
+          "label": "StyleExample"
+        }
+      }
+    },
+    {
+      "id": "12hmALDwq5",
+      "guid": "12bBQ1JcLF",
+      "created": "2020-12-03T22:36:09.721Z",
+      "lastUpdated": "2020-12-03T22:36:20.487Z",
+      "rects": {
+        "0": {
+          "left": 157,
+          "top": 503,
+          "right": 223,
+          "bottom": 521,
+          "width": 66,
+          "height": 18
+        },
+        "1": {
+          "left": 225,
+          "top": 503,
+          "right": 290,
+          "bottom": 521,
+          "width": 65,
+          "height": 18
+        },
+        "2": {
+          "left": 291,
+          "top": 503,
+          "right": 324,
+          "bottom": 521,
+          "width": 32,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "American "
+        },
+        "1": {
+          "text": "Primitive "
+        },
+        "2": {
+          "text": "Style"
+        }
+      },
+      "text": {
+        "TEXT": "American Primitive Style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>American Primitive Style</h1>"
+      },
+      "tags": {
+        "StyleExample": {
+          "id": "StyleExample",
+          "label": "StyleExample"
+        }
+      }
+    },
+    {
+      "id": "13sFZoup9w",
+      "guid": "1zkXLDaA1M",
+      "created": "2020-12-03T22:36:36.951Z",
+      "lastUpdated": "2020-12-03T22:36:47.815Z",
+      "rects": {
+        "0": {
+          "left": 333,
+          "top": 503,
+          "right": 396,
+          "bottom": 521,
+          "width": 62,
+          "height": 18
+        },
+        "1": {
+          "left": 396,
+          "top": 503,
+          "right": 426,
+          "bottom": 521,
+          "width": 30,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Baroque  "
+        },
+        "1": {
+          "text": "style"
+        }
+      },
+      "text": {
+        "TEXT": "Baroque style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Baroque style</h1>"
+      },
+      "tags": {
+        "StyleExample": {
+          "id": "StyleExample",
+          "label": "StyleExample"
+        }
+      }
     }
   ]
 

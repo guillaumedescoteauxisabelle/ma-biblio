@@ -7,7 +7,7 @@ Citer: (Edmonds, 2000)
 
 FTag: Edmonds-2000
 
-APA7: Edmonds, E. (2000). Art practice augmented by digital agents. _Digital Creativity_, _11_(4), 193–204. [https://doi.org/10.1076/digc.11.4.193.8875] (https://doi.org/10.1076/digc.11.4.193.8875)
+APA7: Edmonds, E. (2000). Art practice augmented by digital agents. _Digital Creativity_, _11_(4), 193–204. [https://doi.org/10.1076/digc.11.4.193.8875](https://doi.org/10.1076/digc.11.4.193.8875)
 
 
 
