@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Recognizing creative needs in user interface design
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/W5KKZ2ZP)    | paper-conference      | [Src Url](http://portal.acm.org/citation.cfm?doid=581710.581718)      |
+|       |       |       |
+|       |       |       |
+
 Recognizing Creative Needs in User Interface Design
 ===================================================
 
@@ -17,7 +25,8 @@ The creative process requires experimentation, the exploration of variations, an
 
   
 
-#context
+#context  
+  [[CreativeProcess]] | 
 
 
 
@@ -31,7 +40,8 @@ The creative process requires experimentation, the exploration of variations, an
 
   
 
-#problematic
+#problematic  
+  [[Problematic]] | 
 
 
 

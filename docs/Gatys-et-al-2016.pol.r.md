@@ -1,3 +1,11 @@
+
+# Image Style Transfer Using Convolutional Neural Networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/2VVHJTIA)    | paper-conference      | [Src Url](http://ieeexplore.ieee.org/document/7780634/)      |
+|       |       |       |
+|       |       |       |
+
 Image Style Transfer Using Convolutional Neural Networks
 
 
@@ -10,7 +18,8 @@ APA7: Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). Image Style Transfer Usin
 
 
 
-Rendering the semantic content of an image in different styles is a difficult image processing task.
+Rendering the semantic content of an image in different styles is a difficult image processing task.  
+  [[NSTProblematic]] | 
 
 
 
@@ -18,11 +27,13 @@ ack of image representations that explicitly represent semantic in- formation
 
 
 
-use image representations derived from Convolutional Neural Networks optimised for object recognition
+use image representations derived from Convolutional Neural Networks optimised for object recognition  
+  [[NSTMetho]] | 
 
 
 
-A Neural Algorithm of Artistic Style that can separate and recombine the image content and style of natural images.
+A Neural Algorithm of Artistic Style that can separate and recombine the image content and style of natural images.  
+  [[NSTConcept]] | 
 
 
 

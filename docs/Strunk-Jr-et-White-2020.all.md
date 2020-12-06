@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# The Elements of Style, Fourth Edition
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/QK3XRQJC)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 The Elements of Style
 =====================
 

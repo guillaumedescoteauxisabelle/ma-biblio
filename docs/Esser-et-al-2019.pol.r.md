@@ -1,3 +1,11 @@
+
+# Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/ENI27QW6)    | article-journal      | [Src Url](http://arxiv.org/abs/1910.10223)      |
+|       |       |       |
+|       |       |       |
+
 Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis
 ===============================================================================
 
@@ -16,11 +24,13 @@ Intentions
 
 \*  disentanglement ??  Interesting term for the separation of content and style.
 
-* Possibly to find the optimal NST library
+* Possibly to find the optimal NST library  
+  [[disentanglement]] | [[ref2012031450]] | 
 
 
 
-We propose an additional classifier that estimates the minimal amount of regularization required to enforce disentanglement. Thus both representations to- gether can completely explain an image while being independent of each other. Previous methods based on adversarial approaches fail to enforce this independence, while methods based on variational approaches lead to uninformative representations.
+We propose an additional classifier that estimates the minimal amount of regularization required to enforce disentanglement. Thus both representations to- gether can completely explain an image while being independent of each other. Previous methods based on adversarial approaches fail to enforce this independence, while methods based on variational approaches lead to uninformative representations.  
+  [[AIProblematic]] | [[ref2012031450]] | [[DisentanglementIssue]] | 
 
 
 

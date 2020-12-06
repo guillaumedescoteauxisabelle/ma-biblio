@@ -69,10 +69,10 @@
 | 3.1.7.1 |  txt |    |   "les démonstrations" (p. 31)|   |
 | 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
 | 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
-| 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
-| 3.1.7.2.2.1|   |      |   |   |
 | 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
 | 3.1.8.2|  dic |     Qu'est-ce qu'une conclusion? Comment arrive-t-on à conclure quelque chose?   |   |   |
+| 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
+| 3.1.7.2.2.1|   |      |   |   |
 | 3.1.9.1 |  txt |    |   "interprétations" (p. 31)|   |
 | 3.1.9.2.1|  info |     Qu'est-ce qu'une interprétation?   |   |   |
 | 3.1.9.2.1.1|   |       |   |   |
@@ -112,8 +112,8 @@
 | 3.2.1.1.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2.1)|   |
 | 3.2.1.1.2|  dic |     Titre de la section   |   |   |
 | 3.2.1.2.1 |  txt |    |   "Selon les cas, l'étude peut commencer par une indication expresse de ses intentions, ou une simple désignation générale du sujet traité, ou ne donner aucune indication de cet ordre" (p. 3.2.1)|   |
-| 3.2.1.2.2|  dic |     Il peut y avoir une indication des intentions. Voir s'il y a une désignation générale du sujet traité? Il se peut qu'il n'y a aucune indication des intentions   |   |   |
 | 3.2.1.3.1 |  txt |    |   "Il vous revient, dans tous les cas, d'identifier précisément la nature exacte du projet qui a donné naissance à la publication savante dont vous rendrez compte" (p. 3.2.1)|   |
+| 3.2.1.2.2|  dic |     Il peut y avoir une indication des intentions. Voir s'il y a une désignation générale du sujet traité? Il se peut qu'il n'y a aucune indication des intentions   |   |   |
 | 3.2.1.3.2|  dic |     Qu'est-ce qui a donné naissance à la publication?    |   |   |
 | 3.2.1.3.2|  dic |      quelle est la nature exacte du projet?   |   |   |
 | 3.2.1.4.1 |  txt |    |   "En voici quelques exemples : transmettre une information ordonnée (narration), faire connaître un nouveau document original, discuter des conclusions des travaux existants, proposer une interprétation ou une explication originale, vérifier une hypothèse, soutenir une thèse" (p. 3.2.1)|   |

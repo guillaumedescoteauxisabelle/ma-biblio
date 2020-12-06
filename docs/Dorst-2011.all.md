@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# The core of design thinking and its application
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/J8WVIZCZ)    | article-journal      | [Src Url](https://linkinghub.elsevier.com/retrieve/pii/S0142694X11000603)      |
+|       |       |       |
+|       |       |       |
+
 The core of ‘design thinking’ and its application
 
 

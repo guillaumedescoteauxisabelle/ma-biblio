@@ -1,3 +1,11 @@
+
+# Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/7P6HKCGS)    | paper-conference      | [Src Url](http://ieeexplore.ieee.org/document/8100242/)      |
+|       |       |       |
+|       |       |       |
+
 Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
 
 

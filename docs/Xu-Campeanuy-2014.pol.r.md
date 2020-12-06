@@ -1,3 +1,11 @@
+
+# Houdini engine: evolution towards a procedural pipeline
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/W4A6AF9C)    | paper-conference      | [Src Url](http://doi.org/10.1145/2633374.2633378)      |
+|       |       |       |
+|       |       |       |
+
 Houdini Engine: Evolution Towards a Procedural Pipeline  [(Xu & Campeanuy, 2014)](https://www.zotero.org/google-docs/?PXkeiQ)
 
 

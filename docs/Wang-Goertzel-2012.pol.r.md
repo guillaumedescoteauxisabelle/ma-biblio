@@ -1,3 +1,11 @@
+
+# Introduction: Aspects of Artificial General Intelligence
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/XKKYA5CU)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 1\. What is meant by “AGI”
 
 

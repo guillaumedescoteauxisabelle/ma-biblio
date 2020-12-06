@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](f2714547-7987-4e33-8f16-60f4edefc687)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Image-To-Image Translation With Conditional Adversarial Networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/58J68RE6)    | paper-conference      | [Src Url](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)      |
+|       |       |       |
+|       |       |       |
+
 Image-to-Image Translation with Conditional Adversarial Networks
 
 
@@ -30,7 +38,8 @@ APA7: Isola, P., Zhu, J.-Y., Zhou, T., & Efros, A. A. (2017). _Image-To-Image Tr
 
 Avec cette librairie, il est possible de faire la translation d'une image entrante vers une image sortante. Il est Intéressant de voir que nous lui donnons le résultat désiré en sortie ce qui correspond à une dynamique structurale intéressante relativement au processus créatif.  
 
->In analogy to automatic language translation, we define automatic image-to-image translation as the task of translating one possible representation of a scene into another, given sufficient training data.(Isola et l.,2018, p.1)
+>In analogy to automatic language translation, we define automatic image-to-image translation as the task of translating one possible representation of a scene into another, given sufficient training data.(Isola et l.,2018, p.1)  
+  [[ref2011210911]] | [[GAN]] | [[ArticleAkten]] | 
 
 
 
@@ -40,7 +49,8 @@ Avec cette librairie, il est possible de faire la translation d'une image entran
 
 
 
->It would be highly desirable if we could instead specify only a high-level goal, like “make the output indistinguishable from reality”, and then automatically learn a loss function appropriate for satisfying this goal. Fortunately, this is exactly what is done by the recently proposed Generative Adversarial Networks (GANs) [ 22 , 12 , 41 , 49 , 59 ]   (Isola et al., 2017, p.1126)
+>It would be highly desirable if we could instead specify only a high-level goal, like “make the output indistinguishable from reality”, and then automatically learn a loss function appropriate for satisfying this goal. Fortunately, this is exactly what is done by the recently proposed Generative Adversarial Networks (GANs) [ 22 , 12 , 41 , 49 , 59 ]   (Isola et al., 2017, p.1126)  
+  [[AIConcept]] | [[CreativeAI]] | 
 
 
 
@@ -48,7 +58,8 @@ Le réseau génératif adverse (RGA) sont des modèles génératifs qui apprenne
 
 Je ne comprend pas encore pleinement la chose.
 
->GANs are generative models that learn a mapping from random noise vector z to output image y , G : z → y [ 22 ]. In contrast, conditional GANs learn a mapping from observed image x and random noise vector z , to y , G : { x, z } → y . The generator G is trained to produce outputs that cannot be distinguished from “real” images by an adversarially trained discriminator, D , which is trained to do as well as possible at detecting the generator’s “fakes”. This training procedure is diagrammed in Figure 2
+>GANs are generative models that learn a mapping from random noise vector z to output image y , G : z → y [ 22 ]. In contrast, conditional GANs learn a mapping from observed image x and random noise vector z , to y , G : { x, z } → y . The generator G is trained to produce outputs that cannot be distinguished from “real” images by an adversarially trained discriminator, D , which is trained to do as well as possible at detecting the generator’s “fakes”. This training procedure is diagrammed in Figure 2  
+  [[GAN.def]] | [[RGA]] | [[RGAC]] | [[ref2011271354]] | 
 
 
 

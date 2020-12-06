@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Memo Akten’s Learning to See: from machine vision to the machinic unconscious
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/C8AV4K46)    | article-journal      | [Src Url](http://link.springer.com/10.1007/s00146-020-01071-2)      |
+|       |       |       |
+|       |       |       |
+
 Memo Akten’s Learning to See : from machine vision to the machinic unconscious
 ==============================================================================
 

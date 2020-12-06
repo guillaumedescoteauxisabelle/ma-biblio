@@ -1,3 +1,11 @@
+
+# The promise of artificial intelligence: reckoning and judgment
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/8QVMQG2E)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Brian Cantwell Smith,
 =====================
 

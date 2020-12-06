@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 
 
 
@@ -29,7 +29,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Introduction: Aspects of Artificial General Intelligence
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/XKKYA5CU)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 1\. What is meant by “AGI”
 
 

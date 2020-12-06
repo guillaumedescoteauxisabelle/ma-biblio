@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# MILA - Subjects-by-professors-2019-12-09.pdf
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/EYX34XDZ)    | article      | [Src Url](https://mila.quebec/wp-content/uploads/2019/11/Subjects-by-professors-2019-12-09.pdf)      |
+|       |       |       |
+|       |       |       |
+
 RESEARCH INTERESTS BY PROFESSORS
 ================================
 
@@ -44,7 +52,8 @@ Bengio's Interest
 
 * Recurrent neural networks 
 
-\* RL
+\* RL  
+  [[Bengio]] | 
 
 
 

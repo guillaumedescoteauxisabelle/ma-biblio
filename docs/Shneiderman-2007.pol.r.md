@@ -1,3 +1,11 @@
+
+# Creativity support tools: accelerating discovery and innovation
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/J8LGVHXM)    | article-journal      | [Src Url](http://doi.org/10.1145/1323688.1323689)      |
+|       |       |       |
+|       |       |       |
+
 creativity support tools enable discovery and innovation on a broader scale than ever before;
 
 

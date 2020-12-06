@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](afd655e7-1544-46ce-b653-70943dcbcd64)
 
 
@@ -45,7 +45,15 @@ le concept en milieu scientifique et un terme apparenté utilisé dans le langag
 
 ----
 
-##### Section annotation polaire
+
+
+# Guide d'élaboration d'un projet de recherche 3e édition
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/H2D9DIK8)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 STRATÉGIE DE VÉRIFICATION
 
 
@@ -124,11 +132,13 @@ Certains concepts peuvent être suffisamment précis pour devenir automatiquemen
 
 
 
-Le concept est un mot, ou une expression, que les chercheurs ont emprunté au vocabulaire courant ou construit de toute pièce pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent étudier scientifiquement. C’est une représentation abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au phénomène réel qui, de toute façon, ne peut jamais être complètement connu
+Le concept est un mot, ou une expression, que les chercheurs ont emprunté au vocabulaire courant ou construit de toute pièce pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent étudier scientifiquement. C’est une représentation abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au phénomène réel qui, de toute façon, ne peut jamais être complètement connu  
+  [[LeConcept]] | [[SurLaRecherche]] | 
 
 
 
-Les concepts sont donc des instruments de la méthode scientifique qui interviennent au moment de la formulation [des enjeux] de recherche. À cette étape, les chercheurs utilisent les concepts essentiellement pour à la fois identifier les dimensions d’un sujet et pour circonscrire les angles d’analyse en fonction desquels le sujet a déjà été traité.
+Les concepts sont donc des instruments de la méthode scientifique qui interviennent au moment de la formulation [des enjeux] de recherche. À cette étape, les chercheurs utilisent les concepts essentiellement pour à la fois identifier les dimensions d’un sujet et pour circonscrire les angles d’analyse en fonction desquels le sujet a déjà été traité.  
+  [[LeConcept]] | 
 
 
 
@@ -136,15 +146,18 @@ le concept en milieu scientifique et un terme apparenté utilisé **dans le lang
 
 
 
-le concept est [...] l’instrument privilégié pour traduire notre représentation mentale de la réalité et construire notre explication de cette réalité.  [...] l’explication scientifique n’est qu’une expérimentation ou une vérification de relations possibles entre des concepts ou entre les attributs de ces concepts.
+le concept est [...] l’instrument privilégié pour traduire notre représentation mentale de la réalité et construire notre explication de cette réalité.  [...] l’explication scientifique n’est qu’une expérimentation ou une vérification de relations possibles entre des concepts ou entre les attributs de ces concepts.  
+  [[LeConcept]] | 
 
 
 
-concept et théorie sont les outils de base de la connaissance scientifique.
+concept et théorie sont les outils de base de la connaissance scientifique.  
+  [[LeConcept]] | 
 
 
 
-Il faut lire [...] des études et des analyses sur le thème particulier dont on veut traiter afin d’identifier les concepts utilisés [...] ainsi que les approches théoriques qui leur ont servi à analyser le thème particulier retenu. Il faudra ensuite identifier des « trous » ou des lacunes analytiques à combler. La ou les lacunes considérées comme les plus importantes serviront à formuler une question de recherche et à justifier l’analyse envisagé.
+Il faut lire [...] des études et des analyses sur le thème particulier dont on veut traiter afin d’identifier les concepts utilisés [...] ainsi que les approches théoriques qui leur ont servi à analyser le thème particulier retenu. Il faudra ensuite identifier des « trous » ou des lacunes analytiques à combler. La ou les lacunes considérées comme les plus importantes serviront à formuler une question de recherche et à justifier l’analyse envisagé.  
+  [[Rechercher]] | 
 
 
 

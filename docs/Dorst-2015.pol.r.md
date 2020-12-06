@@ -1,3 +1,11 @@
+
+# Frame innovation: create new thinking by design
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/37AMJZXK)    | book      | [Src Url](https://doi.org/10.1016/j.destud.2011.07.006)      |
+|       |       |       |
+|       |       |       |
+
 FRAME INNOVATION : CREATE NEW THINKING BY DESIGN
 ================================================
 
@@ -19,7 +27,8 @@ y work on framing the project in terms of both problem and solution spaces
 
 
 
- [...] designers use abstraction, or an emphasis on the future context in which the design has to function [...]  from a problem-solving approach to one that allows for the negotiation of new frames [Hekkert and van Dijk 2011]   [...] an exploration of deeper situational values. (Dorst, 2015, p. 61)
+ [...] designers use abstraction, or an emphasis on the future context in which the design has to function [...]  from a problem-solving approach to one that allows for the negotiation of new frames [Hekkert and van Dijk 2011]   [...] an exploration of deeper situational values. (Dorst, 2015, p. 61)  
+  [[CreativeOrientation]] | [[CreativeProcess]] | [[CreativeFraming]] | 
 
 
 

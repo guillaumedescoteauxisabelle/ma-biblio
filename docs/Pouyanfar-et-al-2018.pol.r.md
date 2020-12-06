@@ -1,3 +1,11 @@
+
+# A Survey on Deep Learning: Algorithms, Techniques, and Applications
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/ZL4MUCPJ)    | article-journal      | [Src Url](http://doi.org/10.1145/3234150)      |
+|       |       |       |
+|       |       |       |
+
 A Survey on Deep Learning: Algorithms, Techniques, and Applications
 ===================================================================
 
@@ -11,7 +19,8 @@ APA7: Pouyanfar, S., Sadiq, S., Yan, Y., Tian, H., Tao, Y., Reyes, M. P., Shyu, 
 
 
 
->Deep learning uses multiple layers to represent the abstractions of data to build computational models.
+>Deep learning uses multiple layers to represent the abstractions of data to build computational models.  
+  [[DL]] | [[AIDef]] | [[DeepLearning]] | [[ArticleAkten]] | 
 
 
 
@@ -20,17 +29,20 @@ APA7: Pouyanfar, S., Sadiq, S., Yan, Y., Tian, H., Tao, Y., Reyes, M. P., Shyu, 
 
   
 
- [29] Li Deng. 2014. A tutorial survey of architectures, algorithms, and applications for deep learning.APSIPA Transactionson Signal and Information Processing 3 (2014), 1–29.
+ [29] Li Deng. 2014. A tutorial survey of architectures, algorithms, and applications for deep learning.APSIPA Transactionson Signal and Information Processing 3 (2014), 1–29.  
+  [[DL]] | [[ArticleAkten]] | 
 
 
 
-In recent years, machine learning has become more and more popular in research and has been incorporated in a large number of applications, including multimedia concept retrieval, image clas- sification, video recommendation, social network analysis, text mining, and so forth.
+In recent years, machine learning has become more and more popular in research and has been incorporated in a large number of applications, including multimedia concept retrieval, image clas- sification, video recommendation, social network analysis, text mining, and so forth.  
+  [[AIContext]] | 
 
 
 
 Deep learning, which has its roots from conventional neural networks, significantly outperforms its predecessors. It utilizes graph technologies with transformations among neurons to develop many-layered learning models.
 
-#concept
+#concept  
+  [[AIConcept]] | [[DLConcept]] | [[ref2012012000]] | 
 
 
 
@@ -39,7 +51,8 @@ Deep learning, which has its roots from conventional neural networks, significan
 
 
 
-> [...] deep learning algorithms such as generative adversarial networks, convolutional neural networks, and model transfers have completely changed our perception of information processing.  (Pouyanfar et al., 2018, p.1)
+> [...] deep learning algorithms such as generative adversarial networks, convolutional neural networks, and model transfers have completely changed our perception of information processing.  (Pouyanfar et al., 2018, p.1)  
+  [[AIEtat]] | 
 
 
 

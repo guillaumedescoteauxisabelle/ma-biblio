@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](34ff206f-65c7-491e-9e9f-1e82c06f6d05)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Defining AI Arts: Three Proposals
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/4GH6XRE7)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 
 
 ![](12fahwPj6ojzsUCzp8aK.png)

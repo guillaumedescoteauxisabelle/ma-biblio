@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](1EbP7TLDDXWJSZftjt9u.png)
 ![](0fe59652-ab80-4406-b20d-c10b43ff0c04)
 
@@ -16,7 +16,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# The promise of artificial intelligence: reckoning and judgment
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/8QVMQG2E)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Brian Cantwell Smith,
 =====================
 

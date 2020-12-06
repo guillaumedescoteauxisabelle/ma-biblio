@@ -1,13 +1,16 @@
-
-----
-Fiche créée par Guillaume D.Isabelle, 2020 
----- 
-
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Le pragmatisme comme épistémologie pour le design de jeux : enquête sur la créativité et le processus de design
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/8E7GIXIJ)    | article-journal      | [Src Url](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)      |
+|       |       |       |
+|       |       |       |
+
 Le pragmatisme comme épistémologie pour le design de jeux Enquête sur la créativité et le processus de design.  (Chiapello,2019)
 
 
@@ -88,7 +91,8 @@ Dewey, J. (2003 [1929] ). The quest for certainty: A study of the relation of kn
 
   
 
-#biblio
+#biblio  
+  [[Dewey]] | [[ReflectivePracticeBiblio]] | 
 
 
 
@@ -116,7 +120,8 @@ Schön, D. A. (1988). Toward a marriage of artistry & applied science in the arc
 
   
 
-#biblio
+#biblio  
+  [[Schon]] | [[ReflectivePracticeBiblio]] | 
 
 
 
@@ -152,7 +157,8 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
 
   
 
-#biblio
+#biblio  
+  [[Schon]] | [[ReflectivePracticeBiblio]] | 
 
 
 
@@ -183,7 +189,8 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
 
 
 1.3. Schön : répertoire de solutions et métaphore
-=================================================
+=================================================  
+  [[ALire]] | [[MetaphoreGenerative]] | 
 
 
 
@@ -191,28 +198,34 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
 
 
 
-La transposition : c’est le moment où un concept ancien, étranger à la situation, est choisi. Schön estime qu’il s’agit souvent d’un groupe de concepts, par exemple guerre, ennemi, bataille, gagner, etc. Chaque con cept peut alors être transposé à la situation
+La transposition : c’est le moment où un concept ancien, étranger à la situation, est choisi. Schön estime qu’il s’agit souvent d’un groupe de concepts, par exemple guerre, ennemi, bataille, gagner, etc. Chaque con cept peut alors être transposé à la situation  
+  [[MetaphoreGenerative]] | 
 
 
 
-L’interprétation : C’est le fait de faire correspondre le nouveau concept avec l’ancien concept : quel aspect permet la transposition ?
+L’interprétation : C’est le fait de faire correspondre le nouveau concept avec l’ancien concept : quel aspect permet la transposition ?  
+  [[MetaphoreGenerative]] | 
 
 
 
-La correction : Ce sont les ajustements faits pour que l’ancien concept c orresponde au nouveau, et qui impliquent de repenser ce concept, d’en découvrir de nouveaux aspec
+La correction : Ce sont les ajustements faits pour que l’ancien concept c orresponde au nouveau, et qui impliquent de repenser ce concept, d’en découvrir de nouveaux aspec  
+  [[MetaphoreGenerative]] | 
 
 
 
-L’énonciation : lorsque le déplacement de concept a eu lieu et fonctionne, il est possible de le décrire
+L’énonciation : lorsque le déplacement de concept a eu lieu et fonctionne, il est possible de le décrire  
+  [[MetaphoreGenerative]] | 
 
 
 
 quatre étapes pour développer une métaphore :
----------------------------------------------
+---------------------------------------------  
+  [[MetaphoreGenerative]] | 
 
 
 
-Le raisonnement métaphorique est donc plus qu’une libre association : il s’agit de transformer en profondeur notre vision du monde en procédant minutieuseme
+Le raisonnement métaphorique est donc plus qu’une libre association : il s’agit de transformer en profondeur notre vision du monde en procédant minutieuseme  
+  [[MetaphoreGenerative]] | 
 
 
 
@@ -221,7 +234,8 @@ Le raisonnement métaphorique est donc plus qu’une libre association : il s’
 
 
 
- [...] la créativité [est] une dimension de tout agir humain
+ [...] la créativité [est] une dimension de tout agir humain  
+  [[CreativeProcess]] | 
 
 
 
@@ -229,23 +243,28 @@ Cela signifie également que la création est envisagée ici comme une opératio
 
 
 
-« il ne s’agit donc pas d’un mécanisme de libre association, paré du nom de créativité, mais d’un acte positif de libération, dans lequel le rapport avec le problème initial n’est jamais complètement perdu de vue » [Joas, 1999 [1992] , p.144](Chiapello, 2019, p.337)
+« il ne s’agit donc pas d’un mécanisme de libre association, paré du nom de créativité, mais d’un acte positif de libération, dans lequel le rapport avec le problème initial n’est jamais complètement perdu de vue » [Joas, 1999 [1992] , p.144](Chiapello, 2019, p.337)  
+  [[FreeAssociationNCreating]] | 
 
 
 
-L’abduction est le processus par lequel on forme une hypothèse explicative
+L’abduction est le processus par lequel on forme une hypothèse explicative  
+  [[Abduction.def]] | 
 
 
 
- [...] l’enquête [...] on commence par une hypothèse explicative (abduction) mais au **statut conjectural**, [...] être prêt à « jeter par - dessus bord » [...] [en déduire] alors des conséquences ou prédictions, le « but » de la déduction étant de « réunir les conséquents de l’hy pothèse » [...]   troisième temps, \ [...\]   « établir dans quelle mesure ces conséquences s’accordent avec l’expérience » : par induction, nous testons l’hypothèse ; si elle passe le test, on l’ajoute  à l’ensemble de nos croyances. La différence est moins entre trois inférences qu’entre trois phases d’une commune démarche explicative (Tiercelin, 2013, p.8).
+ [...] l’enquête [...] on commence par une hypothèse explicative (abduction) mais au **statut conjectural**, [...] être prêt à « jeter par - dessus bord » [...] [en déduire] alors des conséquences ou prédictions, le « but » de la déduction étant de « réunir les conséquents de l’hy pothèse » [...]   troisième temps, \ [...\]   « établir dans quelle mesure ces conséquences s’accordent avec l’expérience » : par induction, nous testons l’hypothèse ; si elle passe le test, on l’ajoute  à l’ensemble de nos croyances. La différence est moins entre trois inférences qu’entre trois phases d’une commune démarche explicative (Tiercelin, 2013, p.8).  
+  [[Abduction]] | 
 
 
 
- [...]   l’abduction permet de chercher une nouvelle théorie
+ [...]   l’abduction permet de chercher une nouvelle théorie  
+  [[Abduction]] | 
 
 
 
-L’induction demande donc une hypothèse déjà formée, alors que l’abduction permet la formation de l’hypothèse
+L’induction demande donc une hypothèse déjà formée, alors que l’abduction permet la formation de l’hypothèse  
+  [[Abduction]] | 
 
 
 
@@ -264,15 +283,18 @@ l'abduction et le processus d'enquête comme processus créatif
 
 **perception -> explication**
 
-> [...] avec l’abduction un passage de l’impression à l’idée, de la perception à l’explication
+> [...] avec l’abduction un passage de l’impression à l’idée, de la perception à l’explication  
+  [[Abduction]] | 
 
 
 
-Schön revient lui aussi sur la formation des idées [...] avec les concepts de « répertoire », de « voir-comme » ( seeing-as ) et de « métaphore générative ».
+Schön revient lui aussi sur la formation des idées [...] avec les concepts de « répertoire », de « voir-comme » ( seeing-as ) et de « métaphore générative ».  
+  [[GenerativeMetaphor]] | [[Schon]] | [[ConceptRepertoire]] | 
 
 
 
- [...] lors de l’étape de cadrage ou framing, le praticien va tenter de conserver l’unicité de la situation, et va inventer une nouvelle description [de la situation] [...]   Le praticien cherche à voir les éléments uniques de la situation. [...] le praticien fait appel à un ensemble d’images, de compréhensions, d’exemples ou même d’actions qu’il a utilisés ou vus par le passé.
+ [...] lors de l’étape de cadrage ou framing, le praticien va tenter de conserver l’unicité de la situation, et va inventer une nouvelle description [de la situation] [...]   Le praticien cherche à voir les éléments uniques de la situation. [...] le praticien fait appel à un ensemble d’images, de compréhensions, d’exemples ou même d’actions qu’il a utilisés ou vus par le passé.  
+  [[CadrageReflexif]] | [[PratiqueReflexive]] | 
 
 
 
@@ -293,7 +315,8 @@ Ainsi la logique déductive acquiert - elle un statut discipli naire privilégi�
 
 
 
-Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé
+Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé  
+  [[CreativeOrientation]] | [[EnjeuxDuCategorique]] | 
 
 
 

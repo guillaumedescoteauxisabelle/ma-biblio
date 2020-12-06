@@ -26,8 +26,8 @@ Impact de la délégation de la rationalité à l'IA dans le processus de créat
 numérique.
 
     Exploration de la transcendance des limites de l'IH par la rationalité complémentaire de l'IA.
-
  Observer:
+
 * Capacité d'optimisation s'élèverait
 
 [article #28](https://github.com/jgwill/www.fichiers/issues/28)
@@ -73,8 +73,8 @@ male un ou plusieurs objectifs. (Ezratty, 2018)
 @footer autopublished from PDS Draft app 2020-06-19 2020-06-19-14-47-17
 
 
-
 ----
+
 
 
 ______

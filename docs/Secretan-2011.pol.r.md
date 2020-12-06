@@ -1,3 +1,11 @@
+
+# Semi-automated creativity: software as a creative collaborator
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/3LAVEEGU)    | paper-conference      | [Src Url](http://doi.org/10.1145/2069618.2069743)      |
+|       |       |       |
+|       |       |       |
+
 Semi-Automated Creativity:
 
 

@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](afd655e7-1544-46ce-b653-70943dcbcd64)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Le Coffre à outils du chercheur débutant
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/YZFV2JAG)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 STRATÉGIE DE VÉRIFICATION
 
 
@@ -94,7 +102,8 @@ Certains concepts peuvent être suffisamment précis pour devenir automatiquemen
 
 
 
-Le concept est un mot, ou une expression, que les chercheurs ont emprunté au vocabulaire courant ou construit de toute pièce pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent étudier scientifiquement. C’est une représentation abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au phénomène réel qui, de toute façon, ne peut jamais être complètement connu
+Le concept est un mot, ou une expression, que les chercheurs ont emprunté au vocabulaire courant ou construit de toute pièce pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent étudier scientifiquement. C’est une représentation abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au phénomène réel qui, de toute façon, ne peut jamais être complètement connu  
+  [[LeConcept]] | [[SurLaRecherche]] | 
 
 
 

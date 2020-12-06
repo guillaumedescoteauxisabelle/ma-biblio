@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](308e6cd8-3e68-4e6a-b40d-3b41a7ff1fe5)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Fritz-Choice-Terms-Macrostructural-Charts-2017-07-07
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/5UWKWPG3)    | article      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 
 
 ![](12SfxzkvNooYpjYdHQE1.png)

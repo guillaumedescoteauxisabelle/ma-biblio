@@ -1,3 +1,11 @@
+
+# Content and Style Disentanglement for Artistic Style Transfer
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/QHUTRIZI)    | paper-conference      | [Src Url](https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html)      |
+|       |       |       |
+|       |       |       |
+
 Content and Style Disentanglement for Artistic Style Transfer
 =============================================================
 

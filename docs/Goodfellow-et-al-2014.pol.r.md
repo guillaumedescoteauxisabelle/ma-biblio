@@ -1,3 +1,11 @@
+
+# Generative Adversarial Nets
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/ZTIB8MAU)    | chapter      | [Src Url](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)      |
+|       |       |       |
+|       |       |       |
+
 Generative Adversarial Nets
 
 

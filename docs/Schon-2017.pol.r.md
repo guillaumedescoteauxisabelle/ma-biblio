@@ -1,3 +1,11 @@
+
+# The Reflective Practitioner : How Professionals Think in Action
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/KY3RPVEQ)    | book      | [Src Url](https://www.taylorfrancis.com/books/9781315237473)      |
+|       |       |       |
+|       |       |       |
+
 The reflective practice of design teams
 
 
@@ -20,7 +28,8 @@ APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design te
 
 **Schon’s paradigm of reflective practice**
 
-**-------------------------------------------------------**
+**-------------------------------------------------------**  
+  [[Schon]] | 
 
 
 
@@ -99,7 +108,8 @@ four activities (naming, framing, moving and reflecting) and their relations: th
 
 *** Moving**
 
-*** Reflecting**
+*** Reflecting**  
+  [[Schon]] | 
 
 
 

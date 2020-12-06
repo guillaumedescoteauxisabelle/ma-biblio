@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](24cd8985-2a1c-42fe-b2ca-91da54d141f1)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# A Style-Aware Content Loss for Real-time HD Style Transfer
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/AR8HXJRW)    | article-journal      | [Src Url](http://arxiv.org/abs/1807.10201)      |
+|       |       |       |
+|       |       |       |
+
 A Style-Aware Content Loss for Real-time HD Style Transfer
 
 
@@ -32,11 +40,13 @@ style transfer has received a lot of attent
 
 
 
- [...] much of this research has aimed at speeding up processing, the approaches are still lacking from a principled, art historical standpoint: a style is more than just a single image or an artist, but previous work is limited to only a single instance of a style or shows no benefit from more image.  (Sanakoyeu et al., 2018)
+ [...] much of this research has aimed at speeding up processing, the approaches are still lacking from a principled, art historical standpoint: a style is more than just a single image or an artist, but previous work is limited to only a single instance of a style or shows no benefit from more image.  (Sanakoyeu et al., 2018)  
+  [[NSTProblematic]] | 
 
 
 
- [...] pre-trained on ImageNet, [...] can introduce an extra bias, since it has been assembled without artistic consideration.  (Sanakoyeu et al., 2018)
+ [...] pre-trained on ImageNet, [...] can introduce an extra bias, since it has been assembled without artistic consideration.  (Sanakoyeu et al., 2018)  
+  [[NSTProblematic]] | 
 
 
 
@@ -46,11 +56,13 @@ To circumvent these issues, we propose a **style-aware content loss**, which is 
 
 Style transfer, generative network, deep learning
 
-#keywords
+#keywords  
+  [[NSTKeywords]] | 
 
 
 
-Project page: https://compvis.github.io/adaptive-style-transfer .
+Project page: https://compvis.github.io/adaptive-style-transfer .  
+  [[NSTReferences]] | 
 
 
 

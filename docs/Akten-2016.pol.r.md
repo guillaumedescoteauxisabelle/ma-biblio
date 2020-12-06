@@ -1,12 +1,23 @@
-Collaborative creativity
+
+# Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/K9QEANRA)    | article-journal      | [Src Url](https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0)      |
+|       |       |       |
+|       |       |       |
+
+Collaborative creativity  
+  [[sujet]] | 
 
 
 
-Convolutional Neural Networks
+Convolutional Neural Networks  
+  [[sujet]] | 
 
 
 
-human-machine collaborative drawing environment
+human-machine collaborative drawing environment  
+  [[AIContext]] | 
 
 
 
@@ -27,7 +38,8 @@ computational models of creativity
 
   
 
-#context
+#context  
+  [[AIContext]] | 
 
 
 
@@ -35,7 +47,8 @@ computational models of creativity
 
   
 
-#goal
+#goal  
+  [[AIInvestigation]] | 
 
 
 
@@ -47,13 +60,15 @@ The aim of this research is to create an autonomous, collaborative, ‘creative�
 
   
 
-#goal
+#goal  
+  [[AIAgent]] | [[AIDrawing]] | 
 
 
 
 autonomous collaborative creative agent
 
-#concept
+#concept  
+  [[AIConcept]] | 
 
 
 
@@ -61,7 +76,8 @@ Monte Carlo Tree Search (MCTS)
 
   
 
-#concept
+#concept  
+  [[AIConcept]] | [[AIAgent]] | 
 
 
 

@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](fe650e96-7b96-4816-b536-ee4acde8db42)
 ![](322fa919-ae9c-48e9-bd23-6fb9527c6d5d)
 ![](0f8f89ee-d6bc-44ff-9410-d1fa8d4ef8e4)
@@ -18,7 +18,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Deep learning and neural networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/HSCZYJQF)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 
 
 ![](1YiCZM4bB9sbHgp5L8Yw.png)

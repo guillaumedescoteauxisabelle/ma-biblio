@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Analyzing and Improving the Image Quality of StyleGAN
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/RBNCUJ2H)    | article-journal      | [Src Url](http://arxiv.org/abs/1912.04958)      |
+|       |       |       |
+|       |       |       |
+
 Analyzing and Improving the Image Quality of StyleGAN
 =====================================================
 
@@ -21,7 +29,8 @@ APA7: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T.
 
 
 
-unconditional image modeling,
+unconditional image modeling,  
+  [[AIConcept]] | 
 
 
 

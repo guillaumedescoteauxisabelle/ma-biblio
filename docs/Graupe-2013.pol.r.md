@@ -1,4 +1,12 @@
 
+# Principles of artificial neural networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/YDZ46GY5)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
+
 
 ![](12GS5u1LcmetV5UhzE4n.png)
 

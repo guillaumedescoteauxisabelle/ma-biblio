@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](12Q6mouXwsBkg5uiG5jm.png)
 ![](1SRo374Zez319G6J6tNS.png)
 ![](1aDhRUc3ULqiGTzNRn2L.png)
@@ -85,7 +85,15 @@ Quel est le type de recherche ? Explicative. Exploration des corrélations entre
 
 ----
 
-##### Section annotation polaire
+
+
+# La matière comme générateur d’expérience au sein des espaces intérieurs : Peter Zumthor et l’esthétique des atmosphères
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/MQQISANR)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 
 
 ![](12Q6mouXwsBkg5uiG5jm.png)

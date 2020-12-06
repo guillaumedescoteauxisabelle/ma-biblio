@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 
 
 
@@ -30,7 +30,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Semi-automated creativity: software as a creative collaborator
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/3LAVEEGU)    | paper-conference      | [Src Url](http://doi.org/10.1145/2069618.2069743)      |
+|       |       |       |
+|       |       |       |
+
 Semi-Automated Creativity:
 
 

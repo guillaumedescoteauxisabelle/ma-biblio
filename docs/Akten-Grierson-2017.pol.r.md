@@ -1,3 +1,11 @@
+
+# Real-time interactive sequence generation and control with Recurrent Neural Network ensembles
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/7KKSHIJZ)    | article-journal      | [Src Url](http://arxiv.org/abs/1612.04687)      |
+|       |       |       |
+|       |       |       |
+
 Real-time interactive sequence generation and control with Recurrent Neural Network ensembles
 =============================================================================================
 
@@ -27,7 +35,8 @@ Long Short Term Memory (LSTM) RNNs, are a popular and very successful method for
 
   
 
-#problematic
+#problematic  
+  [[AIProblematic]] | 
 
 
 
@@ -192,7 +201,8 @@ ll does not provide real-time continuous control in the manner required for the 
 
   
 
-#problematic
+#problematic  
+  [[AIProblematic]] | 
 
 
 

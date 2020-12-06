@@ -1,3 +1,11 @@
+
+# L’instrumentation dans la collecte de données
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/HQGVA9SG)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Le journal de bord du chercheur
 
 

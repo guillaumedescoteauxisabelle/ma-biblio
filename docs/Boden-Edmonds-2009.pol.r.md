@@ -1,3 +1,11 @@
+
+# What is generative art?
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/VPTVB8MS)    | article-journal      | [Src Url](https://www.tandfonline.com/doi/full/10.1080/14626260902867915)      |
+|       |       |       |
+|       |       |       |
+
 What is generative art?
 =======================
 
@@ -27,25 +35,30 @@ In other words, rule-driven systems appear to have a greater degree of autonomy,
 
 
 
-autonomy is a concept that’s closely connected with art-making
+autonomy is a concept that’s closely connected with art-making  
+  [[ArtConcept]] | 
 
 
 
 > [...] computer artists are more comfortable in speaking of ‘generative art’ where the system is rule-driven, not algorithmic - and why they usually avoid step-by-step programming.
 
-What is a \*\*rule-driven\** system?
+What is a \*\*rule-driven\** system?  
+  [[GenerativeArt]] | [[ref2011081831]] | [[RuleDriveVSStepByStepProgramming]] | [[RuleDriven]] | 
 
 
 
-Yet another problematic area concerns aesthetic evaluation. Are entirely novel aesthetic considerations relevant for CG-art in general, or for some subclass of it? And are some aesthetic criteria, normally regarded as essential, utterly out of place in CG-art: authenticity, for instance?
+Yet another problematic area concerns aesthetic evaluation. Are entirely novel aesthetic considerations relevant for CG-art in general, or for some subclass of it? And are some aesthetic criteria, normally regarded as essential, utterly out of place in CG-art: authenticity, for instance?  
+  [[AIProblematic]] | [[ref2011081831]] | 
 
 
 
-We’ll see that judgements concerning creativity, authorial responsibility, agency, autonomy, authenticity and (sometimes) ontology are even more problematic outside the precious bubble than inside it.
+We’ll see that judgements concerning creativity, authorial responsibility, agency, autonomy, authenticity and (sometimes) ontology are even more problematic outside the precious bubble than inside it.  
+  [[AIProblematic]] | [[ArtProblematic]] | [[ref2011081831]] | 
 
 
 
-Generative art enables the artist to concentrate on the underlying rules themselves: the structures that define the artwork, as against the surface. (This is a position clearly associ- ated with distaste for decoration and ornament.)
+Generative art enables the artist to concentrate on the underlying rules themselves: the structures that define the artwork, as against the surface. (This is a position clearly associ- ated with distaste for decoration and ornament.)  
+  [[GAConcept]] | [[ref2011081831]] | [[GenerativeArt]] | 
 
 
 
@@ -54,7 +67,8 @@ A taxonomy of generative art
 
 
 
-Our taxonomy distinguishes eleven types of art. We call them Ele-art, C-art, D-art, CA-art, G-art, CG-art, Evo-art, R-art, I-art, CI-art and VR-art.
+Our taxonomy distinguishes eleven types of art. We call them Ele-art, C-art, D-art, CA-art, G-art, CG-art, Evo-art, R-art, I-art, CI-art and VR-art.  
+  [[GATaxonomy]] | [[ref2011081831]] | 
 
 
 
@@ -73,7 +87,8 @@ See: [[Ezratty-2018]]   [[SymbolicComputation]]
 What is connectionnist computation ?
 ------------------------------------
 
-See: [[Ezratty-2018]]   \ [\ [ConnectionnistComputation\] \] 
+See: [[Ezratty-2018]]   \ [\ [ConnectionnistComputation\] \]   
+  [[AIType]] | [[ConnectionnistComputation]] | [[SymbolicComputation]] | 
 
 
 
@@ -93,7 +108,8 @@ Fiche de lecture avec une certaine orientation (utilisé dans l'article)
 
 **Cet article est une étude de cas emblématique des pratiques artistiques de Memo Akten en collaboration avec intelligence artificielle.  Après avoir exposé une taxonomie de l’art génératif, cet article fera une étude de cas des œuvres de Akten en relation à la technologie des réseaux neuronaux convolutifs (RNC).  On examinera dans ce contexte ce que produisent les RNCs dans sa production artistique.**
 
- [[OUVRIR DOC]](https://docs.google.com/document/d/1JEWJFFEM7HIb4k7bhwjPgWVemnpp5zLqdGLDjtfoUpc/edit#)
+ [[OUVRIR DOC]](https://docs.google.com/document/d/1JEWJFFEM7HIb4k7bhwjPgWVemnpp5zLqdGLDjtfoUpc/edit#)  
+  [[ArticleAkten]] | [[ref2011081831]] | [[Taxonomiser]] | [[ref2011141130]] | 
 
 
 
@@ -120,7 +136,8 @@ Fiche de lecture avec une certaine orientation (utilisé dans l'article)
 |   8.    |  R-art    | R-art  is the construction of robots for artistic purposes, where robots are physical machines capable of autonomous move- ment and / or communication.      |       |
 |  9.     |  I-art    |  In I-art, the form / content of the artwork is significantly affected by the behaviour of the audience.      |       |
 |   10.    |  CI-art     |  In CI-art, the form / content of some CG-artwork is significantly affected by the behaviour of the audience.     |
-|   11.    |   VR-art    |  In VR-art, the observer is immersed in a computer-generated virtual world, experiencing it and responding to it as if it were real.     |       |
+|   11.    |   VR-art    |  In VR-art, the observer is immersed in a computer-generated virtual world, experiencing it and responding to it as if it were real.     |       |  
+  [[GATaxonomy]] | [[Taxonomy]] | [[ref2011141130]] | 
 
 
 

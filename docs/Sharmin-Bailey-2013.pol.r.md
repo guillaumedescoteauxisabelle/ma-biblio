@@ -1,3 +1,11 @@
+
+# ReflectionSpace: an interactive visualization tool for supporting reflection- <i>on</i> -action in design
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/BAUYF4X7)    | paper-conference      | [Src Url](http://dl.acm.org/citation.cfm?doid=2466627.2466645)      |
+|       |       |       |
+|       |       |       |
+
 ReflectionSpace: An Interactive Visualization Tool for Supporting Reflection - on - action in Design
 
 
@@ -13,7 +21,8 @@ APA7: Sharmin, M., & Bailey, B. P. (2013). ReflectionSpace: An interactive visua
 > [...] reflection-in-action has been often studied, reflection-on-action has received less attention.  
   
 
-#problematic
+#problematic  
+  [[Problematic]] | 
 
 
 

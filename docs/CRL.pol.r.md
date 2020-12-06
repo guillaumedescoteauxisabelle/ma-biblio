@@ -1,3 +1,11 @@
+
+# Le compte rendu de lecture - Departement des sciences historiques
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/YET3G3JG)    | webpage      | [Src Url](https://www.hst.ulaval.ca/services-et-ressources/guides-pedagogiques/le-compte-rendu-de-lecture/)      |
+|       |       |       |
+|       |       |       |
+
 situer l’essentiel
 
 

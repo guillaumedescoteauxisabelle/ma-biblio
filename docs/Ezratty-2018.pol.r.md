@@ -1,3 +1,11 @@
+
+# Les usages de l'intelligence artificielle
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/P9MXYVLK)    | article-journal      | [Src Url](https://hopitalweb2.com/wp-content/uploads/2018/11/Usages-intelligence-artificielle-2018-Olivier-Ezratty.pdf)      |
+|       |       |       |
+|       |       |       |
+
 Histoire et sémantique de l’IA
 
 
@@ -20,7 +28,8 @@ Le cerveau met d’ailleurs en œuvre une logique bayésienne pour ses propres p
 
 
 
-Il existe des problèmes trop complexes pour les ordinateur
+Il existe des problèmes trop complexes pour les ordinateur  
+  [[AIProblematic]] | 
 
 
 
@@ -44,7 +53,8 @@ Chercher un "expert en IA" 3 revient maintenant à demander "un expert en logici
 
 
 
- [...] de nombreux outils de développement et d’intégration arrivent sur le marché qui permettent à des développeurs moins qualifiés, voire même à des cadres, de créer eux-mêmes des solutions intégrant des briques d’IA.
+ [...] de nombreux outils de développement et d’intégration arrivent sur le marché qui permettent à des développeurs moins qualifiés, voire même à des cadres, de créer eux-mêmes des solutions intégrant des briques d’IA.  
+  [[AIReview]] | 
 
 
 
@@ -130,7 +140,8 @@ Dans le domaine du raisonnement automatisé, l’IA est censée apporter une rat
 
 
 
-Celle-ci (IH) est encore unique dans la capacité à réagir avec discernement face à des situations nouvelles, à tirer profit de circonstances fortuites, à discerner le sens de messages ambigus ou contradictoires, à juger de l'importance relative de différents éléments d'une situation, à trouver des similitudes entre des situations malgré leurs différences, à établir des distinctions entre des situations malgré leurs similitudes, à synthétiser de nouveaux concepts malgré leurs différences ou à trouver de nouvelles idées
+Celle-ci (IH) est encore unique dans la capacité à réagir avec discernement face à des situations nouvelles, à tirer profit de circonstances fortuites, à discerner le sens de messages ambigus ou contradictoires, à juger de l'importance relative de différents éléments d'une situation, à trouver des similitudes entre des situations malgré leurs différences, à établir des distinctions entre des situations malgré leurs similitudes, à synthétiser de nouveaux concepts malgré leurs différences ou à trouver de nouvelles idées  
+  [[IH]] | 
 
 
 
@@ -539,11 +550,13 @@ Force brute et arbres de recherche
 
 
 
-La force brute est l'inverse métaphorique de l'intelligence. C'est un moyen courant de simuler l'intelligence humaine ou de la dépasser.
+La force brute est l'inverse métaphorique de l'intelligence. C'est un moyen courant de simuler l'intelligence humaine ou de la dépasser.  
+  [[IA-DEF-ForceBrute]] | 
 
 
 
-La force brute n'est opérationnelle que si la combinatoire à tester reste dans l'enveloppe de puissance de l'ordinateur
+La force brute n'est opérationnelle que si la combinatoire à tester reste dans l'enveloppe de puissance de l'ordinateur  
+  [[IA-LIMITE]] | 
 
 
 
@@ -563,7 +576,8 @@ La force brute est utilisée dans de nombreux domaines comme dans les moteurs de
 
 
 
-La force brute s’est aussi généralisée parce que la puissance des ordinateurs le permet : ils tournent plus vite, sont distribuables, le stockage coûte de moins en moins cher, les télécommunications sont abordables et les capteurs de plus en plus nombreux, des appareils photo/vidéo des smartphones aux capteurs d’objets connectés divers.
+La force brute s’est aussi généralisée parce que la puissance des ordinateurs le permet : ils tournent plus vite, sont distribuables, le stockage coûte de moins en moins cher, les télécommunications sont abordables et les capteurs de plus en plus nombreux, des appareils photo/vidéo des smartphones aux capteurs d’objets connectés divers.  
+  [[IA-Etat]] | 
 
 
 
@@ -572,7 +586,8 @@ Méthodes statistiques
 
   
 
-Les méthodes statistiques et notamment bayésiennes permettent de prévoir la probabilité d'événements en fonction de l'analyse d'événements passés.
+Les méthodes statistiques et notamment bayésiennes permettent de prévoir la probabilité d'événements en fonction de l'analyse d'événements passés.  
+  [[IA-A-Predict]] | 
 
 
 

@@ -1,4 +1,12 @@
 
+# Defining AI Arts: Three Proposals
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/4GH6XRE7)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
+
 
 ![](12fahwPj6ojzsUCzp8aK.png)
 

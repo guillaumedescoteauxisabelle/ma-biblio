@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Practice-led Research, Research- led Practice in the Creative Arts
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/BGR3MUWX)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Practice-led Research, Research-led Practice in the Creative Arts
 -----------------------------------------------------------------
 
@@ -71,7 +79,8 @@ model for the interaction of creative practice and research
 
 
 
-criticism and historical investigation have been heavily prioritised over arts practice.
+criticism and historical investigation have been heavily prioritised over arts practice.  
+  [[ArtProblematic]] | 
 
 
 

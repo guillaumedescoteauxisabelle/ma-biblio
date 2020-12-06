@@ -1,3 +1,11 @@
+
+# Les casual games : définition à l’aide du savoir professionnel des designers de jeu
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/NQX8SRXI)    | thesis      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Les casual games : définition à l’aide du savoir professionnel des designers de jeu
 
 
@@ -122,7 +130,8 @@ En tentant de répondre à la question « qu’est-ce qu’un jeu casual ? »,
 
 
 
-4.2.2 Comment collecter le savoir professionnel ?
+4.2.2 Comment collecter le savoir professionnel ?  
+  [[Schon]] | 
 
 
 
@@ -233,7 +242,8 @@ garantir l’anonymat de nos participants.
 
   
 
-#ethical
+#ethical  
+  [[Ethical]] | 
 
 
 

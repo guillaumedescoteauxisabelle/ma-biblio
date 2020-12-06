@@ -1,3 +1,11 @@
+
+# Neural style transfer: a paradigm shift for image-based artistic rendering?
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/CJCMQPCW)    | paper-conference      | [Src Url](https://dl-acm-org.sbiproxy.uqac.ca/doi/abs/10.1145/3092919.3092920)      |
+|       |       |       |
+|       |       |       |
+
 stylization
 
 

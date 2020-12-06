@@ -1,4 +1,12 @@
 
+# Deep learning and neural networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/HSCZYJQF)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
+
 
 ![](1YiCZM4bB9sbHgp5L8Yw.png)
 

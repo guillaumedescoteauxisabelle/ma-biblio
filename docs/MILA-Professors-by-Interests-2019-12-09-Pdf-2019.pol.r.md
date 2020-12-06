@@ -1,3 +1,11 @@
+
+# MILA - Professors-by-interests-2019-12-09.pdf
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/UTS4KT2I)    | article      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 MILA - PROFESSORS BY RESEARCH INTERESTS
 =======================================
 
@@ -34,7 +42,8 @@ Generative models (Professor's Interested)
 
 * Simon Lacoste-Julien
 
-* Yoshua Bengio
+* Yoshua Bengio  
+  [[MILA]] | [[AIResources]] | 
 
 
 
@@ -81,7 +90,8 @@ DL (Professor's Interested in Deep-Learning)
 
 \* William L. Hamilton
 
-\* Yoshua Bengio
+\* Yoshua Bengio  
+  [[MILA]] | 
 
 
 
@@ -108,7 +118,8 @@ RL (Professor's Interested in Reinforcement Learning)
 
 * Pierre-Luc Bacon
 
-* Yoshua Bengio
+* Yoshua Bengio  
+  [[MILA]] | [[AIResources]] | 
 
 
 

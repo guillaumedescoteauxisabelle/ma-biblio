@@ -1,3 +1,11 @@
+
+# A Neural Algorithm of Artistic Style
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/86EYYRWX)    | article-journal      | [Src Url](http://arxiv.org/abs/1508.06576)      |
+|       |       |       |
+|       |       |       |
+
 A Neural Algorithm of Artistic Style
 ====================================
 
@@ -15,7 +23,8 @@ APA7: Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). A Neural Algorithm of Art
 
 
 
-In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the content and style of an image
+In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the content and style of an image  
+  [[NSTContext]] | [[ref2012031450]] | 
 
 
 
@@ -23,7 +32,8 @@ The system uses neural representations to separate and recombine content and sty
 
 
 
- [...] an algorithmic understanding of how humans create and perceive artistic imagery.  (Gatys et al., 2015)
+ [...] an algorithmic understanding of how humans create and perceive artistic imagery.  (Gatys et al., 2015)  
+  [[NSTGoal]] | 
 
 
 
@@ -36,7 +46,8 @@ Convolutional Neural Networks consist of layers of small computational units tha
 
 
 > [...] composing a complex interplay between the content and style of an image
----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------  
+  [[ref2012031450]] | 
 
 
 

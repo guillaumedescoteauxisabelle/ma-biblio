@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Perception and Artistic Style
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/YB3I3XQ5)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 PERCEPTION AND ARTISTIC STYLE
 
 
@@ -38,7 +46,8 @@ How does the process of developping a style works ?
 
 
 
-Style and content can be seen to be independent of each other and viewers may be moved by either, even though in the greatest works the two aspects harmonise and complement each other.
+Style and content can be seen to be independent of each other and viewers may be moved by either, even though in the greatest works the two aspects harmonise and complement each other.  
+  [[ref2012031450]] | 
 
 
 
@@ -47,22 +56,26 @@ An examination of some of the intrinsic characteristics of the eye (eye used her
 
 
 Flemish style
-=============
+=============  
+  [[StyleExample]] | 
 
 
 
 High Cubist Style
-=================
+=================  
+  [[StyleExample]] | 
 
 
 
 American Primitive Style
-========================
+========================  
+  [[StyleExample]] | 
 
 
 
 Baroque style
-=============
+=============  
+  [[StyleExample]] | 
 
 
 

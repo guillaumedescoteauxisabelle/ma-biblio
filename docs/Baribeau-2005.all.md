@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# L’instrumentation dans la collecte de données
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/HQGVA9SG)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 Le journal de bord du chercheur
 
 

@@ -6,8 +6,16 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
-##### Section annotation polaire
+
+
+
+# Structure in Art Practice: Technology as an Agent for Concept Development
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/DUKGPCZM)    | article-journal      | [Src Url](https://doi.org/10.1162/002409402753689344)      |
+|       |       |       |
+|       |       |       |
+
 Structure in Art Practice: Technology as an Agent for Concept Development
 =========================================================================
 
@@ -23,11 +31,13 @@ APA7: Edmonds, E. (2002). Structure in Art Practice: Technology as an Agent for 
 
 Les ordinateurs nous aide avec la structure sous-jascente.
 
-> [...] computer provides a significant enhancement to our ability to handle and consider the underlying structures of art-works and art systems in the many forms that they may take. (Edmonds, 2002, p.1)
+> [...] computer provides a significant enhancement to our ability to handle and consider the underlying structures of art-works and art systems in the many forms that they may take. (Edmonds, 2002, p.1)  
+  [[ref2011081831]] | [[UnderlyingStructure]] | [[CreativeOrientation]] | 
 
 
 
->We are able to define an underlying structure in a logic programming language [...]   (Edmonds, 2002, p.68)
+>We are able to define an underlying structure in a logic programming language [...]   (Edmonds, 2002, p.68)  
+  [[UnderlyingStructure]] | [[Programming]] | [[ref2011081831]] | 
 
 
 

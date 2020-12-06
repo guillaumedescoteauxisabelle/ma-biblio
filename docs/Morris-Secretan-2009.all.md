@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 
 
 
@@ -31,7 +31,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Computational creativity support: using algorithms and machine learning to help people be more creative
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/F5NUM3JH)    | paper-conference      | [Src Url](http://doi.org/10.1145/1520340.1520728)      |
+|       |       |       |
+|       |       |       |
+
 Computational Creativity Support
 
 

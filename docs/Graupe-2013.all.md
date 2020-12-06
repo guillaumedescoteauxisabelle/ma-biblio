@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](f8e38e91-32d6-4277-ac34-f0b9c81bd38e)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Principles of artificial neural networks
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/YDZ46GY5)    | book      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 
 
 ![](12GS5u1LcmetV5UhzE4n.png)

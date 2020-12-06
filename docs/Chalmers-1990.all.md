@@ -6,7 +6,7 @@ Fiche créée par Guillaume D.Isabelle, 2020
 ### HashTagged 
 
 
-##### Section carte de lecture polaire
+
 ![](4e1decfc-8e34-4396-bf0c-302abf08a6d0)
 
 
@@ -15,7 +15,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 ----
 
-##### Section annotation polaire
+
+
+# Qu'est-ce que la science ?
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/T2CWCHU6)    | article-journal      | [Src Url](undefined)      |
+|       |       |       |
+|       |       |       |
+
 **L'étude du raisonnement déductif constitue l'objet de la logique**
 
   

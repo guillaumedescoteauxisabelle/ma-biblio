@@ -1,3 +1,11 @@
+
+# Learning to see: you are what you see
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/IN9DFCGU)    | paper-conference      | [Src Url](http://doi.org/10.1145/3306211.3320143)      |
+|       |       |       |
+|       |       |       |
+
 Learning to See
 ===============
 
@@ -59,11 +67,13 @@ We might even go as far as to claim that the model contains knowledge of the str
 
  [...] offer a range of potential creative affordances
 
-#goal
+#goal  
+  [[AIGoal]] | 
 
 
 
-m.akten@gold.ac.uk
+m.akten@gold.ac.uk  
+  [[AIContact]] | 
 
 
 

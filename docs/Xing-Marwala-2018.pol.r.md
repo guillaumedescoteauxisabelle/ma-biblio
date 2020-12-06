@@ -1,6 +1,15 @@
+
+# Creativity and Artificial Intelligence: A Digital Art Perspective
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|   [ZotWeb](http://zotero.org/users/180474/items/JJSY2JZT)    | article-journal      | [Src Url](https://arxiv.org/abs/1807.08195v1)      |
+|       |       |       |
+|       |       |       |
+
  [...] application of artificial intelligence (AI) to the creation of digital art.
 
-#context
+#context  
+  [[AIContext]] | 
 
 
 
@@ -102,7 +111,8 @@ Opportunities on the applications of these to digital art are explored.
 
   
 
-#problematic
+#problematic  
+  [[AIProblematic]] | 
 
 
 
