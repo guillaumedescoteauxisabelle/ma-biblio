@@ -18,11 +18,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Le Coffre à outils du chercheur débutant
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/YZFV2JAG)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/YZFV2JAG)    | book      |       |
+|   [Src Url](undefined)    |  [[Létourneau]] (2006)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+Conçu comme un manuel d''initiation au travail intellectuel, ce guide d''ordre essentiellement pratique s''adresse aux étudiants des collèges et des universités.Le coffre à outils du chercheur débutant comporte deux grandes parties. Dans la première, intitulée « Les savoir-faire pratiques », l''étudiant apprendra à :•rédiger un compte rendu de lecture ;•analyser un document écrit ;•analyser un document iconographique ;•faire une recherche en bibliothèque, sur Internet ;•enquêter auprès d''informateurs.Dans la seconde partie, qui expose en détail les différentes étapes de réalisation d''un travail de recherche, l''étudiant apprendra comment :•circonscrire un sujet de recherche ;•rédiger un plan de travail ;•communiquer sa pensée par écrit ;•présenter les références bibliographiques.Recourant largement à l''exemple, ce guide constitue un instrument d''apprentissage indispensable pour tout étudiant, que ce soit en sciences sociales, en lettres, en sciences de l''administration ou en sciences naturelles.
+
+----
+
+## Annotations
 
 STRATÉGIE DE VÉRIFICATION
 
@@ -103,7 +115,9 @@ Certains concepts peuvent être suffisamment précis pour devenir automatiquemen
 
 
 Le concept est un mot, ou une expression, que les chercheurs ont emprunté au vocabulaire courant ou construit de toute pièce pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent étudier scientifiquement. C’est une représentation abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au phénomène réel qui, de toute façon, ne peut jamais être complètement connu  
-  [[LeConcept]] | [[SurLaRecherche]] | 
+[[LeConcept]] | [[SurLaRecherche]] 
+
+
 
 
 

@@ -21,11 +21,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Deep learning and neural networks
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/HSCZYJQF)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/HSCZYJQF)    | book      |       |
+|   [Src Url](undefined)    |  [[Heaton]] (2013)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 
 

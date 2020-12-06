@@ -19,21 +19,21 @@ Qu'est-ce que la connaissance directe?
 
 
 
+Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
+              
+              Une compression de la source.
+              
+
+----
+
+
+
 <!--- o:1.2.1 -->  
 <!--- y:txt -->  
   
 >"Un bon compte rendu de lecture permet de comprendre l'essentiel d'un texte, forme et fond, sans avoir à le lire soi-même en entier" (p. 1)  
 
 
-
-----
-
-
-
-Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
-              
-              Une compression de la source.
-              
 
 ----
 
@@ -150,8 +150,8 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
-Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
-              
+  
+            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
               
               
 
@@ -159,8 +159,8 @@ Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce
 
 
 
-  
-            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
+Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
+              
               
               
 
@@ -239,15 +239,6 @@ Situer l'essentiel d'une étude publiée
 
 
 
-Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.  
-              
-              
-              
-
-----
-
-
-
 Quels-sont ces actions ?  
               
               
@@ -266,8 +257,8 @@ Lire (raisonné)
 
 
 
-  
-            Prendre connaissance du contenu  
+Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.  
+              
               
               
 
@@ -286,6 +277,15 @@ Lire (raisonné)
 
 Analyser  
               
+              
+              
+
+----
+
+
+
+  
+            Prendre connaissance du contenu  
               
               
 
@@ -576,21 +576,21 @@ Qu'est-ce que la structure d'un texte? Existe-t'il des exemples de structure de 
 
 
 
-Qu'est-ce qu'un concept? Comment discerner un concepteur principal d'un concept de secondaire?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.1.5.1 -->  
 <!--- y:txt -->  
   
 >"les principaux concepts;" (p. 31)  
 
 
+
+----
+
+
+
+Qu'est-ce qu'un concept? Comment discerner un concepteur principal d'un concept de secondaire?  
+              
+              
+              
 
 ----
 
@@ -866,17 +866,6 @@ Contenu de la section Introduction
 
 
 
-<!--- o:3.1.15.1 -->  
-<!--- y:txt -->  
-  
->"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
-
-
-
-----
-
-
-
   
               
               
@@ -890,6 +879,17 @@ Et en conclusion il y a beaucoup de questions à se poser mais un truc particuli
               
               
               
+
+----
+
+
+
+<!--- o:3.1.15.1 -->  
+<!--- y:txt -->  
+  
+>"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
+
+
 
 ----
 
@@ -1393,39 +1393,10 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 
-Quels termes nécessites d'etre expliqué ?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.1.20.1 -->  
 <!--- y:txt -->  
   
 >"À cette fin, il faut se reporter non pas à un dictionnaire linguistique courant, mais à des instruments mieux adaptés aux besoins de l’analyse historienne: lexiques historiques, encyclopédies et dictionnaires spécialisés en histoire et en sciences sociales" (p. 3.2.1)  
-
-
-
-----
-
-
-
-Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels sont les outils nécessaires pour faire l'analyse du texte d'un compte rendu?  
-              
-              
-              
-
-----
-
-
-
-<!--- o:3.2.1.22.1 -->  
-<!--- y:txt -->  
-  
->"Au bout de votre réflexion et dans votre travail, vous devrez formuler l'objectif de l’auteure" (p. 3.2.1)  
 
 
 
@@ -1453,7 +1424,36 @@ Objectif de l'auteur
 
 
 
+Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels sont les outils nécessaires pour faire l'analyse du texte d'un compte rendu?  
+              
+              
+              
+
+----
+
+
+
+<!--- o:3.2.1.22.1 -->  
+<!--- y:txt -->  
+  
+>"Au bout de votre réflexion et dans votre travail, vous devrez formuler l'objectif de l’auteure" (p. 3.2.1)  
+
+
+
+----
+
+
+
 Qu'est-ce qui est mis en évidence dans cette étape? Ce qui est étudié, à prouver, analyser, explication, démonstration  
+              
+              
+              
+
+----
+
+
+
+Quels termes nécessites d'etre expliqué ?  
               
               
               

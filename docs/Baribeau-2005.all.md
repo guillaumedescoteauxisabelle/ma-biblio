@@ -10,11 +10,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # L’instrumentation dans la collecte de données
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/HQGVA9SG)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/HQGVA9SG)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Baribeau]]     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 Le journal de bord du chercheur
 

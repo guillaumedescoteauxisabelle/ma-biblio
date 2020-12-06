@@ -18,11 +18,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Principles of artificial neural networks
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/YDZ46GY5)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/YDZ46GY5)    | book      |       |
+|   [Src Url](undefined)    |  [[Graupe]] (2013)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 
 

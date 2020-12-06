@@ -34,8 +34,8 @@
 | 2.3.2.2 |  @a |  Analyser  |   |   |
 | 2.3.2.3 |  @a |   Synthétiser |   |   |
 | 2.3.2.4 |  @a |   Critiquer |   |   |
-| 2.4.1 |  txt |    |   OBSERVATION|   |
 | 2.4.2|  dic |     Je trouve que les objectifs pourrait être plus complet que cela pour mon propre méthode de compte rendu.   |   |   |
+| 2.4.1 |  txt |    |   OBSERVATION|   |
 | 3.0.1.1 |  txt |    |   "Étapes de la démarche" (p. 3)|   |
 | 3.0.1.2|  dic |     Quels sont les étapes?   |   |   |
 | 3.0.2.1 |  txt |    |   "Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)|   |
@@ -66,14 +66,14 @@
 | 3.1.6.1 |  txt |    |   "l'idée principale et les idées secondaires;" (p. 31)|   |
 | 3.1.6.2.1|  info |     Qu'est-ce qu'une idée?   |   |   |
 | 3.1.6.2.2|  info |     Qu'est-ce qu'une idée? Comment distinguer une idée principale d'une secondaire ?   |   |   |
-| 3.1.7.1 |  txt |    |   "les démonstrations" (p. 31)|   |
-| 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
 | 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
-| 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
-| 3.1.8.2|  dic |     Qu'est-ce qu'une conclusion? Comment arrive-t-on à conclure quelque chose?   |   |   |
+| 3.1.7.1 |  txt |    |   "les démonstrations" (p. 31)|   |
 | 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
+| 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
+| 3.1.8.2|  dic |     Qu'est-ce qu'une conclusion? Comment arrive-t-on à conclure quelque chose?   |   |   |
 | 3.1.7.2.2.1|   |      |   |   |
 | 3.1.9.1 |  txt |    |   "interprétations" (p. 31)|   |
+| 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
 | 3.1.9.2.1|  info |     Qu'est-ce qu'une interprétation?   |   |   |
 | 3.1.9.2.1.1|   |       |   |   |
 | 3.1.9.2.2|  info |    Pourquoi faisons-nous une interprétation?    |   |   |
@@ -100,23 +100,23 @@
 | 3.2.0.2.2|  dic |     Rendre compte. La façon de travailler de l'auteur. Sa démarche scientifique.   |   |   |
 | 3.2.0.2.3|  dic |      Quelle est la démarche scientifique de l'auteur?   |   |   |
 | 3.2.0.3.1 |  txt |    |   "Il s’agit pour vous de repérer les éléments suivants :" (p. 3.2)|   |
-| 3.2.0.3.2|  dic |     Éléments à extraire   |   |   |
 | 3.2.0.4.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2)|   |
 | 3.2.0.4.2|  dic |     Qu'est-ce qu'il visée d'atteindre par l'auteur? Quelle est son intention avec cette publication?   |   |   |
 | 3.2.0.5.1 |  txt |    |   "Les moyens employés par l’auteure" (p. 3.2)|   |
 | 3.2.0.5.2|  dic |     Sagis-t-il de la méthodologie?   |   |   |
+| 3.2.0.3.2|  dic |     Éléments à extraire   |   |   |
 | 3.2.0.6.1 |  txt |    |   "Le plan choisi par l’auteure" (p. 3.2)|   |
 | 3.2.0.6.2|  dic |     Planification. Qu'est-ce qu'un plan? Qu'est-ce qu'un plan d'écriture? Est-ce un plan de recherche?   |   |   |
-| 3.2.0.7.1 |  txt |    |   Notes|   |
 | 3.2.0.7.2|  dic |     En gros les sous-section vont éclairer plus amplement ce que discuté dans cette introduction du point.   |   |   |
 | 3.2.1.1.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2.1)|   |
+| 3.2.0.7.1 |  txt |    |   Notes|   |
 | 3.2.1.1.2|  dic |     Titre de la section   |   |   |
 | 3.2.1.2.1 |  txt |    |   "Selon les cas, l'étude peut commencer par une indication expresse de ses intentions, ou une simple désignation générale du sujet traité, ou ne donner aucune indication de cet ordre" (p. 3.2.1)|   |
 | 3.2.1.3.1 |  txt |    |   "Il vous revient, dans tous les cas, d'identifier précisément la nature exacte du projet qui a donné naissance à la publication savante dont vous rendrez compte" (p. 3.2.1)|   |
-| 3.2.1.2.2|  dic |     Il peut y avoir une indication des intentions. Voir s'il y a une désignation générale du sujet traité? Il se peut qu'il n'y a aucune indication des intentions   |   |   |
 | 3.2.1.3.2|  dic |     Qu'est-ce qui a donné naissance à la publication?    |   |   |
 | 3.2.1.3.2|  dic |      quelle est la nature exacte du projet?   |   |   |
 | 3.2.1.4.1 |  txt |    |   "En voici quelques exemples : transmettre une information ordonnée (narration), faire connaître un nouveau document original, discuter des conclusions des travaux existants, proposer une interprétation ou une explication originale, vérifier une hypothèse, soutenir une thèse" (p. 3.2.1)|   |
+| 3.2.1.2.2|  dic |     Il peut y avoir une indication des intentions. Voir s'il y a une désignation générale du sujet traité? Il se peut qu'il n'y a aucune indication des intentions   |   |   |
 | 3.2.1.4.2|  dic |     Choix possibles. Soit possible de la nature exacte du projet. Ces éléments donne une bonne idée de la motivation de rédaction.   |   |   |
 | 3.2.1.6.1 |  txt |    |   "? N'oubliez pas que le titre de l'article, du chapitre ou du livre contient en général des indices en ce sens" (p. 3.2.1)|   |
 | 3.2.1.6.2|  dic |     Le titre de l'article peut contenir des indications de la nature exacte du projet.   |   |   |
@@ -138,8 +138,8 @@
 | 3.2.1.15.2|  dic |     Résolution de questionnement   |   |   |
 | 3.2.1.16.1 |  txt |    |   "Quelle hypothèse entreprend-elle de vérifier?" (p. 3.2.1)|   |
 | 3.2.1.16.2|  clarification |     Hypothèse. Clarifier la définition d'une hypothèse? Qu'est-ce qu'une hypothèse dans un cadre conceptuel artistique? Pour un artiste, qu'est-ce que c'est une hypothèse?   |   |   |
-| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.17.2|  dic |     Autre.   |   |   |
+| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.18.1 |  txt |    |   "N’oubliez pas que, pour arriver à cerner correctement l'intention de l'auteur, il s'avère souvent nécessaire de clarifier l'identification de noms de personne ou de lieu, la définition de termes spécifiques à l'histoire de la période ou de la thématique concernées" (p. 3.2.1)|   |
 | 3.2.1.18.2|  dic |     La définition des termes spécifiques est une des actions de cette étape. Il peut y avoir aussi d'autres clarification à effectuer.   |   |   |
 | 3.2.1.19.1 |  txt |    |   "Vous devez également comprendre les termes de vocabulaire inconnus ou ambigus, ainsi que les concepts et notions employées par l’auteure pour comprendre ou expliquer les phénomènes observés" (p. 3.2.1)|   |

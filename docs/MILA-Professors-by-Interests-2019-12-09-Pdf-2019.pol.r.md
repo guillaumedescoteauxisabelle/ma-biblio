@@ -1,10 +1,22 @@
 
 # MILA - Professors-by-interests-2019-12-09.pdf
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/UTS4KT2I)    | article      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/UTS4KT2I)    | article      |       |
+|   [Src Url](undefined)    |       |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 MILA - PROFESSORS BY RESEARCH INTERESTS
 =======================================
@@ -43,7 +55,9 @@ Generative models (Professor's Interested)
 * Simon Lacoste-Julien
 
 * Yoshua Bengio  
-  [[MILA]] | [[AIResources]] | 
+[[MILA]] | [[AIResources]] 
+
+
 
 
 
@@ -91,7 +105,9 @@ DL (Professor's Interested in Deep-Learning)
 \* William L. Hamilton
 
 \* Yoshua Bengio  
-  [[MILA]] | 
+[[MILA]] 
+
+
 
 
 
@@ -119,15 +135,17 @@ RL (Professor's Interested in Reinforcement Learning)
 * Pierre-Luc Bacon
 
 * Yoshua Bengio  
-  [[MILA]] | [[AIResources]] | 
+[[MILA]] | [[AIResources]] 
 
 
 
-Citer: (_MILA - Professors-by-Interests-2019-12-09.Pdf_, 2019)
+
+
+<font size=-3>Citer: (_MILA - Professors-by-Interests-2019-12-09.Pdf_, 2019)
 
 FTag:MILA-Professors-by-Interests-2019-12-09-Pdf-2019
 
-APA7:  _MILA - Professors-by-interests-2019-12-09.pdf_. (2019). [https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf](https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf)
+APA7:  _MILA - Professors-by-interests-2019-12-09.pdf_. (2019). [https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf](https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf)</font>
 
 
 

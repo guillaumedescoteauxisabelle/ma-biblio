@@ -1,0 +1,89 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bib:Article rdf:about="https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chiapello</foaf:surname>
+                        <foaf:givenName>Laureline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_4496"/>
+        <link:link rdf:resource="#item_4480"/>
+        <link:link rdf:resource="#item_4481"/>
+        <dc:subject>Dewey</dc:subject>
+        <dc:subject>ReflectivePractice</dc:subject>
+        <dc:subject>Schon</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2020-03-30</dc:date>
+        <dc:description>ZSCC: 0000000 
+Accepted: 2020-05-28T14:51:24Z</dc:description>
+        <dcterms:dateSubmitted>2020-09-22 01:22:37</dcterms:dateSubmitted>
+        <z:libraryCatalog>papyrus.bib.umontreal.ca</z:libraryCatalog>
+        <z:language>fra</z:language>
+        <dcterms:abstract>Cette thèse se propose d’étudier la pratique créative des designers de jeux sous l’angle de la philosophie pragmatiste. 
+ 
+Le design de jeux a pour ambition de se constituer comme une discipline scientifique. A l’instar des autres disciplines du design, son principal objet d’étude est la pratique. Outre la problématique des savoirs professionnels, le terme « pratique » convoque aussi celle des pratiques pédagogiques qui sous-tendent la formation des praticiens en design de jeux, ainsi que celle des pratiques de recherche scientifique.  
+ 
+En s’inscrivant dans la lignée des travaux de Donald Schön touchant l’épistémologie de la pratique en design, cette thèse explore la philosophie pragmatiste comme approche globale permettant d’étudier aussi bien la pratique du chercheur en design de jeux que la pratique créative des futurs designers de jeux, c’est-à-dire l’apprentissage du processus de design. Nos questions de recherche sont ainsi : 
+1.	Quels sont les auteurs et les cadres conceptuels de la philosophie pragmatiste qui ont le potentiel d’asseoir une nouvelle épistémologie de la pratique ? 
+2.	Comment ces concepts de la philosophie pragmatiste permettent-ils de comprendre et décrire le processus créatif de design de jeux en situation pédagogique ? 
+ 
+Dans un premier temps, les épistémologies dominantes des études en design de jeux et des théories de la créativité sont explorées et critiquées. Puis nous proposons un cadre théorique composé d’une alliance inédite entre les travaux de Donald Schön, Hans Joas, Charles Sanders Peirce et John Dewey. Ces quatre auteurs, par-delà leur appartenance au courant du pragmatisme, partagent un concept central de cette philosophie : celui de l’enquête. En effet, la théorie de l’enquête chez ces auteurs est à la fois une philosophie, une épistémologie et une méthodologie (aussi bien de la recherche que de la pratique). 
+  
+Notre terrain d’expérimentation se focalise sur la pratique et la créativité du designer de jeux. Nous examinons des dizaines de projets de design au sein du Baccalauréat de l’École des arts Numériques, de l’Animation et du Design (NAD – UQAC). Dans une approche de recherche-projet-collaborative inspirée des travaux d’Alain Findeli et Serge Desgagné, nos participants sont les étudiants ainsi que les designers de l’entreprise de jeux vidéo montréalaise Juicy Beast.  
+ 
+Nos résultats proposent une vision où le designer devient un enquêteur (au sens pragmatiste), cherchant à structurer une situation indéterminée. Il doit pour cela dialoguer avec cette situation afin d’éviter de sombrer dans un agir rigide. Il doit aussi valoriser le raisonnement par abduction (raisonnement métaphorique) pour explorer des problèmes et trouver de nouvelles idées de solution. Enfin, il ne peut se contenter « d’avoir des idées » : il doit transformer concrètement la situation à l’aide de différents prototypes. 
+  
+Le modèle de l’enquête pragmatiste informe aussi le processus de la recherche, et le chercheur est à son tour un enquêteur qui examine une situation intellectuelle indéterminée. Notre recherche est ainsi une « enquête sur l’enquête ».  
+La philosophie pragmatiste est une voie épistémologique qui produit des connaissances sur la recherche, la pratique et l’enseignement, participant ainsi à la transformation et l’amélioration du monde.</dcterms:abstract>
+        <dc:title>Le pragmatisme comme épistémologie pour le design de jeux : enquête sur la créativité et le processus de design</dc:title>
+        <z:shortTitle>Le pragmatisme comme épistémologie pour le design de jeux</z:shortTitle>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_4496">
+        <rdf:value>&lt;p&gt;Citer: (Chiapello, 2020)&lt;/p&gt;
+&lt;p&gt;FTag: Chiapello-2020&lt;/p&gt;
+&lt;p&gt;APA7: Chiapello, L. (2020). &lt;em&gt;Le pragmatisme comme épistémologie pour le design de jeux: Enquête sur la créativité et le processus de design&lt;/em&gt;. &lt;a href=&quot;https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384&quot;&gt;https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384&lt;/a&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_4480">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papyrus.bib.umontreal.ca/xmlui/bitstream/1866/23384/6/Laureline_Chiapello_2019_these.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-09-22 01:22:39</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4481">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-09-22 01:22:41</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

@@ -10,24 +10,42 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/K9QEANRA)    | article-journal      | [Src Url](https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0)      |
-|       |       |       |
+|   [ZotWeb](http://zotero.org/users/180474/items/K9QEANRA)    | article-journal      |       |
+|   [Src Url](https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0)    |  [[Akten]] (2016)     |       |
 |       |       |       |
 
+
+## Abstract
+
+This is the first of a series of articles [1, 2, 3], on research I’ve done over the past few years that I’m only just getting round to…
+
+----
+
+## Annotations
+
 Collaborative creativity  
-  [[sujet]] | 
+[[sujet]] 
+
+
 
 
 
 Convolutional Neural Networks  
-  [[sujet]] | 
+[[sujet]] 
+
+
 
 
 
 human-machine collaborative drawing environment  
-  [[AIContext]] | 
+[[AIContext]] 
+
+
 
 
 
@@ -49,7 +67,9 @@ computational models of creativity
   
 
 #context  
-  [[AIContext]] | 
+[[AIContext]] 
+
+
 
 
 
@@ -58,7 +78,9 @@ computational models of creativity
   
 
 #goal  
-  [[AIInvestigation]] | 
+[[AIInvestigation]] 
+
+
 
 
 
@@ -71,14 +93,18 @@ The aim of this research is to create an autonomous, collaborative, ‘creative�
   
 
 #goal  
-  [[AIAgent]] | [[AIDrawing]] | 
+[[AIAgent]] | [[AIDrawing]] 
+
+
 
 
 
 autonomous collaborative creative agent
 
 #concept  
-  [[AIConcept]] | 
+[[AIConcept]] 
+
+
 
 
 
@@ -87,7 +113,9 @@ Monte Carlo Tree Search (MCTS)
   
 
 #concept  
-  [[AIConcept]] | [[AIAgent]] | 
+[[AIConcept]] | [[AIAgent]] 
+
+
 
 
 

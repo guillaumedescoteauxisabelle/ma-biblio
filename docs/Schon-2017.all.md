@@ -20,21 +20,33 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # The Reflective Practitioner : How Professionals Think in Action
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/KY3RPVEQ)    | book      | [Src Url](https://www.taylorfrancis.com/books/9781315237473)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/KY3RPVEQ)    | book      |       |
+|   [Src Url](https://www.taylorfrancis.com/books/9781315237473)    |  [[Schön]] (2017)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+A leading M.I.T. social scientist and consultant examines five professions - engineering, architecture, management, psychotherapy, and town planning - to show
+
+----
+
+## Annotations
 
 The reflective practice of design teams
 
 
 
-Citer: (Valkenburg & Dorst, 1998)
+<font size=-3>Citer: (Valkenburg & Dorst, 1998)
 
 FTag: Valkenburg-Dorst-1998
 
-APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8](https://doi.org/10.1016/S0142-694X(98)00011-8)
+APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design teams. _Design Studies_, _19_(3), 249–271. [https://doi.org/10.1016/S0142-694X(98)00011-8](https://doi.org/10.1016/S0142-694X(98)00011-8)</font>
 
 
 
@@ -49,7 +61,9 @@ APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design te
 **Schon’s paradigm of reflective practice**
 
 **-------------------------------------------------------**  
-  [[Schon]] | 
+[[Schon]] 
+
+
 
 
 
@@ -129,7 +143,9 @@ four activities (naming, framing, moving and reflecting) and their relations: th
 *** Moving**
 
 *** Reflecting**  
-  [[Schon]] | 
+[[Schon]] 
+
+
 
 
 

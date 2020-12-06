@@ -18,11 +18,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Fritz-Choice-Terms-Macrostructural-Charts-2017-07-07
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/5UWKWPG3)    | article      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/5UWKWPG3)    | article      |       |
+|   [Src Url](undefined)    |  [[Fritz]]     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 
 

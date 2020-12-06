@@ -1,10 +1,22 @@
 
 # The Elements of Style, Fourth Edition
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/QK3XRQJC)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/QK3XRQJC)    | book      |       |
+|   [Src Url](undefined)    |  [[Strunk Jr]], [[White]] (2020)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+'The Elements of Style' (1918), by William Strunk, Jr., is an American English writing style guide. It is the best-known, most influential prescriptive treatment of English grammar and usage, and often is required reading and usage in U.S. high school and university composition classes. This edition of 'The Elements of Style' details eight elementary rules of usage, ten elementary principles of composition, "a few matters of form", and a list of commonly misused words and expressions.
+
+----
+
+## Annotations
 
 The Elements of Style
 =====================

@@ -1,23 +1,35 @@
 
 # Practice-led Research, Research- led Practice in the Creative Arts
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/BGR3MUWX)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/BGR3MUWX)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Smith]], [[Dean]] (2009)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 Practice-led Research, Research-led Practice in the Creative Arts
 -----------------------------------------------------------------
 
 
 
-Citer: (Smith & Dean, 2009)
+<font size=-3>Citer: (Smith & Dean, 2009)
 
 FTag:  Smith-Dean-2009
 
 APA7: Smith, H., & Dean, R. T. (2009). _Practice-led Research, Research- led Practice in the Creative Arts_. 27.
 
- [SNote](http://simp.ly/p/s9g3xP)
+ [SNote](http://simp.ly/p/s9g3xP)</font>
 
 
 
@@ -70,7 +82,9 @@ model for the interaction of creative practice and research
 
 
 criticism and historical investigation have been heavily prioritised over arts practice.  
-  [[ArtProblematic]] | 
+[[ArtProblematic]] 
+
+
 
 
 

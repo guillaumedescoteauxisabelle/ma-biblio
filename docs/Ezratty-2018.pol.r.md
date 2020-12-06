@@ -1,10 +1,26 @@
 
 # Les usages de l'intelligence artificielle
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/P9MXYVLK)    | article-journal      | [Src Url](https://hopitalweb2.com/wp-content/uploads/2018/11/Usages-intelligence-artificielle-2018-Olivier-Ezratty.pdf)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/P9MXYVLK)    | article-journal      |       |
+|   [Src Url](https://hopitalweb2.com/wp-content/uploads/2018/11/Usages-intelligence-artificielle-2018-Olivier-Ezratty.pdf)    |  [[Ezratty]] (2018)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+Depuis 2015, l’intelligence artificielle (IA) est devenue l’une des grandes priorités des grands acteurs de l’économie numérique et des entreprises. La vague de l’IA commence à égaler celles de l’Internet et de la mobilité en termes d’impact. Il est plutôt difficile d’y échapper ! C’est devenu un outil de la compétitivité des entreprises aussi bien des secteurs du numérique que du reste de l’économie.
+L’IA est aussi devenue rapidement un sujet de société et un objet politique. Elle génère son lot de questions sur le futur du travail, sur l’éthique, sur la répartition des richesses, sur la souveraineté
+économique et même sur le devenir de l’espèce humaine comme cela a été souligné entre autres
+dans le Rapport de la Mission Villani publié en mars 2018.
+Cette vague technologique est atypique dans plusieurs dimensions. Les technologies et méthodes de l’IA sont méconnues ou assimilées à tors et à travers, y compris par la majorité des professionnels du numérique, d’où la propagation de nombreux mythes à son sujet, un peu trop directement inspirés par la science-fiction ou par les thèses singularistes. On croit par exemple que le « deep learning » ou « apprentissage profond » raisonne alors qu’il ne fait qu’appliquer, en général, des modèles probabilistes. De même, dans le machine learning, l’apprentissage non-supervisé n’est pas de l’apprentissage supervisé autonome. La sémantique de l’IA est donc porteuse de contre-sens qu’il faut décrire et éviter. Le sens même de l’appellation « IA » est sujet à d’infinis débats, trop connotés d’accents anthropomorphiques alors que l’IA est artificielle et donc différente de l’intelligence humaine même si les deux ont quelques zones de recouvrement.
+
+----
+
+## Annotations
 
 Histoire et sémantique de l’IA
 
@@ -29,7 +45,9 @@ Le cerveau met d’ailleurs en œuvre une logique bayésienne pour ses propres p
 
 
 Il existe des problèmes trop complexes pour les ordinateur  
-  [[AIProblematic]] | 
+[[AIProblematic]] 
+
+
 
 
 
@@ -54,7 +72,9 @@ Chercher un "expert en IA" 3 revient maintenant à demander "un expert en logici
 
 
  [...] de nombreux outils de développement et d’intégration arrivent sur le marché qui permettent à des développeurs moins qualifiés, voire même à des cadres, de créer eux-mêmes des solutions intégrant des briques d’IA.  
-  [[AIReview]] | 
+[[AIReview]] 
+
+
 
 
 
@@ -141,7 +161,9 @@ Dans le domaine du raisonnement automatisé, l’IA est censée apporter une rat
 
 
 Celle-ci (IH) est encore unique dans la capacité à réagir avec discernement face à des situations nouvelles, à tirer profit de circonstances fortuites, à discerner le sens de messages ambigus ou contradictoires, à juger de l'importance relative de différents éléments d'une situation, à trouver des similitudes entre des situations malgré leurs différences, à établir des distinctions entre des situations malgré leurs similitudes, à synthétiser de nouveaux concepts malgré leurs différences ou à trouver de nouvelles idées  
-  [[IH]] | 
+[[IH]] 
+
+
 
 
 
@@ -551,12 +573,16 @@ Force brute et arbres de recherche
 
 
 La force brute est l'inverse métaphorique de l'intelligence. C'est un moyen courant de simuler l'intelligence humaine ou de la dépasser.  
-  [[IA-DEF-ForceBrute]] | 
+[[IA-DEF-ForceBrute]] 
+
+
 
 
 
 La force brute n'est opérationnelle que si la combinatoire à tester reste dans l'enveloppe de puissance de l'ordinateur  
-  [[IA-LIMITE]] | 
+[[IA-LIMITE]] 
+
+
 
 
 
@@ -577,7 +603,9 @@ La force brute est utilisée dans de nombreux domaines comme dans les moteurs de
 
 
 La force brute s’est aussi généralisée parce que la puissance des ordinateurs le permet : ils tournent plus vite, sont distribuables, le stockage coûte de moins en moins cher, les télécommunications sont abordables et les capteurs de plus en plus nombreux, des appareils photo/vidéo des smartphones aux capteurs d’objets connectés divers.  
-  [[IA-Etat]] | 
+[[IA-Etat]] 
+
+
 
 
 
@@ -587,7 +615,9 @@ Méthodes statistiques
   
 
 Les méthodes statistiques et notamment bayésiennes permettent de prévoir la probabilité d'événements en fonction de l'analyse d'événements passés.  
-  [[IA-A-Predict]] | 
+[[IA-A-Predict]] 
+
+
 
 
 

@@ -64,11 +64,23 @@ Pourquoi avons-nous besoin de réaliser cette recherche et de connaitre les rés
 
 
 # Recherche sociale: de la problématique à la collecte des données
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/TYBPU2N9)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/TYBPU2N9)    | book      |       |
+|   [Src Url](undefined)    |  [[Gauthier]] (2006)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 La spécification de la problématique
 
@@ -107,7 +119,9 @@ la problématique fournit au lecteur les éléments nécessaires pour justifier 
 
 
 Il y a problème lorsqu'on ressent la nécessité de combler l'écart existant entre une **situation de départ insatisfaisante** et une situation d'arrivée désirable (la **situation satisfaisante** étant considérée comme le **but**).  
-  [[Resoudre]] | [[UnProbleme]] | 
+[[Resoudre]] | [[UnProbleme]] 
+
+
 
 
 
@@ -116,12 +130,16 @@ Résoudre  [...]   c'est trouver les moyens pour annuler cet écart  (Gogueli
 
 
 un problème de recherche se conçoit comme un écart conscient que l'on veut combler entre ce que nous savons, jugé insatisfaisant, et ce que nous devrions savoir, jugé désirable (la situation satisfaisante correspondant au but avoué de la recherche et à sa finalité selon le point de vue adopté).  
-  [[UnProbleme]] | 
+[[UnProbleme]] 
+
+
 
 
 
  [...] la question du savoir désirable [...]   pourquoi étudier une question plutôt qu'une autre? [...]    un thème de recherche trouve sa pertinence lorsqu'il s'inscrit dans **les valeurs de la société**.  
-  [[SurLaRecherche]] | [[UnProbleme]] | 
+[[SurLaRecherche]] | [[UnProbleme]] 
+
+
 
 
 
@@ -132,7 +150,9 @@ pertinent qu'il s'insère dans les préoccupations des praticiens
 Un indice pour évaluer la pertinence d'une recherche peut se faire en regardant le contexte des practiciens et l'état qu'ils désirent atteindre mais n'y arrivent pas.
 
 > [...] la pertinence [...] d'une recherche s'établit en montrant comment elle apporte réponse à certains problèmes des praticiens  
-  [[SurLaRecherche]] | [[ChoixSujet]] | 
+[[SurLaRecherche]] | [[ChoixSujet]] 
+
+
 
 
 
@@ -159,7 +179,9 @@ relever des lacunes très précises dans l'organisation conceptuell
 
 
 démarche, qui part de connaissances théoriques déjà établies pour les valider auprès de données empiriques, est déductive et vérificatoire [...] la théorie est en quête de données concrètes [...]   
-  [[DemarcheRecherche]] | [[SurLaRecherche]] | 
+[[DemarcheRecherche]] | [[SurLaRecherche]] 
+
+
 
 
 
@@ -170,7 +192,9 @@ Selon certaines réalités, il y a un désir de généraliser pour produire de l
 > [démarche] qui part de données empiriques pour construire des catégories conceptuelles et des relations, est **inductive** et **générative**.
 
 > [...]   la réalité est en quête d'une théorie. [Lecompte et Preissle, 1993]( Chevrier, 2006, p.55)  
-  [[DemarcheGenerative]] | [[SurLaRecherche]] | 
+[[DemarcheGenerative]] | [[SurLaRecherche]] 
+
+
 
 
 

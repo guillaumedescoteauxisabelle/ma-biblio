@@ -89,17 +89,29 @@ La réflexion est une **action rationnelle**.
 
 
 # The reflective practice of design teams
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/9Y2R3ZG6)    | article-journal      | [Src Url](https://linkinghub.elsevier.com/retrieve/pii/S0142694X98000118)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/9Y2R3ZG6)    | article-journal      |       |
+|   [Src Url](https://linkinghub.elsevier.com/retrieve/pii/S0142694X98000118)    |  [[Valkenburg]], [[Dorst]] (1998)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+The aim of our studies is to develop tools and guidelines to improve team design practice. In order to improve team designing, we have to understand it, in order to understand we must be able to analyze and describe it. To describe the nature of team designing, we developed anew description method, based on Schon’s theory of reflective practice.This method was tested by applying it in the description of the activities of two design teams. The description method proves to be very useful, in that it allows a concise description of a design project in which the elements vital to the understanding of the design progress are conserved. Comparing the obtained descriptions of these two teams designing reveals different patterns of behavior. These patterns of behavior arouse an interest in a more detailed and in-depth analysis of team design behavior.
+
+----
+
+## Annotations
 
 The reflective practice of design teams
 
 
 
-Citer: (Valkenburg & Dorst, 1998)
+<font size=-3>Citer: (Valkenburg & Dorst, 1998)
 
 FTag: Valkenburg-Dorst-1998
 
@@ -107,7 +119,7 @@ APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design te
 
   
 
-#meta
+#meta</font>
 
 
 
@@ -122,7 +134,9 @@ APA7:  Valkenburg, R., & Dorst, K. (1998). The reflective practice of design te
 **Schon’s paradigm of reflective practice**
 
 **-------------------------------------------------------**  
-  [[Schon]] | 
+[[Schon]] 
+
+
 
 
 
@@ -210,7 +224,9 @@ all the interesting moments occurred when the team makes a **transition** betwee
   
 
 #CT  
-  [[Schon]] | 
+[[Schon]] 
+
+
 
 
 
@@ -295,12 +311,16 @@ Schon’s theory is based on a constructionism
   
 
 **#problematic**  
-  [[DesignIssue]] | [[ComplexityIssue]] | 
+[[DesignIssue]] | [[ComplexityIssue]] 
+
+
 
 
 
 basic elements of design activities are actions  
-  [[concept]] | 
+[[concept]] 
+
+
 
 
 
@@ -338,7 +358,9 @@ we want to investigate the occurrence of reflective practice in team designing
   
 
 **#goal**  
-  [[TRPActivities]] | [[ReflectivePractice]] | 
+[[TRPActivities]] | [[ReflectivePractice]] 
+
+
 
 
 
@@ -413,14 +435,18 @@ tackling of unique design tasks the essence, the artistry of design practice.
   
 
 #CT #goal  
-  [[IntelligentAction]] | 
+[[IntelligentAction]] 
+
+
 
 
 
 La **réflexion** est une **action rationnelle** qui mène à un **recadrage** de de ce qui **est désiré** et dont la **réussite est douteuse** ou **acceptable**. 
 
 >Reflection is a conscious and rational action [...] reframing [...] when the frame is not satisfactory [...] naming, when the reflection leads to satisfaction  
-  [[ActionRationnelle]] | [[o2010051036]] | [[CadrageReflectif]] | 
+[[ActionRationnelle]] | [[o2010051036]] | [[CadrageReflectif]] 
+
+
 
 
 
@@ -433,7 +459,9 @@ Il y a **reconnaissance du but** que se fixent les designers par l'observation d
   
 
 #objective  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
@@ -442,14 +470,18 @@ Lorsqu'il y a **cadrage** d'une insatisfaction ou d'un questionnement proposant
   
 
 >When the team frames a (sub)problem or (partial) solution to explore further on, then we code the context as a ‘frame’.  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
 Le **cadrage** est génératif d'un nouveau contexte d'action dans lequel sera exploré des mouvements vers la résolution.  Ce **contexte de cadrage** fournit un **ancrage** pendant le design qui donne une structure sur laquelle porter son attention.
 
 >The frame is a context for the next activities; something to hold on to and to focus on while designing.  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
@@ -460,7 +492,9 @@ Le contexte pour de nouvelle action est identifié comme un élément essentiel.
   
 
 #result  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
@@ -468,7 +502,9 @@ La nomentlature **"nommer"** est utilisé quand il est explicitement identifié
   
 
 > [...] explicitly pointing to parts of the design task as being important, we code the activity as ‘**naming**’.  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
@@ -477,14 +513,18 @@ La nomentlature **"nommer"** est utilisé quand il est explicitement identifié
 La codification **mouvement** s'est appliqué à tous ce qui est **caractérisé** par un **verbe**.
 
 > [...]  generating ideas, making an inventory, sorting information, combining ideas, or comparing concepts are **coded as ‘moving’**. [...] **explores the suitability** of the frame. The move is always **characterised by a verb,**  [...].  
-  [[CadrageReflectif]] | [[a2010051033]] | 
+[[CadrageReflectif]] | [[a2010051033]] 
+
+
 
 
 
 La codification **réflection** est utilisé pour **critiquer** le résultat d'une action
 
 >An explicit reflection on earlier activities to know what to do next is coded as ‘**reflecting**’. The ‘reflecting’-activity contains a critical reflection of the team on their earlier actions.  
-  [[CadrageReflectif]] | 
+[[CadrageReflectif]] 
+
+
 
 
 

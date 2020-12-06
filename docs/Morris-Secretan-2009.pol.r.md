@@ -1,10 +1,22 @@
 
 # Computational creativity support: using algorithms and machine learning to help people be more creative
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/F5NUM3JH)    | paper-conference      | [Src Url](http://doi.org/10.1145/1520340.1520728)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/F5NUM3JH)    | paper-conference      |       |
+|   [Src Url](http://doi.org/10.1145/1520340.1520728)    |  [[Morris]], [[Secretan]] (2009)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+The emergence of computers as a core component of creative processes, coupled with recent advances in machine-learning, signal-processing, and algorithmic techniques for manipulating creative media, offers tremendous potential for building end-user creativity-support tools. However, the scientific community making advances in relevant algorithmic techniques is not, in many cases, the same community that is currently making advances in the design, evaluation, and user-experience aspects of creativity support. The primary objective of this workshop is thus to bring together participants from diverse backgrounds in the HCI, design, art, machine-learning, and algorithms communities to facilitate the advancement of novel creativity support tools.
+
+----
+
+## Annotations
 
 Computational Creativity Support
 

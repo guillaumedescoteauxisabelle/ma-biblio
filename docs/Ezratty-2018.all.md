@@ -887,11 +887,27 @@ l’information circule de gauche à droite pendant l’exécution du réseau de
 
 
 # Les usages de l'intelligence artificielle
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/P9MXYVLK)    | article-journal      | [Src Url](https://hopitalweb2.com/wp-content/uploads/2018/11/Usages-intelligence-artificielle-2018-Olivier-Ezratty.pdf)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/P9MXYVLK)    | article-journal      |       |
+|   [Src Url](https://hopitalweb2.com/wp-content/uploads/2018/11/Usages-intelligence-artificielle-2018-Olivier-Ezratty.pdf)    |  [[Ezratty]] (2018)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+Depuis 2015, l’intelligence artificielle (IA) est devenue l’une des grandes priorités des grands acteurs de l’économie numérique et des entreprises. La vague de l’IA commence à égaler celles de l’Internet et de la mobilité en termes d’impact. Il est plutôt difficile d’y échapper ! C’est devenu un outil de la compétitivité des entreprises aussi bien des secteurs du numérique que du reste de l’économie.
+L’IA est aussi devenue rapidement un sujet de société et un objet politique. Elle génère son lot de questions sur le futur du travail, sur l’éthique, sur la répartition des richesses, sur la souveraineté
+économique et même sur le devenir de l’espèce humaine comme cela a été souligné entre autres
+dans le Rapport de la Mission Villani publié en mars 2018.
+Cette vague technologique est atypique dans plusieurs dimensions. Les technologies et méthodes de l’IA sont méconnues ou assimilées à tors et à travers, y compris par la majorité des professionnels du numérique, d’où la propagation de nombreux mythes à son sujet, un peu trop directement inspirés par la science-fiction ou par les thèses singularistes. On croit par exemple que le « deep learning » ou « apprentissage profond » raisonne alors qu’il ne fait qu’appliquer, en général, des modèles probabilistes. De même, dans le machine learning, l’apprentissage non-supervisé n’est pas de l’apprentissage supervisé autonome. La sémantique de l’IA est donc porteuse de contre-sens qu’il faut décrire et éviter. Le sens même de l’appellation « IA » est sujet à d’infinis débats, trop connotés d’accents anthropomorphiques alors que l’IA est artificielle et donc différente de l’intelligence humaine même si les deux ont quelques zones de recouvrement.
+
+----
+
+## Annotations
 
 Histoire et sémantique de l’IA
 
@@ -916,7 +932,9 @@ Le cerveau met d’ailleurs en œuvre une logique bayésienne pour ses propres p
 
 
 Il existe des problèmes trop complexes pour les ordinateur  
-  [[AIProblematic]] | 
+[[AIProblematic]] 
+
+
 
 
 
@@ -941,7 +959,9 @@ Chercher un "expert en IA" 3 revient maintenant à demander "un expert en logici
 
 
  [...] de nombreux outils de développement et d’intégration arrivent sur le marché qui permettent à des développeurs moins qualifiés, voire même à des cadres, de créer eux-mêmes des solutions intégrant des briques d’IA.  
-  [[AIReview]] | 
+[[AIReview]] 
+
+
 
 
 
@@ -1028,7 +1048,9 @@ Dans le domaine du raisonnement automatisé, l’IA est censée apporter une rat
 
 
 Celle-ci (IH) est encore unique dans la capacité à réagir avec discernement face à des situations nouvelles, à tirer profit de circonstances fortuites, à discerner le sens de messages ambigus ou contradictoires, à juger de l'importance relative de différents éléments d'une situation, à trouver des similitudes entre des situations malgré leurs différences, à établir des distinctions entre des situations malgré leurs similitudes, à synthétiser de nouveaux concepts malgré leurs différences ou à trouver de nouvelles idées  
-  [[IH]] | 
+[[IH]] 
+
+
 
 
 
@@ -1438,12 +1460,16 @@ Force brute et arbres de recherche
 
 
 La force brute est l'inverse métaphorique de l'intelligence. C'est un moyen courant de simuler l'intelligence humaine ou de la dépasser.  
-  [[IA-DEF-ForceBrute]] | 
+[[IA-DEF-ForceBrute]] 
+
+
 
 
 
 La force brute n'est opérationnelle que si la combinatoire à tester reste dans l'enveloppe de puissance de l'ordinateur  
-  [[IA-LIMITE]] | 
+[[IA-LIMITE]] 
+
+
 
 
 
@@ -1464,7 +1490,9 @@ La force brute est utilisée dans de nombreux domaines comme dans les moteurs de
 
 
 La force brute s’est aussi généralisée parce que la puissance des ordinateurs le permet : ils tournent plus vite, sont distribuables, le stockage coûte de moins en moins cher, les télécommunications sont abordables et les capteurs de plus en plus nombreux, des appareils photo/vidéo des smartphones aux capteurs d’objets connectés divers.  
-  [[IA-Etat]] | 
+[[IA-Etat]] 
+
+
 
 
 
@@ -1474,7 +1502,9 @@ Méthodes statistiques
   
 
 Les méthodes statistiques et notamment bayésiennes permettent de prévoir la probabilité d'événements en fonction de l'analyse d'événements passés.  
-  [[IA-A-Predict]] | 
+[[IA-A-Predict]] 
+
+
 
 
 
@@ -2449,13 +2479,12 @@ Chaque feature map générée par l’application des filtres sur l’image de d
 
 # NOT SAGrid output
 
-# Fiche/SAGrid:Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
+# Fiche/SAGrid:Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 Citer : (Ezratty, 2018)  
-FTag: Ezratty-2018  
 Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.  
 
-
+FTag: Ezratty-2018  
 [automd](Ezratty-Les-usages-de-lintelligence-artificielle.pdf.automd.md) - [automd-select](Ezratty-Les-usages-de-lintelligence-artificielle.pdf.automd.select.md) - 
 
 ## Qui est l'auteur ?
@@ -2465,26 +2494,26 @@ Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
 # Limite de l'IH et complément de l'IA
 
+
 ## Jet : Limite de l'IH et complément de l'IA
 
-L'IA deviendrait un complément de rationalité dans notre processus créatif.    
 
     Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
-
 Impact de la délégation de la rationalité à l'IA dans le processus de création 
+L'IA deviendrait un complément de rationalité dans notre processus créatif.    
+
+
 numérique.
-
     Exploration de la transcendance des limites de l'IH par la rationalité complémentaire de l'IA.
- Observer:
-
 * Capacité d'optimisation s'élèverait
 
+ Observer:
 [article #28](https://github.com/jgwill/www.fichiers/issues/28)
 
 ## DRAFTIdug
 
-note sur l'intelligence artificielle et ma compréhension de mes lectures actuelle du 19 juin 2020 
 
+note sur l'intelligence artificielle et ma compréhension de mes lectures actuelle du 19 juin 2020 
 >Cette rationalité est habituellement limitée par notre volonté, le poids émotionnel de notre cerveau limbique et notre capacité d’optimisation. (Ezratty, 2018)
 
 Nous avons une limite cognitive en tant qu'êtres humains.
@@ -2499,16 +2528,16 @@ Nous avons une limite cognitive en tant qu'êtres humains.
 La capacité humaines à tirer des conclusions basé sur des faits (l'objectivité) est limité par notre volonté et notre émotivité.
 
 L'intelligence artificielle est un ensemble d'outils qui permet d'atteindre une résolution.
-
 L'intelligence artificielle maintenant ensemble d'outils qui permet d'atteindre un certain endroit de résolution et ainsi transcender la limite émotionnelle et cognitive de l'humain. (La volonté, comment l'intégrer dans ce paragraphe)
+
 > [...] le poids émotionnel de notre cerveau limbique [...]
 
 
 
 
 Le poids émotionnelle de notre cerveau limbique limite notre capacité à rationaliser.
-
 L'intelligence artificielle devient un complément à notre intelligence puisque sa spécialité se trouve dans la reconnaissance des faits et d'en tirer une conclusion rationnel.
+
 
 
 ## Définition paraphaser Ezratty
@@ -2516,18 +2545,19 @@ L'intelligence artificielle devient un complément à notre intelligence puisque
 L'IA est une ensemble de techniques qui permettent de transcender les limites ra 
 tionnelles de l'IH.  Elle s'inspire de la mécanique cognitive humaine en agissant  
 en fonction de faits, de données et d'expériences afin d'atteindre de manière opti
-male un ou plusieurs objectifs. (Ezratty, 2018)
+
 
 
 @footer autopublished from PDS Draft app 2020-06-19 2020-06-19-14-47-17
 
 
-----
-
+male un ou plusieurs objectifs. (Ezratty, 2018)
 
 
 ______
+----
 # Ezratty-2018 Reading Session Jun 24, 2020 at 1:04:27 AM 
+
 ## page 42.1
 
 
@@ -2968,8 +2998,8 @@ Il y a une généralisation possible après l'entraînement sur des données de 
 # Q
 
 | no        | qt  | q                                                                                                                                                                                                                                         | r                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | n |
-| -- |---|--------|--------| ---- |
 | 42.1.1.2  | dic | Titre                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
+| -- |---|--------|--------| ---- |
 | 42.1.2.2  | dic | Peut-on appeler cela de  programmation implicite ?                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
 | 42.1.4.2  | dic | Prévision de la tendance. Et autres!                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
 | 42.1.6.2  | dic | Il est possible d'apprendre aux machines de façon non explicite.                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |

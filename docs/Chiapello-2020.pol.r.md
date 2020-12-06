@@ -1,10 +1,37 @@
 
 # Le pragmatisme comme épistémologie pour le design de jeux : enquête sur la créativité et le processus de design
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/8E7GIXIJ)    | article-journal      | [Src Url](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/8E7GIXIJ)    | article-journal      |       |
+|   [Src Url](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)    |  [[Chiapello]] (2020)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+Cette thèse se propose d’étudier la pratique créative des designers de jeux sous l’angle de la philosophie pragmatiste. 
+ 
+Le design de jeux a pour ambition de se constituer comme une discipline scientifique. A l’instar des autres disciplines du design, son principal objet d’étude est la pratique. Outre la problématique des savoirs professionnels, le terme « pratique » convoque aussi celle des pratiques pédagogiques qui sous-tendent la formation des praticiens en design de jeux, ainsi que celle des pratiques de recherche scientifique.  
+ 
+En s’inscrivant dans la lignée des travaux de Donald Schön touchant l’épistémologie de la pratique en design, cette thèse explore la philosophie pragmatiste comme approche globale permettant d’étudier aussi bien la pratique du chercheur en design de jeux que la pratique créative des futurs designers de jeux, c’est-à-dire l’apprentissage du processus de design. Nos questions de recherche sont ainsi : 
+1.	Quels sont les auteurs et les cadres conceptuels de la philosophie pragmatiste qui ont le potentiel d’asseoir une nouvelle épistémologie de la pratique ? 
+2.	Comment ces concepts de la philosophie pragmatiste permettent-ils de comprendre et décrire le processus créatif de design de jeux en situation pédagogique ? 
+ 
+Dans un premier temps, les épistémologies dominantes des études en design de jeux et des théories de la créativité sont explorées et critiquées. Puis nous proposons un cadre théorique composé d’une alliance inédite entre les travaux de Donald Schön, Hans Joas, Charles Sanders Peirce et John Dewey. Ces quatre auteurs, par-delà leur appartenance au courant du pragmatisme, partagent un concept central de cette philosophie : celui de l’enquête. En effet, la théorie de l’enquête chez ces auteurs est à la fois une philosophie, une épistémologie et une méthodologie (aussi bien de la recherche que de la pratique). 
+  
+Notre terrain d’expérimentation se focalise sur la pratique et la créativité du designer de jeux. Nous examinons des dizaines de projets de design au sein du Baccalauréat de l’École des arts Numériques, de l’Animation et du Design (NAD – UQAC). Dans une approche de recherche-projet-collaborative inspirée des travaux d’Alain Findeli et Serge Desgagné, nos participants sont les étudiants ainsi que les designers de l’entreprise de jeux vidéo montréalaise Juicy Beast.  
+ 
+Nos résultats proposent une vision où le designer devient un enquêteur (au sens pragmatiste), cherchant à structurer une situation indéterminée. Il doit pour cela dialoguer avec cette situation afin d’éviter de sombrer dans un agir rigide. Il doit aussi valoriser le raisonnement par abduction (raisonnement métaphorique) pour explorer des problèmes et trouver de nouvelles idées de solution. Enfin, il ne peut se contenter « d’avoir des idées » : il doit transformer concrètement la situation à l’aide de différents prototypes. 
+  
+Le modèle de l’enquête pragmatiste informe aussi le processus de la recherche, et le chercheur est à son tour un enquêteur qui examine une situation intellectuelle indéterminée. Notre recherche est ainsi une « enquête sur l’enquête ».  
+La philosophie pragmatiste est une voie épistémologique qui produit des connaissances sur la recherche, la pratique et l’enseignement, participant ainsi à la transformation et l’amélioration du monde.
+
+----
+
+## Annotations
 
 Le pragmatisme comme épistémologie pour le design de jeux Enquête sur la créativité et le processus de design.  (Chiapello,2019)
 
@@ -26,13 +53,13 @@ La gestion agile correspond donc à une vision pragmatiste
 
 
 
-Citer: (Chiapello, 2020)
+<font size=-3>Citer: (Chiapello, 2020)
 
 FTag: Chiapello-2020
 
 APA7: Chiapello, L. (2020). _Le pragmatisme comme épistémologie pour le design de jeux: Enquête sur la créativité et le processus de design_. [https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384) [](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23384)
 
---------------------------------------------
+--------------------------------------------</font>
 
 
 
@@ -87,7 +114,9 @@ Dewey, J. (2003 [1929] ). The quest for certainty: A study of the relation of kn
   
 
 #biblio  
-  [[Dewey]] | [[ReflectivePracticeBiblio]] | 
+[[Dewey]] | [[ReflectivePracticeBiblio]] 
+
+
 
 
 
@@ -116,7 +145,9 @@ Schön, D. A. (1988). Toward a marriage of artistry & applied science in the arc
   
 
 #biblio  
-  [[Schon]] | [[ReflectivePracticeBiblio]] | 
+[[Schon]] | [[ReflectivePracticeBiblio]] 
+
+
 
 
 
@@ -153,7 +184,9 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
   
 
 #biblio  
-  [[Schon]] | [[ReflectivePracticeBiblio]] | 
+[[Schon]] | [[ReflectivePracticeBiblio]] 
+
+
 
 
 
@@ -185,7 +218,9 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
 
 1.3. Schön : répertoire de solutions et métaphore
 =================================================  
-  [[ALire]] | [[MetaphoreGenerative]] | 
+[[ALire]] | [[MetaphoreGenerative]] 
+
+
 
 
 
@@ -194,33 +229,45 @@ Schön, D. A. et Wiggins, G. (1992). Kinds of seeing in designing. Creativity an
 
 
 La transposition : c’est le moment où un concept ancien, étranger à la situation, est choisi. Schön estime qu’il s’agit souvent d’un groupe de concepts, par exemple guerre, ennemi, bataille, gagner, etc. Chaque con cept peut alors être transposé à la situation  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
 L’interprétation : C’est le fait de faire correspondre le nouveau concept avec l’ancien concept : quel aspect permet la transposition ?  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
 La correction : Ce sont les ajustements faits pour que l’ancien concept c orresponde au nouveau, et qui impliquent de repenser ce concept, d’en découvrir de nouveaux aspec  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
 L’énonciation : lorsque le déplacement de concept a eu lieu et fonctionne, il est possible de le décrire  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
 quatre étapes pour développer une métaphore :
 ---------------------------------------------  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
 Le raisonnement métaphorique est donc plus qu’une libre association : il s’agit de transformer en profondeur notre vision du monde en procédant minutieuseme  
-  [[MetaphoreGenerative]] | 
+[[MetaphoreGenerative]] 
+
+
 
 
 
@@ -230,7 +277,9 @@ Le raisonnement métaphorique est donc plus qu’une libre association : il s’
 
 
  [...] la créativité [est] une dimension de tout agir humain  
-  [[CreativeProcess]] | 
+[[CreativeProcess]] 
+
+
 
 
 
@@ -239,27 +288,37 @@ Cela signifie également que la création est envisagée ici comme une opératio
 
 
 « il ne s’agit donc pas d’un mécanisme de libre association, paré du nom de créativité, mais d’un acte positif de libération, dans lequel le rapport avec le problème initial n’est jamais complètement perdu de vue » [Joas, 1999 [1992] , p.144](Chiapello, 2019, p.337)  
-  [[FreeAssociationNCreating]] | 
+[[FreeAssociationNCreating]] 
+
+
 
 
 
 L’abduction est le processus par lequel on forme une hypothèse explicative  
-  [[Abduction.def]] | 
+[[Abduction.def]] 
+
+
 
 
 
  [...] l’enquête [...] on commence par une hypothèse explicative (abduction) mais au **statut conjectural**, [...] être prêt à « jeter par - dessus bord » [...] [en déduire] alors des conséquences ou prédictions, le « but » de la déduction étant de « réunir les conséquents de l’hy pothèse » [...]   troisième temps, \ [...\]   « établir dans quelle mesure ces conséquences s’accordent avec l’expérience » : par induction, nous testons l’hypothèse ; si elle passe le test, on l’ajoute  à l’ensemble de nos croyances. La différence est moins entre trois inférences qu’entre trois phases d’une commune démarche explicative (Tiercelin, 2013, p.8).  
-  [[Abduction]] | 
+[[Abduction]] 
+
+
 
 
 
  [...]   l’abduction permet de chercher une nouvelle théorie  
-  [[Abduction]] | 
+[[Abduction]] 
+
+
 
 
 
 L’induction demande donc une hypothèse déjà formée, alors que l’abduction permet la formation de l’hypothèse  
-  [[Abduction]] | 
+[[Abduction]] 
+
+
 
 
 
@@ -279,17 +338,23 @@ l'abduction et le processus d'enquête comme processus créatif
 **perception -> explication**
 
 > [...] avec l’abduction un passage de l’impression à l’idée, de la perception à l’explication  
-  [[Abduction]] | 
+[[Abduction]] 
+
+
 
 
 
 Schön revient lui aussi sur la formation des idées [...] avec les concepts de « répertoire », de « voir-comme » ( seeing-as ) et de « métaphore générative ».  
-  [[GenerativeMetaphor]] | [[Schon]] | [[ConceptRepertoire]] | 
+[[GenerativeMetaphor]] | [[Schon]] | [[ConceptRepertoire]] 
+
+
 
 
 
  [...] lors de l’étape de cadrage ou framing, le praticien va tenter de conserver l’unicité de la situation, et va inventer une nouvelle description [de la situation] [...]   Le praticien cherche à voir les éléments uniques de la situation. [...] le praticien fait appel à un ensemble d’images, de compréhensions, d’exemples ou même d’actions qu’il a utilisés ou vus par le passé.  
-  [[CadrageReflexif]] | [[PratiqueReflexive]] | 
+[[CadrageReflexif]] | [[PratiqueReflexive]] 
+
+
 
 
 
@@ -311,7 +376,9 @@ Ainsi la logique déductive acquiert - elle un statut discipli naire privilégi�
 
 
 Il ne réduit pas la situation à une catégorie, à un énième « cas ». Le praticien cherche à voir les éléments uniques de la situation. Schön pose alors la question suivante : « How can an inquirer use what he already knows in a situation which he take to be unique? » (Schön, 1983, p.139). Schön propose le concept de « répertoire » : le pratici en fait appel à un ensemble d’images, de compréhension s , d’exemples ou même d’actions qu’il a utilisés ou vus par le passé  
-  [[CreativeOrientation]] | [[EnjeuxDuCategorique]] | 
+[[CreativeOrientation]] | [[EnjeuxDuCategorique]] 
+
+
 
 
 

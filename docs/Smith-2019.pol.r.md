@@ -1,10 +1,26 @@
 
 # The promise of artificial intelligence: reckoning and judgment
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/8QVMQG2E)    | book      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/8QVMQG2E)    | book      |       |
+|   [Src Url](undefined)    |  [[Smith]] (2019)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+An argument that—despite dramatic advances in the field—artificial intelligence is nowhere near developing systems that are genuinely intelligent.
+
+In this provocative book, Brian Cantwell Smith argues that artificial intelligence is nowhere near developing systems that are genuinely intelligent. Second wave AI, machine learning, even visions of third-wave AI: none will lead to human-level intelligence and judgment, which have been honed over millennia. Recent advances in AI may be of epochal significance, but human intelligence is of a different order than even the most powerful calculative ability enabled by new computational capacities. Smith calls this AI ability “reckoning,” and argues that it does not lead to full human judgment—dispassionate, deliberative thought grounded in ethical commitment and responsible action. Taking judgment as the ultimate goal of intelligence, Smith examines the history of AI from its first-wave origins (“good old-fashioned AI,” or GOFAI) to such celebrated second-wave approaches as machine learning, paying particular attention to recent advances that have led to excitement, anxiety, and debate. He considers each AI technology's underlying assumptions, the conceptions of intelligence targeted at each stage, and the successes achieved so far. Smith unpacks the notion of intelligence itself—what sort humans have, and what sort AI aims at.
+
+Smith worries that, impressed by AI's reckoning prowess, we will shift our expectations of human intelligence. What we should do, he argues, is learn to use AI for the reckoning tasks at which it excels while we strengthen our commitment to judgment, ethics, and the world.
+
+----
+
+## Annotations
 
 Brian Cantwell Smith,
 =====================

@@ -1,15 +1,39 @@
 
 # Creativity and Artificial Intelligence: A Digital Art Perspective
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/JJSY2JZT)    | article-journal      | [Src Url](https://arxiv.org/abs/1807.08195v1)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/JJSY2JZT)    | article-journal      |       |
+|   [Src Url](https://arxiv.org/abs/1807.08195v1)    |  [[Xing]], [[Marwala]] (2018)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+This paper describes the application of artificial intelligence to the
+creation of digital art. AI is a computational paradigm that codifies
+intelligence into machines. There are generally three types of artificial
+intelligence and these are machine learning, evolutionary programming and soft
+computing. Machine learning is the statistical approach to building intelligent
+systems. Evolutionary programming is the use of natural evolutionary systems to
+design intelligent machines. Some of the evolutionary programming systems
+include genetic algorithm which is inspired by the principles of evolution and
+swarm optimization which is inspired by the swarming of birds, fish, ants etc.
+Soft computing includes techniques such as agent based modelling and fuzzy
+logic. Opportunities on the applications of these to digital art are explored.
+
+----
+
+## Annotations
 
  [...] application of artificial intelligence (AI) to the creation of digital art.
 
 #context  
-  [[AIContext]] | 
+[[AIContext]] 
+
+
 
 
 
@@ -112,7 +136,9 @@ Opportunities on the applications of these to digital art are explored.
   
 
 #problematic  
-  [[AIProblematic]] | 
+[[AIProblematic]] 
+
+
 
 
 

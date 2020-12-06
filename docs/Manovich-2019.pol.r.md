@@ -1,10 +1,22 @@
 
 # Defining AI Arts: Three Proposals
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/4GH6XRE7)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/4GH6XRE7)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Manovich]]     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 
 

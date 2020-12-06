@@ -1,10 +1,22 @@
 
 # Neural style transfer: a paradigm shift for image-based artistic rendering?
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/CJCMQPCW)    | paper-conference      | [Src Url](https://dl-acm-org.sbiproxy.uqac.ca/doi/abs/10.1145/3092919.3092920)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/CJCMQPCW)    | paper-conference      |       |
+|   [Src Url](https://dl-acm-org.sbiproxy.uqac.ca/doi/abs/10.1145/3092919.3092920)    |  [[Semmo]], [[Isenberg]], [[Döllner]] (2017)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+In this meta paper we discuss image-based artistic rendering (IB-AR) based on neural style transfer (NST) and argue, while NST may represent a paradigm shift for IB-AR, that it also has to evolve as an interactive tool that considers the design aspects and mechanisms of artwork production. IB-AR received signi cant attention in the past decades for visual communication, covering a plethora of techniques to mimic the appeal of artistic media. Example-based rendering represents one the most promising paradigms in IB-AR to (semi-)automatically simulate artistic media with high delity, but so far has been limited because it relies on pre-de ned image pairs for training or informs only low-level image features for texture transfers. Advancements in deep learning showed to alleviate these limitations by matching content and style statistics via activations of neural network layers, thus making a generalized style transfer practicable. We categorize style transfers within the taxonomy of IB-AR, then propose a semiotic structure to derive a technical research agenda for NSTs with respect to the grand challenges of NPAR. We nally discuss the potentials of NSTs, thereby identifying applications such as casual creativity and art production.
+
+----
+
+## Annotations
 
 stylization
 
@@ -158,13 +170,13 @@ Definition “Artistic Style”: The constant form—and some- times the constan
 
 
 
-Citer: (Semmo et al., 2017)
+<font size=-3>Citer: (Semmo et al., 2017)
 
 FTag:Semmo-et-al-2017
 
 Biblio:
 
-Semmo, A., Isenberg, T., & Döllner, J. (2017). Neural style transfer: A paradigm shift for image-based artistic rendering? _Proceedings of the Symposium on Non-Photorealistic Animation and Rendering - NPAR ’17_, 1–13. [https://doi.org/10.1145/3092919.3092920](https://doi.org/10.1145/3092919.3092920)
+Semmo, A., Isenberg, T., & Döllner, J. (2017). Neural style transfer: A paradigm shift for image-based artistic rendering? _Proceedings of the Symposium on Non-Photorealistic Animation and Rendering - NPAR ’17_, 1–13. [https://doi.org/10.1145/3092919.3092920](https://doi.org/10.1145/3092919.3092920)</font>
 
 
 

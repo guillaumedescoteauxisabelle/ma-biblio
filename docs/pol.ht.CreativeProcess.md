@@ -22,10 +22,3 @@ The creative process requires experimentation, the exploration of variations, an
 
 
 
-# ( [[Chiapello-2020]])
-
-
- [...] la créativité [est] une dimension de tout agir humain
-
-
-

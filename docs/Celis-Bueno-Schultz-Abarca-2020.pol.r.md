@@ -1,21 +1,33 @@
 
 # Memo Akten’s Learning to See: from machine vision to the machinic unconscious
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/C8AV4K46)    | article-journal      | [Src Url](http://link.springer.com/10.1007/s00146-020-01071-2)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/C8AV4K46)    | article-journal      |       |
+|   [Src Url](http://link.springer.com/10.1007/s00146-020-01071-2)    |  [[Celis Bueno]], [[Schultz Abarca]] (2020)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+This article uses Memo Akten’s art installation Learning to See (Akten https://www.memo.tv/portfolio/learning-to-see/, 2017) to challenge the belief that machine learning and machine vision are neutral and objective technologies. Furthermore, this article follows Bernard Stiegler to contend that not only machine vision but also human vision is the result of constant training processes that rely directly on technology (understood as a technical surface of inscription). From this perspective, human vision is always already technical. Likewise, in an age dominated growingly by machine learning technologies, it is possible to speak not only of machine vision but also of a machinic imagination and a machinic unconscious, two notions that can be illustrated through Akten’s art installation.
+
+----
+
+## Annotations
 
 Memo Akten’s Learning to See : from machine vision to the machinic unconscious
 ==============================================================================
 
 
 
-Citer: (Celis Bueno & Schultz Abarca, 2020)
+<font size=-3>Citer: (Celis Bueno & Schultz Abarca, 2020)
 
 FTag: Celis-Bueno-Schultz-Abarca-2020
 
-APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2](https://doi.org/10.1007/s00146-020-01071-2)
+APA7: Celis Bueno, C., & Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. _AI & SOCIETY_. [https://doi.org/10.1007/s00146-020-01071-2](https://doi.org/10.1007/s00146-020-01071-2)</font>
 
 
 

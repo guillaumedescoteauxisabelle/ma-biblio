@@ -48,11 +48,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Learning to see: you are what you see
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/IN9DFCGU)    | paper-conference      | [Src Url](http://doi.org/10.1145/3306211.3320143)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/IN9DFCGU)    | paper-conference      |       |
+|   [Src Url](http://doi.org/10.1145/3306211.3320143)    |  [[Akten]], [[Fiebrink]], [[Grierson]] (2019)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+The authors present a visual instrument developed as part of the creation of the artwork Learning to See. The artwork explores bias in artificial neural networks and provides mechanisms for the manipulation of specifically trained-for real-world representations. The exploration of these representations acts as a metaphor for the process of developing a visual understanding and/or visual vocabulary of the world. These representations can be explored and manipulated in real time, and have been produced in such a way so as to reflect specific creative perspectives that call into question the relationship between how both artificial neural networks and humans may construct meaning.
+
+----
+
+## Annotations
 
 Learning to See
 ===============
@@ -116,12 +128,16 @@ We might even go as far as to claim that the model contains knowledge of the str
  [...] offer a range of potential creative affordances
 
 #goal  
-  [[AIGoal]] | 
+[[AIGoal]] 
+
+
 
 
 
 m.akten@gold.ac.uk  
-  [[AIContact]] | 
+[[AIContact]] 
+
+
 
 
 

@@ -88,11 +88,23 @@ Quel est le type de recherche ? Explicative. Exploration des corrélations entre
 
 
 # La matière comme générateur d’expérience au sein des espaces intérieurs : Peter Zumthor et l’esthétique des atmosphères
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/MQQISANR)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/MQQISANR)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Parenteau]] (2018)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+In view of the growing stylization of everyday life, globalized phenomenon to which many philosophers and sociologists refer as “aestheticization of everyday life”, it seems essential to keep discussions going on the very nature of aesthetic experience, on its production and reception modes within the built environment. Moreover, this dissertation aims towards a deeper understanding of matter’s role as generator of meaningful experience within interior spaces. The research’s theoretical grounds are built upon philosopher John Dewey’s line of thoughts on art as experience, as well as upon philosopher and art historian Jean-Marie Schaeffer on aesthetic relationship through his attentional-emotional-hedonistic triad of processes. In order to contextualize thoughts within interior design’s built perspective, Gernot Böhme’s theory of perception, exemplified by the concept of atmosphere, is also considered. Three museums by Swiss architect Peter Zumthor are surveyed through a collection of narratives and first-hand observations. This fieldwork broadens the study’s aims towards an extended review of founding dimensions of aesthetic experience in interior spaces. Mixed analytical approaches such as theoritical confrontation, modeling and graphic representation as well as inductive reasoning uncovers five main conceptual scopes of interest: functional imperatives, physical realities, sensual reception, emotions and interpretation as well as temporality. The breakdown of these themes according to the extent of their effect on the visitor’s experience and the schematization of their interactions allows conceptual profiles for Bregenz Art Museum, Kolumba Museum and Allmannajuvet Zinc Mine Museum to emerge. The closing discussion strives to determine, on the one hand, whether the surveyed experiences are of aesthetic nature and on the other, to define dimensions of strong ascendency within significant experience of the chosen spaces, such as the “depragmatized” relationship, the emotional pull, the complexity of attentional investment, the context, the matter, the light and the time.
+
+----
+
+## Annotations
 
 
 

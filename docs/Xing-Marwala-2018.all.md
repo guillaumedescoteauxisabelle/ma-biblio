@@ -52,16 +52,40 @@ definition of creativity remains rather controversial,
 
 
 # Creativity and Artificial Intelligence: A Digital Art Perspective
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/JJSY2JZT)    | article-journal      | [Src Url](https://arxiv.org/abs/1807.08195v1)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/JJSY2JZT)    | article-journal      |       |
+|   [Src Url](https://arxiv.org/abs/1807.08195v1)    |  [[Xing]], [[Marwala]] (2018)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+This paper describes the application of artificial intelligence to the
+creation of digital art. AI is a computational paradigm that codifies
+intelligence into machines. There are generally three types of artificial
+intelligence and these are machine learning, evolutionary programming and soft
+computing. Machine learning is the statistical approach to building intelligent
+systems. Evolutionary programming is the use of natural evolutionary systems to
+design intelligent machines. Some of the evolutionary programming systems
+include genetic algorithm which is inspired by the principles of evolution and
+swarm optimization which is inspired by the swarming of birds, fish, ants etc.
+Soft computing includes techniques such as agent based modelling and fuzzy
+logic. Opportunities on the applications of these to digital art are explored.
+
+----
+
+## Annotations
 
  [...] application of artificial intelligence (AI) to the creation of digital art.
 
 #context  
-  [[AIContext]] | 
+[[AIContext]] 
+
+
 
 
 
@@ -164,7 +188,9 @@ Opportunities on the applications of these to digital art are explored.
   
 
 #problematic  
-  [[AIProblematic]] | 
+[[AIProblematic]] 
+
+
 
 
 
@@ -211,10 +237,10 @@ APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A
 
 Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A Digital Art Perspective. https://arxiv.org/abs/1807.08195v1
 
-
 ______
 # 0. Abstract
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
+
 
 
 
@@ -224,8 +250,8 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
 
 
-______
 
+______
 
 # 2. Pourquoi l'art numérique?  
 
@@ -235,7 +261,6 @@ ______
 ______
 # 3.0 Créativité et intelligence artificielle
 
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
 
 
@@ -244,9 +269,10 @@ ______
 
 
 
-______
+
 # Part 3.1 - Les cas du court terme
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
+______
 
 ______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
@@ -260,8 +286,8 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-______
 
+______
 # Partie 4 - Perspective
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 
@@ -280,22 +306,22 @@ ______
 
 # --@STCGoal  Une **Vision Artistique** claire pour ma thèse
 
-Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
 ## --@STCGoal Ma definition de l'IA
+Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
 
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
-
 >(Shapiro, 2003)
+
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
+
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
 
 # Références
 
 ## evolutionary programming
-
 
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
 
@@ -2297,8 +2323,8 @@ Note.
 # Q
 
 | no      | qt   | q                                                                                                                                                                                                  | r                                                                                                                                                                                                                  | n |
-| -- |---|--------|--------| ---- |
 | 0.1.2   | dic  | l'application de l'IA dans la création d'art numérique                                                                                                                                             |                                                                                                                                                                                                                    |   |
+| -- |---|--------|--------| ---- |
 | 0.2.2   | dic  | La codification de l'intelligence dans une machine                                                                                                                                                 |                                                                                                                                                                                                                    |   |
 | 0.3.2   | dic  | Trois types d'intelligence artificielle.                                                                                                                                                           |                                                                                                                                                                                                                    |   |
 | 0.4.2   | dic  | L'apprentissage profond dans une relation à la statistique. L'apprentissage profond est relatifs à la statistique. Qu'est-ce qui est statistique dans l'apprentissage profond?                       |                                                                                                                                                                                                                    |   |

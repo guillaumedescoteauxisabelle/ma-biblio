@@ -18,11 +18,23 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 # Qu'est-ce que la science ?
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/T2CWCHU6)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/T2CWCHU6)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Chalmers]] (1990)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 **L'étude du raisonnement déductif constitue l'objet de la logique**
 

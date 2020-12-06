@@ -1,10 +1,22 @@
 
 # Introduction: Aspects of Artificial General Intelligence
+
+
+
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|   [ZotWeb](http://zotero.org/users/180474/items/XKKYA5CU)    | article-journal      | [Src Url](undefined)      |
+|   [ZotWeb](http://zotero.org/users/180474/items/XKKYA5CU)    | article-journal      |       |
+|   [Src Url](undefined)    |  [[Wang]], [[Goertzel]] (2012)     |       |
 |       |       |       |
-|       |       |       |
+
+
+## Abstract
+
+undefined
+
+----
+
+## Annotations
 
 1\. What is meant by “AGI”
 
