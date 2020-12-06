@@ -1,0 +1,1385 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12JxgkviBF",
+      "guid": "1B3QibutS5",
+      "created": "2020-09-17T23:26:10.730Z",
+      "lastUpdated": "2020-09-20T23:43:39.358Z",
+      "rects": {
+        "0": {
+          "left": 370,
+          "top": 404,
+          "right": 511,
+          "bottom": 423,
+          "width": 141,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Brian Cantwell Smith",
+          "rect": {
+            "left": 370,
+            "top": 404,
+            "right": 511,
+            "bottom": 423,
+            "width": 140,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Brian Cantwell Smith"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Brian Cantwell Smith,</h1><p></p><p><br></p><p><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">Smith received his BS, MS and <b>PhD degrees</b> from the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology\" title=\"Massachusetts Institute of Technology\" style=\"color: rgb(11, 0, 128); background: none rgb(255, 255, 255); font-family: sans-serif;\">Massachusetts Institute of Technology</a><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">. He was a founder of the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Center_for_the_Study_of_Language_and_Information\" class=\"mw-redirect\" title=\"Center for the Study of Language and Information\" style=\"color: rgb(11, 0, 128); background: none rgb(255, 255, 255); font-family: sans-serif;\">Center for the Study of Language and Information</a><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">&nbsp;at&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Stanford_University\" title=\"Stanford University\" style=\"color: rgb(11, 0, 128); background: none rgb(255, 255, 255); font-family: sans-serif;\">Stanford University</a><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">, and a founder and first president of&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Computer_Professionals_for_Social_Responsibility\" title=\"Computer Professionals for Social Responsibility\" style=\"color: rgb(11, 0, 128); background: none rgb(255, 255, 255); font-family: sans-serif;\">Computer Professionals for Social Responsibility</a><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">. Smith served as principal scientist at the&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Xerox_Palo_Alto_Research_Center\" class=\"mw-redirect\" title=\"Xerox Palo Alto Research Center\" style=\"color: rgb(11, 0, 128); background: none rgb(255, 255, 255); font-family: sans-serif;\">Xerox Palo Alto Research Center</a><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\">, in the 1980s.</span></p><p><span style=\"color: rgb(32, 33, 34); font-family: sans-serif;\"></span>(https://en.wikipedia.org/wiki/Brian_Cantwell_Smith)</p><p><br></p><p>Citer : (Smith, 2019)</p><p>FTag: Smith-2019</p><p>\n\n</p><p>APA7: Smith, B. C. (2019). <em>The promise of artificial intelligence: Reckoning and judgment</em>. The MIT Press.</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1FFVxdiF4D",
+      "guid": "1FFVxdiF4D",
+      "created": "2020-09-17T23:56:08.723Z",
+      "lastUpdated": "2020-09-17T23:56:08.723Z",
+      "rects": {
+        "0": {
+          "left": 209,
+          "top": 399,
+          "right": 487,
+          "bottom": 417,
+          "width": 278,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  Machine Learning",
+          "rect": {
+            "left": 209,
+            "top": 399,
+            "right": 322,
+            "bottom": 417,
+            "width": 112,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "47",
+          "rect": {
+            "left": 473,
+            "top": 399,
+            "right": 487,
+            "bottom": 417,
+            "width": 13,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "  Machine Learning 47"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12HZ9hUXHH",
+      "guid": "122vXjNo9A",
+      "created": "2020-09-17T23:56:15.769Z",
+      "lastUpdated": "2020-09-26T18:40:00.954Z",
+      "rects": {
+        "0": {
+          "left": 209,
+          "top": 437,
+          "right": 487,
+          "bottom": 454,
+          "width": 278,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  Epistemological Challenges ",
+          "rect": {
+            "left": 209,
+            "top": 437,
+            "right": 378,
+            "bottom": 454,
+            "width": 168,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "71",
+          "rect": {
+            "left": 473,
+            "top": 437,
+            "right": 487,
+            "bottom": 454,
+            "width": 13,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "  Epistemological Challenges  71"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "<p>  </p><p>-------------------------------------------------------</p><h1>Epistemological Challenges (p. 71)</h1><p></p><p>--------------------------------------------------------</p><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "id": "1sHxkF8hkC",
+      "guid": "1sHxkF8hkC",
+      "created": "2020-09-18T00:03:07.828Z",
+      "lastUpdated": "2020-09-18T00:03:07.828Z",
+      "rects": {
+        "0": {
+          "left": 192,
+          "top": 417,
+          "right": 470,
+          "bottom": 435,
+          "width": 278,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ML is essentially a suite of statistical techniques ",
+          "rect": {
+            "left": 192,
+            "top": 417,
+            "right": 470,
+            "bottom": 435,
+            "width": 278,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ML is essentially a suite of statistical techniques "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1Qe9FYNBAc",
+      "guid": "1Qe9FYNBAc",
+      "created": "2020-09-18T00:15:39.822Z",
+      "lastUpdated": "2020-09-18T00:15:39.822Z",
+      "rects": {
+        "0": {
+          "left": 225,
+          "top": 445,
+          "right": 510,
+          "bottom": 463,
+          "width": 285,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " statistical classification and prediction of patterns",
+          "rect": {
+            "left": 225,
+            "top": 445,
+            "right": 510,
+            "bottom": 463,
+            "width": 285,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": " statistical classification and prediction of patterns"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12bQ54NB52",
+      "guid": "12bQ54NB52",
+      "created": "2020-09-18T00:15:44.367Z",
+      "lastUpdated": "2020-09-18T00:15:44.367Z",
+      "rects": {
+        "0": {
+          "left": 208,
+          "top": 464,
+          "right": 329,
+          "bottom": 482,
+          "width": 121,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "based on sample data",
+          "rect": {
+            "left": 208,
+            "top": 464,
+            "right": 329,
+            "bottom": 482,
+            "width": 121,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "based on sample data"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1v33QuGPwt",
+      "guid": "1xSguHr38a",
+      "created": "2020-09-18T00:15:48.055Z",
+      "lastUpdated": "2020-09-18T00:16:01.317Z",
+      "rects": {
+        "0": {
+          "left": 215,
+          "top": 483,
+          "right": 461,
+          "bottom": 500,
+          "width": 246,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "sing an interconnected fabric of processors",
+          "rect": {
+            "left": 215,
+            "top": 483,
+            "right": 461,
+            "bottom": 500,
+            "width": 245,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "sing an interconnected fabric of processors"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "using an interconnected fabric of processors"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12AKMGfnig",
+      "guid": "1bgmHBmZfL",
+      "created": "2020-09-18T00:15:51.450Z",
+      "lastUpdated": "2020-09-18T00:15:55.648Z",
+      "rects": {
+        "0": {
+          "left": 214,
+          "top": 501,
+          "right": 365,
+          "bottom": 518,
+          "width": 151,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "rranged in multiple layers.",
+          "rect": {
+            "left": 214,
+            "top": 501,
+            "right": 365,
+            "bottom": 518,
+            "width": 150,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "rranged in multiple layers."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "arranged in multiple layers."
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1vd8vG3w48",
+      "guid": "1vd8vG3w48",
+      "created": "2020-09-18T00:17:36.531Z",
+      "lastUpdated": "2020-09-18T00:17:36.531Z",
+      "rects": {
+        "0": {
+          "left": 298,
+          "top": 529,
+          "right": 516,
+          "bottom": 548,
+          "width": 218,
+          "height": 19
+        },
+        "1": {
+          "left": 176,
+          "top": 548,
+          "right": 342,
+          "bottom": 566,
+          "width": 166,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  implemented  in  architectures  often  ",
+          "rect": {
+            "left": 298,
+            "top": 529,
+            "right": 516,
+            "bottom": 547,
+            "width": 218,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "known  as  “neural  networks,”",
+          "rect": {
+            "left": 176,
+            "top": 548,
+            "right": 342,
+            "bottom": 566,
+            "width": 166,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "  implemented  in  architectures  often  \nknown  as  “neural  networks,”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1299MnGGES",
+      "guid": "12QZMAu12i",
+      "created": "2020-09-20T23:41:46.854Z",
+      "lastUpdated": "2020-09-20T23:41:56.423Z",
+      "rects": {
+        "0": {
+          "left": 176,
+          "top": 216,
+          "right": 406,
+          "bottom": 240,
+          "width": 230,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "5 — Machine Learning",
+          "rect": {
+            "left": 176,
+            "top": 216,
+            "right": 406,
+            "bottom": 240,
+            "width": 230,
+            "height": 23
+          }
+        }
+      },
+      "text": {
+        "TEXT": "5 — Machine Learning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>5 — Machine Learning</h1>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12KZ6VtQAM",
+      "guid": "12KZ6VtQAM",
+      "created": "2020-09-20T23:47:23.020Z",
+      "lastUpdated": "2020-09-20T23:47:30.009Z",
+      "rects": {
+        "0": {
+          "left": 8.597883597883598,
+          "top": 16.402116402116402,
+          "width": 77.5132275132275,
+          "height": 34.03880070546737
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1EbP7TLDDXWJSZftjt9u",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1EbP7TLDDXWJSZftjt9u.png"
+        },
+        "width": 586,
+        "height": 386,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 49,
+        "y": 141,
+        "width": 446,
+        "height": 294
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12PwwJFCLT6amHRKLdKK",
+      "guid": "12PwwJFCLT6amHRKLdKK",
+      "created": "2020-09-20T23:48:24.147Z",
+      "lastUpdated": "2020-09-20T23:48:24.147Z",
+      "content": {
+        "HTML": "Figure 7 - représentation d'une couche de réseau de neurone avec ses entrées et sorties"
+      },
+      "ref": "area-highlight:12KZ6VtQAM",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12Uhcab4pZ",
+      "guid": "1QfMqLRsbd",
+      "created": "2020-09-26T18:39:31.668Z",
+      "lastUpdated": "2020-09-26T18:41:04.566Z",
+      "rects": {
+        "0": {
+          "left": 176,
+          "top": 218,
+          "right": 490,
+          "bottom": 240,
+          "width": 314,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "7 — Epistemological Challenges",
+          "rect": {
+            "left": 176,
+            "top": 218,
+            "right": 490,
+            "bottom": 240,
+            "width": 314,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "7 — Epistemological Challenges"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>------------------------------------------------------</p><h1><b>7 — Epistemological Challenges</b></h1><p></p><p>------------------------------------------------------</p>"
+      }
+    },
+    {
+      "id": "12ZrizoVfr",
+      "guid": "12j7YjS7jq",
+      "created": "2020-09-26T18:40:09.121Z",
+      "lastUpdated": "2020-09-26T18:41:43.775Z",
+      "rects": {
+        "0": {
+          "left": 176,
+          "top": 346,
+          "right": 311,
+          "bottom": 360,
+          "width": 135,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "articulated   reasoning",
+          "rect": {
+            "left": 176,
+            "top": 346,
+            "right": 311,
+            "bottom": 360,
+            "width": 134,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "articulated   reasoning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<b>articulated   reasoning</b>"
+      }
+    },
+    {
+      "id": "1bYyHZGYoU",
+      "guid": "12rkdqdhuZ",
+      "created": "2020-09-26T18:41:38.328Z",
+      "lastUpdated": "2020-09-26T18:42:03.271Z",
+      "rects": {
+        "0": {
+          "left": 249,
+          "top": 362,
+          "right": 512,
+          "bottom": 380,
+          "width": 263,
+          "height": 18
+        },
+        "1": {
+          "left": 176,
+          "top": 380,
+          "right": 463,
+          "bottom": 398,
+          "width": 287,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "hains of st",
+          "rect": {
+            "left": 249,
+            "top": 362,
+            "right": 308,
+            "bottom": 379,
+            "width": 58,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "ructured propositions involving im",
+          "rect": {
+            "left": 307,
+            "top": 362,
+            "right": 502,
+            "bottom": 379,
+            "width": 194,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "-",
+          "rect": {
+            "left": 507,
+            "top": 362,
+            "right": 512,
+            "bottom": 379,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "plications,  negatives,  quantification,  hypotheticals,  ",
+          "rect": {
+            "left": 176,
+            "top": 380,
+            "right": 463,
+            "bottom": 398,
+            "width": 287,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "hains of structured propositions involving im -\nplications,  negatives,  quantification,  hypotheticals,  "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<b>chains of structured propositions involving implications,  negatives,  quantification,  hypotheticals,</b>  "
+      }
+    },
+    {
+      "id": "1kt6DtbDkq",
+      "guid": "1kt6DtbDkq",
+      "created": "2020-09-26T18:42:19.788Z",
+      "lastUpdated": "2020-09-26T18:42:19.788Z",
+      "rects": {
+        "0": {
+          "left": 88,
+          "top": 177,
+          "right": 363,
+          "bottom": 192,
+          "width": 275,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Characteristics of Articulated Reasoning",
+          "rect": {
+            "left": 88,
+            "top": 177,
+            "right": 363,
+            "bottom": 192,
+            "width": 275,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Characteristics of Articulated Reasoning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1yXLZWWnY9",
+      "guid": "1yXLZWWnY9",
+      "created": "2020-09-26T18:42:22.039Z",
+      "lastUpdated": "2020-09-26T18:43:33.024Z",
+      "rects": {
+        "0": {
+          "left": 10.35548686244204,
+          "top": 18.04123711340206,
+          "width": 73.33848531684698,
+          "height": 46.59793814432989
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12Uxzpryn4KHAfN4LUKD",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12Uxzpryn4KHAfN4LUKD.png"
+        },
+        "width": 949,
+        "height": 904,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 59,
+        "y": 155,
+        "width": 422,
+        "height": 402
+      }
+    },
+    {
+      "id": "1Cbhe86aE4",
+      "guid": "1Cbhe86aE4",
+      "created": "2020-09-26T18:42:49.919Z",
+      "lastUpdated": "2020-09-26T18:42:49.919Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 235,
+          "right": 158,
+          "bottom": 248,
+          "width": 45,
+          "height": 13
+        },
+        "1": {
+          "left": 156,
+          "top": 232,
+          "right": 184,
+          "bottom": 248,
+          "width": 28,
+          "height": 16
+        },
+        "2": {
+          "left": 185,
+          "top": 235,
+          "right": 250,
+          "bottom": 248,
+          "width": 65,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Identity",
+          "rect": {
+            "left": 113,
+            "top": 235,
+            "right": 158,
+            "bottom": 248,
+            "width": 45,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "  and  ",
+          "rect": {
+            "left": 156,
+            "top": 232,
+            "right": 184,
+            "bottom": 248,
+            "width": 28,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "nonidentity",
+          "rect": {
+            "left": 185,
+            "top": 235,
+            "right": 250,
+            "bottom": 248,
+            "width": 65,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Identity\n  and  \nnonidentity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12Z8Zc92Zq",
+      "guid": "12Z8Zc92Zq",
+      "created": "2020-09-26T18:42:51.766Z",
+      "lastUpdated": "2020-09-26T18:42:51.766Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 270,
+          "right": 192,
+          "bottom": 282,
+          "width": 79,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Quan",
+          "rect": {
+            "left": 113,
+            "top": 270,
+            "right": 145,
+            "bottom": 282,
+            "width": 32,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "tification",
+          "rect": {
+            "left": 145,
+            "top": 270,
+            "right": 192,
+            "bottom": 282,
+            "width": 47,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Quantification"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1rQ4FjaGiL",
+      "guid": "1rQ4FjaGiL",
+      "created": "2020-09-26T18:42:53.295Z",
+      "lastUpdated": "2020-09-26T18:42:53.295Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 305,
+          "right": 163,
+          "bottom": 317,
+          "width": 50,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Vari",
+          "rect": {
+            "left": 113,
+            "top": 305,
+            "right": 133,
+            "bottom": 317,
+            "width": 20,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "ables",
+          "rect": {
+            "left": 133,
+            "top": 305,
+            "right": 163,
+            "bottom": 317,
+            "width": 29,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Variables"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12qstnb7Wp",
+      "guid": "12qstnb7Wp",
+      "created": "2020-09-26T18:42:56.046Z",
+      "lastUpdated": "2020-09-26T18:42:56.046Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 339,
+          "right": 210,
+          "bottom": 352,
+          "width": 97,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Logical  operators",
+          "rect": {
+            "left": 113,
+            "top": 339,
+            "right": 210,
+            "bottom": 352,
+            "width": 97,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Logical  operators"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1B4kTqj6FR",
+      "guid": "1B4kTqj6FR",
+      "created": "2020-09-26T18:42:57.831Z",
+      "lastUpdated": "2020-09-26T18:42:57.831Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 374,
+          "right": 136,
+          "bottom": 387,
+          "width": 23,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sets",
+          "rect": {
+            "left": 113,
+            "top": 374,
+            "right": 136,
+            "bottom": 387,
+            "width": 23,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Sets"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12pTRWMdLi",
+      "guid": "12pTRWMdLi",
+      "created": "2020-09-26T18:43:01.136Z",
+      "lastUpdated": "2020-09-26T18:43:01.136Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 409,
+          "right": 156,
+          "bottom": 421,
+          "width": 43,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Op",
+          "rect": {
+            "left": 113,
+            "top": 409,
+            "right": 131,
+            "bottom": 421,
+            "width": 18,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "a",
+          "rect": {
+            "left": 131,
+            "top": 409,
+            "right": 138,
+            "bottom": 421,
+            "width": 7,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "city",
+          "rect": {
+            "left": 137,
+            "top": 409,
+            "right": 156,
+            "bottom": 421,
+            "width": 19,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Opacity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1273SA9ULw",
+      "guid": "1273SA9ULw",
+      "created": "2020-09-26T18:43:04.852Z",
+      "lastUpdated": "2020-09-26T18:43:04.852Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 444,
+          "right": 169,
+          "bottom": 456,
+          "width": 56,
+          "height": 12
+        },
+        "1": {
+          "left": 172,
+          "top": 441,
+          "right": 206,
+          "bottom": 457,
+          "width": 34,
+          "height": 16
+        },
+        "2": {
+          "left": 204,
+          "top": 444,
+          "right": 279,
+          "bottom": 456,
+          "width": 75,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ca",
+          "rect": {
+            "left": 113,
+            "top": 444,
+            "right": 127,
+            "bottom": 456,
+            "width": 14,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "tegories",
+          "rect": {
+            "left": 127,
+            "top": 444,
+            "right": 169,
+            "bottom": 456,
+            "width": 42,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "  and  ",
+          "rect": {
+            "left": 172,
+            "top": 441,
+            "right": 206,
+            "bottom": 457,
+            "width": 33,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "subcategories",
+          "rect": {
+            "left": 204,
+            "top": 444,
+            "right": 279,
+            "bottom": 456,
+            "width": 74,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Categories\n  and  \nsubcategories"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12jRvg3VeY",
+      "guid": "12jRvg3VeY",
+      "created": "2020-09-26T18:43:12.540Z",
+      "lastUpdated": "2020-09-26T18:43:12.540Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 478,
+          "right": 170,
+          "bottom": 491,
+          "width": 57,
+          "height": 13
+        },
+        "1": {
+          "left": 171,
+          "top": 476,
+          "right": 200,
+          "bottom": 492,
+          "width": 29,
+          "height": 16
+        },
+        "2": {
+          "left": 200,
+          "top": 478,
+          "right": 250,
+          "bottom": 491,
+          "width": 50,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Possibility",
+          "rect": {
+            "left": 113,
+            "top": 478,
+            "right": 170,
+            "bottom": 491,
+            "width": 57,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "  and  ",
+          "rect": {
+            "left": 171,
+            "top": 476,
+            "right": 200,
+            "bottom": 492,
+            "width": 29,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "necessity",
+          "rect": {
+            "left": 200,
+            "top": 478,
+            "right": 250,
+            "bottom": 491,
+            "width": 49,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Possibility\n  and  \nnecessity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1FewdcNnKX",
+      "guid": "1FewdcNnKX",
+      "created": "2020-09-26T18:43:16.365Z",
+      "lastUpdated": "2020-09-26T18:43:16.365Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 513,
+          "right": 211,
+          "bottom": 525,
+          "width": 98,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "De",
+          "rect": {
+            "left": 113,
+            "top": 513,
+            "right": 128,
+            "bottom": 525,
+            "width": 15,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "f",
+          "rect": {
+            "left": 128,
+            "top": 513,
+            "right": 132,
+            "bottom": 525,
+            "width": 4,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "ault reasoning",
+          "rect": {
+            "left": 132,
+            "top": 513,
+            "right": 211,
+            "bottom": 525,
+            "width": 79,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Default reasoning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

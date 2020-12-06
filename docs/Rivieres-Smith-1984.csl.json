@@ -1,0 +1,48 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/WDNR8CQI",
+		"type": "paper-conference",
+		"abstract": "In a procedurally reflective programming language, all programs are executed not through the agency of a primitive and inaccessible interpreter, but rather by the explicit running of a program that represents that interpreter. In the corresponding virtual machine, therefore, there are an infinite number of levels at which programs are processed, all simultaneously active. It is therefore a substantial question to show whether, and why, a reflective language is computationally tractable. We answer this question by showing how to produce an efficient implementation of a procedurally reflective language, based on the notion of a level-shifting processor. A series of general techniques, which should be applicable to reflective variants of any standard applicative or imperative programming languages, are illustrated in a complete implementation for a particular reflective LISP dialect called 3-LISP.",
+		"collection-title": "LFP '84",
+		"container-title": "Proceedings of the 1984 ACM Symposium on LISP and functional programming",
+		"DOI": "10.1145/800055.802050",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-0-89791-142-9",
+		"note": "ZSCC: 0000139",
+		"page": "331–347",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "The implementation of procedurally reflective languages",
+		"URL": "http://doi.org/10.1145/800055.802050",
+		"author": [
+			{
+				"family": "Rivières",
+				"given": "Jim",
+				"dropping-particle": "des"
+			},
+			{
+				"family": "Smith",
+				"given": "Brian Cantwell"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1984",
+					8,
+					6
+				]
+			]
+		}
+	}
+]

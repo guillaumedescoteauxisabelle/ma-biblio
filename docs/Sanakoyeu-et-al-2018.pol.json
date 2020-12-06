@@ -1,0 +1,596 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12eCXG4WQY",
+      "guid": "12eCXG4WQY",
+      "created": "2020-11-06T16:33:53.032Z",
+      "lastUpdated": "2020-11-06T16:33:53.032Z",
+      "rects": {
+        "0": {
+          "left": 125,
+          "top": 44,
+          "right": 427,
+          "bottom": 65,
+          "width": 302,
+          "height": 21
+        },
+        "1": {
+          "left": 140,
+          "top": 67,
+          "right": 413,
+          "bottom": 89,
+          "width": 273,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A Style-Aware Content Loss for"
+        },
+        "1": {
+          "text": "Real-time HD Style Transfer"
+        }
+      },
+      "text": {
+        "TEXT": "A Style-Aware Content Loss for Real-time HD Style Transfer"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Ajb7HrMHB",
+      "guid": "1w7UspeGx1",
+      "created": "2020-11-06T16:33:56.344Z",
+      "lastUpdated": "2020-11-06T16:33:59.944Z",
+      "rects": {
+        "0": {
+          "left": 106,
+          "top": 118,
+          "right": 173,
+          "bottom": 133,
+          "width": 66,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sanakoyeu"
+        }
+      },
+      "text": {
+        "TEXT": "Sanakoyeu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Sanakoyeu et al., 2018)</p>\n<p>FTag: Sanakoyeu-et-al-2018</p>\n<p>APA7: Sanakoyeu, A., Kotovenko, D., Lang, S., &amp; Ommer, B. (2018). A Style-Aware Content Loss for Real-time HD Style Transfer. <em>ArXiv:1807.10201 [Cs]</em>. <a href=\"http://arxiv.org/abs/1807.10201\">http://arxiv.org/abs/1807.10201</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12ZpZvk92d",
+      "guid": "12ZpZvk92d",
+      "created": "2020-11-06T16:34:09.865Z",
+      "lastUpdated": "2020-11-06T16:34:09.865Z",
+      "rects": {
+        "0": {
+          "left": 199,
+          "top": 218,
+          "right": 429,
+          "bottom": 232,
+          "width": 230,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " style transfer has received a lot of attent"
+        }
+      },
+      "text": {
+        "TEXT": "style transfer has received a lot of attent"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1psDAe9qd3",
+      "guid": "12DsALp5VT",
+      "created": "2020-11-06T16:34:50.995Z",
+      "lastUpdated": "2020-11-06T16:35:35.207Z",
+      "rects": {
+        "0": {
+          "left": 83,
+          "top": 233,
+          "right": 486,
+          "bottom": 247,
+          "width": 403,
+          "height": 13
+        },
+        "1": {
+          "left": 83,
+          "top": 248,
+          "right": 486,
+          "bottom": 261,
+          "width": 403,
+          "height": 13
+        },
+        "2": {
+          "left": 83,
+          "top": 262,
+          "right": 487,
+          "bottom": 276,
+          "width": 404,
+          "height": 13
+        },
+        "3": {
+          "left": 83,
+          "top": 277,
+          "right": 488,
+          "bottom": 290,
+          "width": 405,
+          "height": 13
+        },
+        "4": {
+          "left": 83,
+          "top": 291,
+          "right": 149,
+          "bottom": 305,
+          "width": 66,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "much  of  this  research  has  aimed  at  speeding  up  processing,  the  ap-"
+        },
+        "1": {
+          "text": "proaches  are  still  lacking  from  a  principled,  art  historical  standpoint:"
+        },
+        "2": {
+          "text": "a style is more than just a single image or an artist, but previous work"
+        },
+        "3": {
+          "text": "is limited to only a single instance of a style or shows no benefit from"
+        },
+        "4": {
+          "text": "more image"
+        }
+      },
+      "text": {
+        "TEXT": "much  of  this  research  has  aimed  at  speeding  up  processing,  the  ap- proaches  are  still  lacking  from  a  principled,  art  historical  standpoint: a style is more than just a single image or an artist, but previous work is limited to only a single instance of a style or shows no benefit from more image"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] much  of  this  research  has  aimed  at  speeding  up  processing,  the  approaches  are  still  lacking  from  a  principled,  art  historical  standpoint: a style is more than just a single image or an artist, but previous work is limited to only a single instance of a style or shows no benefit from more image.&nbsp;<span>\n\n(Sanakoyeu et al., 2018)\n\n</span></p>"
+      },
+      "tags": {
+        "NSTProblematic": {
+          "id": "NSTProblematic",
+          "label": "NSTProblematic"
+        }
+      }
+    },
+    {
+      "id": "12mrjUHkp3",
+      "guid": "14Wd1XPLau",
+      "created": "2020-11-06T16:39:09.954Z",
+      "lastUpdated": "2020-11-06T16:39:53.383Z",
+      "rects": {
+        "0": {
+          "left": 361,
+          "top": 306,
+          "right": 487,
+          "bottom": 320,
+          "width": 125,
+          "height": 13
+        },
+        "1": {
+          "left": 83,
+          "top": 321,
+          "right": 487,
+          "bottom": 334,
+          "width": 404,
+          "height": 13
+        },
+        "2": {
+          "left": 83,
+          "top": 335,
+          "right": 487,
+          "bottom": 349,
+          "width": 404,
+          "height": 13
+        },
+        "3": {
+          "left": 83,
+          "top": 350,
+          "right": 140,
+          "bottom": 363,
+          "width": 57,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "s pre-trained on Ima-"
+        },
+        "1": {
+          "text": "geNet, which requires millions of labeled object bounding boxes and can"
+        },
+        "2": {
+          "text": "introduce an extra bias, since it has been assembled without artistic con-"
+        },
+        "3": {
+          "text": "sideration."
+        }
+      },
+      "text": {
+        "TEXT": "s pre-trained on Ima- geNet, which requires millions of labeled object bounding boxes and can introduce an extra bias, since it has been assembled without artistic con- sideration."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] pre-trained on ImageNet, [...] can introduce an extra bias, since it has been assembled without artistic consideration.&nbsp;<span>\n\n&nbsp;(Sanakoyeu et al., 2018)\n\n</span></p>"
+      },
+      "tags": {
+        "NSTProblematic": {
+          "id": "NSTProblematic",
+          "label": "NSTProblematic"
+        }
+      }
+    },
+    {
+      "id": "12ni4dZYp7kMKTWfVqF6",
+      "guid": "12ni4dZYp7kMKTWfVqF6",
+      "created": "2020-11-06T16:42:21.664Z",
+      "lastUpdated": "2020-11-06T16:42:21.664Z",
+      "content": {
+        "HTML": "<p>Problématique de considération artistique dans l'identification des libelés</p>"
+      },
+      "ref": "text-highlight:12mrjUHkp3"
+    },
+    {
+      "id": "1P8W6bdxC4",
+      "guid": "18oJA5FyXa",
+      "created": "2020-11-06T16:43:16.549Z",
+      "lastUpdated": "2020-11-06T16:43:54.818Z",
+      "rects": {
+        "0": {
+          "left": 140,
+          "top": 350,
+          "right": 488,
+          "bottom": 363,
+          "width": 347,
+          "height": 13
+        },
+        "1": {
+          "left": 83,
+          "top": 365,
+          "right": 485,
+          "bottom": 378,
+          "width": 402,
+          "height": 13
+        },
+        "2": {
+          "left": 83,
+          "top": 379,
+          "right": 390,
+          "bottom": 393,
+          "width": 307,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " To circumvent these issues, we propose a style-aware content"
+        },
+        "1": {
+          "text": "loss,  which  is  trained  jointly  with  a  deep  encoder-decoder  network  for"
+        },
+        "2": {
+          "text": "real-time, high-resolution stylization of images and vide"
+        }
+      },
+      "text": {
+        "TEXT": "To circumvent these issues, we propose a style-aware content loss,  which  is  trained  jointly  with  a  deep  encoder-decoder  network  for real-time, high-resolution stylization of images and vide"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "To circumvent these issues, we propose a <b>style-aware content loss</b>,  which  is  trained  jointly  with  a  deep  encoder-decoder  network  for real-time, high-resolution stylization of images and video"
+      }
+    },
+    {
+      "id": "1kdk3KVtqBGq9JYG9tw1",
+      "guid": "1kdk3KVtqBGq9JYG9tw1",
+      "created": "2020-11-06T16:43:33.873Z",
+      "lastUpdated": "2020-11-06T16:43:33.873Z",
+      "content": {
+        "HTML": "<p>Style-aware content loss ??</p>"
+      },
+      "ref": "text-highlight:18oJA5FyXa"
+    },
+    {
+      "id": "1Vk9Cuw5LN",
+      "guid": "1tRQ81mo2x",
+      "created": "2020-11-06T16:44:32.822Z",
+      "lastUpdated": "2020-11-06T16:44:58.881Z",
+      "rects": {
+        "0": {
+          "left": 83,
+          "top": 480,
+          "right": 150,
+          "bottom": 494,
+          "width": 67,
+          "height": 13
+        },
+        "1": {
+          "left": 154,
+          "top": 480,
+          "right": 422,
+          "bottom": 494,
+          "width": 268,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords:"
+        },
+        "1": {
+          "text": "Style transfer, generative network, deep learnin"
+        }
+      },
+      "text": {
+        "TEXT": "Keywords: Style transfer, generative network, deep learnin"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Style transfer, generative network, deep learning</p><p>#keywords</p>"
+      },
+      "tags": {
+        "NSTKeywords": {
+          "id": "NSTKeywords",
+          "label": "NSTKeywords"
+        }
+      }
+    },
+    {
+      "id": "1R8ksmGrnA",
+      "guid": "1R8ksmGrnA",
+      "created": "2020-11-06T16:45:21.820Z",
+      "lastUpdated": "2020-11-06T16:54:37.474Z",
+      "rects": {
+        "0": {
+          "left": 58,
+          "top": 601,
+          "right": 130,
+          "bottom": 614,
+          "width": 71,
+          "height": 13
+        },
+        "1": {
+          "left": 134,
+          "top": 602,
+          "right": 433,
+          "bottom": 615,
+          "width": 299,
+          "height": 12
+        },
+        "2": {
+          "left": 443,
+          "top": 601,
+          "right": 446,
+          "bottom": 614,
+          "width": 3,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Project page:"
+        },
+        "1": {
+          "text": "https://compvis.github.io/adaptive-style-transfer"
+        },
+        "2": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "Project page: https://compvis.github.io/adaptive-style-transfer ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "NSTReferences": {
+          "id": "NSTReferences",
+          "label": "NSTReferences"
+        }
+      }
+    },
+    {
+      "id": "1o3wgsWbFg",
+      "guid": "127vy3d2Q7",
+      "created": "2020-11-06T16:55:10.948Z",
+      "lastUpdated": "2020-11-06T16:55:25.247Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 548,
+          "right": 281,
+          "bottom": 566,
+          "width": 212,
+          "height": 18
+        },
+        "1": {
+          "left": 45,
+          "top": 589,
+          "right": 328,
+          "bottom": 604,
+          "width": 283,
+          "height": 14
+        },
+        "2": {
+          "left": 329,
+          "top": 589,
+          "right": 510,
+          "bottom": 604,
+          "width": 181,
+          "height": 14
+        },
+        "3": {
+          "left": 45,
+          "top": 605,
+          "right": 518,
+          "bottom": 620,
+          "width": 473,
+          "height": 14
+        },
+        "4": {
+          "left": 45,
+          "top": 621,
+          "right": 517,
+          "bottom": 636,
+          "width": 472,
+          "height": 14
+        },
+        "5": {
+          "left": 45,
+          "top": 637,
+          "right": 513,
+          "bottom": 652,
+          "width": 468,
+          "height": 14
+        },
+        "6": {
+          "left": 45,
+          "top": 653,
+          "right": 197,
+          "bottom": 668,
+          "width": 152,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Extra Qualitative Results"
+        },
+        "1": {
+          "text": "Altering the style of an existing artwork"
+        },
+        "2": {
+          "text": "Our method is able to change"
+        },
+        "3": {
+          "text": "the  style  of  an  existing  artwork,  rendering  it  in  another  style.  It  means,  that"
+        },
+        "4": {
+          "text": "our algorithm can also handle content images which are artistic, which, to our"
+        },
+        "5": {
+          "text": "knowledge, was never shown in previous work before. We refer the reader to the"
+        },
+        "6": {
+          "text": "results on the project pag"
+        }
+      },
+      "text": {
+        "TEXT": "Extra Qualitative Results Altering the style of an existing artwork Our method is able to change the  style  of  an  existing  artwork,  rendering  it  in  another  style.  It  means,  that our algorithm can also handle content images which are artistic, which, to our knowledge, was never shown in previous work before. We refer the reader to the results on the project pag"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Extra Qualitative Results </h2><p>Altering the style of an existing artwork Our method is able to change the  style  of  an  existing  artwork,  rendering  it  in  another  style.  It  means,  that our algorithm can also handle content images which are artistic, which, to our knowledge, was never shown in previous work before. We refer the reader to the results on the project page.</p>"
+      }
+    },
+    {
+      "id": "12dtPkaNhS",
+      "guid": "12dtPkaNhS",
+      "created": "2020-11-06T16:55:41.347Z",
+      "lastUpdated": "2020-11-06T16:56:02.604Z",
+      "rects": {
+        "0": {
+          "left": 34.97782705099778,
+          "top": 60.352435730253355,
+          "width": 16.629711751662974,
+          "height": 11.177347242921009
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "15yTyjzg8QNRaNys8Kwi",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "15yTyjzg8QNRaNys8Kwi.png"
+        },
+        "width": 1514,
+        "height": 168,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 51,
+        "y": 456,
+        "width": 462,
+        "height": 51
+      },
+      "tags": {
+        "NSTFormula": {
+          "id": "NSTFormula",
+          "label": "NSTFormula"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/QHUTRIZI",
+		"type": "paper-conference",
+		"event": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+		"note": "ZSCC: 0000029",
+		"page": "4422-4431",
+		"source": "openaccess.thecvf.com",
+		"title": "Content and Style Disentanglement for Artistic Style Transfer",
+		"URL": "https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html",
+		"author": [
+			{
+				"family": "Kotovenko",
+				"given": "Dmytro"
+			},
+			{
+				"family": "Sanakoyeu",
+				"given": "Artsiom"
+			},
+			{
+				"family": "Lang",
+				"given": "Sabine"
+			},
+			{
+				"family": "Ommer",
+				"given": "Bjorn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]

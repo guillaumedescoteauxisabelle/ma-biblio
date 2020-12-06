@@ -1,0 +1,1699 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12tqVxXyHP",
+      "guid": "1pipXUcqZ6",
+      "created": "2020-09-21T18:24:06.102Z",
+      "lastUpdated": "2020-09-21T18:28:38.822Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 93,
+          "right": 269,
+          "bottom": 110,
+          "width": 173,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "STRATÉGIE DE VÉRIFICATIO",
+          "rect": {
+            "left": 96,
+            "top": 93,
+            "right": 269,
+            "bottom": 110,
+            "width": 173,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "STRATÉGIE DE VÉRIFICATIO"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "STRATÉGIE DE VÉRIFICATION"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12t3DDPRWU",
+      "guid": "12t3DDPRWU",
+      "created": "2020-09-21T18:25:28.746Z",
+      "lastUpdated": "2020-09-21T18:25:28.746Z",
+      "rects": {
+        "0": {
+          "left": 491,
+          "top": 361,
+          "right": 552,
+          "bottom": 379,
+          "width": 61,
+          "height": 18
+        },
+        "1": {
+          "left": 96,
+          "top": 379,
+          "right": 544,
+          "bottom": 395,
+          "width": 448,
+          "height": 16
+        },
+        "2": {
+          "left": 96,
+          "top": 395,
+          "right": 542,
+          "bottom": 412,
+          "width": 446,
+          "height": 17
+        },
+        "3": {
+          "left": 96,
+          "top": 412,
+          "right": 547,
+          "bottom": 430,
+          "width": 451,
+          "height": 18
+        },
+        "4": {
+          "left": 96,
+          "top": 430,
+          "right": 544,
+          "bottom": 447,
+          "width": 448,
+          "height": 17
+        },
+        "5": {
+          "left": 96,
+          "top": 447,
+          "right": 320,
+          "bottom": 464,
+          "width": 224,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ruire  le  ",
+          "rect": {
+            "left": 491,
+            "top": 361,
+            "right": 552,
+            "bottom": 378,
+            "width": 61,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "cadre opératoire (ou cadre d’analyse) qui orientera la recherche ",
+          "rect": {
+            "left": 96,
+            "top": 379,
+            "right": 544,
+            "bottom": 395,
+            "width": 448,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "à  venir.  C’est  l’étape  fondamentale  du  processus  de  recherche  ",
+          "rect": {
+            "left": 96,
+            "top": 395,
+            "right": 542,
+            "bottom": 412,
+            "width": 445,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "puisque le cadre opératoire nous oblige à préciser ce qu’il nous ",
+          "rect": {
+            "left": 96,
+            "top": 412,
+            "right": 547,
+            "bottom": 429,
+            "width": 451,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "faut  observer  et  comment  mesurer/évaluer  ce  qui  sera  observé  ",
+          "rect": {
+            "left": 96,
+            "top": 430,
+            "right": 544,
+            "bottom": 447,
+            "width": 448,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "afin de pouvoir vérifier l’hypoth",
+          "rect": {
+            "left": 96,
+            "top": 447,
+            "right": 320,
+            "bottom": 464,
+            "width": 223,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ruire  le  \ncadre opératoire (ou cadre d’analyse) qui orientera la recherche \nà  venir.  C’est  l’étape  fondamentale  du  processus  de  recherche  \npuisque le cadre opératoire nous oblige à préciser ce qu’il nous \nfaut  observer  et  comment  mesurer/évaluer  ce  qui  sera  observé  \nafin de pouvoir vérifier l’hypoth"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12hqaDMc9U",
+      "guid": "12hqaDMc9U",
+      "created": "2020-09-21T18:26:51.096Z",
+      "lastUpdated": "2020-09-21T18:26:51.096Z",
+      "rects": {
+        "0": {
+          "left": 197,
+          "top": 555,
+          "right": 381,
+          "bottom": 572,
+          "width": 184,
+          "height": 17
+        },
+        "1": {
+          "left": 578,
+          "top": -4,
+          "right": 656,
+          "bottom": 572,
+          "width": 78,
+          "height": 576
+        },
+        "2": {
+          "left": 64,
+          "top": 572,
+          "right": 475,
+          "bottom": 590,
+          "width": 411,
+          "height": 18
+        },
+        "3": {
+          "left": 64,
+          "top": 590,
+          "right": 475,
+          "bottom": 607,
+          "width": 411,
+          "height": 17
+        },
+        "4": {
+          "left": 64,
+          "top": 607,
+          "right": 279,
+          "bottom": 624,
+          "width": 215,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "a  plupart  des  ouvrages  de  ",
+          "rect": {
+            "left": 197,
+            "top": 555,
+            "right": 381,
+            "bottom": 572,
+            "width": 184,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "méthodologie",
+          "rect": {
+            "left": 578,
+            "top": -4,
+            "right": 656,
+            "bottom": 14,
+            "width": 78,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "traitent abondamment des modes d’utilisation des instruments de ",
+          "rect": {
+            "left": 64,
+            "top": 572,
+            "right": 475,
+            "bottom": 590,
+            "width": 411,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "collecte de l’information et il ne servirait à rien de répéter ici les ",
+          "rect": {
+            "left": 64,
+            "top": 590,
+            "right": 475,
+            "bottom": 607,
+            "width": 411,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "exposés détaillés proposés ailleurs.",
+          "rect": {
+            "left": 64,
+            "top": 607,
+            "right": 279,
+            "bottom": 624,
+            "width": 215,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "a  plupart  des  ouvrages  de  méthodologie\ntraitent abondamment des modes d’utilisation des instruments de \ncollecte de l’information et il ne servirait à rien de répéter ici les \nexposés détaillés proposés ailleurs."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1wNwTYMwK8",
+      "guid": "1wNwTYMwK8",
+      "created": "2020-09-21T18:27:52.278Z",
+      "lastUpdated": "2020-09-21T18:27:52.278Z",
+      "rects": {
+        "0": {
+          "left": 238,
+          "top": 522,
+          "right": 509,
+          "bottom": 539,
+          "width": 271,
+          "height": 17
+        },
+        "1": {
+          "left": 96,
+          "top": 539,
+          "right": 504,
+          "bottom": 556,
+          "width": 408,
+          "height": 17
+        },
+        "2": {
+          "left": 96,
+          "top": 556,
+          "right": 481,
+          "bottom": 574,
+          "width": 385,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Il   est   surprenant   de   constater   encore   ",
+          "rect": {
+            "left": 238,
+            "top": 522,
+            "right": 509,
+            "bottom": 539,
+            "width": 270,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "aujourd’hui que peu de manuels traitent de l’ensemble des étapes ",
+          "rect": {
+            "left": 96,
+            "top": 539,
+            "right": 504,
+            "bottom": 556,
+            "width": 408,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "du processus de recherche de façon succincte et abordable. P",
+          "rect": {
+            "left": 96,
+            "top": 556,
+            "right": 481,
+            "bottom": 574,
+            "width": 385,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Il   est   surprenant   de   constater   encore   \naujourd’hui que peu de manuels traitent de l’ensemble des étapes \ndu processus de recherche de façon succincte et abordable. P"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "13QCArJehQ",
+      "guid": "1nkFkkVury",
+      "created": "2020-09-21T18:28:23.764Z",
+      "lastUpdated": "2020-09-21T18:28:49.432Z",
+      "rects": {
+        "0": {
+          "left": 183,
+          "top": 436,
+          "right": 269,
+          "bottom": 454,
+          "width": 86,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "research desig",
+          "rect": {
+            "left": 183,
+            "top": 436,
+            "right": 259,
+            "bottom": 454,
+            "width": 76,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "n ",
+          "rect": {
+            "left": 259,
+            "top": 436,
+            "right": 269,
+            "bottom": 454,
+            "width": 9,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "research design "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<b>research design (</b> devis de recherche )"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1pvJMX8MiH",
+      "guid": "1pvJMX8MiH",
+      "created": "2020-09-21T18:29:49.984Z",
+      "lastUpdated": "2020-09-21T18:29:49.984Z",
+      "rects": {
+        "0": {
+          "left": 332,
+          "top": 471,
+          "right": 501,
+          "bottom": 488,
+          "width": 169,
+          "height": 17
+        },
+        "1": {
+          "left": 96,
+          "top": 488,
+          "right": 506,
+          "bottom": 506,
+          "width": 410,
+          "height": 18
+        },
+        "2": {
+          "left": 96,
+          "top": 506,
+          "right": 502,
+          "bottom": 523,
+          "width": 406,
+          "height": 17
+        },
+        "3": {
+          "left": 96,
+          "top": 523,
+          "right": 517,
+          "bottom": 540,
+          "width": 421,
+          "height": 17
+        },
+        "4": {
+          "left": 96,
+          "top": 540,
+          "right": 514,
+          "bottom": 558,
+          "width": 418,
+          "height": 18
+        },
+        "5": {
+          "left": 96,
+          "top": 558,
+          "right": 507,
+          "bottom": 575,
+          "width": 411,
+          "height": 17
+        },
+        "6": {
+          "left": 96,
+          "top": 575,
+          "right": 507,
+          "bottom": 592,
+          "width": 411,
+          "height": 17
+        },
+        "7": {
+          "left": 96,
+          "top": 592,
+          "right": 453,
+          "bottom": 610,
+          "width": 357,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Cette  confusion  terminolo-",
+          "rect": {
+            "left": 332,
+            "top": 471,
+            "right": 501,
+            "bottom": 488,
+            "width": 169,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "gique pose problème puisque certaines expressions font référence ",
+          "rect": {
+            "left": 96,
+            "top": 488,
+            "right": 506,
+            "bottom": 506,
+            "width": 410,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "à  l’ensemble  du  processus  de  recherche  et  d’autres  à  une  étape  ",
+          "rect": {
+            "left": 96,
+            "top": 506,
+            "right": 502,
+            "bottom": 523,
+            "width": 406,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "spécifique  de  la  recherche.  L’expression  «  ",
+          "rect": {
+            "left": 96,
+            "top": 523,
+            "right": 370,
+            "bottom": 540,
+            "width": 274,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "projet  de  recherche  ",
+          "rect": {
+            "left": 373,
+            "top": 523,
+            "right": 504,
+            "bottom": 540,
+            "width": 131,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "»  ",
+          "rect": {
+            "left": 505,
+            "top": 523,
+            "right": 517,
+            "bottom": 540,
+            "width": 11,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "semble plus appropriée, car le mot « ",
+          "rect": {
+            "left": 96,
+            "top": 540,
+            "right": 333,
+            "bottom": 558,
+            "width": 237,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "projet ",
+          "rect": {
+            "left": 337,
+            "top": 540,
+            "right": 379,
+            "bottom": 558,
+            "width": 42,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "» indique clairement ",
+          "rect": {
+            "left": 377,
+            "top": 540,
+            "right": 514,
+            "bottom": 558,
+            "width": 137,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "qu’il  ne  s’agit  pas  de  la  réalisation  ou  de  l’actualisation  de  la  ",
+          "rect": {
+            "left": 96,
+            "top": 558,
+            "right": 507,
+            "bottom": 575,
+            "width": 411,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "recherche, mais plutôt de ce que l’on veut entreprendre comme ",
+          "rect": {
+            "left": 96,
+            "top": 575,
+            "right": 507,
+            "bottom": 592,
+            "width": 411,
+            "height": 17
+          }
+        },
+        "11": {
+          "text": "recherche et de la méthode qu’on utilisera pour ce faire ",
+          "rect": {
+            "left": 96,
+            "top": 592,
+            "right": 453,
+            "bottom": 610,
+            "width": 357,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Cette  confusion  terminolo-\ngique pose problème puisque certaines expressions font référence \nà  l’ensemble  du  processus  de  recherche  et  d’autres  à  une  étape  \nspécifique  de  la  recherche.  L’expression  «   projet  de  recherche  »  \nsemble plus appropriée, car le mot «  projet » indique clairement \nqu’il  ne  s’agit  pas  de  la  réalisation  ou  de  l’actualisation  de  la  \nrecherche, mais plutôt de ce que l’on veut entreprendre comme \nrecherche et de la méthode qu’on utilisera pour ce faire "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1uugX4UE9V",
+      "guid": "1uugX4UE9V",
+      "created": "2020-09-21T18:30:44.459Z",
+      "lastUpdated": "2020-09-21T18:30:44.459Z",
+      "rects": {
+        "0": {
+          "left": 64,
+          "top": 376,
+          "right": 397,
+          "bottom": 393,
+          "width": 333,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "POURQUOI CONSTRUIRE UN CADRE OPÉRATOIRE",
+          "rect": {
+            "left": 64,
+            "top": 376,
+            "right": 397,
+            "bottom": 393,
+            "width": 333,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": " ?",
+          "rect": {
+            "left": 375,
+            "top": 376,
+            "right": 384,
+            "bottom": 393,
+            "width": 8,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "POURQUOI CONSTRUIRE UN CADRE OPÉRATOIRE ?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1MSSShnAzH",
+      "guid": "1sBETH4wDB",
+      "created": "2020-09-21T19:30:25.646Z",
+      "lastUpdated": "2020-09-21T19:30:45.594Z",
+      "rects": {
+        "0": {
+          "left": 64,
+          "top": 93,
+          "right": 228,
+          "bottom": 110,
+          "width": 164,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "DU CONCEPT À LA VARIABLE",
+          "rect": {
+            "left": 64,
+            "top": 93,
+            "right": 228,
+            "bottom": 110,
+            "width": 164,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "DU CONCEPT À LA VARIABLE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p><b>------------------------------------</b></p><p><b>DU CONCEPT À LA VARIABLE</b></p><p><b>------------------------------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "124dgSKssC",
+      "guid": "124dgSKssC",
+      "created": "2020-09-21T23:58:58.902Z",
+      "lastUpdated": "2020-09-21T23:58:58.902Z",
+      "rects": {
+        "0": {
+          "left": 161,
+          "top": 134,
+          "right": 474,
+          "bottom": 152,
+          "width": 313,
+          "height": 18
+        },
+        "1": {
+          "left": 64,
+          "top": 152,
+          "right": 474,
+          "bottom": 169,
+          "width": 410,
+          "height": 17
+        },
+        "2": {
+          "left": 64,
+          "top": 169,
+          "right": 474,
+          "bottom": 186,
+          "width": 410,
+          "height": 17
+        },
+        "3": {
+          "left": 64,
+          "top": 186,
+          "right": 159,
+          "bottom": 204,
+          "width": 95,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "passage de la question de recherche à l’hypothèse ",
+          "rect": {
+            "left": 161,
+            "top": 134,
+            "right": 474,
+            "bottom": 152,
+            "width": 312,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "et au cadre opératoire prend la forme d’un exercice de précision ",
+          "rect": {
+            "left": 64,
+            "top": 152,
+            "right": 474,
+            "bottom": 169,
+            "width": 410,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "qui va du général au particulier ou du plus large (abstrait) au plus ",
+          "rect": {
+            "left": 64,
+            "top": 169,
+            "right": 474,
+            "bottom": 186,
+            "width": 410,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "étroit (concret)",
+          "rect": {
+            "left": 64,
+            "top": 186,
+            "right": 159,
+            "bottom": 204,
+            "width": 95,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "passage de la question de recherche à l’hypothèse \net au cadre opératoire prend la forme d’un exercice de précision \nqui va du général au particulier ou du plus large (abstrait) au plus \nétroit (concret)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12gadLsscG",
+      "guid": "1CXZ6Cvom3",
+      "created": "2020-09-21T23:59:33.069Z",
+      "lastUpdated": "2020-10-14T15:18:05.813Z",
+      "rects": {
+        "0": {
+          "left": 400,
+          "top": 186,
+          "right": 477,
+          "bottom": 204,
+          "width": 77,
+          "height": 18
+        },
+        "1": {
+          "left": 64,
+          "top": 204,
+          "right": 474,
+          "bottom": 221,
+          "width": 410,
+          "height": 17
+        },
+        "2": {
+          "left": 64,
+          "top": 221,
+          "right": 475,
+          "bottom": 238,
+          "width": 411,
+          "height": 17
+        },
+        "3": {
+          "left": 64,
+          "top": 238,
+          "right": 473,
+          "bottom": 256,
+          "width": 409,
+          "height": 18
+        },
+        "4": {
+          "left": 64,
+          "top": 256,
+          "right": 473,
+          "bottom": 273,
+          "width": 409,
+          "height": 17
+        },
+        "5": {
+          "left": 64,
+          "top": 273,
+          "right": 136,
+          "bottom": 290,
+          "width": 72,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "es concepts ",
+          "rect": {
+            "left": 400,
+            "top": 186,
+            "right": 477,
+            "bottom": 204,
+            "width": 76,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "opératoires de l’hypothèse précisent et rendent plus concrets les ",
+          "rect": {
+            "left": 64,
+            "top": 204,
+            "right": 474,
+            "bottom": 221,
+            "width": 410,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "concepts  théoriques  contenus  dans  la  question  de  recherche,  ",
+          "rect": {
+            "left": 64,
+            "top": 221,
+            "right": 475,
+            "bottom": 238,
+            "width": 411,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "tandis  que  les  variables  et  les  indicateurs  du  cadre  opératoire  ",
+          "rect": {
+            "left": 64,
+            "top": 238,
+            "right": 473,
+            "bottom": 256,
+            "width": 409,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "jouent  un  rôle  semblable  à  l’égard  des  concepts  opératoires  de  ",
+          "rect": {
+            "left": 64,
+            "top": 256,
+            "right": 473,
+            "bottom": 273,
+            "width": 409,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "l’hypothèse",
+          "rect": {
+            "left": 64,
+            "top": 273,
+            "right": 136,
+            "bottom": 290,
+            "width": 72,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "es concepts \nopératoires de l’hypothèse précisent et rendent plus concrets les \nconcepts  théoriques  contenus  dans  la  question  de  recherche,  \ntandis  que  les  variables  et  les  indicateurs  du  cadre  opératoire  \njouent  un  rôle  semblable  à  l’égard  des  concepts  opératoires  de  \nl’hypothèse"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "Les concepts \nopératoires de l’hypothèse précisent et rendent plus concrets les \nconcepts  théoriques  contenus  dans  la  question  de  recherche,  \ntandis  que  les  variables  et  les  indicateurs  du  cadre  opératoire  \njouent  un  rôle  semblable  à  l’égard  des  concepts  opératoires  de  \nl’hypothèse."
+      }
+    },
+    {
+      "id": "1kgeUF2Rrn",
+      "guid": "1kgeUF2Rrn",
+      "created": "2020-09-22T01:27:43.375Z",
+      "lastUpdated": "2020-09-22T01:27:43.375Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 424,
+          "right": 121,
+          "bottom": 439,
+          "width": 25,
+          "height": 15
+        },
+        "1": {
+          "left": 121,
+          "top": 423,
+          "right": 168,
+          "bottom": 438,
+          "width": 47,
+          "height": 15
+        },
+        "2": {
+          "left": 170,
+          "top": 424,
+          "right": 450,
+          "bottom": 440,
+          "width": 280,
+          "height": 16
+        },
+        "3": {
+          "left": 96,
+          "top": 440,
+          "right": 453,
+          "bottom": 456,
+          "width": 357,
+          "height": 16
+        },
+        "4": {
+          "left": 96,
+          "top": 456,
+          "right": 450,
+          "bottom": 472,
+          "width": 354,
+          "height": 16
+        },
+        "5": {
+          "left": 96,
+          "top": 472,
+          "right": 191,
+          "bottom": 487,
+          "width": 95,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Une ",
+          "rect": {
+            "left": 96,
+            "top": 424,
+            "right": 121,
+            "bottom": 439,
+            "width": 25,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "variable ",
+          "rect": {
+            "left": 121,
+            "top": 423,
+            "right": 168,
+            "bottom": 438,
+            "width": 47,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "est un regroupement logique d’attributs ou de caracté-",
+          "rect": {
+            "left": 170,
+            "top": 424,
+            "right": 450,
+            "bottom": 439,
+            "width": 280,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "ristiques qui décrivent un phénomène observable empiriquement. Elle ",
+          "rect": {
+            "left": 96,
+            "top": 440,
+            "right": 453,
+            "bottom": 455,
+            "width": 357,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "identifie le « ",
+          "rect": {
+            "left": 96,
+            "top": 456,
+            "right": 162,
+            "bottom": 471,
+            "width": 66,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "quoi ",
+          "rect": {
+            "left": 161,
+            "top": 456,
+            "right": 187,
+            "bottom": 471,
+            "width": 26,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "», la ou les dimensions du concept à observer pour ",
+          "rect": {
+            "left": 186,
+            "top": 456,
+            "right": 450,
+            "bottom": 471,
+            "width": 264,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "vérifier l’hypothèse.",
+          "rect": {
+            "left": 96,
+            "top": 472,
+            "right": 191,
+            "bottom": 487,
+            "width": 95,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Une \nvariable \nest un regroupement logique d’attributs ou de caracté-\nristiques qui décrivent un phénomène observable empiriquement. Elle \nidentifie le « quoi », la ou les dimensions du concept à observer pour \nvérifier l’hypothèse."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12GkPAXA5z",
+      "guid": "12sn1RiSQY",
+      "created": "2020-09-22T15:37:31.104Z",
+      "lastUpdated": "2020-09-22T15:37:52.291Z",
+      "rects": {
+        "0": {
+          "left": 161,
+          "top": 92,
+          "right": 173,
+          "bottom": 112,
+          "width": 12,
+          "height": 20
+        },
+        "1": {
+          "left": 173,
+          "top": 94,
+          "right": 231,
+          "bottom": 112,
+          "width": 58,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "G",
+          "rect": {
+            "left": 161,
+            "top": 92,
+            "right": 173,
+            "bottom": 112,
+            "width": 12,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "ordon",
+          "rect": {
+            "left": 173,
+            "top": 94,
+            "right": 231,
+            "bottom": 112,
+            "width": 57,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "G\nordon"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>--------------------------------------------------</p><p>Citer: (Gordon, 2017)</p>\n<p>FTag: Gordon-2017</p>\n<p>APA7: Gordon, M. (2017). <em>Guide d’élaboration d’un projet de recherche 3e édition</em>. 172.</p>\n<p>-----------------------------------------------------------</p>"
+      }
+    },
+    {
+      "id": "1pidMcLdEi",
+      "guid": "1pidMcLdEi",
+      "created": "2020-09-22T22:42:33.486Z",
+      "lastUpdated": "2020-09-22T22:42:33.486Z",
+      "rects": {
+        "0": {
+          "left": 88,
+          "top": 724,
+          "right": 484,
+          "bottom": 742,
+          "width": 396,
+          "height": 18
+        },
+        "1": {
+          "left": 63,
+          "top": 742,
+          "right": 482,
+          "bottom": 760,
+          "width": 419,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’hypothèse nous permet donc de réduire l’abstraction, mais ",
+          "rect": {
+            "left": 88,
+            "top": 724,
+            "right": 484,
+            "bottom": 742,
+            "width": 396,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "ne nous autorise toutefois pas à amorcer immédiatement l’analyse. ",
+          "rect": {
+            "left": 63,
+            "top": 742,
+            "right": 482,
+            "bottom": 760,
+            "width": 418,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L’hypothèse nous permet donc de réduire l’abstraction, mais \nne nous autorise toutefois pas à amorcer immédiatement l’analyse. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12Q7WLjaA8",
+      "guid": "12Q7WLjaA8",
+      "created": "2020-09-22T22:44:15.265Z",
+      "lastUpdated": "2020-09-22T22:44:15.265Z",
+      "rects": {
+        "0": {
+          "left": 128,
+          "top": 428,
+          "right": 482,
+          "bottom": 444,
+          "width": 354,
+          "height": 16
+        },
+        "1": {
+          "left": 128,
+          "top": 444,
+          "right": 484,
+          "bottom": 460,
+          "width": 356,
+          "height": 16
+        },
+        "2": {
+          "left": 128,
+          "top": 460,
+          "right": 433,
+          "bottom": 475,
+          "width": 305,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le ",
+          "rect": {
+            "left": 128,
+            "top": 428,
+            "right": 144,
+            "bottom": 443,
+            "width": 15,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "cadre opératoire",
+          "rect": {
+            "left": 143,
+            "top": 428,
+            "right": 239,
+            "bottom": 443,
+            "width": 96,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": " forme un élément central du projet de recherche ",
+          "rect": {
+            "left": 239,
+            "top": 428,
+            "right": 482,
+            "bottom": 443,
+            "width": 243,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "et  du  travail  de  recherche  dans  la  mesure  où  il  spécifie  ce  que  nous  ",
+          "rect": {
+            "left": 128,
+            "top": 444,
+            "right": 484,
+            "bottom": 459,
+            "width": 356,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "allons  analyser  précisément  pour  vérifier  notre  hypothèse. ",
+          "rect": {
+            "left": 128,
+            "top": 460,
+            "right": 433,
+            "bottom": 475,
+            "width": 305,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Le \ncadre opératoire\n forme un élément central du projet de recherche \net  du  travail  de  recherche  dans  la  mesure  où  il  spécifie  ce  que  nous  \nallons  analyser  précisément  pour  vérifier  notre  hypothèse. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76"
+    },
+    {
+      "id": "122fULMHpu",
+      "guid": "122fULMHpu",
+      "created": "2020-09-22T22:46:42.250Z",
+      "lastUpdated": "2020-09-22T22:46:42.250Z",
+      "rects": {
+        "0": {
+          "left": 88,
+          "top": 652,
+          "right": 488,
+          "bottom": 670,
+          "width": 400,
+          "height": 18
+        },
+        "1": {
+          "left": 63,
+          "top": 669,
+          "right": 485,
+          "bottom": 687,
+          "width": 422,
+          "height": 18
+        },
+        "2": {
+          "left": 63,
+          "top": 687,
+          "right": 486,
+          "bottom": 705,
+          "width": 423,
+          "height": 18
+        },
+        "3": {
+          "left": 63,
+          "top": 704,
+          "right": 252,
+          "bottom": 722,
+          "width": 189,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Certains  concepts  peuvent  être  suffisamment  précis  pour  ",
+          "rect": {
+            "left": 88,
+            "top": 652,
+            "right": 488,
+            "bottom": 670,
+            "width": 400,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "devenir  automatiquement  des  variables  (par  exemple,  le  sexe),  ",
+          "rect": {
+            "left": 63,
+            "top": 669,
+            "right": 485,
+            "bottom": 687,
+            "width": 421,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "tandis  que  d’autres  doivent  subir  une  transformation  avant  de  ",
+          "rect": {
+            "left": 63,
+            "top": 687,
+            "right": 486,
+            "bottom": 705,
+            "width": 422,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "servir de guide pour l’analyse.",
+          "rect": {
+            "left": 63,
+            "top": 704,
+            "right": 252,
+            "bottom": 722,
+            "width": 189,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Certains  concepts  peuvent  être  suffisamment  précis  pour  \ndevenir  automatiquement  des  variables  (par  exemple,  le  sexe),  \ntandis  que  d’autres  doivent  subir  une  transformation  avant  de  \nservir de guide pour l’analyse."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12fL4UJM3B",
+      "guid": "12fL4UJM3B",
+      "created": "2020-10-14T15:46:16.060Z",
+      "lastUpdated": "2020-10-14T15:46:23.714Z",
+      "rects": {
+        "0": {
+          "left": 25.44704264099037,
+          "top": 82.90455926180651,
+          "width": 10.316368638239336,
+          "height": 6.87757909215955
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12F6DtVQUXdqRemaR4P1",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12F6DtVQUXdqRemaR4P1.png"
+        },
+        "width": 1546,
+        "height": 534,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 145,
+        "y": 682,
+        "width": 306,
+        "height": 105
+      }
+    },
+    {
+      "id": "12D28jtCsY",
+      "guid": "1zR6p7b5JS",
+      "created": "2020-10-14T15:47:03.729Z",
+      "lastUpdated": "2020-10-14T15:47:59.613Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 151,
+          "right": 111,
+          "bottom": 166,
+          "width": 15,
+          "height": 15
+        },
+        "1": {
+          "left": 113,
+          "top": 151,
+          "right": 160,
+          "bottom": 166,
+          "width": 47,
+          "height": 15
+        },
+        "2": {
+          "left": 159,
+          "top": 151,
+          "right": 452,
+          "bottom": 166,
+          "width": 292,
+          "height": 15
+        },
+        "3": {
+          "left": 95,
+          "top": 167,
+          "right": 453,
+          "bottom": 182,
+          "width": 357,
+          "height": 15
+        },
+        "4": {
+          "left": 95,
+          "top": 183,
+          "right": 453,
+          "bottom": 198,
+          "width": 357,
+          "height": 15
+        },
+        "5": {
+          "left": 95,
+          "top": 199,
+          "right": 456,
+          "bottom": 214,
+          "width": 360,
+          "height": 15
+        },
+        "6": {
+          "left": 95,
+          "top": 215,
+          "right": 218,
+          "bottom": 230,
+          "width": 122,
+          "height": 15
+        },
+        "7": {
+          "left": 216,
+          "top": 215,
+          "right": 452,
+          "bottom": 230,
+          "width": 236,
+          "height": 15
+        },
+        "8": {
+          "left": 95,
+          "top": 231,
+          "right": 447,
+          "bottom": 246,
+          "width": 351,
+          "height": 15
+        },
+        "9": {
+          "left": 95,
+          "top": 247,
+          "right": 167,
+          "bottom": 262,
+          "width": 71,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le "
+        },
+        "1": {
+          "text": "concept"
+        },
+        "2": {
+          "text": "  est  un  mot,  ou  une  expression,  que  les  chercheurs  ont  "
+        },
+        "3": {
+          "text": "emprunté  au  vocabulaire  courant  ou  construit  de  toute  pièce  pour  "
+        },
+        "4": {
+          "text": "désigner ou circonscrire des phénomènes de la réalité observable qu’ils "
+        },
+        "5": {
+          "text": "désirent  étudier  scientifiquement.  C’est  une  représentation  abstraite  "
+        },
+        "6": {
+          "text": "d’une réalité observable "
+        },
+        "7": {
+          "text": "; elle n’est donc jamais parfaitement conforme "
+        },
+        "8": {
+          "text": "au  phénomène  réel  qui,  de  toute  façon,  ne  peut  jamais  être  complè-"
+        },
+        "9": {
+          "text": "tement connu"
+        }
+      },
+      "text": {
+        "TEXT": "Le concept est  un  mot,  ou  une  expression,  que  les  chercheurs  ont emprunté  au  vocabulaire  courant  ou  construit  de  toute  pièce  pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent  étudier  scientifiquement.  C’est  une  représentation  abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au  phénomène  réel  qui,  de  toute  façon,  ne  peut  jamais  être  complè- tement connu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "Le concept est  un  mot,  ou  une  expression,  que  les  chercheurs  ont emprunté  au  vocabulaire  courant  ou  construit  de  toute  pièce  pour désigner ou circonscrire des phénomènes de la réalité observable qu’ils désirent  étudier  scientifiquement.  C’est  une  représentation  abstraite d’une réalité observable ; elle n’est donc jamais parfaitement conforme au  phénomène  réel  qui,  de  toute  façon,  ne  peut  jamais  être  complètement connu"
+      },
+      "tags": {
+        "LeConcept": {
+          "id": "LeConcept",
+          "label": "LeConcept"
+        },
+        "SurLaRecherche": {
+          "id": "SurLaRecherche",
+          "label": "SurLaRecherche"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

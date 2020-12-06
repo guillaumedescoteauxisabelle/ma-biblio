@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12Rz7mjGf9",
+      "guid": "12Rz7mjGf9",
+      "created": "2020-10-14T13:26:49.500Z",
+      "lastUpdated": "2020-10-14T13:26:49.500Z",
+      "rects": {
+        "0": {
+          "left": 83,
+          "top": 74,
+          "right": 457,
+          "bottom": 101,
+          "width": 374,
+          "height": 27
+        },
+        "1": {
+          "left": 83,
+          "top": 98,
+          "right": 197,
+          "bottom": 125,
+          "width": 114,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The core of ‘design thinking’ and its"
+        },
+        "1": {
+          "text": "application"
+        }
+      },
+      "text": {
+        "TEXT": "The core of ‘design thinking’ and its application"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12X1EX4MtH",
+      "guid": "1299VYozAP",
+      "created": "2020-10-14T13:26:51.532Z",
+      "lastUpdated": "2020-10-14T13:27:26.383Z",
+      "rects": {
+        "0": {
+          "left": 114,
+          "top": 141,
+          "right": 144,
+          "bottom": 156,
+          "width": 30,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Dorst"
+        }
+      },
+      "text": {
+        "TEXT": "Dorst"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<span style=\"font-size: 1rem; letter-spacing: 0.01071em;\">Citer:(Dorst, 2011)</span><p>FTag: Dorst-2011</p>\n<p>APA7: Dorst, K. (2011). The core of ‘design thinking’ and its application. <em>Design Studies</em>, <em>32</em>(6), 521–532. <a href=\"https://doi.org/10.1016/j.destud.2011.07.006\">https://doi.org/10.1016/j.destud.2011.07.006</a></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

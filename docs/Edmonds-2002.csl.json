@@ -1,0 +1,42 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/DUKGPCZM",
+		"type": "article-journal",
+		"abstract": "The exhibition Constructs and Re-Constructions provided a survey of the author's artwork and formed the basis for this paper. It included four prints, consisting of notes based on early documentation, representing four different conceptual stages in using computer technology. As each is discussed in turn, it is shown that the computer provides a significant enhancement to our ability to handle and consider the underlying structures of artworks and art systems in the many forms that they may take. In the work discussed, while the conceptual developments are the key issues, the role of the technology in encouraging, enabling and inspiring them has also been central.",
+		"container-title": "Leonardo",
+		"DOI": "10.1162/002409402753689344",
+		"ISSN": "0024-094X",
+		"issue": "1",
+		"note": "ZSCC: 0000020 \npublisher: MIT Press",
+		"page": "65-71",
+		"source": "MIT Press Journals",
+		"title": "Structure in Art Practice: Technology as an Agent for Concept Development",
+		"title-short": "Structure in Art Practice",
+		"URL": "https://doi.org/10.1162/002409402753689344",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Edmonds",
+				"given": "Ernest"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					2,
+					1
+				]
+			]
+		}
+	}
+]

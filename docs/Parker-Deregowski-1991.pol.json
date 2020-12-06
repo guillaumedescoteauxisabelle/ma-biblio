@@ -1,0 +1,906 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1JxR7YYhg7",
+      "guid": "1JxR7YYhg7",
+      "created": "2020-12-03T19:36:46.857Z",
+      "lastUpdated": "2020-12-03T19:36:46.857Z",
+      "rects": {
+        "0": {
+          "left": 210,
+          "top": 95,
+          "right": 377,
+          "bottom": 126,
+          "width": 167,
+          "height": 30
+        },
+        "1": {
+          "left": 261,
+          "top": 122,
+          "right": 325,
+          "bottom": 153,
+          "width": 64,
+          "height": 30
+        },
+        "2": {
+          "left": 187,
+          "top": 149,
+          "right": 396,
+          "bottom": 180,
+          "width": 209,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PERCEPTION "
+        },
+        "1": {
+          "text": "AND "
+        },
+        "2": {
+          "text": "ARTISTIC STYLE"
+        }
+      },
+      "text": {
+        "TEXT": "PERCEPTION AND ARTISTIC STYLE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12HjGbZ8Hb",
+      "guid": "12voNBVADJ",
+      "created": "2020-12-03T19:37:54.547Z",
+      "lastUpdated": "2020-12-03T19:37:59.965Z",
+      "rects": {
+        "0": {
+          "left": 241,
+          "top": 417,
+          "right": 249,
+          "bottom": 436,
+          "width": 7,
+          "height": 18
+        },
+        "1": {
+          "left": 250,
+          "top": 417,
+          "right": 358,
+          "bottom": 436,
+          "width": 108,
+          "height": 18
+        },
+        "2": {
+          "left": 224,
+          "top": 440,
+          "right": 285,
+          "bottom": 455,
+          "width": 60,
+          "height": 15
+        },
+        "3": {
+          "left": 284,
+          "top": 444,
+          "right": 291,
+          "bottom": 457,
+          "width": 7,
+          "height": 13
+        },
+        "4": {
+          "left": 297,
+          "top": 440,
+          "right": 355,
+          "bottom": 455,
+          "width": 57,
+          "height": 14
+        },
+        "5": {
+          "left": 262,
+          "top": 460,
+          "right": 313,
+          "bottom": 473,
+          "width": 50,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ". "
+        },
+        "1": {
+          "text": "DERCGOWSKI "
+        },
+        "2": {
+          "text": "Uni\\vi-sity "
+        },
+        "3": {
+          "text": "of "
+        },
+        "4": {
+          "text": "Aheideeii "
+        },
+        "5": {
+          "text": "Scotlund "
+        }
+      },
+      "text": {
+        "TEXT": ". DERCGOWSKI Uni\\vi-sity of Aheideeii Scotlund"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Parker &amp; Deregowski, 1991)</p>\n<p>FTag: Parker-Deregowski-1991</p>\n<div style=\"line-height:2;text-indent:-2em\">\n<div>APA7: Parker, D. M., &amp; Deregowski, J. B. (1991). <em>Perception and Artistic Style</em> (1st edition). North-Holland.</div>\n</div>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12nx5AY14G",
+      "guid": "12hCeuZn1f",
+      "created": "2020-12-03T19:38:28.358Z",
+      "lastUpdated": "2020-12-03T19:39:30.267Z",
+      "rects": {
+        "0": {
+          "left": 240,
+          "top": 258,
+          "right": 342,
+          "bottom": 284,
+          "width": 102,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PREFACE "
+        }
+      },
+      "text": {
+        "TEXT": "PREFACE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<h1>Intentions</h1><h2>What is a Style ?&nbsp;&nbsp;</h2><p><br></p><h2>What are the attribute of a style ?</h2><p><br></p><h2>How does the process of developping a style works ?</h2><p><br></p><p><br></p><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "id": "1nG7pA4kqP",
+      "guid": "1nG7pA4kqP",
+      "created": "2020-12-03T19:40:16.941Z",
+      "lastUpdated": "2020-12-03T19:40:16.941Z",
+      "rects": {
+        "0": {
+          "left": 327,
+          "top": 447,
+          "right": 331,
+          "bottom": 465,
+          "width": 4,
+          "height": 18
+        },
+        "1": {
+          "left": 331,
+          "top": 447,
+          "right": 365,
+          "bottom": 465,
+          "width": 33,
+          "height": 18
+        },
+        "2": {
+          "left": 365,
+          "top": 447,
+          "right": 369,
+          "bottom": 465,
+          "width": 4,
+          "height": 18
+        },
+        "3": {
+          "left": 370,
+          "top": 447,
+          "right": 401,
+          "bottom": 465,
+          "width": 30,
+          "height": 18
+        },
+        "4": {
+          "left": 403,
+          "top": 447,
+          "right": 460,
+          "bottom": 465,
+          "width": 56,
+          "height": 18
+        },
+        "5": {
+          "left": 461,
+          "top": 447,
+          "right": 489,
+          "bottom": 465,
+          "width": 27,
+          "height": 18
+        },
+        "6": {
+          "left": 492,
+          "top": 447,
+          "right": 511,
+          "bottom": 465,
+          "width": 19,
+          "height": 18
+        },
+        "7": {
+          "left": 65,
+          "top": 465,
+          "right": 118,
+          "bottom": 483,
+          "width": 52,
+          "height": 18
+        },
+        "8": {
+          "left": 118,
+          "top": 465,
+          "right": 137,
+          "bottom": 483,
+          "width": 18,
+          "height": 18
+        },
+        "9": {
+          "left": 139,
+          "top": 465,
+          "right": 229,
+          "bottom": 483,
+          "width": 89,
+          "height": 18
+        },
+        "10": {
+          "left": 228,
+          "top": 465,
+          "right": 240,
+          "bottom": 483,
+          "width": 12,
+          "height": 18
+        },
+        "11": {
+          "left": 246,
+          "top": 465,
+          "right": 322,
+          "bottom": 483,
+          "width": 75,
+          "height": 18
+        },
+        "12": {
+          "left": 322,
+          "top": 465,
+          "right": 351,
+          "bottom": 483,
+          "width": 29,
+          "height": 18
+        },
+        "13": {
+          "left": 353,
+          "top": 465,
+          "right": 441,
+          "bottom": 483,
+          "width": 87,
+          "height": 18
+        },
+        "14": {
+          "left": 442,
+          "top": 465,
+          "right": 460,
+          "bottom": 483,
+          "width": 18,
+          "height": 18
+        },
+        "15": {
+          "left": 463,
+          "top": 465,
+          "right": 512,
+          "bottom": 483,
+          "width": 48,
+          "height": 18
+        },
+        "16": {
+          "left": 65,
+          "top": 482,
+          "right": 136,
+          "bottom": 501,
+          "width": 71,
+          "height": 18
+        },
+        "17": {
+          "left": 141,
+          "top": 482,
+          "right": 176,
+          "bottom": 501,
+          "width": 35,
+          "height": 18
+        },
+        "18": {
+          "left": 181,
+          "top": 482,
+          "right": 235,
+          "bottom": 501,
+          "width": 54,
+          "height": 18
+        },
+        "19": {
+          "left": 237,
+          "top": 482,
+          "right": 257,
+          "bottom": 501,
+          "width": 19,
+          "height": 18
+        },
+        "20": {
+          "left": 260,
+          "top": 482,
+          "right": 286,
+          "bottom": 501,
+          "width": 26,
+          "height": 18
+        },
+        "21": {
+          "left": 290,
+          "top": 482,
+          "right": 344,
+          "bottom": 501,
+          "width": 54,
+          "height": 18
+        },
+        "22": {
+          "left": 349,
+          "top": 482,
+          "right": 393,
+          "bottom": 501,
+          "width": 44,
+          "height": 18
+        },
+        "23": {
+          "left": 398,
+          "top": 482,
+          "right": 424,
+          "bottom": 501,
+          "width": 26,
+          "height": 18
+        },
+        "24": {
+          "left": 427,
+          "top": 483,
+          "right": 457,
+          "bottom": 501,
+          "width": 30,
+          "height": 17
+        },
+        "25": {
+          "left": 461,
+          "top": 482,
+          "right": 512,
+          "bottom": 501,
+          "width": 50,
+          "height": 18
+        },
+        "26": {
+          "left": 65,
+          "top": 500,
+          "right": 139,
+          "bottom": 519,
+          "width": 73,
+          "height": 18
+        },
+        "27": {
+          "left": 140,
+          "top": 500,
+          "right": 170,
+          "bottom": 519,
+          "width": 29,
+          "height": 18
+        },
+        "28": {
+          "left": 171,
+          "top": 500,
+          "right": 256,
+          "bottom": 519,
+          "width": 84,
+          "height": 18
+        },
+        "29": {
+          "left": 258,
+          "top": 500,
+          "right": 292,
+          "bottom": 519,
+          "width": 34,
+          "height": 18
+        },
+        "30": {
+          "left": 294,
+          "top": 500,
+          "right": 332,
+          "bottom": 519,
+          "width": 37,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " "
+        },
+        "1": {
+          "text": "Style"
+        },
+        "2": {
+          "text": " "
+        },
+        "3": {
+          "text": "and "
+        },
+        "4": {
+          "text": "content "
+        },
+        "5": {
+          "text": "can "
+        },
+        "6": {
+          "text": "be "
+        },
+        "7": {
+          "text": "seen to "
+        },
+        "8": {
+          "text": "be "
+        },
+        "9": {
+          "text": "independent "
+        },
+        "10": {
+          "text": "of "
+        },
+        "11": {
+          "text": "each other "
+        },
+        "12": {
+          "text": "and "
+        },
+        "13": {
+          "text": "viewers  may "
+        },
+        "14": {
+          "text": "be "
+        },
+        "15": {
+          "text": "moved "
+        },
+        "16": {
+          "text": "by  either, "
+        },
+        "17": {
+          "text": "even "
+        },
+        "18": {
+          "text": "though "
+        },
+        "19": {
+          "text": "in "
+        },
+        "20": {
+          "text": "the "
+        },
+        "21": {
+          "text": "greatest "
+        },
+        "22": {
+          "text": "works "
+        },
+        "23": {
+          "text": "the "
+        },
+        "24": {
+          "text": "two "
+        },
+        "25": {
+          "text": "aspects "
+        },
+        "26": {
+          "text": "harmonise "
+        },
+        "27": {
+          "text": "and "
+        },
+        "28": {
+          "text": "complement "
+        },
+        "29": {
+          "text": "each "
+        },
+        "30": {
+          "text": "other."
+        }
+      },
+      "text": {
+        "TEXT": " Style  and content can be seen to be independent of each other and viewers  may be moved by  either, even though in the greatest works the two aspects harmonise and complement each other."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12MXjy7zR5",
+      "guid": "12MXjy7zR5",
+      "created": "2020-12-03T19:41:33.287Z",
+      "lastUpdated": "2020-12-03T19:41:33.287Z",
+      "rects": {
+        "0": {
+          "left": 317,
+          "top": 232,
+          "right": 343,
+          "bottom": 248,
+          "width": 26,
+          "height": 16
+        },
+        "1": {
+          "left": 344,
+          "top": 231,
+          "right": 432,
+          "bottom": 250,
+          "width": 87,
+          "height": 18
+        },
+        "2": {
+          "left": 433,
+          "top": 231,
+          "right": 446,
+          "bottom": 250,
+          "width": 12,
+          "height": 18
+        },
+        "3": {
+          "left": 454,
+          "top": 231,
+          "right": 493,
+          "bottom": 250,
+          "width": 38,
+          "height": 18
+        },
+        "4": {
+          "left": 495,
+          "top": 231,
+          "right": 507,
+          "bottom": 250,
+          "width": 11,
+          "height": 18
+        },
+        "5": {
+          "left": 66,
+          "top": 249,
+          "right": 92,
+          "bottom": 268,
+          "width": 26,
+          "height": 18
+        },
+        "6": {
+          "left": 97,
+          "top": 249,
+          "right": 157,
+          "bottom": 268,
+          "width": 59,
+          "height": 18
+        },
+        "7": {
+          "left": 163,
+          "top": 249,
+          "right": 260,
+          "bottom": 268,
+          "width": 97,
+          "height": 18
+        },
+        "8": {
+          "left": 264,
+          "top": 249,
+          "right": 277,
+          "bottom": 268,
+          "width": 12,
+          "height": 18
+        },
+        "9": {
+          "left": 289,
+          "top": 249,
+          "right": 316,
+          "bottom": 268,
+          "width": 26,
+          "height": 18
+        },
+        "10": {
+          "left": 321,
+          "top": 249,
+          "right": 349,
+          "bottom": 268,
+          "width": 27,
+          "height": 18
+        },
+        "11": {
+          "left": 356,
+          "top": 249,
+          "right": 429,
+          "bottom": 268,
+          "width": 72,
+          "height": 18
+        },
+        "12": {
+          "left": 436,
+          "top": 249,
+          "right": 496,
+          "bottom": 268,
+          "width": 60,
+          "height": 18
+        },
+        "13": {
+          "left": 501,
+          "top": 249,
+          "right": 513,
+          "bottom": 268,
+          "width": 11,
+          "height": 18
+        },
+        "14": {
+          "left": 66,
+          "top": 267,
+          "right": 138,
+          "bottom": 286,
+          "width": 72,
+          "height": 18
+        },
+        "15": {
+          "left": 141,
+          "top": 267,
+          "right": 165,
+          "bottom": 286,
+          "width": 24,
+          "height": 18
+        },
+        "16": {
+          "left": 168,
+          "top": 267,
+          "right": 194,
+          "bottom": 286,
+          "width": 26,
+          "height": 18
+        },
+        "17": {
+          "left": 197,
+          "top": 267,
+          "right": 240,
+          "bottom": 286,
+          "width": 42,
+          "height": 18
+        },
+        "18": {
+          "left": 243,
+          "top": 267,
+          "right": 286,
+          "bottom": 286,
+          "width": 43,
+          "height": 18
+        },
+        "19": {
+          "left": 290,
+          "top": 267,
+          "right": 363,
+          "bottom": 286,
+          "width": 73,
+          "height": 18
+        },
+        "20": {
+          "left": 367,
+          "top": 267,
+          "right": 426,
+          "bottom": 286,
+          "width": 59,
+          "height": 18
+        },
+        "21": {
+          "left": 428,
+          "top": 267,
+          "right": 489,
+          "bottom": 286,
+          "width": 60,
+          "height": 18
+        },
+        "22": {
+          "left": 492,
+          "top": 267,
+          "right": 515,
+          "bottom": 286,
+          "width": 22,
+          "height": 18
+        },
+        "23": {
+          "left": 66,
+          "top": 286,
+          "right": 223,
+          "bottom": 304,
+          "width": 157,
+          "height": 18
+        },
+        "24": {
+          "left": 221,
+          "top": 286,
+          "right": 233,
+          "bottom": 304,
+          "width": 11,
+          "height": 18
+        },
+        "25": {
+          "left": 240,
+          "top": 286,
+          "right": 278,
+          "bottom": 304,
+          "width": 38,
+          "height": 18
+        },
+        "26": {
+          "left": 279,
+          "top": 286,
+          "right": 290,
+          "bottom": 304,
+          "width": 11,
+          "height": 18
+        },
+        "27": {
+          "left": 297,
+          "top": 286,
+          "right": 401,
+          "bottom": 304,
+          "width": 103,
+          "height": 18
+        },
+        "28": {
+          "left": 398,
+          "top": 286,
+          "right": 428,
+          "bottom": 304,
+          "width": 29,
+          "height": 18
+        },
+        "29": {
+          "left": 429,
+          "top": 286,
+          "right": 497,
+          "bottom": 304,
+          "width": 67,
+          "height": 18
+        },
+        "30": {
+          "left": 495,
+          "top": 286,
+          "right": 507,
+          "bottom": 304,
+          "width": 11,
+          "height": 18
+        },
+        "31": {
+          "left": 66,
+          "top": 305,
+          "right": 130,
+          "bottom": 323,
+          "width": 63,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "An "
+        },
+        "1": {
+          "text": "examination "
+        },
+        "2": {
+          "text": "of "
+        },
+        "3": {
+          "text": "some "
+        },
+        "4": {
+          "text": "of "
+        },
+        "5": {
+          "text": "the "
+        },
+        "6": {
+          "text": "intrinsic "
+        },
+        "7": {
+          "text": "characteristics "
+        },
+        "8": {
+          "text": "of "
+        },
+        "9": {
+          "text": "the "
+        },
+        "10": {
+          "text": "eye "
+        },
+        "11": {
+          "text": "(eye   used "
+        },
+        "12": {
+          "text": "here   as "
+        },
+        "13": {
+          "text": "a "
+        },
+        "14": {
+          "text": "shorthand "
+        },
+        "15": {
+          "text": "for "
+        },
+        "16": {
+          "text": "the "
+        },
+        "17": {
+          "text": "entire "
+        },
+        "18": {
+          "text": "visual "
+        },
+        "19": {
+          "text": "perceptual "
+        },
+        "20": {
+          "text": "system), "
+        },
+        "21": {
+          "text": "leads  to "
+        },
+        "22": {
+          "text": "an "
+        },
+        "23": {
+          "text": "enhanced  appreciation "
+        },
+        "24": {
+          "text": "of "
+        },
+        "25": {
+          "text": "some "
+        },
+        "26": {
+          "text": "of "
+        },
+        "27": {
+          "text": "the  limitations "
+        },
+        "28": {
+          "text": "and "
+        },
+        "29": {
+          "text": "subtleties "
+        },
+        "30": {
+          "text": "of "
+        },
+        "31": {
+          "text": "painting. "
+        }
+      },
+      "text": {
+        "TEXT": "An examination of some of the intrinsic characteristics of the eye (eye   used here   as a shorthand for the entire visual perceptual system), leads  to an enhanced  appreciation of some of the  limitations and subtleties of painting."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    }
+  ]
+
+}
+

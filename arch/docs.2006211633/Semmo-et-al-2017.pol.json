@@ -1,0 +1,3678 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-19T20:37:13.937Z",
+      "flashcards": {},
+      "guid": "1K8U6fByK6",
+      "id": "1K8U6fByK6",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:37:13.937Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 609,
+          "height": 14,
+          "left": 496,
+          "right": 549,
+          "top": 595,
+          "width": 53
+        }
+      },
+      "text": {
+        "TEXT": "stylization"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 609,
+            "height": 14,
+            "left": 496,
+            "right": 511,
+            "top": 595,
+            "width": 15
+          },
+          "text": "sty"
+        },
+        "1": {
+          "rect": {
+            "bottom": 609,
+            "height": 14,
+            "left": 511,
+            "right": 549,
+            "top": 595,
+            "width": 37
+          },
+          "text": "lization"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-19T20:37:20.222Z",
+      "flashcards": {},
+      "guid": "12ugYbn4xf",
+      "id": "12ugYbn4xf",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:37:20.222Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 609,
+          "height": 14,
+          "left": 554,
+          "right": 703,
+          "top": 595,
+          "width": 149
+        }
+      },
+      "text": {
+        "TEXT": "convolutional neural network"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 609,
+            "height": 14,
+            "left": 554,
+            "right": 703,
+            "top": 595,
+            "width": 148
+          },
+          "text": "convolutional neural network"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-19T20:42:44.466Z",
+      "flashcards": {},
+      "guid": "12aZwsMqG7",
+      "id": "12aZwsMqG7",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:42:44.466Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 567,
+          "height": 15,
+          "left": 99,
+          "right": 186,
+          "top": 552,
+          "width": 87
+        },
+        "1": {
+          "bottom": 12,
+          "height": 15,
+          "left": 240,
+          "right": 303,
+          "top": -3,
+          "width": 63
+        }
+      },
+      "text": {
+        "TEXT": "characteristics of artistic style"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 567,
+            "height": 14,
+            "left": 99,
+            "right": 186,
+            "top": 552,
+            "width": 87
+          },
+          "text": "characteristics of "
+        },
+        "1": {
+          "rect": {
+            "bottom": 12,
+            "height": 14,
+            "left": 240,
+            "right": 303,
+            "top": -3,
+            "width": 62
+          },
+          "text": "artistic style"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-19T20:43:37.172Z",
+      "flashcards": {},
+      "guid": "12o55y1W2o",
+      "id": "12o55y1W2o",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:43:37.172Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 508,
+          "height": 14,
+          "left": 424,
+          "right": 752,
+          "top": 494,
+          "width": 328
+        },
+        "1": {
+          "bottom": 523,
+          "height": 15,
+          "left": 423,
+          "right": 438,
+          "top": 508,
+          "width": 15
+        }
+      },
+      "text": {
+        "TEXT": "In this paper we discuss the potentials and challenges of NST for IB-\nAR"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 508,
+            "height": 14,
+            "left": 424,
+            "right": 752,
+            "top": 494,
+            "width": 328
+          },
+          "text": "In this paper we discuss the potentials and challenges of NST for IB-"
+        },
+        "1": {
+          "rect": {
+            "bottom": 523,
+            "height": 14,
+            "left": 423,
+            "right": 438,
+            "top": 508,
+            "width": 15
+          },
+          "text": "AR"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#FF6900",
+      "created": "2020-02-19T20:43:49.305Z",
+      "flashcards": {},
+      "guid": "1iJVCeARs6",
+      "id": "1iJVCeARs6",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:43:49.305Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 655,
+          "height": 15,
+          "left": 224,
+          "right": 397,
+          "top": 640,
+          "width": 173
+        },
+        "1": {
+          "bottom": 669,
+          "height": 14,
+          "left": 72,
+          "right": 263,
+          "top": 655,
+          "width": 191
+        }
+      },
+      "text": {
+        "TEXT": " demonstrated that these technical\nlimitations can be alleviated as follows"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 654,
+            "height": 14,
+            "left": 224,
+            "right": 397,
+            "top": 640,
+            "width": 173
+          },
+          "text": " demonstrated that these technical"
+        },
+        "1": {
+          "rect": {
+            "bottom": 669,
+            "height": 14,
+            "left": 72,
+            "right": 263,
+            "top": 655,
+            "width": 191
+          },
+          "text": "limitations can be alleviated as follows"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#7BDCB5",
+      "created": "2020-02-19T20:44:15.584Z",
+      "flashcards": {},
+      "guid": "129UCVVzub",
+      "id": "129UCVVzub",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:44:15.584Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 689,
+          "height": 14,
+          "left": 93,
+          "right": 399,
+          "top": 675,
+          "width": 306
+        },
+        "1": {
+          "bottom": 704,
+          "height": 15,
+          "left": 112,
+          "right": 394,
+          "top": 689,
+          "width": 282
+        },
+        "2": {
+          "bottom": 718,
+          "height": 14,
+          "left": 112,
+          "right": 195,
+          "top": 704,
+          "width": 83
+        }
+      },
+      "text": {
+        "TEXT": "(1) Deep CNNs are able to accurately classify high-level im-\nage contents across generalized data sets [Simonyan and\nZisserman 2015]"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 689,
+            "height": 14,
+            "left": 93,
+            "right": 106,
+            "top": 675,
+            "width": 13
+          },
+          "text": "(1)"
+        },
+        "1": {
+          "rect": {
+            "bottom": 689,
+            "height": 14,
+            "left": 112,
+            "right": 399,
+            "top": 675,
+            "width": 286
+          },
+          "text": "Deep CNNs are able to accurately classify high-level im-"
+        },
+        "2": {
+          "rect": {
+            "bottom": 704,
+            "height": 14,
+            "left": 112,
+            "right": 394,
+            "top": 689,
+            "width": 281
+          },
+          "text": "age contents across generalized data sets [Simonyan and"
+        },
+        "3": {
+          "rect": {
+            "bottom": 718,
+            "height": 14,
+            "left": 112,
+            "right": 195,
+            "top": 704,
+            "width": 82
+          },
+          "text": "Zisserman 2015]"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#7BDCB5",
+      "created": "2020-02-19T20:44:36.253Z",
+      "flashcards": {},
+      "guid": "12WX46ePd8",
+      "id": "12WX46ePd8",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:44:36.253Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 733,
+          "height": 14,
+          "left": 93,
+          "right": 396,
+          "top": 719,
+          "width": 303
+        },
+        "1": {
+          "bottom": 748,
+          "height": 15,
+          "left": 112,
+          "right": 358,
+          "top": 733,
+          "width": 246
+        },
+        "2": {
+          "bottom": 752,
+          "height": 16,
+          "left": 360,
+          "right": 393,
+          "top": 736,
+          "width": 33
+        },
+        "3": {
+          "bottom": 766,
+          "height": 14,
+          "left": 112,
+          "right": 174,
+          "top": 752,
+          "width": 62
+        },
+        "4": {
+          "bottom": 762,
+          "height": 14,
+          "left": 177,
+          "right": 250,
+          "top": 748,
+          "width": 73
+        },
+        "5": {
+          "bottom": 766,
+          "height": 14,
+          "left": 252,
+          "right": 297,
+          "top": 752,
+          "width": 45
+        },
+        "6": {
+          "bottom": 762,
+          "height": 14,
+          "left": 299,
+          "right": 394,
+          "top": 748,
+          "width": 95
+        },
+        "7": {
+          "bottom": 776,
+          "height": 14,
+          "left": 112,
+          "right": 198,
+          "top": 762,
+          "width": 86
+        }
+      },
+      "text": {
+        "TEXT": "(2) Layers of pre-trained deep CNNs can be activated to match\ncontent  and  style  statistics,  and  thus  perform  a\nneural\nstyle transfer\n(NST) between\narbitrary\nimages [Gatys et al.\n2016b] (Figure 1)"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 733,
+            "height": 14,
+            "left": 93,
+            "right": 106,
+            "top": 719,
+            "width": 13
+          },
+          "text": "(2)"
+        },
+        "1": {
+          "rect": {
+            "bottom": 733,
+            "height": 14,
+            "left": 112,
+            "right": 396,
+            "top": 719,
+            "width": 283
+          },
+          "text": "Layers of pre-trained deep CNNs can be activated to match"
+        },
+        "2": {
+          "rect": {
+            "bottom": 748,
+            "height": 14,
+            "left": 112,
+            "right": 358,
+            "top": 733,
+            "width": 246
+          },
+          "text": "content  and  style  statistics,  and  thus  perform  a"
+        },
+        "3": {
+          "rect": {
+            "bottom": 751,
+            "height": 14,
+            "left": 360,
+            "right": 393,
+            "top": 736,
+            "width": 32
+          },
+          "text": "neural"
+        },
+        "4": {
+          "rect": {
+            "bottom": 766,
+            "height": 14,
+            "left": 112,
+            "right": 174,
+            "top": 752,
+            "width": 61
+          },
+          "text": "style transfer"
+        },
+        "5": {
+          "rect": {
+            "bottom": 762,
+            "height": 14,
+            "left": 177,
+            "right": 250,
+            "top": 748,
+            "width": 73
+          },
+          "text": "(NST) between"
+        },
+        "6": {
+          "rect": {
+            "bottom": 766,
+            "height": 14,
+            "left": 252,
+            "right": 297,
+            "top": 752,
+            "width": 44
+          },
+          "text": "arbitrary"
+        },
+        "7": {
+          "rect": {
+            "bottom": 762,
+            "height": 14,
+            "left": 299,
+            "right": 392,
+            "top": 748,
+            "width": 93
+          },
+          "text": "images [Gatys et al"
+        },
+        "8": {
+          "rect": {
+            "bottom": 762,
+            "height": 14,
+            "left": 391,
+            "right": 394,
+            "top": 748,
+            "width": 3
+          },
+          "text": "."
+        },
+        "9": {
+          "rect": {
+            "bottom": 776,
+            "height": 14,
+            "left": 112,
+            "right": 198,
+            "top": 762,
+            "width": 85
+          },
+          "text": "2016b] (Figure 1)"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "created": "2020-02-19T20:45:05.293Z",
+      "flashcards": {},
+      "guid": "1VofAhAZHv",
+      "id": "1VofAhAZHv",
+      "image": {
+        "height": 560,
+        "id": "1pnRFQmj5EwrRgf7TKQ1",
+        "rel": "screenshot",
+        "src": {
+          "backend": "image",
+          "name": "1pnRFQmj5EwrRgf7TKQ1.png"
+        },
+        "type": "image/png",
+        "width": 918
+      },
+      "images": {},
+      "lastUpdated": "2020-02-19T20:45:17.855Z",
+      "notes": {},
+      "position": {
+        "height": 155,
+        "width": 255,
+        "x": 320,
+        "y": 266
+      },
+      "questions": {},
+      "rects": {
+        "0": {
+          "height": 14.736842105263158,
+          "left": 39.23705722070845,
+          "top": 25.263157894736842,
+          "width": 31.26702997275204
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-19T20:46:43.969Z",
+      "flashcards": {},
+      "guid": "1273cXxb7E",
+      "id": "1273cXxb7E",
+      "images": {},
+      "lastUpdated": "2020-02-19T20:46:43.969Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 456,
+          "height": 14,
+          "left": 458,
+          "right": 551,
+          "top": 442,
+          "width": 93
+        }
+      },
+      "text": {
+        "TEXT": " casual creativity"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 456,
+            "height": 13,
+            "left": 458,
+            "right": 481,
+            "top": 442,
+            "width": 23
+          },
+          "text": " cas"
+        },
+        "1": {
+          "rect": {
+            "bottom": 456,
+            "height": 13,
+            "left": 481,
+            "right": 551,
+            "top": 442,
+            "width": 70
+          },
+          "text": "ual creativity"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "content": {
+        "HTML": "<h1><b>Do NST only usable for casual creativity? or can it be used in production?</b></h1>"
+      },
+      "created": "2020-02-19T20:47:29.061Z",
+      "guid": "1Zk3DRVzSZTpbNMpYMxo",
+      "id": "1Zk3DRVzSZTpbNMpYMxo",
+      "lastUpdated": "2020-02-19T20:47:57.532Z",
+      "ref": "text-highlight:1273cXxb7E"
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-19T21:20:29.067Z",
+      "flashcards": {},
+      "guid": "12whHuhxFv",
+      "id": "12whHuhxFv",
+      "images": {},
+      "lastUpdated": "2020-02-19T21:20:29.067Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 623,
+          "height": 13,
+          "left": 456,
+          "right": 540,
+          "top": 610,
+          "width": 84
+        }
+      },
+      "text": {
+        "TEXT": "artistic rendering,"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 623,
+            "height": 13,
+            "left": 456,
+            "right": 540,
+            "top": 610,
+            "width": 83
+          },
+          "text": "artistic rendering,"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-19T21:20:39.725Z",
+      "flashcards": {},
+      "guid": "12arjY1tst",
+      "id": "12arjY1tst",
+      "images": {},
+      "lastUpdated": "2020-02-19T21:20:39.725Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 623,
+          "height": 13,
+          "left": 545,
+          "right": 628,
+          "top": 610,
+          "width": 83
+        }
+      },
+      "text": {
+        "TEXT": "mage processing"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 623,
+            "height": 13,
+            "left": 545,
+            "right": 628,
+            "top": 610,
+            "width": 83
+          },
+          "text": "mage processing"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-20T19:47:04.344Z",
+      "flashcards": {},
+      "guid": "12bXwSwXwN",
+      "id": "12bXwSwXwN",
+      "images": {},
+      "lastUpdated": "2020-02-20T19:47:04.344Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 161,
+          "height": 26,
+          "left": 347,
+          "right": 673,
+          "top": 135,
+          "width": 326
+        }
+      },
+      "text": {
+        "TEXT": "Image-based Artistic Rendering"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 161,
+            "height": 26,
+            "left": 347,
+            "right": 673,
+            "top": 135,
+            "width": 326
+          },
+          "text": "Image-based Artistic Rendering"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-20T19:47:25.421Z",
+      "flashcards": {},
+      "guid": "12PwzrSoXh",
+      "id": "12PwzrSoXh",
+      "images": {},
+      "lastUpdated": "2020-02-20T19:47:25.421Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 565,
+          "height": 13,
+          "left": 119,
+          "right": 218,
+          "top": 552,
+          "width": 99
+        },
+        "1": {
+          "bottom": 561,
+          "height": 14,
+          "left": 224,
+          "right": 254,
+          "top": 547,
+          "width": 30
+        }
+      },
+      "text": {
+        "TEXT": "neural style transfer\n(NST)"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 565,
+            "height": 13,
+            "left": 119,
+            "right": 218,
+            "top": 552,
+            "width": 98
+          },
+          "text": "neural style transfer"
+        },
+        "1": {
+          "rect": {
+            "bottom": 561,
+            "height": 13,
+            "left": 224,
+            "right": 254,
+            "top": 547,
+            "width": 30
+          },
+          "text": "(NST)"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-20T19:47:29.859Z",
+      "flashcards": {},
+      "guid": "121kRWqgPJ",
+      "id": "121kRWqgPJ",
+      "images": {},
+      "lastUpdated": "2020-02-20T19:47:29.859Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 546,
+          "height": 13,
+          "left": 432,
+          "right": 577,
+          "top": 533,
+          "width": 145
+        }
+      },
+      "text": {
+        "TEXT": "Computing methodologies"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 546,
+            "height": 13,
+            "left": 432,
+            "right": 577,
+            "top": 533,
+            "width": 145
+          },
+          "text": "Computing methodologies"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-20T19:48:00.279Z",
+      "flashcards": {},
+      "guid": "12boS2yMBS",
+      "id": "12boS2yMBS",
+      "images": {},
+      "lastUpdated": "2020-02-20T19:48:00.279Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 766,
+          "height": 14,
+          "left": 146,
+          "right": 391,
+          "top": 752,
+          "width": 245
+        },
+        "1": {
+          "bottom": 782,
+          "height": 16,
+          "left": 71,
+          "right": 391,
+          "top": 766,
+          "width": 320
+        },
+        "2": {
+          "bottom": 795,
+          "height": 13,
+          "left": 71,
+          "right": 103,
+          "top": 782,
+          "width": 32
+        }
+      },
+      "text": {
+        "TEXT": "propose a semiotic structure to derive a technical\nresearch agenda for NSTs with respect to the grand challenges of\nNPAR."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 765,
+            "height": 13,
+            "left": 146,
+            "right": 175,
+            "top": 752,
+            "width": 28
+          },
+          "text": "propo"
+        },
+        "1": {
+          "rect": {
+            "bottom": 765,
+            "height": 13,
+            "left": 175,
+            "right": 181,
+            "top": 752,
+            "width": 6
+          },
+          "text": "s"
+        },
+        "2": {
+          "rect": {
+            "bottom": 765,
+            "height": 13,
+            "left": 181,
+            "right": 391,
+            "top": 752,
+            "width": 210
+          },
+          "text": "e a semiotic structure to derive a technical"
+        },
+        "3": {
+          "rect": {
+            "bottom": 780,
+            "height": 13,
+            "left": 71,
+            "right": 203,
+            "top": 766,
+            "width": 131
+          },
+          "text": "research agenda for NSTs "
+        },
+        "4": {
+          "rect": {
+            "bottom": 780,
+            "height": 13,
+            "left": 203,
+            "right": 391,
+            "top": 766,
+            "width": 188
+          },
+          "text": "with respect to the grand challenges of"
+        },
+        "5": {
+          "rect": {
+            "bottom": 795,
+            "height": 13,
+            "left": 71,
+            "right": 103,
+            "top": 782,
+            "width": 31
+          },
+          "text": "NPAR."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#FF6900",
+      "created": "2020-02-20T19:48:15.357Z",
+      "flashcards": {},
+      "guid": "12wiiyD1b8",
+      "id": "12wiiyD1b8",
+      "images": {},
+      "lastUpdated": "2020-02-20T19:48:15.357Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 577,
+          "height": 14,
+          "left": 278,
+          "right": 392,
+          "top": 563,
+          "width": 114
+        },
+        "1": {
+          "bottom": 591,
+          "height": 14,
+          "left": 71,
+          "right": 394,
+          "top": 577,
+          "width": 323
+        },
+        "2": {
+          "bottom": 604,
+          "height": 13,
+          "left": 71,
+          "right": 208,
+          "top": 591,
+          "width": 137
+        }
+      },
+      "text": {
+        "TEXT": "it also has to evolve as\nan interactive tool that considers the design aspects and mecha-\nnisms of artwork production"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 576,
+            "height": 13,
+            "left": 278,
+            "right": 392,
+            "top": 563,
+            "width": 113
+          },
+          "text": "it also has to evolve as"
+        },
+        "1": {
+          "rect": {
+            "bottom": 590,
+            "height": 13,
+            "left": 71,
+            "right": 394,
+            "top": 577,
+            "width": 322
+          },
+          "text": "an interactive tool that considers the design aspects and mecha-"
+        },
+        "2": {
+          "rect": {
+            "bottom": 604,
+            "height": 13,
+            "left": 71,
+            "right": 138,
+            "top": 591,
+            "width": 66
+          },
+          "text": "nisms of artw"
+        },
+        "3": {
+          "rect": {
+            "bottom": 604,
+            "height": 13,
+            "left": 138,
+            "right": 190,
+            "top": 591,
+            "width": 52
+          },
+          "text": "ork produc"
+        },
+        "4": {
+          "rect": {
+            "bottom": 604,
+            "height": 13,
+            "left": 190,
+            "right": 202,
+            "top": 591,
+            "width": 12
+          },
+          "text": "tio"
+        },
+        "5": {
+          "rect": {
+            "bottom": 604,
+            "height": 13,
+            "left": 202,
+            "right": 208,
+            "top": 591,
+            "width": 6
+          },
+          "text": "n"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-21T00:34:02.932Z",
+      "flashcards": {},
+      "guid": "12D98QWtvy",
+      "id": "12D98QWtvy",
+      "images": {},
+      "lastUpdated": "2020-02-21T00:34:02.932Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 692,
+          "height": 14,
+          "left": 424,
+          "right": 746,
+          "top": 678,
+          "width": 322
+        },
+        "1": {
+          "bottom": 707,
+          "height": 15,
+          "left": 424,
+          "right": 744,
+          "top": 692,
+          "width": 320
+        },
+        "2": {
+          "bottom": 721,
+          "height": 14,
+          "left": 424,
+          "right": 451,
+          "top": 707,
+          "width": 27
+        }
+      },
+      "text": {
+        "TEXT": "Semiotics deals with the study of symbols and how they communi-\ncate image contents or information in a meaningful way [Bertin\n2010]"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 692,
+            "height": 14,
+            "left": 424,
+            "right": 746,
+            "top": 678,
+            "width": 322
+          },
+          "text": "Semiotics deals with the study of symbols and how they communi-"
+        },
+        "1": {
+          "rect": {
+            "bottom": 706,
+            "height": 14,
+            "left": 424,
+            "right": 744,
+            "top": 692,
+            "width": 320
+          },
+          "text": "cate image contents or information in a meaningful way [Bertin"
+        },
+        "2": {
+          "rect": {
+            "bottom": 721,
+            "height": 14,
+            "left": 424,
+            "right": 451,
+            "top": 707,
+            "width": 27
+          },
+          "text": "2010]"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-21T00:34:12.443Z",
+      "flashcards": {},
+      "guid": "1wEpWroZ7C",
+      "id": "1wEpWroZ7C",
+      "images": {},
+      "lastUpdated": "2020-02-21T00:34:12.443Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 658,
+          "height": 17,
+          "left": 448,
+          "right": 724,
+          "top": 641,
+          "width": 276
+        },
+        "1": {
+          "bottom": 674,
+          "height": 16,
+          "left": 446,
+          "right": 568,
+          "top": 658,
+          "width": 122
+        }
+      },
+      "text": {
+        "TEXT": " SEMIOTIC STRUCTURE FOR ARTISTIC\nSTYLE TRANSFER"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 657,
+            "height": 16,
+            "left": 448,
+            "right": 724,
+            "top": 641,
+            "width": 276
+          },
+          "text": " SEMIOTIC STRUCTURE FOR ARTISTIC"
+        },
+        "1": {
+          "rect": {
+            "bottom": 674,
+            "height": 16,
+            "left": 446,
+            "right": 568,
+            "top": 658,
+            "width": 122
+          },
+          "text": "STYLE TRANSFER"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-21T00:35:02.082Z",
+      "flashcards": {},
+      "guid": "12TKXWrKY2",
+      "id": "12TKXWrKY2",
+      "images": {},
+      "lastUpdated": "2020-02-21T00:35:02.082Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 759,
+          "height": 16,
+          "left": 439,
+          "right": 644,
+          "top": 743,
+          "width": 205
+        }
+      },
+      "text": {
+        "TEXT": "ARTISTIC STYLE TRANSFER"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 759,
+            "height": 16,
+            "left": 439,
+            "right": 583,
+            "top": 743,
+            "width": 144
+          },
+          "text": "ARTISTIC STYLE TR"
+        },
+        "1": {
+          "rect": {
+            "bottom": 759,
+            "height": 16,
+            "left": 583,
+            "right": 644,
+            "top": 743,
+            "width": 60
+          },
+          "text": "ANSFER"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#8ED1FC",
+      "created": "2020-02-21T00:37:42.200Z",
+      "flashcards": {},
+      "guid": "12L39tzKyo",
+      "id": "122WNPjPeg",
+      "images": {},
+      "lastUpdated": "2020-06-16T20:29:19.880Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 357,
+          "height": 14,
+          "left": 94,
+          "right": 233,
+          "top": 343,
+          "width": 139
+        }
+      },
+      "text": {
+        "TEXT": "De\u001bnition “Artistic Style”:"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 357,
+            "height": 14,
+            "left": 94,
+            "right": 233,
+            "top": 343,
+            "width": 139
+          },
+          "text": "De\u001bnition “Artistic Style”:"
+        }
+      },
+      "revisedText": {
+        "HTML": "Definition “Artistic Style”:"
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#FF6900",
+      "created": "2020-02-21T00:41:41.537Z",
+      "flashcards": {},
+      "guid": "173We42s1Y",
+      "id": "173We42s1Y",
+      "images": {},
+      "lastUpdated": "2020-02-21T00:41:41.537Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 354,
+          "height": 15,
+          "left": 423,
+          "right": 745,
+          "top": 339,
+          "width": 322
+        },
+        "1": {
+          "bottom": 367,
+          "height": 13,
+          "left": 423,
+          "right": 732,
+          "top": 354,
+          "width": 309
+        }
+      },
+      "text": {
+        "TEXT": "NST techniques apparently lack to model graphical ele-\nments/variables and provide interactive (creative) control"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 353,
+            "height": 13,
+            "left": 423,
+            "right": 745,
+            "top": 339,
+            "width": 322
+          },
+          "text": "NST techniques apparently lack to model graphical ele-"
+        },
+        "1": {
+          "rect": {
+            "bottom": 367,
+            "height": 13,
+            "left": 423,
+            "right": 732,
+            "top": 354,
+            "width": 308
+          },
+          "text": "ments/variables and provide interactive (creative) control"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "created": "2020-02-21T00:42:38.462Z",
+      "flashcards": {},
+      "guid": "1Wie7XEamM",
+      "id": "1Wie7XEamM",
+      "image": {
+        "height": 268,
+        "id": "12ASqusSBoV2HZmTgUVy",
+        "rel": "screenshot",
+        "src": {
+          "backend": "image",
+          "name": "12ASqusSBoV2HZmTgUVy.png"
+        },
+        "type": "image/png",
+        "width": 788
+      },
+      "images": {},
+      "lastUpdated": "2020-05-13T19:08:30.069Z",
+      "notes": {},
+      "position": {
+        "height": 83,
+        "width": 246,
+        "x": 506,
+        "y": 380
+      },
+      "questions": {},
+      "rects": {
+        "0": {
+          "height": 7.933688573120193,
+          "left": 62.1455938697318,
+          "top": 35.99763173475429,
+          "width": 30.191570881226056
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#FF6900",
+      "created": "2020-02-21T01:55:03.048Z",
+      "flashcards": {},
+      "guid": "1gzuwiEk7z",
+      "id": "1gzuwiEk7z",
+      "images": {},
+      "lastUpdated": "2020-02-21T01:55:03.048Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 824,
+          "height": 14,
+          "left": 580,
+          "right": 743,
+          "top": 810,
+          "width": 163
+        },
+        "1": {
+          "bottom": 839,
+          "height": 15,
+          "left": 423,
+          "right": 744,
+          "top": 824,
+          "width": 321
+        },
+        "2": {
+          "bottom": 853,
+          "height": 14,
+          "left": 423,
+          "right": 539,
+          "top": 839,
+          "width": 116
+        }
+      },
+      "text": {
+        "TEXT": "a semiotic structure that considers\nthese design aspects and the mechanisms of interactive NPAR has\nnot been formulated yet."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 823,
+            "height": 13,
+            "left": 580,
+            "right": 743,
+            "top": 810,
+            "width": 163
+          },
+          "text": "a semiotic structure that considers"
+        },
+        "1": {
+          "rect": {
+            "bottom": 838,
+            "height": 13,
+            "left": 423,
+            "right": 744,
+            "top": 824,
+            "width": 320
+          },
+          "text": "these design aspects and the mechanisms of interactive NPAR has"
+        },
+        "2": {
+          "rect": {
+            "bottom": 853,
+            "height": 13,
+            "left": 423,
+            "right": 539,
+            "top": 839,
+            "width": 115
+          },
+          "text": "not been formulated yet."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-21T01:55:52.089Z",
+      "flashcards": {},
+      "guid": "1YEwPBZjuQ",
+      "id": "1YEwPBZjuQ",
+      "images": {},
+      "lastUpdated": "2020-02-21T01:55:52.089Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 897,
+          "height": 14,
+          "left": 460,
+          "right": 744,
+          "top": 883,
+          "width": 284
+        },
+        "1": {
+          "bottom": 912,
+          "height": 15,
+          "left": 423,
+          "right": 746,
+          "top": 897,
+          "width": 323
+        },
+        "2": {
+          "bottom": 926,
+          "height": 14,
+          "left": 423,
+          "right": 743,
+          "top": 912,
+          "width": 320
+        }
+      },
+      "text": {
+        "TEXT": "evolve (neural) style transfers as interactive tools that ease\nthe visual expression of artists, non-artists and scientists for illus-\ntrative visualization [Gooch et al. 2010; Isenberg 2016; Salesin 2002]"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 896,
+            "height": 13,
+            "left": 460,
+            "right": 744,
+            "top": 883,
+            "width": 284
+          },
+          "text": "evolve (neural) style transfers as interactive tools that ease"
+        },
+        "1": {
+          "rect": {
+            "bottom": 911,
+            "height": 13,
+            "left": 423,
+            "right": 746,
+            "top": 897,
+            "width": 322
+          },
+          "text": "the visual expression of artists, non-artists and scientists for illus-"
+        },
+        "2": {
+          "rect": {
+            "bottom": 926,
+            "height": 13,
+            "left": 423,
+            "right": 578,
+            "top": 912,
+            "width": 155
+          },
+          "text": "trative visualization [Gooch et al"
+        },
+        "3": {
+          "rect": {
+            "bottom": 926,
+            "height": 13,
+            "left": 578,
+            "right": 582,
+            "top": 912,
+            "width": 3
+          },
+          "text": "."
+        },
+        "4": {
+          "rect": {
+            "bottom": 926,
+            "height": 13,
+            "left": 584,
+            "right": 743,
+            "top": 912,
+            "width": 159
+          },
+          "text": "2010; Isenberg 2016; Salesin 2002]"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-21T01:56:54.701Z",
+      "flashcards": {},
+      "guid": "12GwCwJ8AE",
+      "id": "12GwCwJ8AE",
+      "images": {},
+      "lastUpdated": "2020-02-21T01:56:54.701Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 533,
+          "height": 14,
+          "left": 112,
+          "right": 207,
+          "top": 519,
+          "width": 95
+        }
+      },
+      "text": {
+        "TEXT": "Modeling Aspects"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 533,
+            "height": 13,
+            "left": 112,
+            "right": 207,
+            "top": 519,
+            "width": 95
+          },
+          "text": "Modeling Aspects"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-21T01:57:02.675Z",
+      "flashcards": {},
+      "guid": "12eWv2mnXR",
+      "id": "12eWv2mnXR",
+      "images": {},
+      "lastUpdated": "2020-02-21T01:57:02.675Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 606,
+          "height": 14,
+          "left": 112,
+          "right": 203,
+          "top": 592,
+          "width": 91
+        }
+      },
+      "text": {
+        "TEXT": "Filtering Aspects"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 606,
+            "height": 13,
+            "left": 112,
+            "right": 203,
+            "top": 592,
+            "width": 91
+          },
+          "text": "Filtering Aspects"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#9900EF",
+      "created": "2020-02-21T01:59:32.342Z",
+      "flashcards": {},
+      "guid": "1Zkx4J9ZMA",
+      "id": "1Zkx4J9ZMA",
+      "images": {},
+      "lastUpdated": "2020-02-21T01:59:32.342Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 324,
+          "height": 15,
+          "left": 71,
+          "right": 391,
+          "top": 309,
+          "width": 320
+        },
+        "1": {
+          "bottom": 337,
+          "height": 13,
+          "left": 71,
+          "right": 381,
+          "top": 324,
+          "width": 310
+        }
+      },
+      "text": {
+        "TEXT": "semiology principles of Bertin [2010] and MacEachren et al. [2012]\nthat provide a theoretical foundation to visualization (Figure 4)."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 323,
+            "height": 13,
+            "left": 71,
+            "right": 391,
+            "top": 309,
+            "width": 320
+          },
+          "text": "semiology principles of Bertin [2010] and MacEachren et al. [2012]"
+        },
+        "1": {
+          "rect": {
+            "bottom": 337,
+            "height": 13,
+            "left": 71,
+            "right": 381,
+            "top": 324,
+            "width": 309
+          },
+          "text": "that provide a theoretical foundation to visualization (Figure 4)."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-26T21:04:57.687Z",
+      "flashcards": {},
+      "guid": "12JFAsNKbC",
+      "id": "12JFAsNKbC",
+      "images": {},
+      "lastUpdated": "2020-02-26T21:04:57.687Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 462,
+          "height": 16,
+          "left": 101,
+          "right": 353,
+          "top": 446,
+          "width": 252
+        }
+      },
+      "text": {
+        "TEXT": "Style Transfer using Neural Networks"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 462,
+            "height": 16,
+            "left": 101,
+            "right": 353,
+            "top": 446,
+            "width": 251
+          },
+          "text": "Style Transfer using Neural Networks"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-28T04:18:21.600Z",
+      "flashcards": {},
+      "guid": "17SX9LFD5M",
+      "id": "17SX9LFD5M",
+      "images": {},
+      "lastUpdated": "2020-02-28T04:18:21.600Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 366,
+          "height": 14,
+          "left": 464,
+          "right": 744,
+          "top": 352,
+          "width": 280
+        },
+        "1": {
+          "bottom": 381,
+          "height": 15,
+          "left": 464,
+          "right": 743,
+          "top": 366,
+          "width": 279
+        },
+        "2": {
+          "bottom": 396,
+          "height": 15,
+          "left": 464,
+          "right": 746,
+          "top": 381,
+          "width": 282
+        },
+        "3": {
+          "bottom": 410,
+          "height": 14,
+          "left": 464,
+          "right": 743,
+          "top": 396,
+          "width": 279
+        },
+        "4": {
+          "bottom": 425,
+          "height": 15,
+          "left": 464,
+          "right": 744,
+          "top": 410,
+          "width": 280
+        },
+        "5": {
+          "bottom": 438,
+          "height": 13,
+          "left": 464,
+          "right": 519,
+          "top": 425,
+          "width": 55
+        }
+      },
+      "text": {
+        "TEXT": "Style Transfer using Image Analogies : Techniques that\nuse image pairs for training—a source image and an artistic\ndepiction of this image—i. e., to learn an analogous transfor-\nmation such that content images can be transformed into\nan artistic rendering of similar visual style [Hertzmann\net al. 2001]."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 365,
+            "height": 13,
+            "left": 464,
+            "right": 663,
+            "top": 352,
+            "width": 198
+          },
+          "text": "Style Transfer using Image Analogies"
+        },
+        "1": {
+          "rect": {
+            "bottom": 365,
+            "height": 13,
+            "left": 663,
+            "right": 744,
+            "top": 352,
+            "width": 80
+          },
+          "text": ": Techniques that"
+        },
+        "2": {
+          "rect": {
+            "bottom": 379,
+            "height": 13,
+            "left": 464,
+            "right": 743,
+            "top": 366,
+            "width": 279
+          },
+          "text": "use image pairs for training—a source image and an artistic"
+        },
+        "3": {
+          "rect": {
+            "bottom": 394,
+            "height": 13,
+            "left": 464,
+            "right": 746,
+            "top": 381,
+            "width": 281
+          },
+          "text": "depiction of this image—i. e., to learn an analogous transfor-"
+        },
+        "4": {
+          "rect": {
+            "bottom": 409,
+            "height": 13,
+            "left": 464,
+            "right": 743,
+            "top": 396,
+            "width": 279
+          },
+          "text": "mation such that content images can be transformed into"
+        },
+        "5": {
+          "rect": {
+            "bottom": 423,
+            "height": 13,
+            "left": 464,
+            "right": 744,
+            "top": 410,
+            "width": 279
+          },
+          "text": "an artistic rendering of similar visual style [Hertzmann"
+        },
+        "6": {
+          "rect": {
+            "bottom": 438,
+            "height": 13,
+            "left": 464,
+            "right": 519,
+            "top": 425,
+            "width": 55
+          },
+          "text": "et al. 2001]."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-28T04:18:27.419Z",
+      "flashcards": {},
+      "guid": "1fifeWA73h",
+      "id": "1fifeWA73h",
+      "images": {},
+      "lastUpdated": "2020-02-28T04:18:27.419Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 454,
+          "height": 15,
+          "left": 464,
+          "right": 745,
+          "top": 439,
+          "width": 281
+        },
+        "1": {
+          "bottom": 469,
+          "height": 15,
+          "left": 464,
+          "right": 743,
+          "top": 454,
+          "width": 279
+        },
+        "2": {
+          "bottom": 483,
+          "height": 14,
+          "left": 464,
+          "right": 746,
+          "top": 469,
+          "width": 282
+        },
+        "3": {
+          "bottom": 498,
+          "height": 15,
+          "left": 464,
+          "right": 744,
+          "top": 483,
+          "width": 280
+        },
+        "4": {
+          "bottom": 511,
+          "height": 13,
+          "left": 464,
+          "right": 474,
+          "top": 498,
+          "width": 10
+        },
+        "5": {
+          "bottom": 514,
+          "height": 13,
+          "left": 477,
+          "right": 500,
+          "top": 501,
+          "width": 23
+        },
+        "6": {
+          "bottom": 511,
+          "height": 13,
+          "left": 503,
+          "right": 521,
+          "top": 498,
+          "width": 18
+        },
+        "7": {
+          "bottom": 514,
+          "height": 13,
+          "left": 524,
+          "right": 559,
+          "top": 501,
+          "width": 35
+        },
+        "8": {
+          "bottom": 513,
+          "height": 15,
+          "left": 563,
+          "right": 744,
+          "top": 498,
+          "width": 181
+        },
+        "9": {
+          "bottom": 527,
+          "height": 14,
+          "left": 464,
+          "right": 745,
+          "top": 513,
+          "width": 281
+        },
+        "10": {
+          "bottom": 540,
+          "height": 13,
+          "left": 464,
+          "right": 632,
+          "top": 527,
+          "width": 168
+        }
+      },
+      "text": {
+        "TEXT": "Style Transfer using Neural Networks: Techniques that\nemploy neural networks to separate and recombine the\ncontent and style of arbitrary inputs. Typically, loss func-\ntions are minimized iteratively to balance the components\nof\nstyle\nand\ncontent\nin the output [Gatys et al. 2016b], or\ntrain feed-forward neural networks for linear image trans-\nformation [Johnson et al. 2016a,b]."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 453,
+            "height": 13,
+            "left": 464,
+            "right": 665,
+            "top": 439,
+            "width": 200
+          },
+          "text": "Style Transfer using Neural Networks"
+        },
+        "1": {
+          "rect": {
+            "bottom": 453,
+            "height": 13,
+            "left": 665,
+            "right": 745,
+            "top": 439,
+            "width": 79
+          },
+          "text": ": Techniques that"
+        },
+        "2": {
+          "rect": {
+            "bottom": 467,
+            "height": 13,
+            "left": 464,
+            "right": 743,
+            "top": 454,
+            "width": 279
+          },
+          "text": "employ neural networks to separate and recombine the"
+        },
+        "3": {
+          "rect": {
+            "bottom": 482,
+            "height": 13,
+            "left": 464,
+            "right": 746,
+            "top": 469,
+            "width": 281
+          },
+          "text": "content and style of arbitrary inputs. Typically, loss func-"
+        },
+        "4": {
+          "rect": {
+            "bottom": 496,
+            "height": 13,
+            "left": 464,
+            "right": 744,
+            "top": 483,
+            "width": 279
+          },
+          "text": "tions are minimized iteratively to balance the components"
+        },
+        "5": {
+          "rect": {
+            "bottom": 511,
+            "height": 13,
+            "left": 464,
+            "right": 474,
+            "top": 498,
+            "width": 9
+          },
+          "text": "of"
+        },
+        "6": {
+          "rect": {
+            "bottom": 514,
+            "height": 13,
+            "left": 477,
+            "right": 500,
+            "top": 501,
+            "width": 22
+          },
+          "text": "style"
+        },
+        "7": {
+          "rect": {
+            "bottom": 511,
+            "height": 13,
+            "left": 503,
+            "right": 521,
+            "top": 498,
+            "width": 18
+          },
+          "text": "and"
+        },
+        "8": {
+          "rect": {
+            "bottom": 514,
+            "height": 13,
+            "left": 524,
+            "right": 559,
+            "top": 501,
+            "width": 35
+          },
+          "text": "content"
+        },
+        "9": {
+          "rect": {
+            "bottom": 511,
+            "height": 13,
+            "left": 563,
+            "right": 689,
+            "top": 498,
+            "width": 125
+          },
+          "text": "in the output [Gatys et al"
+        },
+        "10": {
+          "rect": {
+            "bottom": 511,
+            "height": 13,
+            "left": 689,
+            "right": 692,
+            "top": 498,
+            "width": 3
+          },
+          "text": "."
+        },
+        "11": {
+          "rect": {
+            "bottom": 511,
+            "height": 13,
+            "left": 695,
+            "right": 744,
+            "top": 498,
+            "width": 49
+          },
+          "text": "2016b], or"
+        },
+        "12": {
+          "rect": {
+            "bottom": 526,
+            "height": 13,
+            "left": 464,
+            "right": 745,
+            "top": 513,
+            "width": 281
+          },
+          "text": "train feed-forward neural networks for linear image trans-"
+        },
+        "13": {
+          "rect": {
+            "bottom": 540,
+            "height": 13,
+            "left": 464,
+            "right": 632,
+            "top": 527,
+            "width": 168
+          },
+          "text": "formation [Johnson et al. 2016a,b]."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#F78DA7",
+      "created": "2020-02-28T04:19:56.185Z",
+      "flashcards": {},
+      "guid": "1vvjW8CiM1",
+      "id": "1vvjW8CiM1",
+      "images": {},
+      "lastUpdated": "2020-02-28T04:19:56.185Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 490,
+          "height": 14,
+          "left": 93,
+          "right": 392,
+          "top": 476,
+          "width": 299
+        },
+        "1": {
+          "bottom": 505,
+          "height": 15,
+          "left": 112,
+          "right": 394,
+          "top": 490,
+          "width": 282
+        },
+        "2": {
+          "bottom": 520,
+          "height": 15,
+          "left": 112,
+          "right": 391,
+          "top": 505,
+          "width": 279
+        },
+        "3": {
+          "bottom": 534,
+          "height": 14,
+          "left": 112,
+          "right": 391,
+          "top": 520,
+          "width": 279
+        },
+        "4": {
+          "bottom": 549,
+          "height": 15,
+          "left": 112,
+          "right": 393,
+          "top": 534,
+          "width": 281
+        },
+        "5": {
+          "bottom": 563,
+          "height": 14,
+          "left": 112,
+          "right": 392,
+          "top": 549,
+          "width": 280
+        },
+        "6": {
+          "bottom": 576,
+          "height": 13,
+          "left": 112,
+          "right": 336,
+          "top": 563,
+          "width": 224
+        }
+      },
+      "text": {
+        "TEXT": "(1) Heuristics-based Algorithms: Paradigms that are based\non rendering functions, which are implemented by a do-\nmain expert who explicitly models individual artistic styles\nand its correspondent design aspects or mechanisms. This\ngroup basically comprises stroke-based rendering, region-\nbased techniques, image processing and \u001bltering, and may\nalso account for physically-based simulations."
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 489,
+            "height": 13,
+            "left": 93,
+            "right": 105,
+            "top": 476,
+            "width": 12
+          },
+          "text": "(1)"
+        },
+        "1": {
+          "rect": {
+            "bottom": 489,
+            "height": 13,
+            "left": 112,
+            "right": 266,
+            "top": 476,
+            "width": 154
+          },
+          "text": "Heuristics-based Algorithms"
+        },
+        "2": {
+          "rect": {
+            "bottom": 489,
+            "height": 13,
+            "left": 267,
+            "right": 392,
+            "top": 476,
+            "width": 124
+          },
+          "text": ": Paradigms that are based"
+        },
+        "3": {
+          "rect": {
+            "bottom": 503,
+            "height": 13,
+            "left": 112,
+            "right": 394,
+            "top": 490,
+            "width": 281
+          },
+          "text": "on rendering functions, which are implemented by a do-"
+        },
+        "4": {
+          "rect": {
+            "bottom": 518,
+            "height": 13,
+            "left": 112,
+            "right": 391,
+            "top": 505,
+            "width": 279
+          },
+          "text": "main expert who explicitly models individual artistic styles"
+        },
+        "5": {
+          "rect": {
+            "bottom": 533,
+            "height": 13,
+            "left": 112,
+            "right": 391,
+            "top": 520,
+            "width": 279
+          },
+          "text": "and its correspondent design aspects or mechanisms. This"
+        },
+        "6": {
+          "rect": {
+            "bottom": 547,
+            "height": 13,
+            "left": 112,
+            "right": 393,
+            "top": 534,
+            "width": 281
+          },
+          "text": "group basically comprises stroke-based rendering, region-"
+        },
+        "7": {
+          "rect": {
+            "bottom": 562,
+            "height": 13,
+            "left": 112,
+            "right": 392,
+            "top": 549,
+            "width": 279
+          },
+          "text": "based techniques, image processing and \u001bltering, and may"
+        },
+        "8": {
+          "rect": {
+            "bottom": 576,
+            "height": 13,
+            "left": 112,
+            "right": 336,
+            "top": 563,
+            "width": 223
+          },
+          "text": "also account for physically-based simulations."
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "#F78DA7",
+      "created": "2020-02-28T04:20:15.171Z",
+      "flashcards": {},
+      "guid": "12PuHPk8LG",
+      "id": "12PuHPk8LG",
+      "images": {},
+      "lastUpdated": "2020-02-28T04:20:15.171Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 593,
+          "height": 15,
+          "left": 93,
+          "right": 392,
+          "top": 578,
+          "width": 299
+        },
+        "1": {
+          "bottom": 607,
+          "height": 14,
+          "left": 112,
+          "right": 392,
+          "top": 593,
+          "width": 280
+        },
+        "2": {
+          "bottom": 622,
+          "height": 15,
+          "left": 112,
+          "right": 392,
+          "top": 607,
+          "width": 280
+        },
+        "3": {
+          "bottom": 636,
+          "height": 14,
+          "left": 112,
+          "right": 392,
+          "top": 622,
+          "width": 280
+        },
+        "4": {
+          "bottom": 649,
+          "height": 13,
+          "left": 112,
+          "right": 200,
+          "top": 636,
+          "width": 88
+        },
+        "5": {
+          "bottom": 653,
+          "height": 13,
+          "left": 203,
+          "right": 237,
+          "top": 640,
+          "width": 34
+        },
+        "6": {
+          "bottom": 649,
+          "height": 13,
+          "left": 241,
+          "right": 259,
+          "top": 636,
+          "width": 18
+        },
+        "7": {
+          "bottom": 653,
+          "height": 13,
+          "left": 262,
+          "right": 284,
+          "top": 640,
+          "width": 22
+        },
+        "8": {
+          "bottom": 649,
+          "height": 13,
+          "left": 287,
+          "right": 391,
+          "top": 636,
+          "width": 104
+        }
+      },
+      "text": {
+        "TEXT": "(2) Style Transfer Algorithms : Example-based rendering\nwhich is directed to learn or reproduce artistic styles from\nvisual examples (ground-truth data sets). This type often\ncomprises statistical models and optimization schemes to\nbalance aspects of\ncontent\nand\nstyle\nin the stylized output"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 591,
+            "height": 13,
+            "left": 93,
+            "right": 96,
+            "top": 578,
+            "width": 3
+          },
+          "text": "("
+        },
+        "1": {
+          "rect": {
+            "bottom": 591,
+            "height": 13,
+            "left": 96,
+            "right": 105,
+            "top": 578,
+            "width": 9
+          },
+          "text": "2)"
+        },
+        "2": {
+          "rect": {
+            "bottom": 591,
+            "height": 13,
+            "left": 112,
+            "right": 255,
+            "top": 578,
+            "width": 143
+          },
+          "text": "Style Transfer Algorithms"
+        },
+        "3": {
+          "rect": {
+            "bottom": 591,
+            "height": 13,
+            "left": 256,
+            "right": 392,
+            "top": 578,
+            "width": 135
+          },
+          "text": ": Example-based rendering"
+        },
+        "4": {
+          "rect": {
+            "bottom": 606,
+            "height": 13,
+            "left": 112,
+            "right": 392,
+            "top": 593,
+            "width": 279
+          },
+          "text": "which is directed to learn or reproduce artistic styles from"
+        },
+        "5": {
+          "rect": {
+            "bottom": 620,
+            "height": 13,
+            "left": 112,
+            "right": 392,
+            "top": 607,
+            "width": 279
+          },
+          "text": "visual examples (ground-truth data sets). This type often"
+        },
+        "6": {
+          "rect": {
+            "bottom": 635,
+            "height": 13,
+            "left": 112,
+            "right": 392,
+            "top": 622,
+            "width": 279
+          },
+          "text": "comprises statistical models and optimization schemes to"
+        },
+        "7": {
+          "rect": {
+            "bottom": 649,
+            "height": 13,
+            "left": 112,
+            "right": 200,
+            "top": 636,
+            "width": 88
+          },
+          "text": "balance aspects of"
+        },
+        "8": {
+          "rect": {
+            "bottom": 653,
+            "height": 13,
+            "left": 203,
+            "right": 237,
+            "top": 640,
+            "width": 34
+          },
+          "text": "content"
+        },
+        "9": {
+          "rect": {
+            "bottom": 649,
+            "height": 13,
+            "left": 241,
+            "right": 259,
+            "top": 636,
+            "width": 17
+          },
+          "text": "and"
+        },
+        "10": {
+          "rect": {
+            "bottom": 653,
+            "height": 13,
+            "left": 262,
+            "right": 284,
+            "top": 640,
+            "width": 21
+          },
+          "text": "style"
+        },
+        "11": {
+          "rect": {
+            "bottom": 649,
+            "height": 13,
+            "left": 287,
+            "right": 391,
+            "top": 636,
+            "width": 103
+          },
+          "text": "in the stylized output"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "created": "2020-02-28T04:20:47.471Z",
+      "flashcards": {},
+      "guid": "12JSKDAeMa",
+      "id": "12JSKDAeMa",
+      "image": {
+        "height": 255,
+        "id": "12pG7CqCPbKiAPaPBzBQ",
+        "rel": "screenshot",
+        "src": {
+          "backend": "image",
+          "name": "12pG7CqCPbKiAPaPBzBQ.png"
+        },
+        "type": "image/png",
+        "width": 901
+      },
+      "images": {},
+      "lastUpdated": "2020-02-28T04:20:54.631Z",
+      "notes": {},
+      "position": {
+        "height": 196,
+        "width": 693,
+        "x": 60,
+        "y": 95
+      },
+      "questions": {},
+      "rects": {
+        "0": {
+          "height": 18.586005830903787,
+          "left": 7.358490566037736,
+          "top": 9.03790087463557,
+          "width": 85.00000000000001
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "created": "2020-02-28T19:31:12.561Z",
+      "flashcards": {},
+      "guid": "136ByamNe1",
+      "id": "136ByamNe1",
+      "image": {
+        "height": 435,
+        "id": "1x4uKapcsnzsh99rhSDA",
+        "rel": "screenshot",
+        "src": {
+          "backend": "image",
+          "name": "1x4uKapcsnzsh99rhSDA.png"
+        },
+        "type": "image/png",
+        "width": 646
+      },
+      "images": {},
+      "lastUpdated": "2020-02-28T19:31:18.976Z",
+      "notes": {},
+      "position": {
+        "height": 228,
+        "width": 340,
+        "x": 414,
+        "y": 714
+      },
+      "questions": {},
+      "rects": {
+        "0": {
+          "height": 21.684945164506487,
+          "left": 50.83870967741935,
+          "top": 67.69690927218345,
+          "width": 41.67741935483871
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "green",
+      "created": "2020-02-28T21:57:57.406Z",
+      "flashcards": {},
+      "guid": "126uvtSWeL",
+      "id": "126uvtSWeL",
+      "images": {},
+      "lastUpdated": "2020-02-28T21:57:57.406Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 532,
+          "height": 14,
+          "left": 437,
+          "right": 553,
+          "top": 518,
+          "width": 116
+        }
+      },
+      "text": {
+        "TEXT": "Feed-forward Approaches"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 532,
+            "height": 13,
+            "left": 437,
+            "right": 553,
+            "top": 518,
+            "width": 115
+          },
+          "text": "Feed-forward Approaches"
+        }
+      }
+    },
+    {
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "color": "yellow",
+      "created": "2020-02-28T23:48:06.845Z",
+      "flashcards": {},
+      "guid": "1zBvuRGs7m",
+      "id": "1BLYZ3nk6x",
+      "images": {},
+      "lastUpdated": "2020-06-16T20:30:03.236Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 358,
+          "height": 14,
+          "left": 94,
+          "right": 380,
+          "top": 344,
+          "width": 286
+        },
+        "1": {
+          "bottom": 373,
+          "height": 15,
+          "left": 94,
+          "right": 369,
+          "top": 358,
+          "width": 275
+        },
+        "2": {
+          "bottom": 388,
+          "height": 15,
+          "left": 94,
+          "right": 262,
+          "top": 373,
+          "width": 168
+        },
+        "3": {
+          "bottom": 402,
+          "height": 14,
+          "left": 93,
+          "right": 260,
+          "top": 388,
+          "width": 167
+        }
+      },
+      "text": {
+        "TEXT": "De\u001bnition “Artistic Style”: The constant form—and some-\ntimes the constant elements, qualities, and expression—in\nthe art of an individual or a group.\n— Meyer Schapiro [Schapiro 1994]"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 357,
+            "height": 13,
+            "left": 94,
+            "right": 233,
+            "top": 344,
+            "width": 139
+          },
+          "text": "De\u001bnition “Artistic Style”:"
+        },
+        "1": {
+          "rect": {
+            "bottom": 357,
+            "height": 13,
+            "left": 236,
+            "right": 380,
+            "top": 344,
+            "width": 143
+          },
+          "text": "The constant form—and some-"
+        },
+        "2": {
+          "rect": {
+            "bottom": 372,
+            "height": 13,
+            "left": 94,
+            "right": 369,
+            "top": 358,
+            "width": 275
+          },
+          "text": "times the constant elements, qualities, and expression—in"
+        },
+        "3": {
+          "rect": {
+            "bottom": 386,
+            "height": 13,
+            "left": 94,
+            "right": 262,
+            "top": 373,
+            "width": 168
+          },
+          "text": "the art of an individual or a group."
+        },
+        "4": {
+          "rect": {
+            "bottom": 402,
+            "height": 13,
+            "left": 93,
+            "right": 260,
+            "top": 388,
+            "width": 167
+          },
+          "text": "— Meyer Schapiro [Schapiro 1994]"
+        }
+      },
+      "revisedText": {
+        "HTML": "Definition “Artistic Style”: The constant form—and some-\ntimes the constant elements, qualities, and expression—in\nthe art of an individual or a group.\n— Meyer Schapiro [Schapiro 1994]"
+      }
+    },
+    {
+      "color": "yellow",
+      "created": "2020-06-16T19:25:42.844Z",
+      "flashcards": {},
+      "guid": "1dLYL5ZHYs",
+      "id": "126AVLQXN8",
+      "images": {},
+      "lastUpdated": "2020-06-16T19:25:59.230Z",
+      "notes": {},
+      "questions": {},
+      "rects": {
+        "0": {
+          "bottom": 190,
+          "height": 18,
+          "left": 181,
+          "right": 231,
+          "top": 172,
+          "width": 50
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>Citer: (Semmo et al., 2017)</p>\n<p>FTag:Semmo-et-al-2017</p>\n<p>Biblio:</p>\n<div class=\"csl-bib-body\" style=\"line-height: 2; margin-left: 2em; text-indent: -2em;\">\n<div class=\"csl-entry\">Semmo, A., Isenberg, T., &amp; Döllner, J. (2017). Neural style transfer: A paradigm shift for image-based artistic rendering? <em>Proceedings of the Symposium on Non-Photorealistic Animation and Rendering - NPAR ’17</em>, 1–13. <a href=\"https://doi.org/10.1145/3092919.3092920\">https://doi.org/10.1145/3092919.3092920</a></div></div>"
+      },
+      "text": {
+        "TEXT": "Semmo"
+      },
+      "textSelections": {
+        "0": {
+          "rect": {
+            "bottom": 190,
+            "height": 18,
+            "left": 181,
+            "right": 231,
+            "top": 172,
+            "width": 50
+          },
+          "text": "Semmo"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12KwFL2H69",
+      "guid": "12KwFL2H69",
+      "created": "2020-06-16T20:21:11.434Z",
+      "lastUpdated": "2020-06-16T20:21:25.340Z",
+      "rects": {
+        "0": {
+          "left": 7.458292443572129,
+          "top": 25.01895375284306,
+          "width": 84.93621197252207,
+          "height": 17.437452615617893
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "129Wnxy6zMwyJxhj4ULi",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "129Wnxy6zMwyJxhj4ULi.png"
+        },
+        "width": 1731,
+        "height": 460,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 60,
+        "y": 263,
+        "width": 692,
+        "height": 184
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1272JoYXHt",
+      "guid": "1272JoYXHt",
+      "created": "2020-06-16T20:21:38.947Z",
+      "lastUpdated": "2020-06-16T20:22:01.787Z",
+      "rects": {
+        "0": {
+          "left": 8.684985279685966,
+          "top": 10.462471569370734,
+          "width": 23.209028459273796,
+          "height": 14.101592115238816
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1ZXXYJ5LYnezWox7KAVQ",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1ZXXYJ5LYnezWox7KAVQ.png"
+        },
+        "width": 473,
+        "height": 372,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 70,
+        "y": 110,
+        "width": 189,
+        "height": 148
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "18JCuGajf7",
+      "guid": "18JCuGajf7",
+      "created": "2020-06-16T20:22:35.355Z",
+      "lastUpdated": "2020-06-16T20:22:54.059Z",
+      "rects": {
+        "0": {
+          "left": 8.341511285574093,
+          "top": 10.386656557998483,
+          "width": 83.1207065750736,
+          "height": 11.751326762699014
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1e8KuY2cq18G3PvYu4Kh",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1e8KuY2cq18G3PvYu4Kh.png"
+        },
+        "width": 1694,
+        "height": 310,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 68,
+        "y": 109,
+        "width": 677,
+        "height": 124
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12o6X1WY9P",
+      "guid": "12o6X1WY9P",
+      "created": "2020-06-16T20:24:33.819Z",
+      "lastUpdated": "2020-06-16T20:25:03.898Z",
+      "rects": {
+        "0": {
+          "left": 7.948969578017664,
+          "top": 9.855951478392722,
+          "width": 83.90578999018645,
+          "height": 19.143290371493553
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "19xfFVaLNZpUao5rSakG",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "19xfFVaLNZpUao5rSakG.png"
+        },
+        "width": 1710,
+        "height": 505,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 64,
+        "y": 104,
+        "width": 684,
+        "height": 201
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12a5aJUPV1",
+      "guid": "12a5aJUPV1",
+      "created": "2020-06-16T20:25:25.495Z",
+      "lastUpdated": "2020-06-16T20:25:25.495Z",
+      "rects": {
+        "0": {
+          "left": 101,
+          "top": 527,
+          "right": 383,
+          "bottom": 544,
+          "width": 282,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Pr",
+          "rect": {
+            "left": 101,
+            "top": 527,
+            "right": 116,
+            "bottom": 544,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "op",
+          "rect": {
+            "left": 116,
+            "top": 527,
+            "right": 133,
+            "bottom": 544,
+            "width": 16,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "osal 5: Supporting Visualization Tasks",
+          "rect": {
+            "left": 133,
+            "top": 527,
+            "right": 383,
+            "bottom": 544,
+            "width": 249,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Proposal 5: Supporting Visualization Tasks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1M99QoKr5o",
+      "guid": "1M99QoKr5o",
+      "created": "2020-06-16T20:26:43.811Z",
+      "lastUpdated": "2020-06-16T20:26:43.811Z",
+      "rects": {
+        "0": {
+          "left": 440,
+          "top": 557,
+          "right": 541,
+          "bottom": 578,
+          "width": 101,
+          "height": 21
+        },
+        "1": {
+          "left": 424,
+          "top": 578,
+          "right": 752,
+          "bottom": 592,
+          "width": 328,
+          "height": 14
+        },
+        "2": {
+          "left": 424,
+          "top": 592,
+          "right": 751,
+          "bottom": 608,
+          "width": 327,
+          "height": 16
+        },
+        "3": {
+          "left": 424,
+          "top": 608,
+          "right": 750,
+          "bottom": 622,
+          "width": 326,
+          "height": 14
+        },
+        "4": {
+          "left": 424,
+          "top": 622,
+          "right": 750,
+          "bottom": 636,
+          "width": 326,
+          "height": 14
+        },
+        "5": {
+          "left": 424,
+          "top": 636,
+          "right": 749,
+          "bottom": 651,
+          "width": 325,
+          "height": 15
+        },
+        "6": {
+          "left": 424,
+          "top": 651,
+          "right": 752,
+          "bottom": 666,
+          "width": 328,
+          "height": 15
+        },
+        "7": {
+          "left": 424,
+          "top": 666,
+          "right": 749,
+          "bottom": 680,
+          "width": 325,
+          "height": 14
+        },
+        "8": {
+          "left": 424,
+          "top": 680,
+          "right": 748,
+          "bottom": 695,
+          "width": 324,
+          "height": 15
+        },
+        "9": {
+          "left": 424,
+          "top": 695,
+          "right": 748,
+          "bottom": 709,
+          "width": 324,
+          "height": 14
+        },
+        "10": {
+          "left": 424,
+          "top": 709,
+          "right": 746,
+          "bottom": 724,
+          "width": 322,
+          "height": 15
+        },
+        "11": {
+          "left": 424,
+          "top": 724,
+          "right": 747,
+          "bottom": 739,
+          "width": 323,
+          "height": 15
+        },
+        "12": {
+          "left": 424,
+          "top": 739,
+          "right": 749,
+          "bottom": 753,
+          "width": 325,
+          "height": 14
+        },
+        "13": {
+          "left": 424,
+          "top": 753,
+          "right": 748,
+          "bottom": 768,
+          "width": 324,
+          "height": 15
+        },
+        "14": {
+          "left": 424,
+          "top": 768,
+          "right": 749,
+          "bottom": 783,
+          "width": 325,
+          "height": 15
+        },
+        "15": {
+          "left": 424,
+          "top": 783,
+          "right": 748,
+          "bottom": 797,
+          "width": 324,
+          "height": 14
+        },
+        "16": {
+          "left": 424,
+          "top": 797,
+          "right": 705,
+          "bottom": 812,
+          "width": 281,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CONCLUSION",
+          "rect": {
+            "left": 440,
+            "top": 557,
+            "right": 541,
+            "bottom": 574,
+            "width": 101,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "Deep learning has opened new possibilities for IB-AR to make a gen-",
+          "rect": {
+            "left": 424,
+            "top": 578,
+            "right": 752,
+            "bottom": 592,
+            "width": 328,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "eralized style transfer practicable. On the one hand, NSTs provide",
+          "rect": {
+            "left": 424,
+            "top": 592,
+            "right": 751,
+            "bottom": 607,
+            "width": 327,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "new potentials for using IB-AR in context-sensitive and creative",
+          "rect": {
+            "left": 424,
+            "top": 608,
+            "right": 750,
+            "bottom": 622,
+            "width": 326,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "application domains, such as casual creativity apps for mobile ex-",
+          "rect": {
+            "left": 424,
+            "top": 622,
+            "right": 750,
+            "bottom": 636,
+            "width": 326,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "pressive rendering and production tools for feature \u001blms. On the",
+          "rect": {
+            "left": 424,
+            "top": 636,
+            "right": 749,
+            "bottom": 651,
+            "width": 325,
+            "height": 14
+          }
+        },
+        "6": {
+          "text": "other hand, NSTs currently provide only “black box” solutions from",
+          "rect": {
+            "left": 424,
+            "top": 651,
+            "right": 752,
+            "bottom": 665,
+            "width": 328,
+            "height": 14
+          }
+        },
+        "7": {
+          "text": "a HCI point-of-view: research (so far) has mainly focused on tuning",
+          "rect": {
+            "left": 424,
+            "top": 666,
+            "right": 749,
+            "bottom": 680,
+            "width": 325,
+            "height": 14
+          }
+        },
+        "8": {
+          "text": "hyperparameters of deep neural networks. To this end, we propose",
+          "rect": {
+            "left": 424,
+            "top": 680,
+            "right": 748,
+            "bottom": 695,
+            "width": 324,
+            "height": 14
+          }
+        },
+        "9": {
+          "text": "a semiotic structure to provide developers of NST techniques with",
+          "rect": {
+            "left": 424,
+            "top": 695,
+            "right": 748,
+            "bottom": 709,
+            "width": 324,
+            "height": 14
+          }
+        },
+        "10": {
+          "text": "the conceptual means of artworks production to help them compose",
+          "rect": {
+            "left": 424,
+            "top": 709,
+            "right": 746,
+            "bottom": 724,
+            "width": 322,
+            "height": 14
+          }
+        },
+        "11": {
+          "text": "and extend artistic styles, as well as consider design aspects and",
+          "rect": {
+            "left": 424,
+            "top": 724,
+            "right": 747,
+            "bottom": 739,
+            "width": 323,
+            "height": 14
+          }
+        },
+        "12": {
+          "text": "mechanisms for evolving NSTs as interactive tools. In particular, we",
+          "rect": {
+            "left": 424,
+            "top": 739,
+            "right": 749,
+            "bottom": 753,
+            "width": 325,
+            "height": 14
+          }
+        },
+        "13": {
+          "text": "hope that this structure helps researchers to identify requirements",
+          "rect": {
+            "left": 424,
+            "top": 753,
+            "right": 748,
+            "bottom": 768,
+            "width": 324,
+            "height": 14
+          }
+        },
+        "14": {
+          "text": "for semiotics-based loss functions, combine NSTs with the knowl-",
+          "rect": {
+            "left": 424,
+            "top": 768,
+            "right": 749,
+            "bottom": 782,
+            "width": 325,
+            "height": 14
+          }
+        },
+        "15": {
+          "text": "edge of other IB-AR paradigms, promote completely new artistic",
+          "rect": {
+            "left": 424,
+            "top": 783,
+            "right": 748,
+            "bottom": 797,
+            "width": 324,
+            "height": 14
+          }
+        },
+        "16": {
+          "text": "styles, and assist applications in illustrative visualization",
+          "rect": {
+            "left": 424,
+            "top": 797,
+            "right": 705,
+            "bottom": 812,
+            "width": 281,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "CONCLUSION\nDeep learning has opened new possibilities for IB-AR to make a gen-\neralized style transfer practicable. On the one hand, NSTs provide\nnew potentials for using IB-AR in context-sensitive and creative\napplication domains, such as casual creativity apps for mobile ex-\npressive rendering and production tools for feature \u001blms. On the\nother hand, NSTs currently provide only “black box” solutions from\na HCI point-of-view: research (so far) has mainly focused on tuning\nhyperparameters of deep neural networks. To this end, we propose\na semiotic structure to provide developers of NST techniques with\nthe conceptual means of artworks production to help them compose\nand extend artistic styles, as well as consider design aspects and\nmechanisms for evolving NSTs as interactive tools. In particular, we\nhope that this structure helps researchers to identify requirements\nfor semiotics-based loss functions, combine NSTs with the knowl-\nedge of other IB-AR paradigms, promote completely new artistic\nstyles, and assist applications in illustrative visualization"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

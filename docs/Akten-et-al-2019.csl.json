@@ -1,0 +1,52 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/IN9DFCGU",
+		"type": "paper-conference",
+		"abstract": "The authors present a visual instrument developed as part of the creation of the artwork Learning to See. The artwork explores bias in artificial neural networks and provides mechanisms for the manipulation of specifically trained-for real-world representations. The exploration of these representations acts as a metaphor for the process of developing a visual understanding and/or visual vocabulary of the world. These representations can be explored and manipulated in real time, and have been produced in such a way so as to reflect specific creative perspectives that call into question the relationship between how both artificial neural networks and humans may construct meaning.",
+		"collection-title": "SIGGRAPH '19",
+		"container-title": "ACM SIGGRAPH 2019 Art Gallery",
+		"DOI": "10.1145/3306211.3320143",
+		"event-place": "Los Angeles, California",
+		"ISBN": "978-1-4503-6311-2",
+		"note": "ZSCC: 0000000",
+		"page": "1–6",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "Los Angeles, California",
+		"source": "ACM Digital Library",
+		"title": "Learning to see: you are what you see",
+		"title-short": "Learning to see",
+		"URL": "http://doi.org/10.1145/3306211.3320143",
+		"author": [
+			{
+				"family": "Akten",
+				"given": "Memo"
+			},
+			{
+				"family": "Fiebrink",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Grierson",
+				"given": "Mick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7,
+					28
+				]
+			]
+		}
+	}
+]

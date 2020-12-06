@@ -1,0 +1,420 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1Ca7bpjfjZ",
+      "guid": "1CHrnYdRGG",
+      "created": "2020-12-02T03:59:42.864Z",
+      "lastUpdated": "2020-12-02T19:58:07.899Z",
+      "rects": {
+        "0": {
+          "left": 68,
+          "top": 136,
+          "right": 190,
+          "bottom": 160,
+          "width": 122,
+          "height": 23
+        },
+        "1": {
+          "left": 192,
+          "top": 138,
+          "right": 317,
+          "bottom": 161,
+          "width": 125,
+          "height": 23
+        },
+        "2": {
+          "left": 318,
+          "top": 136,
+          "right": 638,
+          "bottom": 160,
+          "width": 319,
+          "height": 23
+        },
+        "3": {
+          "left": 68,
+          "top": 160,
+          "right": 173,
+          "bottom": 184,
+          "width": 105,
+          "height": 23
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Memo Akten’s "
+        },
+        "1": {
+          "text": "Learning to See"
+        },
+        "2": {
+          "text": ": from machine vision to the machinic "
+        },
+        "3": {
+          "text": "unconscious"
+        }
+      },
+      "text": {
+        "TEXT": "Memo Akten’s Learning to See : from machine vision to the machinic unconscious"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Memo Akten’s Learning to See : from machine vision to the machinic unconscious</h1>"
+      }
+    },
+    {
+      "id": "1KL275UdgW",
+      "guid": "12tkuxkiDq",
+      "created": "2020-12-02T03:59:47.395Z",
+      "lastUpdated": "2020-12-02T20:04:35.170Z",
+      "rects": {
+        "0": {
+          "left": 68,
+          "top": 207,
+          "right": 183,
+          "bottom": 223,
+          "width": 115,
+          "height": 15
+        },
+        "1": {
+          "left": 182,
+          "top": 206,
+          "right": 187,
+          "bottom": 217,
+          "width": 5,
+          "height": 10
+        },
+        "2": {
+          "left": 187,
+          "top": 207,
+          "right": 354,
+          "bottom": 223,
+          "width": 167,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Claudio Celis Bueno"
+        },
+        "1": {
+          "text": "1"
+        },
+        "2": {
+          "text": " · María Jesús Schultz Abarca"
+        }
+      },
+      "text": {
+        "TEXT": "Claudio Celis Bueno 1 · María Jesús Schultz Abarca"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Celis Bueno &amp; Schultz Abarca, 2020)</p>\n<p>FTag: Celis-Bueno-Schultz-Abarca-2020</p>\n<p>APA7: Celis Bueno, C., &amp; Schultz Abarca, M. J. (2020). Memo Akten’s Learning to See: From machine vision to the machinic unconscious. <em>AI &amp; SOCIETY</em>. <a href=\"https://doi.org/10.1007/s00146-020-01071-2\">https://doi.org/10.1007/s00146-020-01071-2</a></p>\n\n</span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "1wwbBaKxza",
+      "guid": "17W6eMxEQX",
+      "created": "2020-12-02T03:59:57.531Z",
+      "lastUpdated": "2020-12-02T20:05:24.667Z",
+      "rects": {
+        "0": {
+          "left": 113,
+          "top": 330,
+          "right": 650,
+          "bottom": 346,
+          "width": 537,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " challenge the belief that machine learning and machine vision are neutral and objective technolo"
+        }
+      },
+      "text": {
+        "TEXT": "challenge the belief that machine learning and machine vision are neutral and objective technolo"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "&gt;challenge the belief that machine learning and machine vision are neutral and objective technology."
+      }
+    },
+    {
+      "id": "1uE69HvVgX",
+      "guid": "1uE69HvVgX",
+      "created": "2020-12-02T04:00:07.084Z",
+      "lastUpdated": "2020-12-02T04:00:07.084Z",
+      "rects": {
+        "0": {
+          "left": 408,
+          "top": 702,
+          "right": 526,
+          "bottom": 720,
+          "width": 118,
+          "height": 18
+        },
+        "1": {
+          "left": 528,
+          "top": 702,
+          "right": 635,
+          "bottom": 720,
+          "width": 107,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3    Memo  Akten’s "
+        },
+        "1": {
+          "text": "Learning to See"
+        }
+      },
+      "text": {
+        "TEXT": "3    Memo  Akten’s Learning to See"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "13TvaptMua",
+      "guid": "13TvaptMua",
+      "created": "2020-12-02T04:00:24.812Z",
+      "lastUpdated": "2020-12-02T04:00:24.812Z",
+      "rects": {
+        "0": {
+          "left": 507,
+          "top": 871,
+          "right": 511,
+          "bottom": 886,
+          "width": 3,
+          "height": 15
+        },
+        "1": {
+          "left": 510,
+          "top": 871,
+          "right": 602,
+          "bottom": 886,
+          "width": 91,
+          "height": 15
+        },
+        "2": {
+          "left": 598,
+          "top": 871,
+          "right": 735,
+          "bottom": 886,
+          "width": 137,
+          "height": 15
+        },
+        "3": {
+          "left": 408,
+          "top": 887,
+          "right": 738,
+          "bottom": 903,
+          "width": 330,
+          "height": 15
+        },
+        "4": {
+          "left": 408,
+          "top": 904,
+          "right": 738,
+          "bottom": 919,
+          "width": 330,
+          "height": 15
+        },
+        "5": {
+          "left": 408,
+          "top": 921,
+          "right": 455,
+          "bottom": 936,
+          "width": 46,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " "
+        },
+        "1": {
+          "text": "Learning to See"
+        },
+        "2": {
+          "text": " interactive installation "
+        },
+        "3": {
+          "text": "consists of “a number of neural networks” which “analyse "
+        },
+        "4": {
+          "text": "a live camera feed pointing at a table covered in everyday "
+        },
+        "5": {
+          "text": "objects”"
+        }
+      },
+      "text": {
+        "TEXT": " Learning to See interactive installation consists of “a number of neural networks” which “analyse a live camera feed pointing at a table covered in everyday objects”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12bPUHxXrG",
+      "guid": "12bPUHxXrG",
+      "created": "2020-12-02T04:00:51.464Z",
+      "lastUpdated": "2020-12-02T04:00:51.464Z",
+      "rects": {
+        "0": {
+          "left": 660,
+          "top": 720,
+          "right": 732,
+          "bottom": 736,
+          "width": 71,
+          "height": 15
+        },
+        "1": {
+          "left": 408,
+          "top": 737,
+          "right": 427,
+          "bottom": 752,
+          "width": 19,
+          "height": 15
+        },
+        "2": {
+          "left": 426,
+          "top": 737,
+          "right": 742,
+          "bottom": 752,
+          "width": 315,
+          "height": 15
+        },
+        "3": {
+          "left": 408,
+          "top": 754,
+          "right": 586,
+          "bottom": 769,
+          "width": 178,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Learning to "
+        },
+        "1": {
+          "text": "See"
+        },
+        "2": {
+          "text": " is addressing how the training datasets directly modify "
+        },
+        "3": {
+          "text": "the output of the neural network"
+        }
+      },
+      "text": {
+        "TEXT": "Learning to See is addressing how the training datasets directly modify the output of the neural network"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "1GPGmBdNBi",
+      "guid": "1vUsJwAbos",
+      "created": "2020-12-02T19:58:26.148Z",
+      "lastUpdated": "2020-12-02T20:05:02.654Z",
+      "rects": {
+        "0": {
+          "left": 68,
+          "top": 298,
+          "right": 116,
+          "bottom": 313,
+          "width": 48,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Abstrac"
+        }
+      },
+      "text": {
+        "TEXT": "Abstrac"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>@STCGoal Intentions</h1><h2>I am curious how this text can help me in writting my article ?</h2><p><br></p>"
+      }
+    },
+    {
+      "id": "125PBudrqY",
+      "guid": "12hCk8xzgz",
+      "created": "2020-12-02T20:06:25.314Z",
+      "lastUpdated": "2020-12-02T20:06:56.060Z",
+      "rects": {
+        "0": {
+          "left": 68,
+          "top": 448,
+          "right": 121,
+          "bottom": 463,
+          "width": 53,
+          "height": 15
+        },
+        "1": {
+          "left": 127,
+          "top": 447,
+          "right": 556,
+          "bottom": 462,
+          "width": 429,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords"
+        },
+        "1": {
+          "text": "Machine vision · Machine bias · Bernard Stiegler · Algorithmic art · Black bo"
+        }
+      },
+      "text": {
+        "TEXT": "Keywords Machine vision · Machine bias · Bernard Stiegler · Algorithmic art · Black bo"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Keywords </h2><p>Machine vision, Machine bias, Bernard Stiegler, Algorithmic art, Black bo</p>"
+      }
+    }
+  ]
+
+}
+
+

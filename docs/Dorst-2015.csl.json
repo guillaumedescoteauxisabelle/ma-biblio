@@ -1,0 +1,35 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/37AMJZXK",
+		"type": "book",
+		"abstract": "In the last few years, “Design Thinking” has gained popularity – it is now seen as an exciting new paradigm for dealing with problems in sectors as far a field as IT, Business, Education and Medicine. This potential success challenges the design research community to provide unambiguous answers to two key questions: “What is the core of Design Thinking?” and “What could it bring to practitioners and organisations in other fields?”. We sketch a partial answer by considering the fundamental reasoning pattern behind design, and then looking at the core design practices of framing and frame creation. The paper ends with an exploration of the way in which these core design practices can be adopted for organisational problem solving and innovation.\n\nHighlights\n► Analysing design reasoning in terms of abduction. ► Presenting a framework for the description of design practices. ► Investigating the creation of new frames as a key design practice. ► Describing the different levels on which design (framing) practices can impact organisations.",
+		"call-number": "TS171 .D667 2015",
+		"collection-number": "6",
+		"collection-title": "Design thinking, design theory",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-262-32431-1",
+		"language": "en",
+		"note": "ZSCC: 0000435",
+		"number-of-pages": "204",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Library of Congress ISBN",
+		"title": "Frame innovation: create new thinking by design",
+		"title-short": "Frame innovation",
+		"URL": "https://doi.org/10.1016/j.destud.2011.07.006",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Dorst",
+				"given": "Kees"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

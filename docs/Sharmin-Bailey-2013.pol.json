@@ -1,0 +1,1146 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1imqWG4teB",
+      "guid": "1imqWG4teB",
+      "created": "2020-10-08T22:11:50.274Z",
+      "lastUpdated": "2020-10-08T22:11:50.274Z",
+      "rects": {
+        "0": {
+          "left": 104,
+          "top": 80,
+          "right": 714,
+          "bottom": 108,
+          "width": 610,
+          "height": 28
+        },
+        "1": {
+          "left": 167,
+          "top": 108,
+          "right": 651,
+          "bottom": 135,
+          "width": 484,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ReflectionSpace: An Interactive Visualization Tool for ",
+          "rect": {
+            "left": 104,
+            "top": 80,
+            "right": 714,
+            "bottom": 108,
+            "width": 609,
+            "height": 27
+          }
+        },
+        "1": {
+          "text": "Supporting Reflection",
+          "rect": {
+            "left": 167,
+            "top": 108,
+            "right": 419,
+            "bottom": 135,
+            "width": 251,
+            "height": 27
+          }
+        },
+        "2": {
+          "text": "-",
+          "rect": {
+            "left": 418,
+            "top": 108,
+            "right": 426,
+            "bottom": 135,
+            "width": 7,
+            "height": 27
+          }
+        },
+        "3": {
+          "text": "on",
+          "rect": {
+            "left": 426,
+            "top": 108,
+            "right": 455,
+            "bottom": 135,
+            "width": 29,
+            "height": 27
+          }
+        },
+        "4": {
+          "text": "-",
+          "rect": {
+            "left": 456,
+            "top": 108,
+            "right": 463,
+            "bottom": 135,
+            "width": 7,
+            "height": 27
+          }
+        },
+        "5": {
+          "text": "action in Design",
+          "rect": {
+            "left": 463,
+            "top": 108,
+            "right": 651,
+            "bottom": 135,
+            "width": 187,
+            "height": 27
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ReflectionSpace: An Interactive Visualization Tool for \nSupporting Reflection\n-\non\n-\naction in Design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12ewDMLqxr",
+      "guid": "12uvgZcBLk",
+      "created": "2020-10-08T22:12:40.182Z",
+      "lastUpdated": "2020-10-08T22:12:49.641Z",
+      "rects": {
+        "0": {
+          "left": 350,
+          "top": 147,
+          "right": 417,
+          "bottom": 166,
+          "width": 67,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Shar",
+          "rect": {
+            "left": 350,
+            "top": 147,
+            "right": 386,
+            "bottom": 166,
+            "width": 35,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "min ",
+          "rect": {
+            "left": 386,
+            "top": 147,
+            "right": 417,
+            "bottom": 166,
+            "width": 31,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Sharmin "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Citer: (Sharmin &amp; Bailey, 2013)</p>\n<p>FTag: Sharmin-Bailey-2013</p>\n<p>APA7: Sharmin, M., &amp; Bailey, B. P. (2013). ReflectionSpace: An interactive visualization tool for supporting reflection- <em>on</em> -action in design. <em>Proceedings of the 9th ACM Conference on Creativity &amp; Cognition - C&amp;C ’13</em>, 83. <a href=\"https://doi.org/10.1145/2466627.2466645\">https://doi.org/10.1145/2466627.2466645</a></p>"
+      }
+    },
+    {
+      "id": "12E3g5TBN2",
+      "guid": "1aVAKgTbxQ",
+      "created": "2020-10-08T22:13:13.309Z",
+      "lastUpdated": "2020-10-08T22:14:19.276Z",
+      "rects": {
+        "0": {
+          "left": 154,
+          "top": 281,
+          "right": 389,
+          "bottom": 296,
+          "width": 235,
+          "height": 15
+        },
+        "1": {
+          "left": 72,
+          "top": 296,
+          "right": 337,
+          "bottom": 312,
+          "width": 265,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "refl",
+          "rect": {
+            "left": 154,
+            "top": 281,
+            "right": 170,
+            "bottom": 296,
+            "width": 16,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "ection-",
+          "rect": {
+            "left": 170,
+            "top": 281,
+            "right": 205,
+            "bottom": 296,
+            "width": 35,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "in-action  has  been  often  studied, ",
+          "rect": {
+            "left": 209,
+            "top": 281,
+            "right": 389,
+            "bottom": 296,
+            "width": 179,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "reflection-",
+          "rect": {
+            "left": 72,
+            "top": 296,
+            "right": 125,
+            "bottom": 312,
+            "width": 53,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "on",
+          "rect": {
+            "left": 127,
+            "top": 296,
+            "right": 140,
+            "bottom": 312,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "-action",
+          "rect": {
+            "left": 140,
+            "top": 296,
+            "right": 174,
+            "bottom": 312,
+            "width": 33,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "  has   received   less   attention.",
+          "rect": {
+            "left": 177,
+            "top": 296,
+            "right": 337,
+            "bottom": 312,
+            "width": 159,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "reflection- in-action  has  been  often  studied, \nreflection- on-action   has   received   less   attention."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>&gt;[...] reflection-in-action  has  been  often  studied, \nreflection-on-action   has   received   less   attention.<br><br></p><p>#problematic</p>"
+      },
+      "tags": {
+        "Problematic": {
+          "id": "Problematic",
+          "label": "Problematic"
+        }
+      }
+    },
+    {
+      "id": "1EJJpbA2Er",
+      "guid": "1EJJpbA2Er",
+      "created": "2020-10-08T22:14:52.843Z",
+      "lastUpdated": "2020-10-08T22:14:52.843Z",
+      "rects": {
+        "0": {
+          "left": 298,
+          "top": 389,
+          "right": 393,
+          "bottom": 404,
+          "width": 95,
+          "height": 15
+        },
+        "1": {
+          "left": 71,
+          "top": 404,
+          "right": 296,
+          "bottom": 419,
+          "width": 225,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "there  is  a  strong ",
+          "rect": {
+            "left": 298,
+            "top": 389,
+            "right": 393,
+            "bottom": 404,
+            "width": 95,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "need  for  better  reflection  support  tools.",
+          "rect": {
+            "left": 71,
+            "top": 404,
+            "right": 296,
+            "bottom": 419,
+            "width": 224,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "there  is  a  strong \nneed  for  better  reflection  support  tools."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "1xvBNhchNc",
+      "guid": "1xvBNhchNc",
+      "created": "2020-10-08T22:16:08.611Z",
+      "lastUpdated": "2020-10-08T22:16:08.611Z",
+      "rects": {
+        "0": {
+          "left": 342,
+          "top": 435,
+          "right": 395,
+          "bottom": 450,
+          "width": 53,
+          "height": 15
+        },
+        "1": {
+          "left": 71,
+          "top": 450,
+          "right": 397,
+          "bottom": 466,
+          "width": 326,
+          "height": 16
+        },
+        "2": {
+          "left": 71,
+          "top": 466,
+          "right": 394,
+          "bottom": 481,
+          "width": 323,
+          "height": 15
+        },
+        "3": {
+          "left": 71,
+          "top": 481,
+          "right": 397,
+          "bottom": 496,
+          "width": 326,
+          "height": 15
+        },
+        "4": {
+          "left": 71,
+          "top": 496,
+          "right": 394,
+          "bottom": 511,
+          "width": 323,
+          "height": 15
+        },
+        "5": {
+          "left": 71,
+          "top": 511,
+          "right": 397,
+          "bottom": 527,
+          "width": 326,
+          "height": 16
+        },
+        "6": {
+          "left": 71,
+          "top": 527,
+          "right": 392,
+          "bottom": 542,
+          "width": 321,
+          "height": 15
+        },
+        "7": {
+          "left": 71,
+          "top": 542,
+          "right": 393,
+          "bottom": 558,
+          "width": 322,
+          "height": 16
+        },
+        "8": {
+          "left": 71,
+          "top": 558,
+          "right": 342,
+          "bottom": 573,
+          "width": 271,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The  tool ",
+          "rect": {
+            "left": 342,
+            "top": 435,
+            "right": 395,
+            "bottom": 450,
+            "width": 53,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "uses  file  meta-data  and  naming conventions to  map  design ",
+          "rect": {
+            "left": 71,
+            "top": 450,
+            "right": 397,
+            "bottom": 465,
+            "width": 325,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "materials to the appropriate design phase and context of use ",
+          "rect": {
+            "left": 71,
+            "top": 466,
+            "right": 394,
+            "bottom": 481,
+            "width": 322,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "and  places  corresponding  representations ",
+          "rect": {
+            "left": 71,
+            "top": 481,
+            "right": 302,
+            "bottom": 496,
+            "width": 230,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "in  a  time-  and ",
+          "rect": {
+            "left": 308,
+            "top": 481,
+            "right": 397,
+            "bottom": 496,
+            "width": 88,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "activity-centric   visualization   that   can   be   navigated   at ",
+          "rect": {
+            "left": 71,
+            "top": 496,
+            "right": 394,
+            "bottom": 511,
+            "width": 322,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "different levels of detail. User feedback from a comparative ",
+          "rect": {
+            "left": 71,
+            "top": 511,
+            "right": 397,
+            "bottom": 526,
+            "width": 325,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "study reveals that such a ",
+          "rect": {
+            "left": 71,
+            "top": 527,
+            "right": 205,
+            "bottom": 542,
+            "width": 133,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "representation of design process is ",
+          "rect": {
+            "left": 207,
+            "top": 527,
+            "right": 392,
+            "bottom": 542,
+            "width": 184,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "more beneficial and preferred relative to the traditional file-",
+          "rect": {
+            "left": 71,
+            "top": 542,
+            "right": 393,
+            "bottom": 557,
+            "width": 321,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "centric approach for fostering reflection-",
+          "rect": {
+            "left": 71,
+            "top": 558,
+            "right": 287,
+            "bottom": 573,
+            "width": 215,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "on",
+          "rect": {
+            "left": 288,
+            "top": 558,
+            "right": 302,
+            "bottom": 573,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": "-action.",
+          "rect": {
+            "left": 302,
+            "top": 558,
+            "right": 342,
+            "bottom": 573,
+            "width": 39,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": " The  tool \nuses  file  meta-data  and  naming conventions to  map  design \nmaterials to the appropriate design phase and context of use \nand  places  corresponding  representations  in  a  time-  and \nactivity-centric   visualization   that   can   be   navigated   at \ndifferent levels of detail. User feedback from a comparative \nstudy reveals that such a  representation of design process is \nmore beneficial and preferred relative to the traditional file-\ncentric approach for fostering reflection- on-action."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12gGk4kg9W",
+      "guid": "122K8cJXn4",
+      "created": "2020-10-08T22:16:39.636Z",
+      "lastUpdated": "2020-10-08T22:17:18.332Z",
+      "rects": {
+        "0": {
+          "left": 114,
+          "top": 581,
+          "right": 175,
+          "bottom": 595,
+          "width": 61,
+          "height": 14
+        },
+        "1": {
+          "left": 71,
+          "top": 595,
+          "right": 372,
+          "bottom": 610,
+          "width": 301,
+          "height": 15
+        },
+        "2": {
+          "left": 71,
+          "top": 610,
+          "right": 338,
+          "bottom": 633,
+          "width": 267,
+          "height": 23
+        },
+        "3": {
+          "left": 71,
+          "top": 633,
+          "right": 245,
+          "bottom": 647,
+          "width": 174,
+          "height": 14
+        },
+        "4": {
+          "left": 71,
+          "top": 647,
+          "right": 391,
+          "bottom": 663,
+          "width": 320,
+          "height": 16
+        },
+        "5": {
+          "left": 71,
+          "top": 663,
+          "right": 154,
+          "bottom": 678,
+          "width": 83,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords ",
+          "rect": {
+            "left": 114,
+            "top": 581,
+            "right": 175,
+            "bottom": 595,
+            "width": 61,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "Reflection; reflection-",
+          "rect": {
+            "left": 71,
+            "top": 595,
+            "right": 189,
+            "bottom": 610,
+            "width": 118,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "on",
+          "rect": {
+            "left": 190,
+            "top": 595,
+            "right": 203,
+            "bottom": 610,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "-action; creative design; design ",
+          "rect": {
+            "left": 203,
+            "top": 595,
+            "right": 372,
+            "bottom": 610,
+            "width": 168,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "materials; design process; reflection support tools.",
+          "rect": {
+            "left": 71,
+            "top": 610,
+            "right": 338,
+            "bottom": 625,
+            "width": 266,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "ACM Classification Keywords ",
+          "rect": {
+            "left": 71,
+            "top": 633,
+            "right": 245,
+            "bottom": 647,
+            "width": 173,
+            "height": 13
+          }
+        },
+        "6": {
+          "text": "H.5.m. Information interfaces and presentation (e.g., HCI): ",
+          "rect": {
+            "left": 71,
+            "top": 647,
+            "right": 391,
+            "bottom": 662,
+            "width": 319,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "Miscellaneous. ",
+          "rect": {
+            "left": 71,
+            "top": 663,
+            "right": 154,
+            "bottom": 678,
+            "width": 82,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Keywords \nReflection; reflection-on-action; creative design; design \nmaterials; design process; reflection support tools.\nACM Classification Keywords \nH.5.m. Information interfaces and presentation (e.g., HCI): \nMiscellaneous. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Keywords: Reflection; reflection-on-action; creative design; design \nmaterials; design process; reflection support tools.\n</p><p><br></p><p>ACM Classification Keywords : Information interfaces and presentation (e.g., HCI)</p>"
+      }
+    },
+    {
+      "id": "1rKtPVfg6e",
+      "guid": "1gxQfyKcXA",
+      "created": "2020-10-08T22:18:45.558Z",
+      "lastUpdated": "2020-10-08T22:19:20.756Z",
+      "rects": {
+        "0": {
+          "left": 373,
+          "top": 541,
+          "right": 394,
+          "bottom": 556,
+          "width": 21,
+          "height": 15
+        },
+        "1": {
+          "left": 71,
+          "top": 556,
+          "right": 397,
+          "bottom": 571,
+          "width": 326,
+          "height": 15
+        },
+        "2": {
+          "left": 71,
+          "top": 571,
+          "right": 291,
+          "bottom": 586,
+          "width": 220,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "our ",
+          "rect": {
+            "left": 373,
+            "top": 541,
+            "right": 394,
+            "bottom": 556,
+            "width": 21,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "work contributes the design and implementation of a novel ",
+          "rect": {
+            "left": 71,
+            "top": 556,
+            "right": 397,
+            "bottom": 571,
+            "width": 325,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "interactive  tool  called  ReflectionSpace.",
+          "rect": {
+            "left": 71,
+            "top": 571,
+            "right": 291,
+            "bottom": 586,
+            "width": 220,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "our \nwork contributes the design and implementation of a novel \ninteractive  tool  called  ReflectionSpace."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>[...] our \nwork contributes the design and implementation of a novel \ninteractive  tool  called  ReflectionSpace.&nbsp;</p><p>#result</p>"
+      }
+    },
+    {
+      "id": "1UKbpJtQPC",
+      "guid": "1UKbpJtQPC",
+      "created": "2020-10-08T22:20:28.949Z",
+      "lastUpdated": "2020-10-08T22:20:28.949Z",
+      "rects": {
+        "0": {
+          "left": 442,
+          "top": 150,
+          "right": 751,
+          "bottom": 166,
+          "width": 309,
+          "height": 16
+        },
+        "1": {
+          "left": 442,
+          "top": 166,
+          "right": 746,
+          "bottom": 181,
+          "width": 304,
+          "height": 15
+        },
+        "2": {
+          "left": 442,
+          "top": 181,
+          "right": 659,
+          "bottom": 196,
+          "width": 217,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Dow,  S.P.,  Heddleston,  K.  and  Klemmer,  S.R.  The ",
+          "rect": {
+            "left": 442,
+            "top": 150,
+            "right": 751,
+            "bottom": 165,
+            "width": 309,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "efficacy  of  prototyping  under  time  constraints.   ",
+          "rect": {
+            "left": 442,
+            "top": 166,
+            "right": 711,
+            "bottom": 181,
+            "width": 269,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "Proc. ",
+          "rect": {
+            "left": 715,
+            "top": 166,
+            "right": 746,
+            "bottom": 181,
+            "width": 31,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "Creativity & Cognition",
+          "rect": {
+            "left": 442,
+            "top": 181,
+            "right": 566,
+            "bottom": 196,
+            "width": 123,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": ", (2009), 165-",
+          "rect": {
+            "left": 566,
+            "top": 181,
+            "right": 637,
+            "bottom": 196,
+            "width": 71,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "174",
+          "rect": {
+            "left": 639,
+            "top": 181,
+            "right": 659,
+            "bottom": 196,
+            "width": 19,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Dow,  S.P.,  Heddleston,  K.  and  Klemmer,  S.R.  The \nefficacy  of  prototyping  under  time  constraints.    Proc. \nCreativity & Cognition, (2009), 165- 174"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12DfhJmMao",
+      "guid": "12DfhJmMao",
+      "created": "2020-10-08T22:20:52.136Z",
+      "lastUpdated": "2020-10-08T22:20:52.136Z",
+      "rects": {
+        "0": {
+          "left": 444,
+          "top": 481,
+          "right": 747,
+          "bottom": 496,
+          "width": 303,
+          "height": 15
+        },
+        "1": {
+          "left": 442,
+          "top": 496,
+          "right": 747,
+          "bottom": 511,
+          "width": 305,
+          "height": 15
+        },
+        "2": {
+          "left": 442,
+          "top": 511,
+          "right": 592,
+          "bottom": 526,
+          "width": 150,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Kinsella, ",
+          "rect": {
+            "left": 444,
+            "top": 481,
+            "right": 493,
+            "bottom": 496,
+            "width": 49,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "E.A. ",
+          "rect": {
+            "left": 506,
+            "top": 481,
+            "right": 535,
+            "bottom": 496,
+            "width": 28,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "Embodied ",
+          "rect": {
+            "left": 548,
+            "top": 481,
+            "right": 608,
+            "bottom": 496,
+            "width": 59,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "Reflection ",
+          "rect": {
+            "left": 619,
+            "top": 481,
+            "right": 678,
+            "bottom": 496,
+            "width": 58,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "and ",
+          "rect": {
+            "left": 691,
+            "top": 481,
+            "right": 714,
+            "bottom": 496,
+            "width": 23,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "the ",
+          "rect": {
+            "left": 727,
+            "top": 481,
+            "right": 747,
+            "bottom": 496,
+            "width": 19,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "Epistemology   of   Reflective   Practice. ",
+          "rect": {
+            "left": 442,
+            "top": 496,
+            "right": 658,
+            "bottom": 511,
+            "width": 215,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "Philosophy   of ",
+          "rect": {
+            "left": 665,
+            "top": 496,
+            "right": 747,
+            "bottom": 511,
+            "width": 82,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "Education",
+          "rect": {
+            "left": 442,
+            "top": 511,
+            "right": 497,
+            "bottom": 526,
+            "width": 54,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": ", ",
+          "rect": {
+            "left": 497,
+            "top": 511,
+            "right": 504,
+            "bottom": 526,
+            "width": 6,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "41",
+          "rect": {
+            "left": 503,
+            "top": 511,
+            "right": 516,
+            "bottom": 526,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": " (3): ",
+          "rect": {
+            "left": 517,
+            "top": 511,
+            "right": 543,
+            "bottom": 526,
+            "width": 26,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": "395",
+          "rect": {
+            "left": 543,
+            "top": 511,
+            "right": 562,
+            "bottom": 526,
+            "width": 19,
+            "height": 15
+          }
+        },
+        "13": {
+          "text": "–",
+          "rect": {
+            "left": 563,
+            "top": 511,
+            "right": 570,
+            "bottom": 526,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "14": {
+          "text": "409.",
+          "rect": {
+            "left": 570,
+            "top": 511,
+            "right": 592,
+            "bottom": 526,
+            "width": 22,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Kinsella,  E.A.  Embodied  Reflection  and  the \nEpistemology   of   Reflective   Practice.  Philosophy   of \nEducation, 41 (3): 395 –409."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

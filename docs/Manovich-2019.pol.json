@@ -1,0 +1,487 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1vMVCwhZPK",
+      "guid": "1vMVCwhZPK",
+      "created": "2020-10-05T23:54:13.549Z",
+      "lastUpdated": "2020-10-06T00:03:45.462Z",
+      "rects": {
+        "0": {
+          "left": 10.364145658263306,
+          "top": 7.359307359307359,
+          "width": 57.983193277310924,
+          "height": 7.142857142857143
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12fahwPj6ojzsUCzp8aK",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12fahwPj6ojzsUCzp8aK.png"
+        },
+        "width": 414,
+        "height": 66,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 84,
+        "y": 77,
+        "width": 473,
+        "height": 75
+      }
+    },
+    {
+      "id": "12T45xo1U1",
+      "guid": "1P1wa4ffbn",
+      "created": "2020-10-05T23:54:43.853Z",
+      "lastUpdated": "2020-10-05T23:55:47.240Z",
+      "rects": {
+        "0": {
+          "left": 248,
+          "top": 380,
+          "right": 697,
+          "bottom": 405,
+          "width": 449,
+          "height": 25
+        },
+        "1": {
+          "left": 96,
+          "top": 405,
+          "right": 404,
+          "bottom": 423,
+          "width": 308,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "t",
+          "rect": {
+            "left": 248,
+            "top": 380,
+            "right": 253,
+            "bottom": 398,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "erm",
+          "rect": {
+            "left": 253,
+            "top": 380,
+            "right": 284,
+            "bottom": 398,
+            "width": 30,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Artificial",
+          "rect": {
+            "left": 289,
+            "top": 380,
+            "right": 349,
+            "bottom": 398,
+            "width": 60,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "Intelligence",
+          "rect": {
+            "left": 353,
+            "top": 380,
+            "right": 438,
+            "bottom": 398,
+            "width": 85,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": ")",
+          "rect": {
+            "left": 439,
+            "top": 380,
+            "right": 444,
+            "bottom": 398,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "refers",
+          "rect": {
+            "left": 447,
+            "top": 380,
+            "right": 491,
+            "bottom": 398,
+            "width": 44,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "to",
+          "rect": {
+            "left": 495,
+            "top": 380,
+            "right": 510,
+            "bottom": 398,
+            "width": 15,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "computers",
+          "rect": {
+            "left": 515,
+            "top": 380,
+            "right": 596,
+            "bottom": 398,
+            "width": 80,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "being",
+          "rect": {
+            "left": 599,
+            "top": 380,
+            "right": 641,
+            "bottom": 398,
+            "width": 41,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "able",
+          "rect": {
+            "left": 645,
+            "top": 380,
+            "right": 677,
+            "bottom": 398,
+            "width": 31,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "to",
+          "rect": {
+            "left": 681,
+            "top": 380,
+            "right": 697,
+            "bottom": 398,
+            "width": 15,
+            "height": 17
+          }
+        },
+        "11": {
+          "text": "perform",
+          "rect": {
+            "left": 96,
+            "top": 405,
+            "right": 158,
+            "bottom": 423,
+            "width": 61,
+            "height": 17
+          }
+        },
+        "12": {
+          "text": "many",
+          "rect": {
+            "left": 161,
+            "top": 405,
+            "right": 203,
+            "bottom": 423,
+            "width": 41,
+            "height": 17
+          }
+        },
+        "13": {
+          "text": "human",
+          "rect": {
+            "left": 207,
+            "top": 405,
+            "right": 260,
+            "bottom": 423,
+            "width": 53,
+            "height": 17
+          }
+        },
+        "14": {
+          "text": "-",
+          "rect": {
+            "left": 260,
+            "top": 405,
+            "right": 266,
+            "bottom": 423,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "15": {
+          "text": "like",
+          "rect": {
+            "left": 266,
+            "top": 405,
+            "right": 291,
+            "bottom": 423,
+            "width": 25,
+            "height": 17
+          }
+        },
+        "16": {
+          "text": "cognitive",
+          "rect": {
+            "left": 296,
+            "top": 405,
+            "right": 362,
+            "bottom": 423,
+            "width": 66,
+            "height": 17
+          }
+        },
+        "17": {
+          "text": "tasks",
+          "rect": {
+            "left": 366,
+            "top": 405,
+            "right": 404,
+            "bottom": 423,
+            "width": 37,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "term Artificial Intelligence) refers to computers being able to\nperform many human-like cognitive tasks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>term Artificial Intelligence) refers to computers being able to\nperform many human-like cognitive tasks</p><p><br></p><p>#definition</p>"
+      }
+    },
+    {
+      "id": "12hevtSrjc",
+      "guid": "12XQgPorVk",
+      "created": "2020-10-06T00:03:33.470Z",
+      "lastUpdated": "2020-10-06T00:03:39.353Z",
+      "rects": {
+        "0": {
+          "left": 192,
+          "top": 189,
+          "right": 535,
+          "bottom": 219,
+          "width": 343,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Defining",
+          "rect": {
+            "left": 192,
+            "top": 189,
+            "right": 304,
+            "bottom": 219,
+            "width": 112,
+            "height": 29
+          }
+        },
+        "1": {
+          "text": "AI",
+          "rect": {
+            "left": 218,
+            "top": 189,
+            "right": 246,
+            "bottom": 219,
+            "width": 27,
+            "height": 29
+          }
+        },
+        "2": {
+          "text": "Arts:",
+          "rect": {
+            "left": 253,
+            "top": 189,
+            "right": 316,
+            "bottom": 219,
+            "width": 62,
+            "height": 29
+          }
+        },
+        "3": {
+          "text": "Three",
+          "rect": {
+            "left": 322,
+            "top": 189,
+            "right": 399,
+            "bottom": 219,
+            "width": 76,
+            "height": 29
+          }
+        },
+        "4": {
+          "text": "Proposals",
+          "rect": {
+            "left": 406,
+            "top": 189,
+            "right": 535,
+            "bottom": 219,
+            "width": 129,
+            "height": 29
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Defining AI Arts: Three Proposals"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Defining AI Arts: Three Proposals</h1>"
+      }
+    },
+    {
+      "id": "12pa28UCbY",
+      "guid": "12M3s1zieR",
+      "created": "2020-10-06T00:03:50.200Z",
+      "lastUpdated": "2020-10-06T00:04:23.707Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 163,
+          "right": 210,
+          "bottom": 190,
+          "width": 114,
+          "height": 27
+        },
+        "1": {
+          "left": 96,
+          "top": 190,
+          "right": 175,
+          "bottom": 210,
+          "width": 79,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Lev",
+          "rect": {
+            "left": 96,
+            "top": 163,
+            "right": 124,
+            "bottom": 182,
+            "width": 28,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "Mano",
+          "rect": {
+            "left": 129,
+            "top": 163,
+            "right": 175,
+            "bottom": 182,
+            "width": 46,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "vich",
+          "rect": {
+            "left": 175,
+            "top": 163,
+            "right": 210,
+            "bottom": 182,
+            "width": 34,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "June",
+          "rect": {
+            "left": 96,
+            "top": 190,
+            "right": 131,
+            "bottom": 210,
+            "width": 35,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "2019",
+          "rect": {
+            "left": 136,
+            "top": 190,
+            "right": 175,
+            "bottom": 210,
+            "width": 39,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Lev Manovich\nJune 2019"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Lev Manovich\nJune 2019</p><p><br></p><p>Cite: (Manovich, 2019)</p><p>FTag: Manovich-2019</p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,771 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1o2Qog4awg",
+      "guid": "1LPv4RiYKo",
+      "created": "2020-11-11T09:05:53.730Z",
+      "lastUpdated": "2020-11-11T09:05:59.171Z",
+      "rects": {
+        "0": {
+          "left": 63,
+          "top": 56,
+          "right": 161,
+          "bottom": 83,
+          "width": 98,
+          "height": 26
+        },
+        "1": {
+          "left": 202,
+          "top": 57,
+          "right": 207,
+          "bottom": 82,
+          "width": 4,
+          "height": 25
+        },
+        "2": {
+          "left": 237,
+          "top": 57,
+          "right": 250,
+          "bottom": 82,
+          "width": 13,
+          "height": 25
+        },
+        "3": {
+          "left": 291,
+          "top": 56,
+          "right": 375,
+          "bottom": 83,
+          "width": 83,
+          "height": 26
+        },
+        "4": {
+          "left": 418,
+          "top": 57,
+          "right": 569,
+          "bottom": 83,
+          "width": 150,
+          "height": 26
+        },
+        "5": {
+          "left": 62,
+          "top": 92,
+          "right": 67,
+          "bottom": 117,
+          "width": 4,
+          "height": 24
+        },
+        "6": {
+          "left": 96,
+          "top": 92,
+          "right": 103,
+          "bottom": 117,
+          "width": 6,
+          "height": 24
+        },
+        "7": {
+          "left": 136,
+          "top": 91,
+          "right": 177,
+          "bottom": 118,
+          "width": 40,
+          "height": 26
+        },
+        "8": {
+          "left": 225,
+          "top": 92,
+          "right": 236,
+          "bottom": 117,
+          "width": 10,
+          "height": 25
+        },
+        "9": {
+          "left": 274,
+          "top": 92,
+          "right": 347,
+          "bottom": 117,
+          "width": 72,
+          "height": 25
+        },
+        "10": {
+          "left": 396,
+          "top": 92,
+          "right": 576,
+          "bottom": 118,
+          "width": 180,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Structure "
+        },
+        "1": {
+          "text": "in "
+        },
+        "2": {
+          "text": "Art "
+        },
+        "3": {
+          "text": "Practice: "
+        },
+        "4": {
+          "text": "Technology "
+        },
+        "5": {
+          "text": "as "
+        },
+        "6": {
+          "text": "an "
+        },
+        "7": {
+          "text": "Agent "
+        },
+        "8": {
+          "text": "for "
+        },
+        "9": {
+          "text": "Concept "
+        },
+        "10": {
+          "text": "Development "
+        }
+      },
+      "text": {
+        "TEXT": "Structure in Art Practice: Technology as an Agent for Concept Development"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Structure in Art Practice: Technology as an Agent for Concept Development</h1>"
+      }
+    },
+    {
+      "id": "1FRmGXZrAt",
+      "guid": "1fubURJedK",
+      "created": "2020-11-11T09:06:06.078Z",
+      "lastUpdated": "2020-11-11T09:06:11.872Z",
+      "rects": {
+        "0": {
+          "left": 397,
+          "top": 156,
+          "right": 475,
+          "bottom": 181,
+          "width": 77,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Edmond"
+        }
+      },
+      "text": {
+        "TEXT": "Edmond"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Edmonds, 2002)</p>\n<p>FTag: Edmonds-2002</p>\n<p>APA7: Edmonds, E. (2002). Structure in Art Practice: Technology as an Agent for Concept Development. <em>Leonardo</em>, <em>35</em>(1), 65–71. <a href=\"https://doi.org/10.1162/002409402753689344\">https://doi.org/10.1162/002409402753689344</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "1HreFrNrHb",
+      "guid": "1cMaxrupC8",
+      "created": "2020-11-11T09:07:22.610Z",
+      "lastUpdated": "2020-11-11T09:09:27.542Z",
+      "rects": {
+        "0": {
+          "left": 627,
+          "top": 296,
+          "right": 681,
+          "bottom": 310,
+          "width": 53,
+          "height": 13
+        },
+        "1": {
+          "left": 667,
+          "top": 296,
+          "right": 717,
+          "bottom": 310,
+          "width": 49,
+          "height": 13
+        },
+        "2": {
+          "left": 703,
+          "top": 294,
+          "right": 713,
+          "bottom": 308,
+          "width": 9,
+          "height": 13
+        },
+        "3": {
+          "left": 711,
+          "top": 296,
+          "right": 750,
+          "bottom": 310,
+          "width": 39,
+          "height": 13
+        },
+        "4": {
+          "left": 612,
+          "top": 306,
+          "right": 639,
+          "bottom": 320,
+          "width": 26,
+          "height": 13
+        },
+        "5": {
+          "left": 632,
+          "top": 306,
+          "right": 706,
+          "bottom": 320,
+          "width": 73,
+          "height": 13
+        },
+        "6": {
+          "left": 686,
+          "top": 306,
+          "right": 700,
+          "bottom": 320,
+          "width": 13,
+          "height": 13
+        },
+        "7": {
+          "left": 697,
+          "top": 306,
+          "right": 718,
+          "bottom": 320,
+          "width": 21,
+          "height": 13
+        },
+        "8": {
+          "left": 713,
+          "top": 308,
+          "right": 751,
+          "bottom": 322,
+          "width": 37,
+          "height": 13
+        },
+        "9": {
+          "left": 612,
+          "top": 318,
+          "right": 625,
+          "bottom": 332,
+          "width": 13,
+          "height": 13
+        },
+        "10": {
+          "left": 623,
+          "top": 318,
+          "right": 663,
+          "bottom": 332,
+          "width": 39,
+          "height": 13
+        },
+        "11": {
+          "left": 651,
+          "top": 318,
+          "right": 675,
+          "bottom": 332,
+          "width": 23,
+          "height": 13
+        },
+        "12": {
+          "left": 668,
+          "top": 318,
+          "right": 716,
+          "bottom": 332,
+          "width": 47,
+          "height": 13
+        },
+        "13": {
+          "left": 703,
+          "top": 318,
+          "right": 723,
+          "bottom": 332,
+          "width": 19,
+          "height": 13
+        },
+        "14": {
+          "left": 612,
+          "top": 332,
+          "right": 674,
+          "bottom": 346,
+          "width": 61,
+          "height": 13
+        },
+        "15": {
+          "left": 655,
+          "top": 330,
+          "right": 702,
+          "bottom": 344,
+          "width": 47,
+          "height": 13
+        },
+        "16": {
+          "left": 702,
+          "top": 330,
+          "right": 711,
+          "bottom": 344,
+          "width": 9,
+          "height": 13
+        },
+        "17": {
+          "left": 697,
+          "top": 330,
+          "right": 710,
+          "bottom": 344,
+          "width": 12,
+          "height": 13
+        },
+        "18": {
+          "left": 707,
+          "top": 330,
+          "right": 731,
+          "bottom": 344,
+          "width": 23,
+          "height": 13
+        },
+        "19": {
+          "left": 612,
+          "top": 342,
+          "right": 648,
+          "bottom": 356,
+          "width": 35,
+          "height": 13
+        },
+        "20": {
+          "left": 638,
+          "top": 342,
+          "right": 662,
+          "bottom": 356,
+          "width": 23,
+          "height": 13
+        },
+        "21": {
+          "left": 655,
+          "top": 342,
+          "right": 675,
+          "bottom": 356,
+          "width": 19,
+          "height": 13
+        },
+        "22": {
+          "left": 669,
+          "top": 344,
+          "right": 713,
+          "bottom": 358,
+          "width": 44,
+          "height": 13
+        },
+        "23": {
+          "left": 704,
+          "top": 342,
+          "right": 718,
+          "bottom": 356,
+          "width": 13,
+          "height": 13
+        },
+        "24": {
+          "left": 713,
+          "top": 342,
+          "right": 733,
+          "bottom": 356,
+          "width": 19,
+          "height": 13
+        },
+        "25": {
+          "left": 612,
+          "top": 356,
+          "right": 646,
+          "bottom": 370,
+          "width": 33,
+          "height": 13
+        },
+        "26": {
+          "left": 635,
+          "top": 354,
+          "right": 669,
+          "bottom": 368,
+          "width": 33,
+          "height": 13
+        },
+        "27": {
+          "left": 661,
+          "top": 354,
+          "right": 686,
+          "bottom": 368,
+          "width": 25,
+          "height": 13
+        },
+        "28": {
+          "left": 679,
+          "top": 356,
+          "right": 705,
+          "bottom": 370,
+          "width": 26,
+          "height": 13
+        },
+        "29": {
+          "left": 698,
+          "top": 356,
+          "right": 724,
+          "bottom": 370,
+          "width": 26,
+          "height": 13
+        },
+        "30": {
+          "left": 717,
+          "top": 354,
+          "right": 739,
+          "bottom": 368,
+          "width": 22,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "computer "
+        },
+        "1": {
+          "text": "provides "
+        },
+        "2": {
+          "text": "a "
+        },
+        "3": {
+          "text": "signifi- "
+        },
+        "4": {
+          "text": "cant "
+        },
+        "5": {
+          "text": "enhancement "
+        },
+        "6": {
+          "text": "to "
+        },
+        "7": {
+          "text": "our "
+        },
+        "8": {
+          "text": "ability "
+        },
+        "9": {
+          "text": "to "
+        },
+        "10": {
+          "text": "handle "
+        },
+        "11": {
+          "text": "and "
+        },
+        "12": {
+          "text": "consider "
+        },
+        "13": {
+          "text": "the "
+        },
+        "14": {
+          "text": "underlying "
+        },
+        "15": {
+          "text": "structure"
+        },
+        "16": {
+          "text": "s "
+        },
+        "17": {
+          "text": "of "
+        },
+        "18": {
+          "text": "art- "
+        },
+        "19": {
+          "text": "works "
+        },
+        "20": {
+          "text": "and "
+        },
+        "21": {
+          "text": "art "
+        },
+        "22": {
+          "text": "systems "
+        },
+        "23": {
+          "text": "in "
+        },
+        "24": {
+          "text": "the "
+        },
+        "25": {
+          "text": "many "
+        },
+        "26": {
+          "text": "forms "
+        },
+        "27": {
+          "text": "that "
+        },
+        "28": {
+          "text": "they "
+        },
+        "29": {
+          "text": "may "
+        },
+        "30": {
+          "text": "take"
+        }
+      },
+      "text": {
+        "TEXT": "computer provides a signifi- cant enhancement to our ability to handle and consider the underlying structure s of art- works and art systems in the many forms that they may take"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "UnderlyingStructure": {
+          "id": "UnderlyingStructure",
+          "label": "UnderlyingStructure"
+        },
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>Les ordinateurs nous aide avec la structure sous-jascente.</p><p>&gt; [...] computer provides a significant enhancement to our ability to handle and consider the underlying structures of art-works and art systems in the many forms that they may take. (Edmonds, 2002, p.1)</p>"
+      }
+    },
+    {
+      "id": "12vMmug8oD",
+      "guid": "1GrmaTeijo",
+      "created": "2020-11-11T09:11:51.449Z",
+      "lastUpdated": "2020-11-11T09:14:18.752Z",
+      "rects": {
+        "0": {
+          "left": 631,
+          "top": 918,
+          "right": 653,
+          "bottom": 932,
+          "width": 22,
+          "height": 13
+        },
+        "1": {
+          "left": 651,
+          "top": 918,
+          "right": 672,
+          "bottom": 932,
+          "width": 20,
+          "height": 13
+        },
+        "2": {
+          "left": 671,
+          "top": 918,
+          "right": 697,
+          "bottom": 932,
+          "width": 25,
+          "height": 13
+        },
+        "3": {
+          "left": 696,
+          "top": 918,
+          "right": 710,
+          "bottom": 932,
+          "width": 13,
+          "height": 13
+        },
+        "4": {
+          "left": 710,
+          "top": 918,
+          "right": 746,
+          "bottom": 932,
+          "width": 35,
+          "height": 13
+        },
+        "5": {
+          "left": 747,
+          "top": 918,
+          "right": 764,
+          "bottom": 932,
+          "width": 16,
+          "height": 13
+        },
+        "6": {
+          "left": 553,
+          "top": 936,
+          "right": 614,
+          "bottom": 950,
+          "width": 61,
+          "height": 13
+        },
+        "7": {
+          "left": 612,
+          "top": 933,
+          "right": 660,
+          "bottom": 947,
+          "width": 47,
+          "height": 13
+        },
+        "8": {
+          "left": 660,
+          "top": 933,
+          "right": 663,
+          "bottom": 947,
+          "width": 3,
+          "height": 13
+        },
+        "9": {
+          "left": 662,
+          "top": 933,
+          "right": 676,
+          "bottom": 947,
+          "width": 13,
+          "height": 13
+        },
+        "10": {
+          "left": 675,
+          "top": 933,
+          "right": 685,
+          "bottom": 947,
+          "width": 9,
+          "height": 13
+        },
+        "11": {
+          "left": 684,
+          "top": 936,
+          "right": 712,
+          "bottom": 950,
+          "width": 27,
+          "height": 13
+        },
+        "12": {
+          "left": 712,
+          "top": 936,
+          "right": 766,
+          "bottom": 950,
+          "width": 54,
+          "height": 13
+        },
+        "13": {
+          "left": 553,
+          "top": 951,
+          "right": 583,
+          "bottom": 964,
+          "width": 30,
+          "height": 13
+        },
+        "14": {
+          "left": 585,
+          "top": 951,
+          "right": 636,
+          "bottom": 964,
+          "width": 51,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We "
+        },
+        "1": {
+          "text": "are "
+        },
+        "2": {
+          "text": "able "
+        },
+        "3": {
+          "text": "to "
+        },
+        "4": {
+          "text": "define "
+        },
+        "5": {
+          "text": "an "
+        },
+        "6": {
+          "text": "underlying "
+        },
+        "7": {
+          "text": "structure"
+        },
+        "8": {
+          "text": " "
+        },
+        "9": {
+          "text": "in "
+        },
+        "10": {
+          "text": "a "
+        },
+        "11": {
+          "text": "logic "
+        },
+        "12": {
+          "text": "program- "
+        },
+        "13": {
+          "text": "ming "
+        },
+        "14": {
+          "text": "language "
+        }
+      },
+      "text": {
+        "TEXT": "We are able to define an underlying structure  in a logic program- ming language"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>&gt;We are able to define an underlying structure  in a logic programming language [...]&nbsp;<span>\n\n&nbsp;(Edmonds, 2002, p.68)\n\n</span></p>"
+      },
+      "tags": {
+        "UnderlyingStructure": {
+          "id": "UnderlyingStructure",
+          "label": "UnderlyingStructure"
+        },
+        "Programming": {
+          "id": "Programming",
+          "label": "Programming"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

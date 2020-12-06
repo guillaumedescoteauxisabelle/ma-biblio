@@ -1,0 +1,46 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/58J68RE6",
+		"type": "paper-conference",
+		"event": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+		"note": "ZSCC: 0006016",
+		"page": "1125-1134",
+		"source": "openaccess.thecvf.com",
+		"title": "Image-To-Image Translation With Conditional Adversarial Networks",
+		"URL": "https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html",
+		"author": [
+			{
+				"family": "Isola",
+				"given": "Phillip"
+			},
+			{
+				"family": "Zhu",
+				"given": "Jun-Yan"
+			},
+			{
+				"family": "Zhou",
+				"given": "Tinghui"
+			},
+			{
+				"family": "Efros",
+				"given": "Alexei A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	}
+]

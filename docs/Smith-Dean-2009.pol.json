@@ -1,0 +1,761 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1vbMyyF6wp",
+      "guid": "12UtLq97pV",
+      "created": "2020-11-21T19:40:10.704Z",
+      "lastUpdated": "2020-11-21T20:31:05.381Z",
+      "rects": {
+        "0": {
+          "left": 135,
+          "top": 63,
+          "right": 568,
+          "bottom": 111,
+          "width": 432,
+          "height": 47
+        },
+        "1": {
+          "left": 135,
+          "top": 110,
+          "right": 556,
+          "bottom": 157,
+          "width": 420,
+          "height": 47
+        },
+        "2": {
+          "left": 135,
+          "top": 157,
+          "right": 526,
+          "bottom": 204,
+          "width": 390,
+          "height": 47
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Practice-led Research,"
+        },
+        "1": {
+          "text": "Research-led Practice"
+        },
+        "2": {
+          "text": "in the Creative Arts"
+        }
+      },
+      "text": {
+        "TEXT": "Practice-led Research, Research-led Practice in the Creative Arts"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Practice-led Research, Research-led Practice in the Creative Arts</h2>"
+      }
+    },
+    {
+      "id": "12cN4ggRQ8",
+      "guid": "19C7VMhp9V",
+      "created": "2020-11-21T19:40:15.023Z",
+      "lastUpdated": "2020-11-21T19:42:48.814Z",
+      "rects": {
+        "0": {
+          "left": 137,
+          "top": 221,
+          "right": 427,
+          "bottom": 251,
+          "width": 289,
+          "height": 30
+        },
+        "1": {
+          "left": 137,
+          "top": 253,
+          "right": 373,
+          "bottom": 283,
+          "width": 236,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Edited by Hazel Smith "
+        },
+        "1": {
+          "text": "and Roger T. Dean"
+        }
+      },
+      "text": {
+        "TEXT": "Edited by Hazel Smith and Roger T. Dean"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n</span></p><p>Citer: (Smith &amp; Dean, 2009)</p>\n<p>FTag:&nbsp; Smith-Dean-2009</p>\n<p>APA7: Smith, H., &amp; Dean, R. T. (2009). <em>Practice-led Research, Research- led Practice in the Creative Arts</em>. 27.</p><p><a href=\"http://simp.ly/p/s9g3xP\" target=\"_blank\">SNote</a></p><p><br></p>\n\n<p></p>"
+      }
+    },
+    {
+      "id": "1WKtubgPd9",
+      "guid": "1qn5b9qyPG",
+      "created": "2020-11-21T19:44:50.561Z",
+      "lastUpdated": "2020-11-21T19:45:01.545Z",
+      "rects": {
+        "0": {
+          "left": 223,
+          "top": 549,
+          "right": 537,
+          "bottom": 565,
+          "width": 313,
+          "height": 16
+        },
+        "1": {
+          "left": 63,
+          "top": 566,
+          "right": 540,
+          "bottom": 583,
+          "width": 476,
+          "height": 16
+        },
+        "2": {
+          "left": 63,
+          "top": 584,
+          "right": 141,
+          "bottom": 600,
+          "width": 77,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "t there are many rich and innovative ways in which "
+        },
+        "1": {
+          "text": "creative  practice  can  constitute,  or  contribute  to,  research  in  the  university "
+        },
+        "2": {
+          "text": "environment."
+        }
+      },
+      "text": {
+        "TEXT": "t there are many rich and innovative ways in which creative  practice  can  constitute,  or  contribute  to,  research  in  the  university environment."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "[...] there are many rich and innovative ways in which creative  practice  can  constitute,  or  contribute  to,  research  in  the  university environment."
+      }
+    },
+    {
+      "id": "1hQQs2e2rq",
+      "guid": "1mMVFgbYtJ",
+      "created": "2020-11-21T19:45:10.859Z",
+      "lastUpdated": "2020-11-21T19:45:19.373Z",
+      "rects": {
+        "0": {
+          "left": 343,
+          "top": 636,
+          "right": 448,
+          "bottom": 652,
+          "width": 104,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " bi-directional foc"
+        }
+      },
+      "text": {
+        "TEXT": "bi-directional foc"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>bi-directional focus</h2>"
+      }
+    },
+    {
+      "id": "14bZKBWpM4",
+      "guid": "14bZKBWpM4",
+      "created": "2020-11-21T19:45:56.299Z",
+      "lastUpdated": "2020-11-21T19:45:56.299Z",
+      "rects": {
+        "0": {
+          "left": 343,
+          "top": 618,
+          "right": 527,
+          "bottom": 635,
+          "width": 183,
+          "height": 16
+        },
+        "1": {
+          "left": 63,
+          "top": 636,
+          "right": 314,
+          "bottom": 652,
+          "width": 250,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ponder how academic research "
+        },
+        "1": {
+          "text": "can impact positively on creative practice"
+        }
+      },
+      "text": {
+        "TEXT": "ponder how academic research can impact positively on creative practice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12fxdbA6qS",
+      "guid": "12fxdbA6qS",
+      "created": "2020-11-21T19:46:47.502Z",
+      "lastUpdated": "2020-11-21T19:46:47.502Z",
+      "rects": {
+        "0": {
+          "left": 93,
+          "top": 81,
+          "right": 539,
+          "bottom": 97,
+          "width": 446,
+          "height": 16
+        },
+        "1": {
+          "left": 77,
+          "top": 98,
+          "right": 541,
+          "bottom": 115,
+          "width": 463,
+          "height": 16
+        },
+        "2": {
+          "left": 77,
+          "top": 116,
+          "right": 155,
+          "bottom": 132,
+          "width": 77,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Creative  work  within  the  university  environment  is  now  often  referred  to "
+        },
+        "1": {
+          "text": "as practice-led research, practice-based research, creative research or practice "
+        },
+        "2": {
+          "text": "as  research.  "
+        }
+      },
+      "text": {
+        "TEXT": "Creative  work  within  the  university  environment  is  now  often  referred  to as practice-led research, practice-based research, creative research or practice as  research."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12gFFnd5va",
+      "guid": "1S7i7N38c7",
+      "created": "2020-11-21T19:47:06.462Z",
+      "lastUpdated": "2020-11-21T19:47:23.357Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 133,
+          "right": 297,
+          "bottom": 149,
+          "width": 220,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "practice can result in research insight"
+        }
+      },
+      "text": {
+        "TEXT": "practice can result in research insight"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>practice can result in research insight</h2>"
+      }
+    },
+    {
+      "id": "1HyyihAkuj",
+      "guid": "1y6NTmbqLy",
+      "created": "2020-11-21T20:00:38.358Z",
+      "lastUpdated": "2020-11-21T20:02:22.239Z",
+      "rects": {
+        "0": {
+          "left": 380,
+          "top": 220,
+          "right": 539,
+          "bottom": 236,
+          "width": 158,
+          "height": 16
+        },
+        "1": {
+          "left": 77,
+          "top": 237,
+          "right": 536,
+          "bottom": 253,
+          "width": 459,
+          "height": 16
+        },
+        "2": {
+          "left": 77,
+          "top": 254,
+          "right": 537,
+          "bottom": 271,
+          "width": 459,
+          "height": 16
+        },
+        "3": {
+          "left": 77,
+          "top": 272,
+          "right": 312,
+          "bottom": 288,
+          "width": 234,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " – that academic research "
+        },
+        "1": {
+          "text": "can lead to creative practice. We do not see practice-led research and research-"
+        },
+        "2": {
+          "text": "led practice as separate processes, but as interwoven in an iterative cyclic web, "
+        },
+        "3": {
+          "text": "a model we develop later in the chapter."
+        }
+      },
+      "text": {
+        "TEXT": "– that academic research can lead to creative practice. We do not see practice-led research and research- led practice as separate processes, but as interwoven in an iterative cyclic web, a model we develop later in the chapter."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Les recherches académiques peuvent mener à la pratique créative.<br>La théorie nourrit la pratique et la pratique nourrit la théorie dans un processus itératif cyclique.</p><p>&gt;[...] academic research can lead to creative practice. We do not see practice-led research and research-led practice as separate processes, but as interwoven in an iterative cyclic web, a model we develop later in the chapter.</p>"
+      }
+    },
+    {
+      "id": "1xydH8Jnag",
+      "guid": "12rWcMYVZL",
+      "created": "2020-11-21T20:03:18.541Z",
+      "lastUpdated": "2020-11-21T20:03:26.168Z",
+      "rects": {
+        "0": {
+          "left": 111,
+          "top": 306,
+          "right": 353,
+          "bottom": 323,
+          "width": 241,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "the  concepts  of  research  and  knowledge"
+        }
+      },
+      "text": {
+        "TEXT": "the  concepts  of  research  and  knowledge"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>the  concepts  of  research  and  knowledge</h2>"
+      }
+    },
+    {
+      "id": "1Lw1vaX19S",
+      "guid": "1jCKLy82RK",
+      "created": "2020-11-21T20:03:40.720Z",
+      "lastUpdated": "2020-11-21T20:03:52.224Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 341,
+          "right": 367,
+          "bottom": 357,
+          "width": 289,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "relationship  between  creative  work  and  researc"
+        }
+      },
+      "text": {
+        "TEXT": "relationship  between  creative  work  and  researc"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>relationship  between  creative  work  and  research</h2>"
+      }
+    },
+    {
+      "id": "1u8tUSNczR",
+      "guid": "12A8i9xETK",
+      "created": "2020-11-21T20:04:27.191Z",
+      "lastUpdated": "2020-11-21T20:04:48.753Z",
+      "rects": {
+        "0": {
+          "left": 147,
+          "top": 393,
+          "right": 484,
+          "bottom": 409,
+          "width": 337,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "model for the interaction of creative practice and research"
+        }
+      },
+      "text": {
+        "TEXT": "model for the interaction of creative practice and research"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>model for the interaction of creative practice and research</h2>"
+      }
+    },
+    {
+      "id": "12bAtD1tg2",
+      "guid": "1LSuVfsQNN",
+      "created": "2020-11-21T20:04:35.455Z",
+      "lastUpdated": "2020-11-21T20:05:00.069Z",
+      "rects": {
+        "0": {
+          "left": 492,
+          "top": 393,
+          "right": 540,
+          "bottom": 409,
+          "width": 47,
+          "height": 16
+        },
+        "1": {
+          "left": 77,
+          "top": 410,
+          "right": 240,
+          "bottom": 427,
+          "width": 163,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "discuss "
+        },
+        "1": {
+          "text": "some of the political issues"
+        }
+      },
+      "text": {
+        "TEXT": "discuss some of the political issues"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<h3>discuss some of the political issues</h3>"
+      }
+    },
+    {
+      "id": "12j9ruDGBK",
+      "guid": "12j9ruDGBK",
+      "created": "2020-11-21T20:05:56.792Z",
+      "lastUpdated": "2020-11-21T20:06:11.551Z",
+      "rects": {
+        "0": {
+          "left": 241,
+          "top": 514,
+          "right": 533,
+          "bottom": 531,
+          "width": 292,
+          "height": 16
+        },
+        "1": {
+          "left": 77,
+          "top": 532,
+          "right": 298,
+          "bottom": 548,
+          "width": 221,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "criticism  and  historical  investigation  have  been "
+        },
+        "1": {
+          "text": "heavily  prioritised  over  arts  practice."
+        }
+      },
+      "text": {
+        "TEXT": "criticism  and  historical  investigation  have  been heavily  prioritised  over  arts  practice."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "tags": {
+        "ArtProblematic": {
+          "id": "ArtProblematic",
+          "label": "ArtProblematic"
+        }
+      }
+    },
+    {
+      "id": "1qcLq5D9Zk",
+      "guid": "1uHeqgLMFo",
+      "created": "2020-11-21T20:07:45.854Z",
+      "lastUpdated": "2020-11-21T20:09:36.067Z",
+      "rects": {
+        "0": {
+          "left": 446,
+          "top": 549,
+          "right": 536,
+          "bottom": 565,
+          "width": 89,
+          "height": 16
+        },
+        "1": {
+          "left": 77,
+          "top": 566,
+          "right": 536,
+          "bottom": 583,
+          "width": 458,
+          "height": 16
+        },
+        "2": {
+          "left": 77,
+          "top": 584,
+          "right": 537,
+          "bottom": 600,
+          "width": 459,
+          "height": 16
+        },
+        "3": {
+          "left": 77,
+          "top": 601,
+          "right": 537,
+          "bottom": 617,
+          "width": 460,
+          "height": 16
+        },
+        "4": {
+          "left": 77,
+          "top": 618,
+          "right": 537,
+          "bottom": 635,
+          "width": 459,
+          "height": 16
+        },
+        "5": {
+          "left": 77,
+          "top": 636,
+          "right": 538,
+          "bottom": 652,
+          "width": 461,
+          "height": 16
+        },
+        "6": {
+          "left": 77,
+          "top": 653,
+          "right": 536,
+          "bottom": 669,
+          "width": 459,
+          "height": 16
+        },
+        "7": {
+          "left": 77,
+          "top": 670,
+          "right": 540,
+          "bottom": 687,
+          "width": 462,
+          "height": 16
+        },
+        "8": {
+          "left": 77,
+          "top": 688,
+          "right": 535,
+          "bottom": 704,
+          "width": 458,
+          "height": 16
+        },
+        "9": {
+          "left": 77,
+          "top": 705,
+          "right": 475,
+          "bottom": 721,
+          "width": 397,
+          "height": 16
+        },
+        "10": {
+          "left": 93,
+          "top": 722,
+          "right": 108,
+          "bottom": 739,
+          "width": 15,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ". They rarely, if "
+        },
+        "1": {
+          "text": "ever, included creative writing or discussion of the creative process, and if aca-"
+        },
+        "2": {
+          "text": "demics wrote novels this was regarded largely as a hobby. However, in the last "
+        },
+        "3": {
+          "text": "two to three decades, the idea that arts practice might be a form of research has "
+        },
+        "4": {
+          "text": "been  developing  ascendency.  Terms  such  as  practice-led  research  have  been "
+        },
+        "5": {
+          "text": "developed by creative practitioners, partly for political purposes within higher "
+        },
+        "6": {
+          "text": "education,  research  and  other  environments,  to  explain,  justify  and  promote "
+        },
+        "7": {
+          "text": "their activities, and to argue – as forcefully as possible in an often unreceptive "
+        },
+        "8": {
+          "text": "environment  –  that  they  are  as  important  to  the  generation  of  knowledge  as "
+        },
+        "9": {
+          "text": "more theoretically, critically or empirically based research methods."
+        },
+        "10": {
+          "text": "At "
+        }
+      },
+      "text": {
+        "TEXT": ". They rarely, if ever, included creative writing or discussion of the creative process, and if aca- demics wrote novels this was regarded largely as a hobby. However, in the last two to three decades, the idea that arts practice might be a form of research has been  developing  ascendency.  Terms  such  as  practice-led  research  have  been developed by creative practitioners, partly for political purposes within higher education,  research  and  other  environments,  to  explain,  justify  and  promote their activities, and to argue – as forcefully as possible in an often unreceptive environment  –  that  they  are  as  important  to  the  generation  of  knowledge  as more theoretically, critically or empirically based research methods. At"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Rarement la théorie a inclus des pratique artistique.&nbsp; Comme stratégie politique, le terme \"practice-led research\" a été introduit pour expliquer et promouvoir la contribution à la connaissance que peuvent fournir les artistes.</p><p>&gt;They rarely, if ever, included creative writing or discussion of the creative process, and if aca- demics wrote novels this was regarded largely as a hobby. However, in the last two to three decades, the idea that arts practice might be a form of research has been  developing  ascendency.  Terms  such  as  practice-led  research  have  been developed by creative practitioners, partly for political purposes within higher education,  research  and  other  environments,  to  explain,  justify  and  promote their activities, and to argue – as forcefully as possible in an often unreceptive environment  –  that  they  are  as  important  to  the  generation  of  knowledge  as more theoretically, critically or empirically based research methods. At</p>"
+      }
+    },
+    {
+      "id": "12uQHS5RyA",
+      "guid": "1emFchBncs",
+      "created": "2020-11-21T20:30:48.091Z",
+      "lastUpdated": "2020-11-21T20:31:00.767Z",
+      "rects": {
+        "0": {
+          "left": 63,
+          "top": 116,
+          "right": 402,
+          "bottom": 152,
+          "width": 338,
+          "height": 35
+        },
+        "1": {
+          "left": 63,
+          "top": 151,
+          "right": 500,
+          "bottom": 186,
+          "width": 436,
+          "height": 35
+        },
+        "2": {
+          "left": 63,
+          "top": 185,
+          "right": 493,
+          "bottom": 221,
+          "width": 429,
+          "height": 35
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Introduction: Practice-led "
+        },
+        "1": {
+          "text": "Research, Research-led Practice – "
+        },
+        "2": {
+          "text": "Towards the Iterative Cyclic Web"
+        }
+      },
+      "text": {
+        "TEXT": "Introduction: Practice-led Research, Research-led Practice – Towards the Iterative Cyclic Web"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Introduction: Practice-led Research, Research-led Practice – Towards the Iterative Cyclic Web</h1>"
+      }
+    }
+  ]
+
+}
+
+
+

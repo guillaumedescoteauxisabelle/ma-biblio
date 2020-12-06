@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12mRJrH47C",
+      "guid": "129rKtESmR",
+      "created": "2020-12-03T19:47:11.820Z",
+      "lastUpdated": "2020-12-03T19:47:16.916Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 141,
+          "right": 656,
+          "bottom": 162,
+          "width": 511,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Content and Style Disentanglement for Artistic Style Transfer"
+        }
+      },
+      "text": {
+        "TEXT": "Content and Style Disentanglement for Artistic Style Transfer"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Content and Style Disentanglement for Artistic Style Transfer</h1>"
+      }
+    },
+    {
+      "id": "12YrxhGp6R",
+      "guid": "123cQowd4h",
+      "created": "2020-12-03T19:48:03.530Z",
+      "lastUpdated": "2020-12-03T19:48:08.584Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 194,
+          "right": 588,
+          "bottom": 212,
+          "width": 442,
+          "height": 18
+        },
+        "1": {
+          "left": 575,
+          "top": 193,
+          "right": 580,
+          "bottom": 212,
+          "width": 5,
+          "height": 18
+        },
+        "2": {
+          "left": 573,
+          "top": 194,
+          "right": 651,
+          "bottom": 212,
+          "width": 77,
+          "height": 18
+        },
+        "3": {
+          "left": 151,
+          "top": 212,
+          "right": 646,
+          "bottom": 230,
+          "width": 494,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Dmytro Kotovenko   Artsiom Sanakoyeu   Sabine Lang   Bj"
+        },
+        "1": {
+          "text": " ̈"
+        },
+        "2": {
+          "text": "orn Ommer"
+        },
+        "3": {
+          "text": "Heidelberg Collaboratory for Image Processing, IWR, Heidelberg Univers"
+        }
+      },
+      "text": {
+        "TEXT": "Dmytro Kotovenko   Artsiom Sanakoyeu   Sabine Lang   Bj ̈ orn Ommer Heidelberg Collaboratory for Image Processing, IWR, Heidelberg Univers"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer:(Kotovenko et al., 2019)</p>\n<p>FTag: Kotovenko-et-al-2019</p>\n<p>APA7: Kotovenko, D., Sanakoyeu, A., Lang, S., &amp; Ommer, B. (2019). <em>Content and Style Disentanglement for Artistic Style Transfer</em>. 4422–4431. <a href=\"https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html\">https://openaccess.thecvf.com/content_ICCV_2019/html/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.html</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "1BkpmfoNU6",
+      "guid": "12up4HLg9V",
+      "created": "2020-12-03T19:48:16.133Z",
+      "lastUpdated": "2020-12-03T19:48:43.591Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 301,
+          "right": 380,
+          "bottom": 316,
+          "width": 298,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 317,
+          "right": 377,
+          "bottom": 332,
+          "width": 310,
+          "height": 14
+        },
+        "2": {
+          "left": 66,
+          "top": 333,
+          "right": 80,
+          "bottom": 348,
+          "width": 14,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Artists rarely paint in a single style throughout their ca-"
+        },
+        "1": {
+          "text": "reer. More often they change styles or develop variations of"
+        },
+        "2": {
+          "text": "it. "
+        }
+      },
+      "text": {
+        "TEXT": "Artists rarely paint in a single style throughout their ca- reer. More often they change styles or develop variations of it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>&gt;Artists rarely paint in a single style throughout their career. More often they change styles or develop variations of it.</h2>"
+      }
+    }
+  ]
+
+}
+

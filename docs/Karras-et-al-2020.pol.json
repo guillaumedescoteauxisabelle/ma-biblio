@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1DSjQsUimW",
+      "guid": "12VKvwKKCm",
+      "created": "2020-11-30T02:54:15.606Z",
+      "lastUpdated": "2020-11-30T02:54:19.620Z",
+      "rects": {
+        "0": {
+          "left": 161,
+          "top": 141,
+          "right": 650,
+          "bottom": 162,
+          "width": 489,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Analyzing and Improving the Image Quality of StyleGAN"
+        }
+      },
+      "text": {
+        "TEXT": "Analyzing and Improving the Image Quality of StyleGAN"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Analyzing and Improving the Image Quality of StyleGAN</h1>"
+      }
+    },
+    {
+      "id": "1XcHVrz4M2",
+      "guid": "12ovPLK6At",
+      "created": "2020-11-30T02:54:25.918Z",
+      "lastUpdated": "2020-11-30T02:54:37.173Z",
+      "rects": {
+        "0": {
+          "left": 157,
+          "top": 190,
+          "right": 238,
+          "bottom": 208,
+          "width": 80,
+          "height": 18
+        },
+        "1": {
+          "left": 167,
+          "top": 208,
+          "right": 224,
+          "bottom": 227,
+          "width": 57,
+          "height": 18
+        },
+        "2": {
+          "left": 279,
+          "top": 190,
+          "right": 368,
+          "bottom": 208,
+          "width": 88,
+          "height": 18
+        },
+        "3": {
+          "left": 293,
+          "top": 208,
+          "right": 350,
+          "bottom": 227,
+          "width": 57,
+          "height": 18
+        },
+        "4": {
+          "left": 410,
+          "top": 190,
+          "right": 500,
+          "bottom": 208,
+          "width": 89,
+          "height": 18
+        },
+        "5": {
+          "left": 425,
+          "top": 208,
+          "right": 482,
+          "bottom": 227,
+          "width": 57,
+          "height": 18
+        },
+        "6": {
+          "left": 542,
+          "top": 190,
+          "right": 639,
+          "bottom": 208,
+          "width": 97,
+          "height": 18
+        },
+        "7": {
+          "left": 560,
+          "top": 208,
+          "right": 617,
+          "bottom": 227,
+          "width": 57,
+          "height": 18
+        },
+        "8": {
+          "left": 281,
+          "top": 235,
+          "right": 391,
+          "bottom": 253,
+          "width": 109,
+          "height": 18
+        },
+        "9": {
+          "left": 237,
+          "top": 254,
+          "right": 436,
+          "bottom": 272,
+          "width": 198,
+          "height": 18
+        },
+        "10": {
+          "left": 490,
+          "top": 235,
+          "right": 559,
+          "bottom": 253,
+          "width": 68,
+          "height": 18
+        },
+        "11": {
+          "left": 495,
+          "top": 254,
+          "right": 552,
+          "bottom": 272,
+          "width": 57,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Tero Karras"
+        },
+        "1": {
+          "text": "NVIDIA"
+        },
+        "2": {
+          "text": "Samuli Laine"
+        },
+        "3": {
+          "text": "NVIDIA"
+        },
+        "4": {
+          "text": "Miika Aittala"
+        },
+        "5": {
+          "text": "NVIDIA"
+        },
+        "6": {
+          "text": "Janne Hellsten"
+        },
+        "7": {
+          "text": "NVIDIA"
+        },
+        "8": {
+          "text": "Jaakko Lehtinen"
+        },
+        "9": {
+          "text": "NVIDIA and Aalto University"
+        },
+        "10": {
+          "text": "Timo Aila"
+        },
+        "11": {
+          "text": "NVIDIA"
+        }
+      },
+      "text": {
+        "TEXT": "Tero Karras NVIDIA Samuli Laine NVIDIA Miika Aittala NVIDIA Janne Hellsten NVIDIA Jaakko Lehtinen NVIDIA and Aalto University Timo Aila NVIDIA"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Karras et al., 2020)</p>\n<p>FTag: Karras-et-al-2020</p>\n<p>APA7: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., &amp; Aila, T. (2020). Analyzing and Improving the Image Quality of StyleGAN. <em>ArXiv:1912.04958 [Cs, Eess, Stat]</em>. <a href=\"http://arxiv.org/abs/1912.04958\">http://arxiv.org/abs/1912.04958</a></p>\n\n</span></p><p><span><br></span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "12Qb4vgPYV",
+      "guid": "12Qb4vgPYV",
+      "created": "2020-11-30T02:54:59.117Z",
+      "lastUpdated": "2020-11-30T02:55:06.664Z",
+      "rects": {
+        "0": {
+          "left": 267,
+          "top": 603,
+          "right": 373,
+          "bottom": 618,
+          "width": 105,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 619,
+          "right": 117,
+          "bottom": 634,
+          "width": 51,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "unconditional image"
+        },
+        "1": {
+          "text": "modeling,"
+        }
+      },
+      "text": {
+        "TEXT": "unconditional image modeling,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      }
+    },
+    {
+      "id": "1bca5gq2Km",
+      "guid": "1bca5gq2Km",
+      "created": "2020-11-30T02:57:46.626Z",
+      "lastUpdated": "2020-11-30T02:57:46.626Z",
+      "rects": {
+        "0": {
+          "left": 115,
+          "top": 727,
+          "right": 374,
+          "bottom": 742,
+          "width": 258,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 743,
+          "right": 252,
+          "bottom": 758,
+          "width": 185,
+          "height": 14
+        },
+        "2": {
+          "left": 252,
+          "top": 743,
+          "right": 292,
+          "bottom": 758,
+          "width": 40,
+          "height": 14
+        },
+        "3": {
+          "left": 292,
+          "top": 743,
+          "right": 353,
+          "bottom": 758,
+          "width": 60,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "StyleGAN uses simple feedforward designs in the"
+        },
+        "1": {
+          "text": "generator (synthesis network) and "
+        },
+        "2": {
+          "text": "discrimi"
+        },
+        "3": {
+          "text": "nator, there"
+        }
+      },
+      "text": {
+        "TEXT": "StyleGAN uses simple feedforward designs in the generator (synthesis network) and discrimi nator, there"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    }
+  ]
+
+}
+
+

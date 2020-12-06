@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1KH3V5sx7M",
+      "guid": "1KH3V5sx7M",
+      "created": "2020-10-08T22:38:17.436Z",
+      "lastUpdated": "2020-10-08T22:38:17.436Z",
+      "rects": {
+        "0": {
+          "left": 300,
+          "top": 200,
+          "right": 520,
+          "bottom": 235,
+          "width": 220,
+          "height": 35
+        },
+        "1": {
+          "left": 371,
+          "top": 235,
+          "right": 436,
+          "bottom": 265,
+          "width": 65,
+          "height": 30
+        },
+        "2": {
+          "left": 240,
+          "top": 265,
+          "right": 572,
+          "bottom": 291,
+          "width": 332,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "METAPHOR ",
+          "rect": {
+            "left": 300,
+            "top": 200,
+            "right": 520,
+            "bottom": 227,
+            "width": 220,
+            "height": 26
+          }
+        },
+        "1": {
+          "text": "AND ",
+          "rect": {
+            "left": 371,
+            "top": 235,
+            "right": 436,
+            "bottom": 255,
+            "width": 65,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "REPRESENTATION",
+          "rect": {
+            "left": 240,
+            "top": 265,
+            "right": 572,
+            "bottom": 291,
+            "width": 331,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "METAPHOR \nAND \nREPRESENTATION"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12jj1tyVF2",
+      "guid": "12jj1tyVF2",
+      "created": "2020-10-08T22:38:30.254Z",
+      "lastUpdated": "2020-10-08T22:38:30.254Z",
+      "rects": {
+        "0": {
+          "left": 205,
+          "top": 274,
+          "right": 612,
+          "bottom": 301,
+          "width": 407,
+          "height": 27
+        },
+        "1": {
+          "left": 249,
+          "top": 301,
+          "right": 568,
+          "bottom": 345,
+          "width": 319,
+          "height": 44
+        },
+        "2": {
+          "left": 329,
+          "top": 345,
+          "right": 488,
+          "bottom": 361,
+          "width": 159,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ge",
+          "rect": {
+            "left": 205,
+            "top": 274,
+            "right": 236,
+            "bottom": 294,
+            "width": 30,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "nerative metaphor: A perspective on ",
+          "rect": {
+            "left": 236,
+            "top": 274,
+            "right": 612,
+            "bottom": 294,
+            "width": 376,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "problem-setting in social policy ",
+          "rect": {
+            "left": 249,
+            "top": 301,
+            "right": 568,
+            "bottom": 321,
+            "width": 319,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "DONALD A .  SCHON ",
+          "rect": {
+            "left": 329,
+            "top": 345,
+            "right": 488,
+            "bottom": 361,
+            "width": 158,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Generative metaphor: A perspective on \nproblem-setting in social policy \nDONALD A .  SCHON "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Dnrwk9eQq",
+      "guid": "12FWSrx2f7",
+      "created": "2020-10-08T22:38:55.808Z",
+      "lastUpdated": "2020-10-08T22:42:08.343Z",
+      "rects": {
+        "0": {
+          "left": 346,
+          "top": 557,
+          "right": 637,
+          "bottom": 573,
+          "width": 291,
+          "height": 16
+        },
+        "1": {
+          "left": 188,
+          "top": 573,
+          "right": 636,
+          "bottom": 588,
+          "width": 448,
+          "height": 15
+        },
+        "2": {
+          "left": 188,
+          "top": 588,
+          "right": 424,
+          "bottom": 603,
+          "width": 236,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ") Metaphor, in this tradition, is a kind of anomaly ",
+          "rect": {
+            "left": 346,
+            "top": 557,
+            "right": 637,
+            "bottom": 573,
+            "width": 290,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "of language, one which must be dispelled in order to clear the path for a ",
+          "rect": {
+            "left": 188,
+            "top": 573,
+            "right": 636,
+            "bottom": 588,
+            "width": 448,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "general theory of reference or meaning",
+          "rect": {
+            "left": 188,
+            "top": 588,
+            "right": 424,
+            "bottom": 603,
+            "width": 235,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": ") Metaphor, in this tradition, is a kind of anomaly \nof language, one which must be dispelled in order to clear the path for a \ngeneral theory of reference or meaning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "&gt;Metaphor, in this tradition, is a kind of anomaly \nof language, one which must be dispelled in order to clear the path for a \ngeneral theory of reference or meaning."
+      },
+      "tags": {
+        "GenerativeMetaphor": {
+          "id": "GenerativeMetaphor",
+          "label": "GenerativeMetaphor"
+        }
+      }
+    },
+    {
+      "id": "1fGcmifj5V",
+      "guid": "1YgRfyUDkk",
+      "created": "2020-10-08T22:39:22.138Z",
+      "lastUpdated": "2020-10-08T22:45:05.555Z",
+      "rects": {
+        "0": {
+          "left": 418,
+          "top": 652,
+          "right": 635,
+          "bottom": 668,
+          "width": 217,
+          "height": 16
+        },
+        "1": {
+          "left": 188,
+          "top": 668,
+          "right": 293,
+          "bottom": 683,
+          "width": 105,
+          "height": 15
+        },
+        "2": {
+          "left": 294,
+          "top": 669,
+          "right": 304,
+          "bottom": 684,
+          "width": 10,
+          "height": 15
+        },
+        "3": {
+          "left": 304,
+          "top": 668,
+          "right": 633,
+          "bottom": 683,
+          "width": 329,
+          "height": 15
+        },
+        "4": {
+          "left": 188,
+          "top": 683,
+          "right": 637,
+          "bottom": 699,
+          "width": 449,
+          "height": 16
+        },
+        "5": {
+          "left": 188,
+          "top": 699,
+          "right": 350,
+          "bottom": 715,
+          "width": 162,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ", \"metaphor\" refers both to a certain ",
+          "rect": {
+            "left": 418,
+            "top": 652,
+            "right": 635,
+            "bottom": 667,
+            "width": 216,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "kind of product -",
+          "rect": {
+            "left": 188,
+            "top": 668,
+            "right": 293,
+            "bottom": 683,
+            "width": 104,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "a ",
+          "rect": {
+            "left": 294,
+            "top": 669,
+            "right": 304,
+            "bottom": 684,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "perspective or frame, a way of looking at things - and ",
+          "rect": {
+            "left": 304,
+            "top": 668,
+            "right": 633,
+            "bottom": 683,
+            "width": 328,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "to a certain kind of process - a process by which new perspectives on the ",
+          "rect": {
+            "left": 188,
+            "top": 683,
+            "right": 637,
+            "bottom": 699,
+            "width": 449,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "world  come  into  existenc",
+          "rect": {
+            "left": 188,
+            "top": 699,
+            "right": 350,
+            "bottom": 715,
+            "width": 162,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": ", \"metaphor\" refers both to a certain \nkind of product -\na \nperspective or frame, a way of looking at things - and \nto a certain kind of process - a process by which new perspectives on the \nworld  come  into  existenc"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "&gt;[...] \"metaphor\" refers both to a certain \nkind of product - a \nperspective or frame, a way of looking at things - and \nto a certain kind of process - a process by which new perspectives on the \nworld  come  into  existence. (p.137)"
+      },
+      "tags": {
+        "GenerativeMetaphor": {
+          "id": "GenerativeMetaphor",
+          "label": "GenerativeMetaphor"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

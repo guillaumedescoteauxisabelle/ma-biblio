@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1sEam1oMxK",
+      "guid": "1sEam1oMxK",
+      "created": "2020-11-06T16:09:25.274Z",
+      "lastUpdated": "2020-11-06T16:09:25.274Z",
+      "rects": {
+        "0": {
+          "left": 153,
+          "top": 141,
+          "right": 657,
+          "bottom": 162,
+          "width": 504,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Image Style Transfer Using Convolutional Neural Networks"
+        }
+      },
+      "text": {
+        "TEXT": "Image Style Transfer Using Convolutional Neural Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12BwEVSZvV",
+      "guid": "12NebTFAnJ",
+      "created": "2020-11-06T16:09:29.924Z",
+      "lastUpdated": "2020-11-06T16:10:14.161Z",
+      "rects": {
+        "0": {
+          "left": 407,
+          "top": 194,
+          "right": 446,
+          "bottom": 212,
+          "width": 38,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Gatys"
+        }
+      },
+      "text": {
+        "TEXT": "Gatys"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Gatys et al., 2016)</p>\n<p>FTag: Gatys-et-al-2016</p>\n<p>APA7: Gatys, L. A., Ecker, A. S., &amp; Bethge, M. (2016). Image Style Transfer Using Convolutional Neural Networks. <em>2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2414–2423. <a href=\"https://doi.org/10.1109/CVPR.2016.265\">https://doi.org/10.1109/CVPR.2016.265</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12p7bM8PGm",
+      "guid": "12p7bM8PGm",
+      "created": "2020-11-06T17:04:54.046Z",
+      "lastUpdated": "2020-11-06T17:05:25.312Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 541,
+          "right": 381,
+          "bottom": 556,
+          "width": 298,
+          "height": 15
+        },
+        "1": {
+          "left": 66,
+          "top": 557,
+          "right": 285,
+          "bottom": 572,
+          "width": 218,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Rendering the semantic content of an image in different"
+        },
+        "1": {
+          "text": "styles is a difficult image processing task."
+        }
+      },
+      "text": {
+        "TEXT": "Rendering the semantic content of an image in different styles is a difficult image processing task."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "tags": {
+        "NSTProblematic": {
+          "id": "NSTProblematic",
+          "label": "NSTProblematic"
+        }
+      }
+    },
+    {
+      "id": "12i7gQuAfV",
+      "guid": "12i7gQuAfV",
+      "created": "2020-11-06T17:05:55.829Z",
+      "lastUpdated": "2020-11-06T17:05:55.829Z",
+      "rects": {
+        "0": {
+          "left": 349,
+          "top": 573,
+          "right": 381,
+          "bottom": 588,
+          "width": 32,
+          "height": 15
+        },
+        "1": {
+          "left": 66,
+          "top": 589,
+          "right": 381,
+          "bottom": 604,
+          "width": 314,
+          "height": 15
+        },
+        "2": {
+          "left": 66,
+          "top": 605,
+          "right": 119,
+          "bottom": 620,
+          "width": 53,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ack of"
+        },
+        "1": {
+          "text": "image representations that explicitly represent semantic in-"
+        },
+        "2": {
+          "text": "formation"
+        }
+      },
+      "text": {
+        "TEXT": "ack of image representations that explicitly represent semantic in- formation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "1Cp2iHwTrd",
+      "guid": "12fmxQAPvv",
+      "created": "2020-11-06T17:06:21.945Z",
+      "lastUpdated": "2020-11-06T17:06:43.613Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 621,
+          "right": 381,
+          "bottom": 636,
+          "width": 236,
+          "height": 15
+        },
+        "1": {
+          "left": 66,
+          "top": 637,
+          "right": 380,
+          "bottom": 652,
+          "width": 313,
+          "height": 15
+        },
+        "2": {
+          "left": 66,
+          "top": 653,
+          "right": 87,
+          "bottom": 668,
+          "width": 20,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "use image representations derived from Con-"
+        },
+        "1": {
+          "text": "volutional Neural Networks optimised for object recogni-"
+        },
+        "2": {
+          "text": "tion"
+        }
+      },
+      "text": {
+        "TEXT": "use image representations derived from Con- volutional Neural Networks optimised for object recogni- tion"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "use image representations derived from Convolutional Neural Networks optimised for object recognition"
+      },
+      "tags": {
+        "NSTMetho": {
+          "id": "NSTMetho",
+          "label": "NSTMetho"
+        }
+      }
+    },
+    {
+      "id": "12Vrdfoo5A",
+      "guid": "12RHiaPRuU",
+      "created": "2020-11-06T17:07:00.026Z",
+      "lastUpdated": "2020-11-06T17:07:12.146Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 669,
+          "right": 307,
+          "bottom": 684,
+          "width": 188,
+          "height": 15
+        },
+        "1": {
+          "left": 314,
+          "top": 669,
+          "right": 380,
+          "bottom": 684,
+          "width": 66,
+          "height": 15
+        },
+        "2": {
+          "left": 66,
+          "top": 685,
+          "right": 378,
+          "bottom": 700,
+          "width": 311,
+          "height": 15
+        },
+        "3": {
+          "left": 66,
+          "top": 701,
+          "right": 107,
+          "bottom": 716,
+          "width": 40,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A Neural Algorithm of Artistic Style"
+        },
+        "1": {
+          "text": "that can sep-"
+        },
+        "2": {
+          "text": "arate and recombine the image content and style of natural"
+        },
+        "3": {
+          "text": "images."
+        }
+      },
+      "text": {
+        "TEXT": "A Neural Algorithm of Artistic Style that can sep- arate and recombine the image content and style of natural images."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "NSTConcept": {
+          "id": "NSTConcept",
+          "label": "NSTConcept"
+        }
+      },
+      "revisedText": {
+        "HTML": "A Neural Algorithm of Artistic Style that can separate and recombine the image content and style of natural images."
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

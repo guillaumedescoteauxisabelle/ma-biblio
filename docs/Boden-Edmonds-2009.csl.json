@@ -1,0 +1,46 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/VPTVB8MS",
+		"type": "article-journal",
+		"abstract": "There are various forms of what’s sometimes called generative art, or computer art. This paper distinguishes the major categories and asks whether the appropriate aesthetic criteria—and the locus of creativity—are the same in each case.",
+		"container-title": "Digital Creativity",
+		"DOI": "10.1080/14626260902867915",
+		"ISSN": "1462-6268, 1744-3806",
+		"issue": "1-2",
+		"journalAbbreviation": "Digital Creativity",
+		"language": "en",
+		"note": "ZSCC: 0000165",
+		"page": "21-46",
+		"source": "DOI.org (Crossref)",
+		"title": "What is generative art?",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/14626260902867915",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Boden",
+				"given": "Margaret A."
+			},
+			{
+				"family": "Edmonds",
+				"given": "Ernest A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					6
+				]
+			]
+		}
+	}
+]

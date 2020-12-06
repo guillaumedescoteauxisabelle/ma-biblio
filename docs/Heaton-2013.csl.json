@@ -1,0 +1,30 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/HSCZYJQF",
+		"type": "book",
+		"collection-number": "Jeff Heaton ; Vol. 3",
+		"collection-title": "Artificial intelligence for humans",
+		"event-place": "St. Louis, MO",
+		"ISBN": "978-1-5057-1434-0",
+		"language": "en",
+		"note": "ZSCC: 0000002 \nOCLC: 941792587",
+		"number-of-pages": "323",
+		"publisher": "Heaton Research, Inc",
+		"publisher-place": "St. Louis, MO",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Deep learning and neural networks",
+		"author": [
+			{
+				"family": "Heaton",
+				"given": "Jeff"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	}
+]

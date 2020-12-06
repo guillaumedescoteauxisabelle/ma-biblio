@@ -1,0 +1,51 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/2VVHJTIA",
+		"type": "paper-conference",
+		"abstract": "Rendering the semantic content of an image in different styles is a difﬁcult image processing task. Arguably, a major limiting factor for previous approaches has been the lack of image representations that explicitly represent semantic information and, thus, allow to separate image content from style. Here we use image representations derived from Convolutional Neural Networks optimised for object recognition, which make high level image information explicit. We introduce A Neural Algorithm of Artistic Style that can separate and recombine the image content and style of natural images. The algorithm allows us to produce new images of high perceptual quality that combine the content of an arbitrary photograph with the appearance of numerous wellknown artworks. Our results provide new insights into the deep image representations learned by Convolutional Neural Networks and demonstrate their potential for high level image synthesis and manipulation.",
+		"container-title": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+		"DOI": "10.1109/CVPR.2016.265",
+		"event": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+		"event-place": "Las Vegas, NV, USA",
+		"ISBN": "978-1-4673-8851-1",
+		"language": "en",
+		"note": "ZSCC: 0002272",
+		"page": "2414-2423",
+		"publisher": "IEEE",
+		"publisher-place": "Las Vegas, NV, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Image Style Transfer Using Convolutional Neural Networks",
+		"URL": "http://ieeexplore.ieee.org/document/7780634/",
+		"author": [
+			{
+				"family": "Gatys",
+				"given": "Leon A."
+			},
+			{
+				"family": "Ecker",
+				"given": "Alexander S."
+			},
+			{
+				"family": "Bethge",
+				"given": "Matthias"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	}
+]

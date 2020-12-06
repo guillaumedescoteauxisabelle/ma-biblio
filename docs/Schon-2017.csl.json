@@ -1,0 +1,39 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/KY3RPVEQ",
+		"type": "book",
+		"abstract": "A leading M.I.T. social scientist and consultant examines five professions - engineering, architecture, management, psychotherapy, and town planning - to show",
+		"ISBN": "978-1-315-23747-3",
+		"language": "en",
+		"note": "DOI: 10.4324/9781315237473",
+		"publisher": "Routledge",
+		"source": "www.taylorfrancis.com",
+		"title": "The Reflective Practitioner : How Professionals Think in Action",
+		"title-short": "The Reflective Practitioner",
+		"URL": "https://www.taylorfrancis.com/books/9781315237473",
+		"author": [
+			{
+				"family": "Schön",
+				"given": "Donald A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					2
+				]
+			]
+		}
+	}
+]

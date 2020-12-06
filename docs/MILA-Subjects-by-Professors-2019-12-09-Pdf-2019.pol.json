@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1kE5xCAxip",
+      "guid": "1xHWsLdYrK",
+      "created": "2020-02-10T02:54:53.128Z",
+      "lastUpdated": "2020-11-02T01:13:49.846Z",
+      "rects": {
+        "0": {
+          "left": 424,
+          "top": 76,
+          "right": 766,
+          "bottom": 97,
+          "width": 342,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "RESEARCH INTERESTS BY PROFESSORS",
+          "rect": {
+            "left": 424,
+            "top": 76,
+            "right": 766,
+            "bottom": 97,
+            "width": 342,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "RESEARCH INTERESTS BY PROFESSORS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h1>RESEARCH INTERESTS BY PROFESSORS</h1>"
+      }
+    },
+    {
+      "id": "12EAfLLnro",
+      "guid": "1QA1XVBuF9",
+      "created": "2020-11-02T01:14:47.909Z",
+      "lastUpdated": "2020-11-02T01:15:47.319Z",
+      "rects": {
+        "0": {
+          "left": 481,
+          "top": 678,
+          "right": 490,
+          "bottom": 693,
+          "width": 8,
+          "height": 14
+        },
+        "1": {
+          "left": 500,
+          "top": 678,
+          "right": 558,
+          "bottom": 694,
+          "width": 58,
+          "height": 16
+        },
+        "2": {
+          "left": 481,
+          "top": 695,
+          "right": 490,
+          "bottom": 710,
+          "width": 8,
+          "height": 14
+        },
+        "3": {
+          "left": 500,
+          "top": 696,
+          "right": 596,
+          "bottom": 712,
+          "width": 95,
+          "height": 16
+        },
+        "4": {
+          "left": 481,
+          "top": 713,
+          "right": 490,
+          "bottom": 728,
+          "width": 8,
+          "height": 14
+        },
+        "5": {
+          "left": 500,
+          "top": 713,
+          "right": 517,
+          "bottom": 729,
+          "width": 17,
+          "height": 16
+        },
+        "6": {
+          "left": 481,
+          "top": 731,
+          "right": 490,
+          "bottom": 745,
+          "width": 8,
+          "height": 14
+        },
+        "7": {
+          "left": 500,
+          "top": 731,
+          "right": 608,
+          "bottom": 747,
+          "width": 108,
+          "height": 16
+        },
+        "8": {
+          "left": 481,
+          "top": 748,
+          "right": 490,
+          "bottom": 763,
+          "width": 8,
+          "height": 14
+        },
+        "9": {
+          "left": 500,
+          "top": 748,
+          "right": 617,
+          "bottom": 764,
+          "width": 117,
+          "height": 16
+        },
+        "10": {
+          "left": 481,
+          "top": 765,
+          "right": 490,
+          "bottom": 780,
+          "width": 8,
+          "height": 14
+        },
+        "11": {
+          "left": 500,
+          "top": 766,
+          "right": 536,
+          "bottom": 782,
+          "width": 35,
+          "height": 16
+        },
+        "12": {
+          "left": 481,
+          "top": 783,
+          "right": 490,
+          "bottom": 798,
+          "width": 8,
+          "height": 14
+        },
+        "13": {
+          "left": 500,
+          "top": 783,
+          "right": 618,
+          "bottom": 799,
+          "width": 118,
+          "height": 16
+        },
+        "14": {
+          "left": 481,
+          "top": 801,
+          "right": 490,
+          "bottom": 816,
+          "width": 8,
+          "height": 14
+        },
+        "15": {
+          "left": 500,
+          "top": 801,
+          "right": 644,
+          "bottom": 817,
+          "width": 143,
+          "height": 16
+        },
+        "16": {
+          "left": 481,
+          "top": 818,
+          "right": 490,
+          "bottom": 833,
+          "width": 8,
+          "height": 14
+        },
+        "17": {
+          "left": 500,
+          "top": 818,
+          "right": 620,
+          "bottom": 834,
+          "width": 119,
+          "height": 16
+        },
+        "18": {
+          "left": 481,
+          "top": 836,
+          "right": 490,
+          "bottom": 850,
+          "width": 8,
+          "height": 14
+        },
+        "19": {
+          "left": 500,
+          "top": 836,
+          "right": 572,
+          "bottom": 852,
+          "width": 72,
+          "height": 16
+        },
+        "20": {
+          "left": 481,
+          "top": 853,
+          "right": 490,
+          "bottom": 868,
+          "width": 8,
+          "height": 14
+        },
+        "21": {
+          "left": 500,
+          "top": 853,
+          "right": 623,
+          "bottom": 869,
+          "width": 122,
+          "height": 16
+        },
+        "22": {
+          "left": 481,
+          "top": 871,
+          "right": 490,
+          "bottom": 886,
+          "width": 8,
+          "height": 14
+        },
+        "23": {
+          "left": 500,
+          "top": 871,
+          "right": 525,
+          "bottom": 887,
+          "width": 25,
+          "height": 16
+        },
+        "24": {
+          "left": 481,
+          "top": 888,
+          "right": 490,
+          "bottom": 903,
+          "width": 8,
+          "height": 14
+        },
+        "25": {
+          "left": 500,
+          "top": 888,
+          "right": 666,
+          "bottom": 905,
+          "width": 165,
+          "height": 16
+        },
+        "26": {
+          "left": 481,
+          "top": 906,
+          "right": 490,
+          "bottom": 921,
+          "width": 8,
+          "height": 14
+        },
+        "27": {
+          "left": 500,
+          "top": 906,
+          "right": 516,
+          "bottom": 922,
+          "width": 16,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "●"
+        },
+        "1": {
+          "text": "Causality"
+        },
+        "2": {
+          "text": "●"
+        },
+        "3": {
+          "text": "Climate change"
+        },
+        "4": {
+          "text": "●"
+        },
+        "5": {
+          "text": "DL"
+        },
+        "6": {
+          "text": "●"
+        },
+        "7": {
+          "text": "DL+neuroscience"
+        },
+        "8": {
+          "text": "●"
+        },
+        "9": {
+          "text": "Dynamical systems"
+        },
+        "10": {
+          "text": "●"
+        },
+        "11": {
+          "text": "GANs"
+        },
+        "12": {
+          "text": "●"
+        },
+        "13": {
+          "text": "Generative models"
+        },
+        "14": {
+          "text": "●"
+        },
+        "15": {
+          "text": "Graph neural networks"
+        },
+        "16": {
+          "text": "●"
+        },
+        "17": {
+          "text": "Learning on graphs"
+        },
+        "18": {
+          "text": "●"
+        },
+        "19": {
+          "text": "Medical ML"
+        },
+        "20": {
+          "text": "●"
+        },
+        "21": {
+          "text": "Molecular modeling"
+        },
+        "22": {
+          "text": "●"
+        },
+        "23": {
+          "text": "NLP"
+        },
+        "24": {
+          "text": "●"
+        },
+        "25": {
+          "text": "Recurrent neural networks"
+        },
+        "26": {
+          "text": "●"
+        },
+        "27": {
+          "text": "RL"
+        }
+      },
+      "text": {
+        "TEXT": "● Causality ● Climate change ● DL ● DL+neuroscience ● Dynamical systems ● GANs ● Generative models ● Graph neural networks ● Learning on graphs ● Medical ML ● Molecular modeling ● NLP ● Recurrent neural networks ● RL"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Bengio's Interest</h2><div><br></div><div>* Causality&nbsp;</div><div>* Climate change&nbsp;</div><div>* DL&nbsp;</div><div>* DL+neuroscience&nbsp;</div><div>* Dynamical systems&nbsp;</div><div>* GANs&nbsp;</div><div>* Generative models&nbsp;</div><div>* Graph neural networks&nbsp;</div><div>* Learning on graphs&nbsp;</div><div>* Medical ML&nbsp;</div><div>* Molecular modeling&nbsp;</div><div>* NLP&nbsp;</div><div>* Recurrent neural networks&nbsp;</div><div>* RL</div>"
+      },
+      "tags": {
+        "Bengio": {
+          "id": "Bengio",
+          "label": "Bengio"
+        }
+      }
+    },
+    {
+      "id": "1AGATEZm22",
+      "guid": "19wDyhpPqv",
+      "created": "2020-11-02T01:16:00.006Z",
+      "lastUpdated": "2020-11-02T01:17:52.899Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 150,
+          "right": 152,
+          "bottom": 163,
+          "width": 75,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PROFESSORS"
+        }
+      },
+      "text": {
+        "TEXT": "PROFESSORS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (<em>MILA - Subjects-by-Professors-2019-12-09.Pdf</em>, 2019)</p>\n<p>FTag: MILA-Subjects-by-Professors-2019-12-09-Pdf-2019</p>\n<p>APA7:&nbsp; <em>MILA - Subjects-by-professors-2019-12-09.pdf</em>. (2019). <a href=\"https://mila.quebec/wp-content/uploads/2019/11/Subjects-by-professors-2019-12-09.pdf\">https://mila.quebec/wp-content/uploads/2019/11/Subjects-by-professors-2019-12-09.pdf</a></p>\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1dhdUSP6Fm",
+      "guid": "126DwcxjGg",
+      "created": "2020-11-11T09:26:23.851Z",
+      "lastUpdated": "2020-11-11T09:26:39.348Z",
+      "rects": {
+        "0": {
+          "left": 94,
+          "top": 114,
+          "right": 157,
+          "bottom": 150,
+          "width": 63,
+          "height": 35
+        },
+        "1": {
+          "left": 156,
+          "top": 114,
+          "right": 241,
+          "bottom": 150,
+          "width": 85,
+          "height": 35
+        },
+        "2": {
+          "left": 241,
+          "top": 114,
+          "right": 394,
+          "bottom": 150,
+          "width": 153,
+          "height": 35
+        },
+        "3": {
+          "left": 367,
+          "top": 114,
+          "right": 405,
+          "bottom": 150,
+          "width": 37,
+          "height": 35
+        },
+        "4": {
+          "left": 405,
+          "top": 114,
+          "right": 414,
+          "bottom": 150,
+          "width": 9,
+          "height": 35
+        },
+        "5": {
+          "left": 94,
+          "top": 149,
+          "right": 213,
+          "bottom": 185,
+          "width": 118,
+          "height": 35
+        },
+        "6": {
+          "left": 211,
+          "top": 149,
+          "right": 333,
+          "bottom": 185,
+          "width": 121,
+          "height": 35
+        },
+        "7": {
+          "left": 317,
+          "top": 149,
+          "right": 378,
+          "bottom": 185,
+          "width": 61,
+          "height": 35
+        },
+        "8": {
+          "left": 377,
+          "top": 149,
+          "right": 425,
+          "bottom": 185,
+          "width": 48,
+          "height": 35
+        },
+        "9": {
+          "left": 424,
+          "top": 149,
+          "right": 505,
+          "bottom": 185,
+          "width": 81,
+          "height": 35
+        },
+        "10": {
+          "left": 504,
+          "top": 149,
+          "right": 565,
+          "bottom": 185,
+          "width": 61,
+          "height": 35
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The "
+        },
+        "1": {
+          "text": "Abstra"
+        },
+        "2": {
+          "text": "ct    Organi"
+        },
+        "3": {
+          "text": "sm"
+        },
+        "4": {
+          "text": ":"
+        },
+        "5": {
+          "text": "Towards "
+        },
+        "6": {
+          "text": "a   Prehis"
+        },
+        "7": {
+          "text": "tory "
+        },
+        "8": {
+          "text": "for "
+        },
+        "9": {
+          "text": "A-Life"
+        },
+        "10": {
+          "text": " Ar  "
+        }
+      },
+      "text": {
+        "TEXT": "The Abstra ct    Organi sm : Towards a   Prehis tory for A-Life Ar"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>The Abstract    Organism : Towards a   Prehistory for A-Life Art</h1>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

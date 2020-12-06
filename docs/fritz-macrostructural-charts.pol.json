@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1nVNA2ZHDs",
+      "guid": "1nVNA2ZHDs",
+      "created": "2020-11-22T16:02:53.952Z",
+      "lastUpdated": "2020-11-22T16:05:55.095Z",
+      "rects": {
+        "0": {
+          "left": 25.448275862068964,
+          "top": 10.203084625322997,
+          "width": 10.3448275862069,
+          "height": 7.751937984496124
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12SfxzkvNooYpjYdHQE1",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12SfxzkvNooYpjYdHQE1.png"
+        },
+        "width": 1578,
+        "height": 146,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 186,
+        "y": 94,
+        "width": 431,
+        "height": 39
+      },
+      "tags": {
+        "MacrostructuralChart": {
+          "id": "MacrostructuralChart",
+          "label": "MacrostructuralChart"
+        }
+      }
+    },
+    {
+      "id": "1dXFLYirkw",
+      "guid": "1dXFLYirkw",
+      "created": "2020-11-22T16:03:20.020Z",
+      "lastUpdated": "2020-11-22T16:03:32.864Z",
+      "rects": {
+        "0": {
+          "left": 21.724137931034484,
+          "top": 15.939518733850129,
+          "width": 10.344827586206897,
+          "height": 7.751937984496124
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "19zjwEGnSNCN9gmdfJhg",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "19zjwEGnSNCN9gmdfJhg.png"
+        },
+        "width": 2142,
+        "height": 302,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 110,
+        "y": 135,
+        "width": 585,
+        "height": 82
+      }
+    },
+    {
+      "id": "1L2xvEF4YD",
+      "guid": "1L2xvEF4YD",
+      "created": "2020-11-22T16:03:35.075Z",
+      "lastUpdated": "2020-11-22T16:03:41.710Z",
+      "rects": {
+        "0": {
+          "left": 13.793103448275861,
+          "top": 21.314195736434108,
+          "width": 10.344827586206897,
+          "height": 7.751937984496124
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1GnJ5e7cytfkLEecER3k",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1GnJ5e7cytfkLEecER3k.png"
+        },
+        "width": 1840,
+        "height": 76,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 108,
+        "y": 224,
+        "width": 503,
+        "height": 20
+      }
+    },
+    {
+      "id": "12eyquGhkt",
+      "guid": "12eyquGhkt",
+      "created": "2020-11-22T16:03:43.779Z",
+      "lastUpdated": "2020-11-22T16:03:55.833Z",
+      "rects": {
+        "0": {
+          "left": 16.137931034482758,
+          "top": 25.035125968992247,
+          "width": 10.344827586206897,
+          "height": 7.751937984496124
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1BSmpRUy1Swc7GYJRHyy",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1BSmpRUy1Swc7GYJRHyy.png"
+        },
+        "width": 2098,
+        "height": 136,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 108,
+        "y": 252,
+        "width": 573,
+        "height": 37
+      }
+    },
+    {
+      "id": "121Dds6nDp",
+      "guid": "121Dds6nDp",
+      "created": "2020-11-22T16:03:58.342Z",
+      "lastUpdated": "2020-11-22T16:04:13.511Z",
+      "rects": {
+        "0": {
+          "left": 15.448275862068964,
+          "top": 28.70437661498708,
+          "width": 10.344827586206897,
+          "height": 7.75193798449612
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1gudcUNcRDnDN84JmpqQ",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1gudcUNcRDnDN84JmpqQ.png"
+        },
+        "width": 542,
+        "height": 94,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 106,
+        "y": 292,
+        "width": 148,
+        "height": 25
+      }
+    }
+  ]
+
+}
+
+
+

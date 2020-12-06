@@ -1,0 +1,1376 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1dabnWQ5g6",
+      "guid": "1P8mUJzMyA",
+      "created": "2020-10-06T01:57:02.516Z",
+      "lastUpdated": "2020-10-06T01:57:13.704Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 133,
+          "right": 685,
+          "bottom": 160,
+          "width": 541,
+          "height": 27
+        },
+        "1": {
+          "left": 198,
+          "top": 160,
+          "right": 624,
+          "bottom": 185,
+          "width": 426,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Real-time interactive sequence generation and control",
+          "rect": {
+            "left": 144,
+            "top": 133,
+            "right": 685,
+            "bottom": 159,
+            "width": 540,
+            "height": 25
+          }
+        },
+        "1": {
+          "text": "with Recurrent Neural Network ensembles",
+          "rect": {
+            "left": 198,
+            "top": 160,
+            "right": 624,
+            "bottom": 185,
+            "width": 425,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Real-time interactive sequence generation and control\nwith Recurrent Neural Network ensembles"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1 class=\"dropdown-item\">Real-time interactive sequence generation and control\nwith Recurrent Neural Network ensembles</h1>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12n2nnYjjM",
+      "guid": "12MN5Vjoa6",
+      "created": "2020-10-06T01:58:01.974Z",
+      "lastUpdated": "2020-10-06T01:58:09.656Z",
+      "rects": {
+        "0": {
+          "left": 291,
+          "top": 237,
+          "right": 324,
+          "bottom": 252,
+          "width": 33,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ak",
+          "rect": {
+            "left": 291,
+            "top": 237,
+            "right": 306,
+            "bottom": 252,
+            "width": 15,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "ten",
+          "rect": {
+            "left": 306,
+            "top": 237,
+            "right": 324,
+            "bottom": 252,
+            "width": 18,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Akten"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Akten</p><p><br></p><p>Citer: (Akten &amp; Grierson, 2017)</p><p>FTag: Akten-Grierson-2017</p><p>\n\n</p><p>APA7: Akten, M., &amp; Grierson, M. (2017). Real-time interactive sequence generation and control with Recurrent Neural Network ensembles. <em>ArXiv:1612.04687 [Cs]</em>. <a href=\"http://arxiv.org/abs/1612.04687\">http://arxiv.org/abs/1612.04687</a></p><p><br></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12JY5dCZvM",
+      "guid": "12JY5dCZvM",
+      "created": "2020-10-06T01:58:19.867Z",
+      "lastUpdated": "2020-10-06T01:58:19.867Z",
+      "rects": {
+        "0": {
+          "left": 192,
+          "top": 370,
+          "right": 373,
+          "bottom": 385,
+          "width": 181,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recurrent Neural Networks (RNN)",
+          "rect": {
+            "left": 192,
+            "top": 370,
+            "right": 373,
+            "bottom": 385,
+            "width": 180,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Recurrent Neural Networks (RNN)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "123b1rCALY",
+      "guid": "123b1rCALY",
+      "created": "2020-10-06T01:59:05.217Z",
+      "lastUpdated": "2020-10-06T01:59:05.217Z",
+      "rects": {
+        "0": {
+          "left": 439,
+          "top": 370,
+          "right": 617,
+          "bottom": 385,
+          "width": 178,
+          "height": 15
+        },
+        "1": {
+          "left": 192,
+          "top": 385,
+          "right": 612,
+          "bottom": 400,
+          "width": 420,
+          "height": 15
+        },
+        "2": {
+          "left": 192,
+          "top": 399,
+          "right": 250,
+          "bottom": 414,
+          "width": 58,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Long Short Term Memory (LSTM)",
+          "rect": {
+            "left": 439,
+            "top": 370,
+            "right": 617,
+            "bottom": 385,
+            "width": 178,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "RNNs,  are a popular and very successful method for learning and generating",
+          "rect": {
+            "left": 192,
+            "top": 385,
+            "right": 612,
+            "bottom": 400,
+            "width": 420,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "sequences",
+          "rect": {
+            "left": 192,
+            "top": 399,
+            "right": 250,
+            "bottom": 414,
+            "width": 58,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Long Short Term Memory (LSTM)\nRNNs,  are a popular and very successful method for learning and generating\nsequences"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12jafBxbi9",
+      "guid": "1eXvBxJ5xS",
+      "created": "2020-10-06T01:59:19.622Z",
+      "lastUpdated": "2020-10-06T01:59:45.734Z",
+      "rects": {
+        "0": {
+          "left": 309,
+          "top": 399,
+          "right": 612,
+          "bottom": 414,
+          "width": 303,
+          "height": 15
+        },
+        "1": {
+          "left": 192,
+          "top": 413,
+          "right": 609,
+          "bottom": 428,
+          "width": 417,
+          "height": 15
+        },
+        "2": {
+          "left": 192,
+          "top": 428,
+          "right": 321,
+          "bottom": 443,
+          "width": 129,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "current generative RNN techniques do not allow real-time",
+          "rect": {
+            "left": 309,
+            "top": 399,
+            "right": 612,
+            "bottom": 414,
+            "width": 302,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "interactive control of the sequence generation process, thus aren’t well suited for",
+          "rect": {
+            "left": 192,
+            "top": 413,
+            "right": 609,
+            "bottom": 428,
+            "width": 417,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "live creative expression",
+          "rect": {
+            "left": 192,
+            "top": 428,
+            "right": 307,
+            "bottom": 443,
+            "width": 115,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": ". ",
+          "rect": {
+            "left": 315,
+            "top": 428,
+            "right": 321,
+            "bottom": 443,
+            "width": 6,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "current generative RNN techniques do not allow real-time\ninteractive control of the sequence generation process, thus aren’t well suited for\nlive creative expression\n. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] current generative RNN techniques do not allow real-time\ninteractive control of the sequence generation process, thus aren’t well suited for\nlive creative expression\n.</p><p><br></p><p>#problematic</p><p> </p>"
+      },
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1TJoz7o45z",
+      "guid": "1TJoz7o45z",
+      "created": "2020-10-06T02:00:37.717Z",
+      "lastUpdated": "2020-10-06T02:00:37.717Z",
+      "rects": {
+        "0": {
+          "left": 321,
+          "top": 428,
+          "right": 615,
+          "bottom": 443,
+          "width": 294,
+          "height": 15
+        },
+        "1": {
+          "left": 190,
+          "top": 442,
+          "right": 609,
+          "bottom": 457,
+          "width": 419,
+          "height": 15
+        },
+        "2": {
+          "left": 192,
+          "top": 457,
+          "right": 436,
+          "bottom": 472,
+          "width": 244,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We propose a method of real-time continuous control and",
+          "rect": {
+            "left": 321,
+            "top": 428,
+            "right": 615,
+            "bottom": 443,
+            "width": 294,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "‘steering’ of sequence generation using an ensemble of RNNs and dynamically",
+          "rect": {
+            "left": 190,
+            "top": 442,
+            "right": 609,
+            "bottom": 457,
+            "width": 419,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "altering the mixture weights of the models.  W",
+          "rect": {
+            "left": 192,
+            "top": 457,
+            "right": 436,
+            "bottom": 472,
+            "width": 243,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "We propose a method of real-time continuous control and\n‘steering’ of sequence generation using an ensemble of RNNs and dynamically\naltering the mixture weights of the models.  W"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1wBZy8ETtQ",
+      "guid": "1wBZy8ETtQ",
+      "created": "2020-10-06T02:00:46.971Z",
+      "lastUpdated": "2020-10-06T02:00:46.971Z",
+      "rects": {
+        "0": {
+          "left": 436,
+          "top": 457,
+          "right": 610,
+          "bottom": 472,
+          "width": 174,
+          "height": 15
+        },
+        "1": {
+          "left": 192,
+          "top": 472,
+          "right": 615,
+          "bottom": 487,
+          "width": 423,
+          "height": 15
+        },
+        "2": {
+          "left": 192,
+          "top": 486,
+          "right": 304,
+          "bottom": 501,
+          "width": 112,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "e demonstrate the method using",
+          "rect": {
+            "left": 436,
+            "top": 457,
+            "right": 610,
+            "bottom": 472,
+            "width": 174,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "character based LSTM networks and a gestural interface allowing users to ‘conduct’",
+          "rect": {
+            "left": 192,
+            "top": 472,
+            "right": 615,
+            "bottom": 487,
+            "width": 423,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "the generation of text.",
+          "rect": {
+            "left": 192,
+            "top": 486,
+            "right": 304,
+            "bottom": 501,
+            "width": 112,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "e demonstrate the method using\ncharacter based LSTM networks and a gestural interface allowing users to ‘conduct’\nthe generation of text."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12djbM5FnS",
+      "guid": "12djbM5FnS",
+      "created": "2020-10-06T02:01:24.645Z",
+      "lastUpdated": "2020-10-06T02:01:24.645Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 570,
+          "right": 664,
+          "bottom": 585,
+          "width": 521,
+          "height": 15
+        },
+        "1": {
+          "left": 144,
+          "top": 585,
+          "right": 431,
+          "bottom": 600,
+          "width": 287,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recurrent Neural Networks (RNN)",
+          "rect": {
+            "left": 143,
+            "top": 570,
+            "right": 322,
+            "bottom": 585,
+            "width": 179,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "are artificial neural networks with recurrent connections, allowing",
+          "rect": {
+            "left": 327,
+            "top": 570,
+            "right": 664,
+            "bottom": 585,
+            "width": 336,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "them to learn temporal regularities and model sequences.",
+          "rect": {
+            "left": 144,
+            "top": 585,
+            "right": 431,
+            "bottom": 600,
+            "width": 287,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Recurrent Neural Networks (RNN)\nare artificial neural networks with recurrent connections, allowing\nthem to learn temporal regularities and model sequences."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1rmNto8yPR",
+      "guid": "1rmNto8yPR",
+      "created": "2020-10-06T02:01:44.209Z",
+      "lastUpdated": "2020-10-06T02:01:44.209Z",
+      "rects": {
+        "0": {
+          "left": 446,
+          "top": 585,
+          "right": 671,
+          "bottom": 600,
+          "width": 225,
+          "height": 15
+        },
+        "1": {
+          "left": 144,
+          "top": 599,
+          "right": 672,
+          "bottom": 614,
+          "width": 528,
+          "height": 15
+        },
+        "2": {
+          "left": 144,
+          "top": 614,
+          "right": 641,
+          "bottom": 629,
+          "width": 497,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Long Short Term Memory (LSTM)",
+          "rect": {
+            "left": 446,
+            "top": 585,
+            "right": 620,
+            "bottom": 600,
+            "width": 174,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "[",
+          "rect": {
+            "left": 629,
+            "top": 585,
+            "right": 632,
+            "bottom": 600,
+            "width": 3,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "16",
+          "rect": {
+            "left": 633,
+            "top": 585,
+            "right": 646,
+            "bottom": 600,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "] is a",
+          "rect": {
+            "left": 646,
+            "top": 585,
+            "right": 671,
+            "bottom": 600,
+            "width": 24,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "recurrent architecture that overcomes the problem of gradients exponentially vanishing [",
+          "rect": {
+            "left": 144,
+            "top": 599,
+            "right": 600,
+            "bottom": 614,
+            "width": 456,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "15",
+          "rect": {
+            "left": 615,
+            "top": 599,
+            "right": 627,
+            "bottom": 614,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": ",",
+          "rect": {
+            "left": 628,
+            "top": 599,
+            "right": 632,
+            "bottom": 614,
+            "width": 3,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "1",
+          "rect": {
+            "left": 635,
+            "top": 599,
+            "right": 642,
+            "bottom": 614,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "], and",
+          "rect": {
+            "left": 642,
+            "top": 599,
+            "right": 672,
+            "bottom": 614,
+            "width": 30,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "allows RNNs to be trained many time-steps into the past, to learn more complex programs [",
+          "rect": {
+            "left": 144,
+            "top": 614,
+            "right": 605,
+            "bottom": 629,
+            "width": 461,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "21",
+          "rect": {
+            "left": 621,
+            "top": 614,
+            "right": 634,
+            "bottom": 629,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "].",
+          "rect": {
+            "left": 635,
+            "top": 614,
+            "right": 641,
+            "bottom": 629,
+            "width": 6,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Long Short Term Memory (LSTM)\n[ 16] is a\nrecurrent architecture that overcomes the problem of gradients exponentially vanishing [ 15, 1], and\nallows RNNs to be trained many time-steps into the past, to learn more complex programs [ 21]."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "125YxccQhU",
+      "guid": "12cfpcfSFz",
+      "created": "2020-10-06T02:09:40.610Z",
+      "lastUpdated": "2020-10-06T02:10:10.088Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 715,
+          "right": 214,
+          "bottom": 734,
+          "width": 70,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "References",
+          "rect": {
+            "left": 144,
+            "top": 715,
+            "right": 214,
+            "bottom": 734,
+            "width": 70,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "References"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<h1>References</h1><p></p><p><br></p><p>[1] Y. Bengio, P. Simard, and P. Frasconi. Learning long-term dependencies with gradient descent is difficult.IEEE Transactions on Neural Networks, 5(2):157–166, 1994.</p><p><br></p><p>[2] N. Boulanger-Lewandowski, P. Vincent, and Y. Bengio. Modeling Temporal Dependencies in High-Dimensional Sequences: Application to Polyphonic Music Generation and Transcription.arXiv preprintarXiv:1206.6392, 2012.</p><p><br></p><p>[3] F. Chollet. Keras: Deep Learning library for Theano and TensorFlow, 2015.</p><p><br></p><p>[4] L. Crnkovic-friis and L. Crnkovic-friis. Generative Choreography using Deep Learning.arXiv preprintarXiv:1605.06921, 2016.</p><p><br></p><p>[5] T. G. Dietterich. Ensemble Methods in Machine Learning.MCS ’00: Proceedings of the First InternationalWorkshop on Multiple Classifier Systems, pages 1–15, 2000.</p><p><br></p><p>[6] D. Eck and J. Schmidhuber. A First Look at Music Composition using LSTM Recurrent Neural Networks.Istituto Dalle Molle Di Studi Sull Intelligenza Artificiale, 103, 2002.</p><p><br></p><p>[7] F. A. Gers and J. Schmidhuber. Recurrent nets that time and count. InNeural Networks, 2000. IJCNN2000, Proceedings of the IEEE-INNS-ENNS International Joint Conference on, pages 189–194. IEEE,2000.</p><p><br></p><p>[8] R. Goodwin. Word Synth, 2016.&nbsp;</p><p><br></p><p>[9] A. Graves. Sequence transduction with recurrent neural networks.arXiv preprint arXiv:1211.3711, 2012.&nbsp;</p><p><br></p><p>[10] A. Graves. Generating sequences with Recurrent Neural Networks.arXiv preprint arXiv:1308.0850, 2013.&nbsp;</p><p><br></p><p>[11] A. Graves, M. Liwicki, S. Fernández, R. Bertolami, H. Bunke, and J. Schmidhuber. A novel connectionistsystem for unconstrained handwriting recognition.IEEE Transactions on Pattern Analysis and MachineIntelligence, 31(5):855–868, 2009.&nbsp;</p><p><br></p><p>[12] K. Greff, R. K. Srivastava, J. Koutník, B. R. Steunebrink, and J. Schmidhuber. LSTM: A Search SpaceOdyssey.arXiv preprint arXiv:1503.04069, page 10, 2015.&nbsp;</p><p><br></p><p>[13] K. Gregor, I. Danihelka, A. Graves, and D. Wierstra. DRAW: A Recurrent Neural Network For ImageGeneration.arXiv preprint arXiv:1502.04623, 2015.&nbsp;</p><p><br></p><p>[14] G. Hinton, L. Deng, D. Yu, G. E. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen,T. N. Sainath, and B. Kingsbury. Deep Neural Networks for Acoustic Modeling in Speech Recognition.IEEE Signal Processing Magazine, 29(6):82–97, 2012.&nbsp;</p><p><br></p><p>[15] S. Hochreiter.Untersuchungen zu dynamischen neuronalen Netzen. PhD thesis, Technische UniversitätMünchen, 1991.&nbsp;</p><p><br></p><p>[16] S. Hochreiter and J. Schmidhuber. Long Short-Term Memory.Neural Computation, 9(8):1735–1780,1997.&nbsp;</p><p><br></p><p>[17] A. Karpathy. The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.&nbsp;</p><p><br></p><p>[18] Z. Lieberman, T. Watson, and A. Castro. OpenFrameworks, 2016.&nbsp;</p><p><br></p><p>[19] A. Nayebi and M. Vitelli. GRUV : Algorithmic Music Generation using Recurrent Neural Networks. 2015.&nbsp;</p><p><br></p><p>[20] V. Pham, T. Bluche, C. Kermorvant, and J. Louradour. Dropout Improves Recurrent Neural Networks forHandwriting Recognition. InFrontiers in Handwriting Recognition (ICFHR), 2014 14th InternationalConference on, pages 285–290. IEEE, 2014.&nbsp;</p><p><br></p><p>[21] J. Schmidhuber. Deep Learning in Neural Networks: An Overview.Neural Networks, 61:85–117, 2015.&nbsp;</p><p><br></p><p>[22] B. Sturm. Recurrent Neural Networks for Folk Music Generation, 2015.&nbsp;</p><p><br></p><p>[23] I. Sutskever.Training Recurrent neural Networks. PhD thesis, University of Toronto, 2013.&nbsp;</p><p><br></p><p>[24] I. Sutskever, J. Martens, and G. Hinton. Generating Text with Recurrent Neural Networks. InProceedingsof the 28th International Conference on Machine Learning (ICML-11), pages 1017–1024, 2011.&nbsp;</p><p><br></p><p>[25] I. Sutskever, O. Vinyals, and Q. V. Le. Sequence to Sequence Learning with Neural Networks. InAdvancesin Neural Information Processing Systems (NIPS), pages 3104–3112, 2014.&nbsp;</p><p><br></p><p>[26] The Theano Development Team. Theano: A Python framework for fast computation of mathematicalexpressions, 2016.&nbsp;</p><p><br></p><p>[27] M. Wright and A. Freed. Open Sound Control: A new protocol for communicating with sound synthesizers.InProceedings of the 1997 International Computer Music Conference (ICMC), 1997.&nbsp;</p><p><br></p><p>[28] Z. Wu and S. King. Investigating Gated Recurrent Neural Networks for Speech Synthesis. InIEEEInternational Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 5140–5144. IEEE,2016.&nbsp;</p><p><br></p><p>[29] W. Zaremba and I. Sutskever. Learning to Execute. In2nd International Conference on LearningRepresentations (ICLR2014), 2014.</p><p><br></p><p>#biblio</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "121ucAm6J7",
+      "guid": "122DedM4xS",
+      "created": "2020-10-06T02:11:38.318Z",
+      "lastUpdated": "2020-10-06T02:16:18.221Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 628,
+          "right": 679,
+          "bottom": 643,
+          "width": 536,
+          "height": 15
+        },
+        "1": {
+          "left": 144,
+          "top": 643,
+          "right": 676,
+          "bottom": 658,
+          "width": 532,
+          "height": 15
+        },
+        "2": {
+          "left": 144,
+          "top": 657,
+          "right": 674,
+          "bottom": 672,
+          "width": 530,
+          "height": 15
+        },
+        "3": {
+          "left": 144,
+          "top": 672,
+          "right": 501,
+          "bottom": 687,
+          "width": 357,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "with increased compute power and large training sets, LSTMs and related architectures are proving",
+          "rect": {
+            "left": 143,
+            "top": 628,
+            "right": 679,
+            "bottom": 643,
+            "width": 536,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "successful not only in sequence classification [",
+          "rect": {
+            "left": 144,
+            "top": 643,
+            "right": 407,
+            "bottom": 658,
+            "width": 263,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "11",
+          "rect": {
+            "left": 400,
+            "top": 643,
+            "right": 413,
+            "bottom": 658,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": ",",
+          "rect": {
+            "left": 413,
+            "top": 643,
+            "right": 417,
+            "bottom": 658,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "14",
+          "rect": {
+            "left": 420,
+            "top": 643,
+            "right": 433,
+            "bottom": 658,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": ",",
+          "rect": {
+            "left": 433,
+            "top": 643,
+            "right": 437,
+            "bottom": 658,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "20",
+          "rect": {
+            "left": 440,
+            "top": 643,
+            "right": 454,
+            "bottom": 658,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": ",",
+          "rect": {
+            "left": 454,
+            "top": 643,
+            "right": 458,
+            "bottom": 658,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "12",
+          "rect": {
+            "left": 460,
+            "top": 643,
+            "right": 474,
+            "bottom": 658,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "], but also in sequence generation in",
+          "rect": {
+            "left": 474,
+            "top": 643,
+            "right": 676,
+            "bottom": 658,
+            "width": 202,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "many domains such as music [",
+          "rect": {
+            "left": 144,
+            "top": 657,
+            "right": 316,
+            "bottom": 672,
+            "width": 172,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "6",
+          "rect": {
+            "left": 310,
+            "top": 657,
+            "right": 318,
+            "bottom": 672,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": ",",
+          "rect": {
+            "left": 317,
+            "top": 657,
+            "right": 321,
+            "bottom": 672,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "13": {
+          "text": "2",
+          "rect": {
+            "left": 324,
+            "top": 657,
+            "right": 331,
+            "bottom": 672,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "14": {
+          "text": ",",
+          "rect": {
+            "left": 330,
+            "top": 657,
+            "right": 335,
+            "bottom": 672,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "15": {
+          "text": "19",
+          "rect": {
+            "left": 338,
+            "top": 657,
+            "right": 351,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "16": {
+          "text": ",",
+          "rect": {
+            "left": 351,
+            "top": 657,
+            "right": 355,
+            "bottom": 672,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "17": {
+          "text": "22",
+          "rect": {
+            "left": 358,
+            "top": 657,
+            "right": 371,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "18": {
+          "text": "], text [",
+          "rect": {
+            "left": 371,
+            "top": 657,
+            "right": 414,
+            "bottom": 672,
+            "width": 42,
+            "height": 15
+          }
+        },
+        "19": {
+          "text": "24",
+          "rect": {
+            "left": 411,
+            "top": 657,
+            "right": 424,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "20": {
+          "text": ",",
+          "rect": {
+            "left": 425,
+            "top": 657,
+            "right": 429,
+            "bottom": 672,
+            "width": 4,
+            "height": 15
+          }
+        },
+        "21": {
+          "text": "23",
+          "rect": {
+            "left": 431,
+            "top": 657,
+            "right": 444,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "22": {
+          "text": "], handwriting [",
+          "rect": {
+            "left": 445,
+            "top": 657,
+            "right": 534,
+            "bottom": 672,
+            "width": 89,
+            "height": 15
+          }
+        },
+        "23": {
+          "text": "10",
+          "rect": {
+            "left": 530,
+            "top": 657,
+            "right": 543,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "24": {
+          "text": "], images [",
+          "rect": {
+            "left": 543,
+            "top": 657,
+            "right": 602,
+            "bottom": 672,
+            "width": 58,
+            "height": 15
+          }
+        },
+        "25": {
+          "text": "13",
+          "rect": {
+            "left": 601,
+            "top": 657,
+            "right": 614,
+            "bottom": 672,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "26": {
+          "text": "], machine",
+          "rect": {
+            "left": 615,
+            "top": 657,
+            "right": 674,
+            "bottom": 672,
+            "width": 59,
+            "height": 15
+          }
+        },
+        "27": {
+          "text": "translation [25], speech synthesis [28] and even choreography [4]",
+          "rect": {
+            "left": 144,
+            "top": 672,
+            "right": 501,
+            "bottom": 687,
+            "width": 356,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "with increased compute power and large training sets, LSTMs and related architectures are proving\nsuccessful not only in sequence classification [11, 14, 20, 12], but also in sequence generation in\nmany domains such as music [6, 2, 19, 22], text [24, 23], handwriting [10], images [13], machine\ntranslation [25], speech synthesis [28] and even choreography [4]"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>[...] with increased compute power and large training sets, LSTMs and related architectures are proving\nsuccessful not only in sequence classification [11, 14, 20, 12], but also in sequence generation in\nmany domains such as music [6, 2, 19, 22], text [24, 23], handwriting [10], images [13], machine\ntranslation [25], speech synthesis [28] and even choreography [4]</p><p><br></p><p>#review</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12TEgohxPk",
+      "guid": "1S1Xz84FEt",
+      "created": "2020-10-06T02:11:50.700Z",
+      "lastUpdated": "2020-10-06T02:14:55.041Z",
+      "rects": {
+        "0": {
+          "left": 198,
+          "top": 694,
+          "right": 683,
+          "bottom": 709,
+          "width": 485,
+          "height": 15
+        },
+        "1": {
+          "left": 144,
+          "top": 708,
+          "right": 188,
+          "bottom": 723,
+          "width": 44,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "most current applications of sequence generation with RNNs is not a real-time, interactive",
+          "rect": {
+            "left": 198,
+            "top": 694,
+            "right": 683,
+            "bottom": 709,
+            "width": 485,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "process.",
+          "rect": {
+            "left": 144,
+            "top": 708,
+            "right": 188,
+            "bottom": 723,
+            "width": 44,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "most current applications of sequence generation with RNNs is not a real-time, interactive\nprocess."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] most current applications of sequence generation with RNNs is not a real-time, interactive\nprocess.</p><p><br></p><p>#problematic</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12mSqHw9VN",
+      "guid": "1Sah8mKTCH",
+      "created": "2020-10-06T02:14:25.537Z",
+      "lastUpdated": "2020-10-06T02:16:44.892Z",
+      "rects": {
+        "0": {
+          "left": 627,
+          "top": 737,
+          "right": 682,
+          "bottom": 752,
+          "width": 55,
+          "height": 15
+        },
+        "1": {
+          "left": 144,
+          "top": 752,
+          "right": 676,
+          "bottom": 767,
+          "width": 532,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ll does not",
+          "rect": {
+            "left": 627,
+            "top": 737,
+            "right": 682,
+            "bottom": 752,
+            "width": 55,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "provide real-time continuous control in the manner required for the creation of expressive interface",
+          "rect": {
+            "left": 144,
+            "top": 752,
+            "right": 676,
+            "bottom": 767,
+            "width": 532,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ll does not\nprovide real-time continuous control in the manner required for the creation of expressive interface"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>ll does not\nprovide real-time continuous control in the manner required for the creation of expressive interface</p><p><br></p><p>#problematic</p>"
+      },
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

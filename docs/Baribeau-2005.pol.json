@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12EW56XSjK",
+      "guid": "12EW56XSjK",
+      "created": "2020-11-04T23:33:20.346Z",
+      "lastUpdated": "2020-11-04T23:33:20.346Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 256,
+          "right": 399,
+          "bottom": 274,
+          "width": 231,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le journal de bord du chercheur"
+        }
+      },
+      "text": {
+        "TEXT": "Le journal de bord du chercheur"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12da4BGfxn",
+      "guid": "12da4BGfxn",
+      "created": "2020-11-06T15:47:29.385Z",
+      "lastUpdated": "2020-11-06T15:47:29.385Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 178,
+          "right": 510,
+          "bottom": 202,
+          "width": 342,
+          "height": 23
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’instrumentation dans la collecte de données"
+        }
+      },
+      "text": {
+        "TEXT": "L’instrumentation dans la collecte de données"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12tv3kNYbD",
+      "guid": "12bxd8MBY1",
+      "created": "2020-11-06T15:47:32.345Z",
+      "lastUpdated": "2020-11-06T15:47:53.696Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 328,
+          "right": 282,
+          "bottom": 346,
+          "width": 62,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Baribeau "
+        }
+      },
+      "text": {
+        "TEXT": "Baribeau"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "(Baribeau, 2005)"
+      }
+    },
+    {
+      "id": "1RCivumvAs",
+      "guid": "1RCivumvAs",
+      "created": "2020-11-06T17:03:10.356Z",
+      "lastUpdated": "2020-11-06T17:03:10.356Z",
+      "rects": {
+        "0": {
+          "left": 215,
+          "top": 458,
+          "right": 423,
+          "bottom": 475,
+          "width": 207,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Découvrir, comprendre, expliquer; "
+        }
+      },
+      "text": {
+        "TEXT": "Découvrir, comprendre, expliquer;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12phnZoE1k",
+      "guid": "12phnZoE1k",
+      "created": "2020-11-06T17:03:13.098Z",
+      "lastUpdated": "2020-11-06T17:03:13.098Z",
+      "rects": {
+        "0": {
+          "left": 215,
+          "top": 475,
+          "right": 356,
+          "bottom": 492,
+          "width": 140,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Rapporter, faire savoir; "
+        }
+      },
+      "text": {
+        "TEXT": "Rapporter, faire savoir;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "19kC7Tugqc",
+      "guid": "19kC7Tugqc",
+      "created": "2020-11-06T17:03:20.207Z",
+      "lastUpdated": "2020-11-06T17:03:20.207Z",
+      "rects": {
+        "0": {
+          "left": 215,
+          "top": 492,
+          "right": 605,
+          "bottom": 509,
+          "width": 389,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Témoigner, ne pas oublier, partager (aspect plus intime, singulier)"
+        }
+      },
+      "text": {
+        "TEXT": "Témoigner, ne pas oublier, partager (aspect plus intime, singulier)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1058 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1rpEPfLNpG",
+      "guid": "1rpEPfLNpG",
+      "created": "2020-11-21T14:14:49.391Z",
+      "lastUpdated": "2020-11-21T14:14:49.391Z",
+      "rects": {
+        "0": {
+          "left": 118,
+          "top": 127,
+          "right": 680,
+          "bottom": 148,
+          "width": 562,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Image-to-Image Translation with Conditional Adversarial Networks"
+        }
+      },
+      "text": {
+        "TEXT": "Image-to-Image Translation with Conditional Adversarial Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12BHfZQvD7",
+      "guid": "12XiW2wQXc",
+      "created": "2020-11-21T14:14:54.668Z",
+      "lastUpdated": "2020-11-21T14:15:38.563Z",
+      "rects": {
+        "0": {
+          "left": 154,
+          "top": 179,
+          "right": 233,
+          "bottom": 197,
+          "width": 78,
+          "height": 18
+        },
+        "1": {
+          "left": 277,
+          "top": 179,
+          "right": 361,
+          "bottom": 197,
+          "width": 83,
+          "height": 18
+        },
+        "2": {
+          "left": 405,
+          "top": 179,
+          "right": 495,
+          "bottom": 197,
+          "width": 89,
+          "height": 18
+        },
+        "3": {
+          "left": 538,
+          "top": 179,
+          "right": 641,
+          "bottom": 197,
+          "width": 102,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Phillip Isola"
+        },
+        "1": {
+          "text": "Jun-Yan Zhu"
+        },
+        "2": {
+          "text": "Tinghui Zhou"
+        },
+        "3": {
+          "text": "Alexei A. Efros"
+        }
+      },
+      "text": {
+        "TEXT": "Phillip Isola Jun-Yan Zhu Tinghui Zhou Alexei A. Efros"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Isola et al., 2017)</p>\n<p>FTag: Isola-et-al-2017</p>\n<p>APA7: Isola, P., Zhu, J.-Y., Zhou, T., &amp; Efros, A. A. (2017). <em>Image-To-Image Translation With Conditional Adversarial Networks</em>. 1125–1134. <a href=\"https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html\">https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12szrGZVMz",
+      "guid": "12s5uUuspM",
+      "created": "2020-11-21T14:17:30.031Z",
+      "lastUpdated": "2020-11-21T14:33:47.072Z",
+      "rects": {
+        "0": {
+          "left": 592,
+          "top": 603,
+          "right": 724,
+          "bottom": 618,
+          "width": 132,
+          "height": 14
+        },
+        "1": {
+          "left": 411,
+          "top": 619,
+          "right": 636,
+          "bottom": 634,
+          "width": 224,
+          "height": 14
+        },
+        "2": {
+          "left": 643,
+          "top": 619,
+          "right": 727,
+          "bottom": 634,
+          "width": 84,
+          "height": 14
+        },
+        "3": {
+          "left": 411,
+          "top": 635,
+          "right": 469,
+          "bottom": 650,
+          "width": 57,
+          "height": 14
+        },
+        "4": {
+          "left": 474,
+          "top": 635,
+          "right": 726,
+          "bottom": 650,
+          "width": 252,
+          "height": 14
+        },
+        "5": {
+          "left": 411,
+          "top": 651,
+          "right": 722,
+          "bottom": 666,
+          "width": 310,
+          "height": 14
+        },
+        "6": {
+          "left": 411,
+          "top": 667,
+          "right": 455,
+          "bottom": 682,
+          "width": 43,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In analogy to automatic"
+        },
+        "1": {
+          "text": "language translation, we define automatic"
+        },
+        "2": {
+          "text": "image-to-image"
+        },
+        "3": {
+          "text": "translation"
+        },
+        "4": {
+          "text": "as the problem of translating one possible rep-"
+        },
+        "5": {
+          "text": "resentation of a scene into another, given sufficient train-"
+        },
+        "6": {
+          "text": "ing data"
+        }
+      },
+      "text": {
+        "TEXT": "In analogy to automatic language translation, we define automatic image-to-image translation as the problem of translating one possible rep- resentation of a scene into another, given sufficient train- ing data"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n\nAvec cette librairie, il est possible de faire la translation d'une image entrante vers une image sortante. Il est Intéressant de voir que nous lui donnons le résultat désiré en sortie ce qui correspond à une dynamique structurale intéressante relativement au processus créatif.\n\n</span><span><br></span></p><p><span>&gt;In analogy to automatic language translation, we define automatic image-to-image translation as the task of translating one possible representation of a scene into another, given sufficient training data.(Isola et l.,2018, p.1)\n\n</span><span>\n\n</span></p>"
+      },
+      "tags": {
+        "ref2011210911": {
+          "id": "ref2011210911",
+          "label": "ref2011210911"
+        },
+        "GAN": {
+          "id": "GAN",
+          "label": "GAN"
+        },
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        }
+      }
+    },
+    {
+      "id": "132C9YqWyo",
+      "guid": "12GALBdLzM",
+      "created": "2020-11-21T14:19:06.912Z",
+      "lastUpdated": "2020-11-21T14:19:59.259Z",
+      "rects": {
+        "0": {
+          "left": 507,
+          "top": 826,
+          "right": 727,
+          "bottom": 841,
+          "width": 219,
+          "height": 14
+        },
+        "1": {
+          "left": 411,
+          "top": 842,
+          "right": 723,
+          "bottom": 857,
+          "width": 311,
+          "height": 14
+        },
+        "2": {
+          "left": 411,
+          "top": 858,
+          "right": 590,
+          "bottom": 873,
+          "width": 179,
+          "height": 14
+        },
+        "3": {
+          "left": 590,
+          "top": 858,
+          "right": 724,
+          "bottom": 873,
+          "width": 134,
+          "height": 14
+        },
+        "4": {
+          "left": 411,
+          "top": 874,
+          "right": 600,
+          "bottom": 889,
+          "width": 188,
+          "height": 14
+        },
+        "5": {
+          "left": 600,
+          "top": 874,
+          "right": 603,
+          "bottom": 889,
+          "width": 3,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CNNs learn to minimize a loss function –"
+        },
+        "1": {
+          "text": "an objective that scores the quality of results – and although"
+        },
+        "2": {
+          "text": "the learning process is automatic, "
+        },
+        "3": {
+          "text": "a lot of manual effort still"
+        },
+        "4": {
+          "text": "goes into designing effective losses."
+        },
+        "5": {
+          "text": " "
+        }
+      },
+      "text": {
+        "TEXT": "CNNs learn to minimize a loss function – an objective that scores the quality of results – and although the learning process is automatic, a lot of manual effort still goes into designing effective losses. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>&gt;CNNs learn to minimize a loss function [...]&nbsp; a lot of manual effort still goes into designing effective losses.<span style=\"letter-spacing: 0.01071em;\">[...]&nbsp;</span><span style=\"letter-spacing: 0.01071em;\">\n\ntell the CNN what we wish it to minimize.</span></p><p>#problematic</p>"
+      }
+    },
+    {
+      "id": "12aDTLEdaZ",
+      "guid": "1CH35gTCUD",
+      "created": "2020-11-27T19:13:17.960Z",
+      "lastUpdated": "2020-11-27T19:14:43.747Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 195,
+          "right": 379,
+          "bottom": 210,
+          "width": 296,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 211,
+          "right": 379,
+          "bottom": 225,
+          "width": 312,
+          "height": 14
+        },
+        "2": {
+          "left": 66,
+          "top": 226,
+          "right": 377,
+          "bottom": 241,
+          "width": 311,
+          "height": 14
+        },
+        "3": {
+          "left": 66,
+          "top": 242,
+          "right": 379,
+          "bottom": 257,
+          "width": 312,
+          "height": 14
+        },
+        "4": {
+          "left": 66,
+          "top": 258,
+          "right": 375,
+          "bottom": 273,
+          "width": 309,
+          "height": 14
+        },
+        "5": {
+          "left": 66,
+          "top": 274,
+          "right": 239,
+          "bottom": 289,
+          "width": 172,
+          "height": 14
+        },
+        "6": {
+          "left": 238,
+          "top": 274,
+          "right": 252,
+          "bottom": 289,
+          "width": 13,
+          "height": 14
+        },
+        "7": {
+          "left": 252,
+          "top": 274,
+          "right": 255,
+          "bottom": 289,
+          "width": 3,
+          "height": 14
+        },
+        "8": {
+          "left": 259,
+          "top": 274,
+          "right": 272,
+          "bottom": 289,
+          "width": 13,
+          "height": 14
+        },
+        "9": {
+          "left": 272,
+          "top": 274,
+          "right": 276,
+          "bottom": 289,
+          "width": 3,
+          "height": 14
+        },
+        "10": {
+          "left": 279,
+          "top": 274,
+          "right": 293,
+          "bottom": 289,
+          "width": 13,
+          "height": 14
+        },
+        "11": {
+          "left": 293,
+          "top": 274,
+          "right": 296,
+          "bottom": 289,
+          "width": 3,
+          "height": 14
+        },
+        "12": {
+          "left": 300,
+          "top": 274,
+          "right": 313,
+          "bottom": 289,
+          "width": 13,
+          "height": 14
+        },
+        "13": {
+          "left": 313,
+          "top": 274,
+          "right": 317,
+          "bottom": 289,
+          "width": 3,
+          "height": 14
+        },
+        "14": {
+          "left": 321,
+          "top": 274,
+          "right": 334,
+          "bottom": 289,
+          "width": 13,
+          "height": 14
+        },
+        "15": {
+          "left": 334,
+          "top": 274,
+          "right": 338,
+          "bottom": 289,
+          "width": 4,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "It would be highly desirable if we could instead specify"
+        },
+        "1": {
+          "text": "only a high-level goal, like “make the output indistinguish-"
+        },
+        "2": {
+          "text": "able from reality”, and then automatically learn a loss func-"
+        },
+        "3": {
+          "text": "tion appropriate for satisfying this goal. Fortunately, this is"
+        },
+        "4": {
+          "text": "exactly what is done by the recently proposed Generative"
+        },
+        "5": {
+          "text": "Adversarial Networks (GANs) ["
+        },
+        "6": {
+          "text": "22"
+        },
+        "7": {
+          "text": ","
+        },
+        "8": {
+          "text": "12"
+        },
+        "9": {
+          "text": ","
+        },
+        "10": {
+          "text": "41"
+        },
+        "11": {
+          "text": ","
+        },
+        "12": {
+          "text": "49"
+        },
+        "13": {
+          "text": ","
+        },
+        "14": {
+          "text": "59"
+        },
+        "15": {
+          "text": "]"
+        }
+      },
+      "text": {
+        "TEXT": "It would be highly desirable if we could instead specify only a high-level goal, like “make the output indistinguish- able from reality”, and then automatically learn a loss func- tion appropriate for satisfying this goal. Fortunately, this is exactly what is done by the recently proposed Generative Adversarial Networks (GANs) [ 22 , 12 , 41 , 49 , 59 ]"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt;It would be highly desirable if we could instead specify only a high-level goal, like “make the output indistinguishable from reality”, and then automatically learn a loss function appropriate for satisfying this goal. Fortunately, this is exactly what is done by the recently proposed Generative Adversarial Networks (GANs) [ 22 , 12 , 41 , 49 , 59 ]&nbsp;<span>\n\n&nbsp;(Isola et al., 2017, p.1126)\n\n</span></p>"
+      },
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        },
+        "CreativeAI": {
+          "id": "CreativeAI",
+          "label": "CreativeAI"
+        }
+      }
+    },
+    {
+      "id": "1ARaTKAKQb",
+      "guid": "14sqLYgRoL",
+      "created": "2020-11-27T19:19:37.119Z",
+      "lastUpdated": "2020-11-27T19:26:45.767Z",
+      "rects": {
+        "0": {
+          "left": 427,
+          "top": 649,
+          "right": 726,
+          "bottom": 664,
+          "width": 298,
+          "height": 14
+        },
+        "1": {
+          "left": 411,
+          "top": 665,
+          "right": 517,
+          "bottom": 680,
+          "width": 106,
+          "height": 14
+        },
+        "2": {
+          "left": 521,
+          "top": 665,
+          "right": 527,
+          "bottom": 680,
+          "width": 6,
+          "height": 14
+        },
+        "3": {
+          "left": 530,
+          "top": 665,
+          "right": 612,
+          "bottom": 680,
+          "width": 82,
+          "height": 14
+        },
+        "4": {
+          "left": 614,
+          "top": 665,
+          "right": 621,
+          "bottom": 680,
+          "width": 6,
+          "height": 14
+        },
+        "5": {
+          "left": 621,
+          "top": 665,
+          "right": 625,
+          "bottom": 680,
+          "width": 3,
+          "height": 14
+        },
+        "6": {
+          "left": 627,
+          "top": 665,
+          "right": 638,
+          "bottom": 680,
+          "width": 10,
+          "height": 14
+        },
+        "7": {
+          "left": 642,
+          "top": 665,
+          "right": 645,
+          "bottom": 680,
+          "width": 3,
+          "height": 14
+        },
+        "8": {
+          "left": 649,
+          "top": 665,
+          "right": 655,
+          "bottom": 680,
+          "width": 6,
+          "height": 14
+        },
+        "9": {
+          "left": 659,
+          "top": 665,
+          "right": 673,
+          "bottom": 680,
+          "width": 13,
+          "height": 14
+        },
+        "10": {
+          "left": 676,
+          "top": 665,
+          "right": 683,
+          "bottom": 680,
+          "width": 6,
+          "height": 14
+        },
+        "11": {
+          "left": 686,
+          "top": 665,
+          "right": 691,
+          "bottom": 680,
+          "width": 4,
+          "height": 14
+        },
+        "12": {
+          "left": 690,
+          "top": 665,
+          "right": 704,
+          "bottom": 680,
+          "width": 13,
+          "height": 14
+        },
+        "13": {
+          "left": 704,
+          "top": 665,
+          "right": 726,
+          "bottom": 680,
+          "width": 22,
+          "height": 14
+        },
+        "14": {
+          "left": 411,
+          "top": 681,
+          "right": 726,
+          "bottom": 696,
+          "width": 314,
+          "height": 14
+        },
+        "15": {
+          "left": 411,
+          "top": 697,
+          "right": 444,
+          "bottom": 712,
+          "width": 32,
+          "height": 14
+        },
+        "16": {
+          "left": 448,
+          "top": 697,
+          "right": 454,
+          "bottom": 712,
+          "width": 6,
+          "height": 14
+        },
+        "17": {
+          "left": 459,
+          "top": 697,
+          "right": 590,
+          "bottom": 712,
+          "width": 131,
+          "height": 14
+        },
+        "18": {
+          "left": 595,
+          "top": 697,
+          "right": 601,
+          "bottom": 712,
+          "width": 6,
+          "height": 14
+        },
+        "19": {
+          "left": 602,
+          "top": 697,
+          "right": 619,
+          "bottom": 712,
+          "width": 17,
+          "height": 14
+        },
+        "20": {
+          "left": 623,
+          "top": 697,
+          "right": 629,
+          "bottom": 712,
+          "width": 6,
+          "height": 14
+        },
+        "21": {
+          "left": 630,
+          "top": 697,
+          "right": 633,
+          "bottom": 712,
+          "width": 3,
+          "height": 14
+        },
+        "22": {
+          "left": 637,
+          "top": 697,
+          "right": 647,
+          "bottom": 712,
+          "width": 10,
+          "height": 14
+        },
+        "23": {
+          "left": 652,
+          "top": 696,
+          "right": 656,
+          "bottom": 711,
+          "width": 3,
+          "height": 14
+        },
+        "24": {
+          "left": 660,
+          "top": 696,
+          "right": 665,
+          "bottom": 711,
+          "width": 4,
+          "height": 14
+        },
+        "25": {
+          "left": 667,
+          "top": 697,
+          "right": 686,
+          "bottom": 712,
+          "width": 19,
+          "height": 14
+        },
+        "26": {
+          "left": 687,
+          "top": 696,
+          "right": 711,
+          "bottom": 711,
+          "width": 24,
+          "height": 14
+        },
+        "27": {
+          "left": 716,
+          "top": 697,
+          "right": 723,
+          "bottom": 712,
+          "width": 6,
+          "height": 14
+        },
+        "28": {
+          "left": 723,
+          "top": 697,
+          "right": 726,
+          "bottom": 712,
+          "width": 3,
+          "height": 14
+        },
+        "29": {
+          "left": 411,
+          "top": 713,
+          "right": 484,
+          "bottom": 728,
+          "width": 73,
+          "height": 14
+        },
+        "30": {
+          "left": 488,
+          "top": 713,
+          "right": 498,
+          "bottom": 728,
+          "width": 10,
+          "height": 14
+        },
+        "31": {
+          "left": 501,
+          "top": 713,
+          "right": 724,
+          "bottom": 728,
+          "width": 223,
+          "height": 14
+        },
+        "32": {
+          "left": 411,
+          "top": 729,
+          "right": 723,
+          "bottom": 744,
+          "width": 312,
+          "height": 14
+        },
+        "33": {
+          "left": 411,
+          "top": 745,
+          "right": 485,
+          "bottom": 760,
+          "width": 73,
+          "height": 14
+        },
+        "34": {
+          "left": 489,
+          "top": 745,
+          "right": 498,
+          "bottom": 760,
+          "width": 9,
+          "height": 14
+        },
+        "35": {
+          "left": 500,
+          "top": 745,
+          "right": 726,
+          "bottom": 760,
+          "width": 226,
+          "height": 14
+        },
+        "36": {
+          "left": 411,
+          "top": 761,
+          "right": 722,
+          "bottom": 776,
+          "width": 311,
+          "height": 14
+        },
+        "37": {
+          "left": 411,
+          "top": 777,
+          "right": 543,
+          "bottom": 792,
+          "width": 131,
+          "height": 14
+        },
+        "38": {
+          "left": 545,
+          "top": 777,
+          "right": 552,
+          "bottom": 792,
+          "width": 6,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "GANs are generative models that learn a mapping from"
+        },
+        "1": {
+          "text": "random noise vector"
+        },
+        "2": {
+          "text": "z"
+        },
+        "3": {
+          "text": "to output image"
+        },
+        "4": {
+          "text": "y"
+        },
+        "5": {
+          "text": ","
+        },
+        "6": {
+          "text": "G"
+        },
+        "7": {
+          "text": ":"
+        },
+        "8": {
+          "text": "z"
+        },
+        "9": {
+          "text": "→"
+        },
+        "10": {
+          "text": "y"
+        },
+        "11": {
+          "text": "["
+        },
+        "12": {
+          "text": "22"
+        },
+        "13": {
+          "text": "]. In"
+        },
+        "14": {
+          "text": "contrast, conditional GANs learn a mapping from observed"
+        },
+        "15": {
+          "text": "image"
+        },
+        "16": {
+          "text": "x"
+        },
+        "17": {
+          "text": "and random noise vector"
+        },
+        "18": {
+          "text": "z"
+        },
+        "19": {
+          "text": ", to"
+        },
+        "20": {
+          "text": "y"
+        },
+        "21": {
+          "text": ","
+        },
+        "22": {
+          "text": "G"
+        },
+        "23": {
+          "text": ":"
+        },
+        "24": {
+          "text": "{"
+        },
+        "25": {
+          "text": "x, z"
+        },
+        "26": {
+          "text": "} →"
+        },
+        "27": {
+          "text": "y"
+        },
+        "28": {
+          "text": "."
+        },
+        "29": {
+          "text": "The generator"
+        },
+        "30": {
+          "text": "G"
+        },
+        "31": {
+          "text": "is trained to produce outputs that cannot be"
+        },
+        "32": {
+          "text": "distinguished from “real” images by an adversarially trained"
+        },
+        "33": {
+          "text": "discriminator,"
+        },
+        "34": {
+          "text": "D"
+        },
+        "35": {
+          "text": ", which is trained to do as well as possible"
+        },
+        "36": {
+          "text": "at detecting the generator’s “fakes”. This training procedure"
+        },
+        "37": {
+          "text": "is diagrammed in Figure"
+        },
+        "38": {
+          "text": "2"
+        }
+      },
+      "text": {
+        "TEXT": "GANs are generative models that learn a mapping from random noise vector z to output image y , G : z → y [ 22 ]. In contrast, conditional GANs learn a mapping from observed image x and random noise vector z , to y , G : { x, z } → y . The generator G is trained to produce outputs that cannot be distinguished from “real” images by an adversarially trained discriminator, D , which is trained to do as well as possible at detecting the generator’s “fakes”. This training procedure is diagrammed in Figure 2"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Le réseau génératif adverse (RGA) sont des modèles génératifs qui apprennent une cartographie à partir d'un vecteur de bruit aléatoire vers une image tandit que le réseau génératif adverse conditionel (RGAC) apprend sa cartographie à partir d'observation d'image et de bruit aléatoire.</p><p>Je ne comprend pas encore pleinement la chose.</p><p>&gt;GANs are generative models that learn a mapping from random noise vector z to output image y , G : z → y [ 22 ]. In contrast, conditional GANs learn a mapping from observed image x and random noise vector z , to y , G : { x, z } → y . The generator G is trained to produce outputs that cannot be distinguished from “real” images by an adversarially trained discriminator, D , which is trained to do as well as possible at detecting the generator’s “fakes”. This training procedure is diagrammed in Figure 2</p>"
+      },
+      "tags": {
+        "GAN.def": {
+          "id": "GAN.def",
+          "label": "GAN.def"
+        },
+        "RGA": {
+          "id": "RGA",
+          "label": "RGA"
+        },
+        "RGAC": {
+          "id": "RGAC",
+          "label": "RGAC"
+        },
+        "ref2011271354": {
+          "id": "ref2011271354",
+          "label": "ref2011271354"
+        }
+      }
+    },
+    {
+      "id": "128XmJ58qf",
+      "guid": "128XmJ58qf",
+      "created": "2020-11-27T19:19:42.073Z",
+      "lastUpdated": "2020-11-27T19:20:09.486Z",
+      "rects": {
+        "0": {
+          "left": 19.289164941338854,
+          "top": 12.762776519189766,
+          "width": 10.351966873706004,
+          "height": 7.995735607675906
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1QHZ2Wa75d6YxCWE2NY4",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1QHZ2Wa75d6YxCWE2NY4.png"
+        },
+        "width": 1162,
+        "height": 442,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 60,
+        "y": 75,
+        "width": 326,
+        "height": 124
+      }
+    },
+    {
+      "id": "1eYKbfqPPr",
+      "guid": "1eYKbfqPPr",
+      "created": "2020-11-27T19:20:12.721Z",
+      "lastUpdated": "2020-11-27T19:20:28.799Z",
+      "rects": {
+        "0": {
+          "left": 11.697722567287785,
+          "top": 6.15296841684435,
+          "width": 10.351966873706003,
+          "height": 7.995735607675905
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "121pTYHaQxrwsDD4CZSH",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "121pTYHaQxrwsDD4CZSH.png"
+        },
+        "width": 1206,
+        "height": 770,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 55,
+        "y": 63,
+        "width": 339,
+        "height": 216
+      }
+    },
+    {
+      "id": "12phML3s5XfTMeTtpePZ",
+      "guid": "12phML3s5XfTMeTtpePZ",
+      "created": "2020-11-27T19:20:47.033Z",
+      "lastUpdated": "2020-11-27T19:20:47.033Z",
+      "content": {
+        "HTML": "<p>Figure 2.</p>"
+      },
+      "ref": "area-highlight:128XmJ58qf"
+    }
+  ]
+
+}
+
+
+
+

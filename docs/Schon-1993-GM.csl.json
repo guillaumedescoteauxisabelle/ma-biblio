@@ -1,0 +1,47 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/JSN8JP43",
+		"type": "chapter",
+		"container-title": "Metaphor and Thought",
+		"edition": "2",
+		"ISBN": "978-0-521-40547-8",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s0] \nDOI: 10.1017/CBO9781139173865.011",
+		"page": "137-163",
+		"publisher": "Cambridge University Press",
+		"source": "DOI.org (Crossref)",
+		"title": "Generative metaphor: A perspective on problem-setting in social policy",
+		"title-short": "Generative metaphor",
+		"URL": "https://www.cambridge.org/core/product/identifier/CBO9781139173865A018/type/book_part",
+		"editor": [
+			{
+				"family": "Ortony",
+				"given": "Andrew"
+			}
+		],
+		"author": [
+			{
+				"family": "Schön",
+				"given": "Donald A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					11,
+					26
+				]
+			]
+		}
+	}
+]

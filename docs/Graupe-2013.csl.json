@@ -1,0 +1,32 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/YDZ46GY5",
+		"type": "book",
+		"call-number": "QA76.87 .G77 2013",
+		"collection-number": "volume 7",
+		"collection-title": "Advanced series on circuits and systems",
+		"edition": "3rd edition",
+		"event-place": "New Jersey",
+		"ISBN": "978-981-4522-73-1",
+		"language": "en",
+		"note": "ZSCC: 0000991",
+		"number-of-pages": "363",
+		"publisher": "World Scientific",
+		"publisher-place": "New Jersey",
+		"source": "Library of Congress ISBN",
+		"title": "Principles of artificial neural networks",
+		"author": [
+			{
+				"family": "Graupe",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	}
+]

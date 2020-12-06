@@ -1,0 +1,48 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/AR8HXJRW",
+		"type": "article-journal",
+		"abstract": "Recently, style transfer has received a lot of attention. While much of this research has aimed at speeding up processing, the approaches are still lacking from a principled, art historical standpoint: a style is more than just a single image or an artist, but previous work is limited to only a single instance of a style or shows no benefit from more images. Moreover, previous work has relied on a direct comparison of art in the domain of RGB images or on CNNs pre-trained on ImageNet, which requires millions of labeled object bounding boxes and can introduce an extra bias, since it has been assembled without artistic consideration. To circumvent these issues, we propose a style-aware content loss, which is trained jointly with a deep encoder-decoder network for real-time, high-resolution stylization of images and videos. We propose a quantitative measure for evaluating the quality of a stylized image and also have art historians rank patches from our approach against those from previous work. These and our qualitative results ranging from small image patches to megapixel stylistic images and videos show that our approach better captures the subtle nature in which a style affects content.",
+		"container-title": "arXiv:1807.10201 [cs]",
+		"note": "ZSCC: 0000057 \narXiv: 1807.10201",
+		"source": "arXiv.org",
+		"title": "A Style-Aware Content Loss for Real-time HD Style Transfer",
+		"URL": "http://arxiv.org/abs/1807.10201",
+		"author": [
+			{
+				"family": "Sanakoyeu",
+				"given": "Artsiom"
+			},
+			{
+				"family": "Kotovenko",
+				"given": "Dmytro"
+			},
+			{
+				"family": "Lang",
+				"given": "Sabine"
+			},
+			{
+				"family": "Ommer",
+				"given": "Björn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					28
+				]
+			]
+		}
+	}
+]

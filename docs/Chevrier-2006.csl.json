@@ -1,0 +1,28 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/TYBPU2N9",
+		"type": "book",
+		"event-place": "Québec",
+		"ISBN": "978-2-7605-1243-6",
+		"language": "fr",
+		"note": "ZSCC: NoCitationData[s1] \nOCLC: 716915756",
+		"publisher": "Presses de l'Université du Québec",
+		"publisher-place": "Québec",
+		"source": "Open WorldCat",
+		"title": "Recherche sociale: de la problématique à la collecte des données",
+		"title-short": "Recherche sociale",
+		"author": [
+			{
+				"family": "Gauthier",
+				"given": "Benoît"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	}
+]

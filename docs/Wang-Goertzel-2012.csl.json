@@ -1,0 +1,28 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/XKKYA5CU",
+		"type": "article-journal",
+		"language": "en",
+		"note": "ZSCC: 0000046",
+		"page": "17",
+		"source": "Zotero",
+		"title": "Introduction: Aspects of Artificial General Intelligence",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Pei"
+			},
+			{
+				"family": "Goertzel",
+				"given": "Ben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	}
+]

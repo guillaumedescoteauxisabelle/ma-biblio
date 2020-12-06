@@ -1,0 +1,729 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12gHzqv1ch",
+      "guid": "12gHzqv1ch",
+      "created": "2020-09-27T16:39:11.017Z",
+      "lastUpdated": "2020-09-27T16:39:29.036Z",
+      "rects": {
+        "0": {
+          "left": 1.5120967741935483,
+          "top": 1.4255167498218104,
+          "width": 96.87499999999999,
+          "height": 95.5808980755524
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1YiCZM4bB9sbHgp5L8Yw",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1YiCZM4bB9sbHgp5L8Yw.png"
+        },
+        "width": 1922,
+        "height": 2682,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 12,
+        "y": 16,
+        "width": 768,
+        "height": 1072
+      }
+    },
+    {
+      "id": "1MhXpwVdh3",
+      "guid": "12GfPvtQ4B",
+      "created": "2020-09-27T16:39:41.286Z",
+      "lastUpdated": "2020-09-27T16:43:09.881Z",
+      "rects": {
+        "0": {
+          "left": 193,
+          "top": 78,
+          "right": 249,
+          "bottom": 100,
+          "width": 56,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "He",
+          "rect": {
+            "left": 193,
+            "top": 78,
+            "right": 215,
+            "bottom": 100,
+            "width": 22,
+            "height": 22
+          }
+        },
+        "1": {
+          "text": "aton",
+          "rect": {
+            "left": 215,
+            "top": 78,
+            "right": 249,
+            "bottom": 100,
+            "width": 33,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Heaton"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>-------------------</h1><h1>Heaton</h1><p>----------------------</p><p><br></p><p></p><p>Citer: (Heaton, 2013)</p><p>FTag: Heaton-2013</p><p>\n\n</p><p>APA7:&nbsp; Heaton, J. (2013). <em>Deep learning and neural networks</em>. Heaton Research, Inc.</p><p><br></p><p><br></p><h2><b>Bio</b></h2><h2><b></b></h2><p><b>---------------------------------------------------</b></p><p><b>Jeff Heaton, PhD, is a computer scientist that specializes in data science and artificial intelligence. Specializing in Python, R, Java and C#, he is an open source contributor and author of more than ten books. His areas of expertise include predictive modeling, data mining, big data, business intelligence, and artificial intelligence. Jeff holds a Master's Degree in Information Management from Washington University and a PhD in computer science from Nova Southeastern University in computer science. He is the lead developer for the Encog Machine Learning Framework open source project, a senior member of IEEE, and a fellow of the Life Management Institute (FLMI). --This text refers to the paperback edition.</b></p><p><b><br></b></p><p><b>http://chat.afelia.jgwill.com:3012/t/200927120948#msg_1_id</b></p><p><b></b><br><br></p>"
+      }
+    },
+    {
+      "id": "12FGZu8pBq",
+      "guid": "12SmVtFNxw",
+      "created": "2020-09-27T16:41:02.221Z",
+      "lastUpdated": "2020-09-27T16:41:18.356Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 589,
+          "right": 218,
+          "bottom": 636,
+          "width": 170,
+          "height": 47
+        },
+        "1": {
+          "left": 76,
+          "top": 636,
+          "right": 720,
+          "bottom": 658,
+          "width": 644,
+          "height": 22
+        },
+        "2": {
+          "left": 48,
+          "top": 658,
+          "right": 448,
+          "bottom": 709,
+          "width": 400,
+          "height": 51
+        },
+        "3": {
+          "left": 48,
+          "top": 709,
+          "right": 299,
+          "bottom": 732,
+          "width": 251,
+          "height": 23
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Code Repositories",
+          "rect": {
+            "left": 48,
+            "top": 589,
+            "right": 218,
+            "bottom": 615,
+            "width": 170,
+            "height": 25
+          }
+        },
+        "1": {
+          "text": "All of the code for this project is released under the Apache Open Source License v2",
+          "rect": {
+            "left": 76,
+            "top": 636,
+            "right": 720,
+            "bottom": 658,
+            "width": 644,
+            "height": 22
+          }
+        },
+        "2": {
+          "text": "and can be found at the following GitHub repository:",
+          "rect": {
+            "left": 48,
+            "top": 658,
+            "right": 448,
+            "bottom": 680,
+            "width": 400,
+            "height": 22
+          }
+        },
+        "3": {
+          "text": "https://github.com/jeffheaton/aifh",
+          "rect": {
+            "left": 48,
+            "top": 709,
+            "right": 299,
+            "bottom": 732,
+            "width": 251,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Code Repositories\nAll of the code for this project is released under the Apache Open Source License v2\nand can be found at the following GitHub repository:\nhttps://github.com/jeffheaton/aifh"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Code Repositories\n</p><p><br></p><p><b>GitHub repository:\n</b><a href=\"https://github.com/jeffheaton/aifh\">https://github.com/jeffheaton/aifh</a></p><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "id": "1fy1U2QcGP",
+      "guid": "1EHAMN11wE",
+      "created": "2020-09-27T16:43:42.706Z",
+      "lastUpdated": "2020-09-27T16:43:47.773Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 343,
+          "right": 294,
+          "bottom": 368,
+          "width": 246,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Neural Network Structure",
+          "rect": {
+            "left": 48,
+            "top": 343,
+            "right": 294,
+            "bottom": 368,
+            "width": 246,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Neural Network Structure"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Neural Network Structure</h1>"
+      }
+    },
+    {
+      "id": "19cQ5wfdQ5",
+      "guid": "19cQ5wfdQ5",
+      "created": "2020-09-27T16:43:52.595Z",
+      "lastUpdated": "2020-09-27T16:43:52.595Z",
+      "rects": {
+        "0": {
+          "left": 76,
+          "top": 389,
+          "right": 729,
+          "bottom": 412,
+          "width": 653,
+          "height": 23
+        },
+        "1": {
+          "left": 48,
+          "top": 412,
+          "right": 201,
+          "bottom": 434,
+          "width": 153,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Neural networks consist of layers of similar neurons. Most have at least an input layer",
+          "rect": {
+            "left": 76,
+            "top": 389,
+            "right": 729,
+            "bottom": 412,
+            "width": 652,
+            "height": 22
+          }
+        },
+        "1": {
+          "text": "and an output layer. ",
+          "rect": {
+            "left": 48,
+            "top": 412,
+            "right": 201,
+            "bottom": 434,
+            "width": 153,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Neural networks consist of layers of similar neurons. Most have at least an input layer\nand an output layer. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12wjq5zu1w",
+      "guid": "12wjq5zu1w",
+      "created": "2020-09-27T16:44:50.963Z",
+      "lastUpdated": "2020-09-27T16:44:57.975Z",
+      "rects": {
+        "0": {
+          "left": 5.040322580645161,
+          "top": 9.052031361368497,
+          "width": 91.07862903225805,
+          "height": 60.04989308624376
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1eXgQfLWz32QKCLZsZd6",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1eXgQfLWz32QKCLZsZd6.png"
+        },
+        "width": 1807,
+        "height": 1685,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 40,
+        "y": 101,
+        "width": 722,
+        "height": 674
+      }
+    },
+    {
+      "id": "1wzWTg1gUFjSPYtpV8DM",
+      "guid": "1wzWTg1gUFjSPYtpV8DM",
+      "created": "2020-09-27T16:45:12.394Z",
+      "lastUpdated": "2020-09-27T16:45:12.394Z",
+      "content": {
+        "HTML": "<p>Schema of a Neuron</p>"
+      },
+      "ref": "area-highlight:12wjq5zu1w"
+    },
+    {
+      "id": "12ojvCrad3",
+      "guid": "12HrrYRhkq",
+      "created": "2020-09-27T16:45:23.206Z",
+      "lastUpdated": "2020-09-27T16:45:47.054Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 159,
+          "right": 247,
+          "bottom": 189,
+          "width": 199,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Types of Neurons",
+          "rect": {
+            "left": 48,
+            "top": 159,
+            "right": 247,
+            "bottom": 189,
+            "width": 199,
+            "height": 30
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Types of Neurons"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Types of Neurons</h1><h2></h2><p><br></p>"
+      }
+    },
+    {
+      "id": "129bA4CTK7",
+      "guid": "12qvbLBM6J",
+      "created": "2020-09-27T16:45:40.439Z",
+      "lastUpdated": "2020-09-27T16:46:02.557Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 352,
+          "right": 295,
+          "bottom": 378,
+          "width": 247,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Input and Output Neurons",
+          "rect": {
+            "left": 48,
+            "top": 352,
+            "right": 295,
+            "bottom": 378,
+            "width": 247,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Input and Output Neurons"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Input and Output Neurons</h2><p></p>"
+      }
+    },
+    {
+      "id": "12CEXYD1iA",
+      "guid": "1JnhZZaS9u",
+      "created": "2020-09-27T16:46:14.421Z",
+      "lastUpdated": "2020-09-27T16:46:23.960Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 668,
+          "right": 172,
+          "bottom": 693,
+          "width": 124,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Bias Neurons",
+          "rect": {
+            "left": 48,
+            "top": 668,
+            "right": 172,
+            "bottom": 693,
+            "width": 124,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Bias Neurons"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>Bias Neurons</h3>"
+      }
+    },
+    {
+      "id": "12Gh21Ez4H",
+      "guid": "12Gh21Ez4H",
+      "created": "2020-09-27T16:46:41.850Z",
+      "lastUpdated": "2020-09-27T16:46:41.850Z",
+      "rects": {
+        "0": {
+          "left": 76,
+          "top": 715,
+          "right": 674,
+          "bottom": 737,
+          "width": 598,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Programmers add bias neurons to neural networks to help them learn patterns. ",
+          "rect": {
+            "left": 76,
+            "top": 715,
+            "right": 674,
+            "bottom": 737,
+            "width": 597,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Programmers add bias neurons to neural networks to help them learn patterns. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1LygpD2iLM",
+      "guid": "1LygpD2iLM",
+      "created": "2020-09-27T16:47:17.477Z",
+      "lastUpdated": "2020-09-27T16:47:25.158Z",
+      "rects": {
+        "0": {
+          "left": 5.040322580645161,
+          "top": 4.989308624376337,
+          "width": 91.3306451612903,
+          "height": 54.77548111190307
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12pwifVh7w48WZTQqcY9",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12pwifVh7w48WZTQqcY9.png"
+        },
+        "width": 1812,
+        "height": 1537,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 40,
+        "y": 56,
+        "width": 724,
+        "height": 614
+      }
+    },
+    {
+      "id": "18vBG4h6b5",
+      "guid": "12C4Yb7jxy",
+      "created": "2020-09-27T16:47:39.436Z",
+      "lastUpdated": "2020-09-27T16:47:45.615Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 77,
+          "right": 207,
+          "bottom": 103,
+          "width": 159,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Context Neurons",
+          "rect": {
+            "left": 48,
+            "top": 77,
+            "right": 207,
+            "bottom": 103,
+            "width": 159,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Context Neurons"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>Context Neurons</h3>"
+      }
+    },
+    {
+      "id": "1r3LQYg4Tw",
+      "guid": "1r3LQYg4Tw",
+      "created": "2020-09-27T16:47:51.722Z",
+      "lastUpdated": "2020-09-27T16:47:51.722Z",
+      "rects": {
+        "0": {
+          "left": 76,
+          "top": 124,
+          "right": 731,
+          "bottom": 147,
+          "width": 655,
+          "height": 23
+        },
+        "1": {
+          "left": 48,
+          "top": 146,
+          "right": 301,
+          "bottom": 168,
+          "width": 253,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Context neurons are used in recurrent neural networks. ",
+          "rect": {
+            "left": 76,
+            "top": 124,
+            "right": 498,
+            "bottom": 147,
+            "width": 421,
+            "height": 22
+          }
+        },
+        "1": {
+          "text": "This type of neuron allows the",
+          "rect": {
+            "left": 502,
+            "top": 124,
+            "right": 731,
+            "bottom": 147,
+            "width": 229,
+            "height": 22
+          }
+        },
+        "2": {
+          "text": "neural network to maintain state",
+          "rect": {
+            "left": 48,
+            "top": 146,
+            "right": 291,
+            "bottom": 168,
+            "width": 243,
+            "height": 22
+          }
+        },
+        "3": {
+          "text": ". ",
+          "rect": {
+            "left": 291,
+            "top": 146,
+            "right": 301,
+            "bottom": 168,
+            "width": 9,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Context neurons are used in recurrent neural networks.  This type of neuron allows the\nneural network to maintain state. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12tnGmz78Q",
+      "guid": "12tnGmz78Q",
+      "created": "2020-09-27T16:48:21.165Z",
+      "lastUpdated": "2020-09-27T16:48:27.567Z",
+      "rects": {
+        "0": {
+          "left": 2.721774193548387,
+          "top": 38.27512473271561,
+          "width": 93.75,
+          "height": 56.69992872416252
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1271PTBRBhRg8BBjBXHD",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1271PTBRBhRg8BBjBXHD.png"
+        },
+        "width": 1860,
+        "height": 1591,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 21,
+        "y": 429,
+        "width": 744,
+        "height": 636
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

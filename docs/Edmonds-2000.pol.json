@@ -1,0 +1,1339 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "129TYVnEbe",
+      "guid": "12j1bzEBCu",
+      "created": "2020-11-09T20:36:53.861Z",
+      "lastUpdated": "2020-11-09T20:36:59.434Z",
+      "rects": {
+        "0": {
+          "left": 129,
+          "top": 221,
+          "right": 590,
+          "bottom": 247,
+          "width": 461,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Art practice augmented by digital agents"
+        }
+      },
+      "text": {
+        "TEXT": "Art practice augmented by digital agents"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Art practice augmented by digital agents</h1>"
+      }
+    },
+    {
+      "id": "12rfrE1ZMd",
+      "guid": "1R2iVTC4cv",
+      "created": "2020-11-09T20:37:02.505Z",
+      "lastUpdated": "2020-11-09T20:38:42.617Z",
+      "rects": {
+        "0": {
+          "left": 185,
+          "top": 281,
+          "right": 259,
+          "bottom": 299,
+          "width": 74,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " Edmonds"
+        }
+      },
+      "text": {
+        "TEXT": "Edmonds"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Edmonds, 2000)</p>\n<p>FTag: Edmonds-2000</p>\n<p>APA7: Edmonds, E. (2000). Art practice augmented by digital agents. <em>Digital Creativity</em>, <em>11</em>(4), 193–204. <a href=\"https://doi.org/10.1076/digc.11.4.193.8875\">https://doi.org/10.1076/digc.11.4.193.8875</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "1cV84ChxU8",
+      "guid": "12bKC5QPL7",
+      "created": "2020-11-09T20:40:23.030Z",
+      "lastUpdated": "2020-11-09T20:43:37.697Z",
+      "rects": {
+        "0": {
+          "left": 209,
+          "top": 508,
+          "right": 443,
+          "bottom": 523,
+          "width": 234,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 524,
+          "right": 256,
+          "bottom": 539,
+          "width": 61,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " role of a catalyst, or a stimulant, to our own crea-"
+        },
+        "1": {
+          "text": "tive  thinking."
+        }
+      },
+      "text": {
+        "TEXT": "role of a catalyst, or a stimulant, to our own crea- tive  thinking."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "role of a catalyst, or a stimulant, to our own creative  thinking."
+      },
+      "tags": {
+        "AIGoal": {
+          "id": "AIGoal",
+          "label": "AIGoal"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "15BQPafCxQ",
+      "guid": "18CwNruwxR",
+      "created": "2020-11-09T20:42:24.074Z",
+      "lastUpdated": "2020-11-10T04:39:46.787Z",
+      "rects": {
+        "0": {
+          "left": 415,
+          "top": 652,
+          "right": 444,
+          "bottom": 667,
+          "width": 28,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 668,
+          "right": 289,
+          "bottom": 683,
+          "width": 95,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "o pre-"
+        },
+        "1": {
+          "text": "dict what might help"
+        }
+      },
+      "text": {
+        "TEXT": "o pre- dict what might help"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>predict what might help</h2>"
+      }
+    },
+    {
+      "id": "122p6kqKE7",
+      "guid": "1enK9haTCY",
+      "created": "2020-11-09T20:42:45.916Z",
+      "lastUpdated": "2020-11-09T20:43:18.508Z",
+      "rects": {
+        "0": {
+          "left": 284,
+          "top": 684,
+          "right": 444,
+          "bottom": 699,
+          "width": 160,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 700,
+          "right": 443,
+          "bottom": 715,
+          "width": 249,
+          "height": 15
+        },
+        "2": {
+          "left": 194,
+          "top": 716,
+          "right": 303,
+          "bottom": 731,
+          "width": 109,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " begin to define the characteris-"
+        },
+        "1": {
+          "text": "tics of what the computer must do in order to aug-"
+        },
+        "2": {
+          "text": "ment  creative  thinking"
+        }
+      },
+      "text": {
+        "TEXT": "begin to define the characteris- tics of what the computer must do in order to aug- ment  creative  thinking"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "begin to define the characteristics of what the computer must do in order to augment  creative  thinking"
+      },
+      "tags": {
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "1t46HQnrMX",
+      "guid": "1t46HQnrMX",
+      "created": "2020-11-09T20:43:59.669Z",
+      "lastUpdated": "2020-11-09T20:44:06.416Z",
+      "rects": {
+        "0": {
+          "left": 298,
+          "top": 732,
+          "right": 421,
+          "bottom": 747,
+          "width": 122,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " intelligent  user  interface"
+        }
+      },
+      "text": {
+        "TEXT": "intelligent  user  interface"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      }
+    },
+    {
+      "id": "12MLa2ZMtK",
+      "guid": "12MLa2ZMtK",
+      "created": "2020-11-09T20:44:17.058Z",
+      "lastUpdated": "2020-11-09T20:44:17.058Z",
+      "rects": {
+        "0": {
+          "left": 213,
+          "top": 748,
+          "right": 416,
+          "bottom": 763,
+          "width": 203,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "augmentation of creative thought in artist"
+        }
+      },
+      "text": {
+        "TEXT": "augmentation of creative thought in artist"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1rks9ky8nu",
+      "guid": "12ELGty39n",
+      "created": "2020-11-09T20:45:31.490Z",
+      "lastUpdated": "2020-11-10T04:40:48.684Z",
+      "rects": {
+        "0": {
+          "left": 517,
+          "top": 652,
+          "right": 675,
+          "bottom": 668,
+          "width": 157,
+          "height": 15
+        },
+        "1": {
+          "left": 460,
+          "top": 668,
+          "right": 701,
+          "bottom": 684,
+          "width": 241,
+          "height": 15
+        },
+        "2": {
+          "left": 460,
+          "top": 684,
+          "right": 713,
+          "bottom": 700,
+          "width": 252,
+          "height": 15
+        },
+        "3": {
+          "left": 460,
+          "top": 700,
+          "right": 640,
+          "bottom": 716,
+          "width": 180,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " By using intelligent agents to"
+        },
+        "1": {
+          "text": "generate the concrete realisations of the struc-"
+        },
+        "2": {
+          "text": "ture decisions the artist can see the implications"
+        },
+        "3": {
+          "text": "within very short intervals of time"
+        }
+      },
+      "text": {
+        "TEXT": "By using intelligent agents to generate the concrete realisations of the struc- ture decisions the artist can see the implications within very short intervals of time"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Previewing concrete implication of decision&nbsp;</h2><p>&gt;By using intelligent agents to generate the concrete realisations of the structure decisions the artist can see the implications within very short intervals of time</p>"
+      }
+    },
+    {
+      "id": "12Ry5qmuee",
+      "guid": "1ppBpW1Gax",
+      "created": "2020-11-09T20:45:45.129Z",
+      "lastUpdated": "2020-11-09T20:51:19.700Z",
+      "rects": {
+        "0": {
+          "left": 602,
+          "top": 588,
+          "right": 700,
+          "bottom": 604,
+          "width": 97,
+          "height": 15
+        },
+        "1": {
+          "left": 460,
+          "top": 604,
+          "right": 707,
+          "bottom": 620,
+          "width": 246,
+          "height": 15
+        },
+        "2": {
+          "left": 460,
+          "top": 620,
+          "right": 718,
+          "bottom": 636,
+          "width": 257,
+          "height": 15
+        },
+        "3": {
+          "left": 460,
+          "top": 636,
+          "right": 704,
+          "bottom": 652,
+          "width": 244,
+          "height": 15
+        },
+        "4": {
+          "left": 460,
+          "top": 652,
+          "right": 517,
+          "bottom": 668,
+          "width": 57,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The problem is to"
+        },
+        "1": {
+          "text": "understand the concrete implications (through"
+        },
+        "2": {
+          "text": "to the surface) of the structural decisions. This is"
+        },
+        "3": {
+          "text": "where a significant opportunity for augmenta-"
+        },
+        "4": {
+          "text": "tion arises."
+        }
+      },
+      "text": {
+        "TEXT": "The problem is to understand the concrete implications (through to the surface) of the structural decisions. This is where a significant opportunity for augmenta- tion arises."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>Les opportunités d'augmentation ne se produisent pas à la surface mais avec des considérations fondamentales sur la structure qui permettent une compréhension des implications concrètes de ce qui structure une décision.&nbsp; Dans cette structure sous-jascente à la surface se trouvent les possibilités d'augmentation.</p><p>&gt;The problem is to understand the concrete implications (through to the surface) of the structural decisions. This is where a significant opportunity for augmentation arises.</p>"
+      }
+    },
+    {
+      "id": "1Vs8oZvkUc",
+      "guid": "1GzKQgoh2V",
+      "created": "2020-11-09T21:25:57.169Z",
+      "lastUpdated": "2020-11-09T21:27:53.583Z",
+      "rects": {
+        "0": {
+          "left": 194,
+          "top": 780,
+          "right": 426,
+          "bottom": 795,
+          "width": 232,
+          "height": 15
+        },
+        "1": {
+          "left": 201,
+          "top": 796,
+          "right": 244,
+          "bottom": 811,
+          "width": 42,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords: agent, art, creativity, intelligent user"
+        },
+        "1": {
+          "text": "interface"
+        }
+      },
+      "text": {
+        "TEXT": "Keywords: agent, art, creativity, intelligent user interface"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Keywords: agent, art, creativity, intelligent user interface"
+      },
+      "tags": {
+        "AIKeywords": {
+          "id": "AIKeywords",
+          "label": "AIKeywords"
+        }
+      }
+    },
+    {
+      "id": "15havxWsgH",
+      "guid": "1jmkp7cgU9",
+      "created": "2020-11-09T21:29:23.002Z",
+      "lastUpdated": "2020-11-09T21:50:28.063Z",
+      "rects": {
+        "0": {
+          "left": 643,
+          "top": 700,
+          "right": 709,
+          "bottom": 716,
+          "width": 65,
+          "height": 15
+        },
+        "1": {
+          "left": 460,
+          "top": 716,
+          "right": 710,
+          "bottom": 732,
+          "width": 250,
+          "height": 15
+        },
+        "2": {
+          "left": 460,
+          "top": 732,
+          "right": 713,
+          "bottom": 748,
+          "width": 253,
+          "height": 15
+        },
+        "3": {
+          "left": 460,
+          "top": 748,
+          "right": 711,
+          "bottom": 764,
+          "width": 251,
+          "height": 15
+        },
+        "4": {
+          "left": 460,
+          "top": 764,
+          "right": 661,
+          "bottom": 780,
+          "width": 201,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The signifi-"
+        },
+        "1": {
+          "text": "cant role of the agents in the user interface is to"
+        },
+        "2": {
+          "text": "enable the artist to think and act in terms of the"
+        },
+        "3": {
+          "text": "structures whilst, as a result of the agents’ work,"
+        },
+        "4": {
+          "text": "easily and quickly see the implications"
+        }
+      },
+      "text": {
+        "TEXT": "The signifi- cant role of the agents in the user interface is to enable the artist to think and act in terms of the structures whilst, as a result of the agents’ work, easily and quickly see the implications"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<div>Le rôle de l'agent dans l'interface utilisateur intelligente est de&nbsp;<span style=\"letter-spacing: 0.01071em;\">permettre à l'artiste de percevoir les implications structurales du contexte&nbsp;</span><span style=\"letter-spacing: 0.01071em;\">artistique actuel et ainsi, dans un interval de temps cours, pouvoir&nbsp;</span><span style=\"letter-spacing: 0.01071em;\">penser, évaluer et décider d'agir.</span></div><div><br></div><div>&gt;The significant role of the agents in the user interface is to enable&nbsp;<span style=\"letter-spacing: 0.01071em;\">the artist to think and act in terms of the structures whilst, as a&nbsp;</span><span style=\"letter-spacing: 0.01071em;\">result of the agent's work, easily and quickly see the implications.</span></div><div>(Edmonds, 2000, p.1)</div>"
+      },
+      "tags": {
+        "AIAgent": {
+          "id": "AIAgent",
+          "label": "AIAgent"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "12nGjoxg6n",
+      "guid": "16vPMhnPad",
+      "created": "2020-11-09T21:32:02.817Z",
+      "lastUpdated": "2020-11-09T21:32:16.960Z",
+      "rects": {
+        "0": {
+          "left": 652,
+          "top": 892,
+          "right": 705,
+          "bottom": 908,
+          "width": 52,
+          "height": 15
+        },
+        "1": {
+          "left": 460,
+          "top": 908,
+          "right": 596,
+          "bottom": 924,
+          "width": 136,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " promotes"
+        },
+        "1": {
+          "text": "enhanced creative thinkin"
+        }
+      },
+      "text": {
+        "TEXT": "promotes enhanced creative thinkin"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "promotes enhanced creative thinking"
+      },
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      }
+    },
+    {
+      "id": "1b3FGFW2Lk",
+      "guid": "1G9dwHcRFJ",
+      "created": "2020-11-09T21:54:25.748Z",
+      "lastUpdated": "2020-11-09T21:58:10.520Z",
+      "rects": {
+        "0": {
+          "left": 460,
+          "top": 892,
+          "right": 652,
+          "bottom": 908,
+          "width": 192,
+          "height": 15
+        },
+        "1": {
+          "left": 652,
+          "top": 892,
+          "right": 705,
+          "bottom": 908,
+          "width": 52,
+          "height": 15
+        },
+        "2": {
+          "left": 460,
+          "top": 908,
+          "right": 596,
+          "bottom": 924,
+          "width": 136,
+          "height": 15
+        },
+        "3": {
+          "left": 596,
+          "top": 908,
+          "right": 606,
+          "bottom": 924,
+          "width": 10,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "lift the level of concern in a way that"
+        },
+        "1": {
+          "text": " promotes"
+        },
+        "2": {
+          "text": "enhanced creative thinkin"
+        },
+        "3": {
+          "text": "g."
+        }
+      },
+      "text": {
+        "TEXT": "lift the level of concern in a way that promotes enhanced creative thinkin g."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "AIGoal": {
+          "id": "AIGoal",
+          "label": "AIGoal"
+        }
+      },
+      "revisedText": {
+        "HTML": "lift the level of concern in a way that promotes enhanced creative thinking."
+      }
+    },
+    {
+      "id": "12NB5xTswd",
+      "guid": "1gtPpnsRab",
+      "created": "2020-11-09T21:54:49.135Z",
+      "lastUpdated": "2020-11-09T21:57:29.459Z",
+      "rects": {
+        "0": {
+          "left": 460,
+          "top": 876,
+          "right": 715,
+          "bottom": 892,
+          "width": 254,
+          "height": 15
+        },
+        "1": {
+          "left": 460,
+          "top": 892,
+          "right": 652,
+          "bottom": 908,
+          "width": 192,
+          "height": 15
+        },
+        "2": {
+          "left": 652,
+          "top": 892,
+          "right": 705,
+          "bottom": 908,
+          "width": 52,
+          "height": 15
+        },
+        "3": {
+          "left": 460,
+          "top": 908,
+          "right": 596,
+          "bottom": 924,
+          "width": 136,
+          "height": 15
+        },
+        "4": {
+          "left": 596,
+          "top": 908,
+          "right": 603,
+          "bottom": 924,
+          "width": 6,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "intelligent user interfaces can enable the artist to"
+        },
+        "1": {
+          "text": "lift the level of concern in a way that"
+        },
+        "2": {
+          "text": " promotes"
+        },
+        "3": {
+          "text": "enhanced creative thinkin"
+        },
+        "4": {
+          "text": "g"
+        }
+      },
+      "text": {
+        "TEXT": "intelligent user interfaces can enable the artist to lift the level of concern in a way that promotes enhanced creative thinkin g"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>Les interfaces d'utilisation intelligente (IDUI) augmenterait la capacité de l'artiste suffisamment pour promouvoir une orientation créative plutôt que d'être à un niveau où il y a des inquiétudes.</p><p>&gt;intelligent user interfaces can enable the artist to lift the level of concern in a way that promotes enhanced creative thinking</p>"
+      },
+      "tags": {
+        "IDUI": {
+          "id": "IDUI",
+          "label": "IDUI"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "12HJxB5zkX",
+      "guid": "1aCaPfCaGa",
+      "created": "2020-11-10T05:00:34.154Z",
+      "lastUpdated": "2020-11-10T05:01:10.537Z",
+      "rects": {
+        "0": {
+          "left": 471,
+          "top": 972,
+          "right": 704,
+          "bottom": 988,
+          "width": 232,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Thought is not a means of solving the problem"
+        }
+      },
+      "text": {
+        "TEXT": "Thought is not a means of solving the problem"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Thought is not a means of solving the problem</h2>"
+      },
+      "tags": {
+        "ProblemSolving": {
+          "id": "ProblemSolving",
+          "label": "ProblemSolving"
+        },
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "1SGxJVqVqj",
+      "guid": "1b9wE3UsWw",
+      "created": "2020-11-10T05:01:30.387Z",
+      "lastUpdated": "2020-11-10T05:01:59.159Z",
+      "rects": {
+        "0": {
+          "left": 222,
+          "top": 260,
+          "right": 310,
+          "bottom": 275,
+          "width": 88,
+          "height": 15
+        },
+        "1": {
+          "left": 94,
+          "top": 276,
+          "right": 327,
+          "bottom": 291,
+          "width": 232,
+          "height": 15
+        },
+        "2": {
+          "left": 94,
+          "top": 292,
+          "right": 300,
+          "bottom": 307,
+          "width": 205,
+          "height": 15
+        },
+        "3": {
+          "left": 94,
+          "top": 308,
+          "right": 192,
+          "bottom": 323,
+          "width": 98,
+          "height": 15
+        },
+        "4": {
+          "left": 94,
+          "top": 324,
+          "right": 162,
+          "bottom": 339,
+          "width": 68,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ". Thought is not a"
+        },
+        "1": {
+          "text": "problem solver but a great process of realisation"
+        },
+        "2": {
+          "text": "that is forever transcending, transformed,"
+        },
+        "3": {
+          "text": "changed, developed."
+        },
+        "4": {
+          "text": "(Mead 1917)"
+        }
+      },
+      "text": {
+        "TEXT": ". Thought is not a problem solver but a great process of realisation that is forever transcending, transformed, changed, developed. (Mead 1917)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Thought is not a problem solver but a great process of realisation that is forever transcending, transformed, changed, developed. (Mead 1917)"
+      },
+      "tags": {
+        "ProblemSolving": {
+          "id": "ProblemSolving",
+          "label": "ProblemSolving"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        }
+      }
+    },
+    {
+      "id": "17ZTzC2tVj",
+      "guid": "17ZTzC2tVj",
+      "created": "2020-11-10T05:02:24.141Z",
+      "lastUpdated": "2020-11-10T05:02:37.707Z",
+      "rects": {
+        "0": {
+          "left": 196,
+          "top": 372,
+          "right": 331,
+          "bottom": 387,
+          "width": 135,
+          "height": 15
+        },
+        "1": {
+          "left": 82,
+          "top": 388,
+          "right": 338,
+          "bottom": 403,
+          "width": 255,
+          "height": 15
+        },
+        "2": {
+          "left": 82,
+          "top": 404,
+          "right": 329,
+          "bottom": 419,
+          "width": 246,
+          "height": 15
+        },
+        "3": {
+          "left": 82,
+          "top": 420,
+          "right": 338,
+          "bottom": 435,
+          "width": 255,
+          "height": 15
+        },
+        "4": {
+          "left": 82,
+          "top": 436,
+          "right": 301,
+          "bottom": 451,
+          "width": 218,
+          "height": 15
+        },
+        "5": {
+          "left": 82,
+          "top": 452,
+          "right": 142,
+          "bottom": 467,
+          "width": 59,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " By computer creativity is"
+        },
+        "1": {
+          "text": "meant the possibility of computers doing things"
+        },
+        "2": {
+          "text": "that humans might consider to be creative and"
+        },
+        "3": {
+          "text": "by creative computation is meant humans being"
+        },
+        "4": {
+          "text": "able to do creative things with the help of"
+        },
+        "5": {
+          "text": "computers."
+        }
+      },
+      "text": {
+        "TEXT": "By computer creativity is meant the possibility of computers doing things that humans might consider to be creative and by creative computation is meant humans being able to do creative things with the help of computers."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "CreativityDefinition": {
+          "id": "CreativityDefinition",
+          "label": "CreativityDefinition"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "12Ba17tM2i",
+      "guid": "12CMxqq8yA",
+      "created": "2020-11-10T05:05:50.147Z",
+      "lastUpdated": "2020-11-10T05:05:56.864Z",
+      "rects": {
+        "0": {
+          "left": 366,
+          "top": 888,
+          "right": 521,
+          "bottom": 904,
+          "width": 154,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " Supporting creative users"
+        }
+      },
+      "text": {
+        "TEXT": "Supporting creative users"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Supporting creative users</h1>"
+      }
+    },
+    {
+      "id": "12kHske8Ne",
+      "guid": "12kHske8Ne",
+      "created": "2020-11-10T05:06:06.155Z",
+      "lastUpdated": "2020-11-10T05:06:06.155Z",
+      "rects": {
+        "0": {
+          "left": 523,
+          "top": 916,
+          "right": 569,
+          "bottom": 931,
+          "width": 45,
+          "height": 15
+        },
+        "1": {
+          "left": 348,
+          "top": 932,
+          "right": 515,
+          "bottom": 947,
+          "width": 166,
+          "height": 15
+        },
+        "2": {
+          "left": 510,
+          "top": 932,
+          "right": 584,
+          "bottom": 947,
+          "width": 73,
+          "height": 15
+        },
+        "3": {
+          "left": 348,
+          "top": 948,
+          "right": 562,
+          "bottom": 963,
+          "width": 213,
+          "height": 15
+        },
+        "4": {
+          "left": 348,
+          "top": 964,
+          "right": 496,
+          "bottom": 979,
+          "width": 148,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Artificial"
+        },
+        "1": {
+          "text": "Intelligence in Design Conference"
+        },
+        "2": {
+          "text": " held in Edin-"
+        },
+        "3": {
+          "text": "burgh in 1991, Donald Schön discussed"
+        },
+        "4": {
+          "text": "intelligent support for desig"
+        }
+      },
+      "text": {
+        "TEXT": "Artificial Intelligence in Design Conference held in Edin- burgh in 1991, Donald Schön discussed intelligent support for desig"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "14uocGShqa",
+      "guid": "12f22iLwYp",
+      "created": "2020-11-10T05:07:04.209Z",
+      "lastUpdated": "2020-11-10T05:07:48.153Z",
+      "rects": {
+        "0": {
+          "left": 600,
+          "top": 804,
+          "right": 623,
+          "bottom": 819,
+          "width": 23,
+          "height": 15
+        },
+        "1": {
+          "left": 623,
+          "top": 804,
+          "right": 671,
+          "bottom": 819,
+          "width": 47,
+          "height": 15
+        },
+        "2": {
+          "left": 671,
+          "top": 804,
+          "right": 705,
+          "bottom": 819,
+          "width": 34,
+          "height": 15
+        },
+        "3": {
+          "left": 459,
+          "top": 820,
+          "right": 708,
+          "bottom": 835,
+          "width": 248,
+          "height": 15
+        },
+        "4": {
+          "left": 459,
+          "top": 836,
+          "right": 712,
+          "bottom": 851,
+          "width": 252,
+          "height": 15
+        },
+        "5": {
+          "left": 459,
+          "top": 852,
+          "right": 675,
+          "bottom": 867,
+          "width": 215,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " the "
+        },
+        "1": {
+          "text": "concerns"
+        },
+        "2": {
+          "text": " of the"
+        },
+        "3": {
+          "text": "artist can often be with the deeper structures of"
+        },
+        "4": {
+          "text": "their art rather than with the surface representa-"
+        },
+        "5": {
+          "text": "tions that make up the final artwork itsel"
+        }
+      },
+      "text": {
+        "TEXT": "the concerns of the artist can often be with the deeper structures of their art rather than with the surface representa- tions that make up the final artwork itsel"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>A creation is made of its underlying structure.</p><p>&gt;[...] the concerns of the artist can often be with the deeper structures of their art rather than with the surface representations that make up the final artwork itsel</p>"
+      },
+      "tags": {
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "12SQvWW3Ek",
+      "guid": "12SQvWW3Ek",
+      "created": "2020-11-10T05:08:43.174Z",
+      "lastUpdated": "2020-11-10T05:08:56.333Z",
+      "rects": {
+        "0": {
+          "left": 459,
+          "top": 884,
+          "right": 677,
+          "bottom": 899,
+          "width": 218,
+          "height": 15
+        },
+        "1": {
+          "left": 459,
+          "top": 900,
+          "right": 702,
+          "bottom": 915,
+          "width": 243,
+          "height": 15
+        },
+        "2": {
+          "left": 459,
+          "top": 916,
+          "right": 714,
+          "bottom": 931,
+          "width": 254,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "intelligent user interfaces may well have a"
+        },
+        "1": {
+          "text": "significant role to play in easing the transition"
+        },
+        "2": {
+          "text": "from those structures to the form of the artifact."
+        }
+      },
+      "text": {
+        "TEXT": "intelligent user interfaces may well have a significant role to play in easing the transition from those structures to the form of the artifact."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "IDUI": {
+          "id": "IDUI",
+          "label": "IDUI"
+        }
+      }
+    },
+    {
+      "id": "12GkRjyAcC",
+      "guid": "12W8HHSFJs",
+      "created": "2020-11-11T08:42:44.152Z",
+      "lastUpdated": "2020-11-11T08:45:01.376Z",
+      "rects": {
+        "0": {
+          "left": 343,
+          "top": 572,
+          "right": 438,
+          "bottom": 587,
+          "width": 95,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 588,
+          "right": 286,
+          "bottom": 603,
+          "width": 92,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The computer helps"
+        },
+        "1": {
+          "text": "us think creatively."
+        }
+      },
+      "text": {
+        "TEXT": "The computer helps us think creatively."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt; [computer] <span>\n\n role of a catalyst, or a stimulant, to our own creative  thinking. [...]&nbsp;</span>The computer helps us think creatively.&nbsp;&nbsp;<span>\n\n(Edmonds, 2000)\n\n</span></p>"
+      },
+      "tags": {
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "ComputerRole": {
+          "id": "ComputerRole",
+          "label": "ComputerRole"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

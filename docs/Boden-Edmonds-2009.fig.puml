@@ -1,0 +1,5 @@
+@startuml
+
+CI --|> G 
+
+@enduml

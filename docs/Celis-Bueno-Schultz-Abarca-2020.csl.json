@@ -1,0 +1,45 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/C8AV4K46",
+		"type": "article-journal",
+		"abstract": "This article uses Memo Akten’s art installation Learning to See (Akten https://www.memo.tv/portfolio/learning-to-see/, 2017) to challenge the belief that machine learning and machine vision are neutral and objective technologies. Furthermore, this article follows Bernard Stiegler to contend that not only machine vision but also human vision is the result of constant training processes that rely directly on technology (understood as a technical surface of inscription). From this perspective, human vision is always already technical. Likewise, in an age dominated growingly by machine learning technologies, it is possible to speak not only of machine vision but also of a machinic imagination and a machinic unconscious, two notions that can be illustrated through Akten’s art installation.",
+		"container-title": "AI & SOCIETY",
+		"DOI": "10.1007/s00146-020-01071-2",
+		"ISSN": "0951-5666, 1435-5655",
+		"journalAbbreviation": "AI & Soc",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s1]",
+		"source": "DOI.org (Crossref)",
+		"title": "Memo Akten’s Learning to See: from machine vision to the machinic unconscious",
+		"title-short": "Memo Akten’s Learning to See",
+		"URL": "http://link.springer.com/10.1007/s00146-020-01071-2",
+		"author": [
+			{
+				"family": "Celis Bueno",
+				"given": "Claudio"
+			},
+			{
+				"family": "Schultz Abarca",
+				"given": "María Jesús"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					23
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12md7SpzK6",
+      "guid": "12md7SpzK6",
+      "created": "2020-11-06T16:11:13.200Z",
+      "lastUpdated": "2020-11-06T16:11:13.200Z",
+      "rects": {
+        "0": {
+          "left": 202,
+          "top": 205,
+          "right": 610,
+          "bottom": 236,
+          "width": 408,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A Neural Algorithm of Artistic Style"
+        }
+      },
+      "text": {
+        "TEXT": "A Neural Algorithm of Artistic Style"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1w7Cup6DoA",
+      "guid": "12qcWXevbW",
+      "created": "2020-11-06T16:11:16.037Z",
+      "lastUpdated": "2020-11-06T16:11:25.790Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 259,
+          "right": 267,
+          "bottom": 281,
+          "width": 47,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Gatys"
+        }
+      },
+      "text": {
+        "TEXT": "Gatys"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer:(Gatys et al., 2015)</p>\n<p>FTag: Gatys-et-al-2015</p>\n<p>APA7: Gatys, L. A., Ecker, A. S., &amp; Bethge, M. (2015). A Neural Algorithm of Artistic Style. <em>ArXiv:1508.06576 [Cs, q-Bio]</em>. <a href=\"http://arxiv.org/abs/1508.06576\">http://arxiv.org/abs/1508.06576</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "127Uf2Coc5",
+      "guid": "125KaohG5Z",
+      "created": "2020-11-06T16:12:27.670Z",
+      "lastUpdated": "2020-11-06T16:13:05.858Z",
+      "rects": {
+        "0": {
+          "left": 142,
+          "top": 511,
+          "right": 692,
+          "bottom": 530,
+          "width": 549,
+          "height": 18
+        },
+        "1": {
+          "left": 142,
+          "top": 543,
+          "right": 693,
+          "bottom": 562,
+          "width": 550,
+          "height": 18
+        },
+        "2": {
+          "left": 142,
+          "top": 575,
+          "right": 332,
+          "bottom": 594,
+          "width": 190,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In fine art, especially painting, humans have mastered the skill to create unique"
+        },
+        "1": {
+          "text": "visual experiences through composing a complex interplay between the con-"
+        },
+        "2": {
+          "text": "tent and style of an image"
+        }
+      },
+      "text": {
+        "TEXT": "In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the con- tent and style of an image"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the content and style of an image"
+      },
+      "tags": {
+        "NSTContext": {
+          "id": "NSTContext",
+          "label": "NSTContext"
+        }
+      }
+    },
+    {
+      "id": "123KJ5EM3Z",
+      "guid": "1y7yipNErp",
+      "created": "2020-11-06T16:13:47.788Z",
+      "lastUpdated": "2020-11-06T16:14:01.332Z",
+      "rects": {
+        "0": {
+          "left": 335,
+          "top": 767,
+          "right": 692,
+          "bottom": 785,
+          "width": 356,
+          "height": 18
+        },
+        "1": {
+          "left": 142,
+          "top": 798,
+          "right": 693,
+          "bottom": 817,
+          "width": 550,
+          "height": 18
+        },
+        "2": {
+          "left": 142,
+          "top": 830,
+          "right": 455,
+          "bottom": 849,
+          "width": 312,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The system uses neural representations to sepa-"
+        },
+        "1": {
+          "text": "rate and recombine content and style of arbitrary images, providing a neural"
+        },
+        "2": {
+          "text": "algorithm for the creation of artistic image"
+        }
+      },
+      "text": {
+        "TEXT": "The system uses neural representations to sepa- rate and recombine content and style of arbitrary images, providing a neural algorithm for the creation of artistic image"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "The system uses neural representations to separate and recombine content and style of arbitrary images, providing a neural algorithm for the creation of artistic image"
+      }
+    },
+    {
+      "id": "1213faWT4c",
+      "guid": "1Bg8Jn1g8U",
+      "created": "2020-11-06T16:56:54.793Z",
+      "lastUpdated": "2020-11-06T16:57:30.013Z",
+      "rects": {
+        "0": {
+          "left": 514,
+          "top": 894,
+          "right": 689,
+          "bottom": 912,
+          "width": 175,
+          "height": 18
+        },
+        "1": {
+          "left": 142,
+          "top": 926,
+          "right": 551,
+          "bottom": 944,
+          "width": 409,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "o an algorithmic under-"
+        },
+        "1": {
+          "text": "standing of how humans create and perceive artistic imag"
+        }
+      },
+      "text": {
+        "TEXT": "o an algorithmic under- standing of how humans create and perceive artistic imag"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>[...] an algorithmic understanding of how humans create and perceive artistic imagery.&nbsp;<span>&nbsp;(Gatys et al., 2015)\n\n</span></p>"
+      },
+      "tags": {
+        "NSTGoal": {
+          "id": "NSTGoal",
+          "label": "NSTGoal"
+        }
+      }
+    },
+    {
+      "id": "12p5NLSoaW",
+      "guid": "12p5NLSoaW",
+      "created": "2020-11-06T16:58:19.901Z",
+      "lastUpdated": "2020-11-06T16:58:19.901Z",
+      "rects": {
+        "0": {
+          "left": 126,
+          "top": 148,
+          "right": 737,
+          "bottom": 167,
+          "width": 610,
+          "height": 18
+        },
+        "1": {
+          "left": 103,
+          "top": 180,
+          "right": 360,
+          "bottom": 199,
+          "width": 256,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The class of Deep Neural Networks that are most powerful in image processing tasks are"
+        },
+        "1": {
+          "text": "called Convolutional Neural Network"
+        }
+      },
+      "text": {
+        "TEXT": "The class of Deep Neural Networks that are most powerful in image processing tasks are called Convolutional Neural Network"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "1bEJtCTyoU",
+      "guid": "12Jcc6JPtE",
+      "created": "2020-11-06T16:58:35.261Z",
+      "lastUpdated": "2020-11-06T16:58:56.892Z",
+      "rects": {
+        "0": {
+          "left": 368,
+          "top": 180,
+          "right": 741,
+          "bottom": 199,
+          "width": 372,
+          "height": 18
+        },
+        "1": {
+          "left": 103,
+          "top": 212,
+          "right": 738,
+          "bottom": 230,
+          "width": 634,
+          "height": 18
+        },
+        "2": {
+          "left": 103,
+          "top": 244,
+          "right": 125,
+          "bottom": 262,
+          "width": 21,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ".   Convolutional Neural Networks consist of layers of"
+        },
+        "1": {
+          "text": "small computational units that process visual information hierarchically in a feed-forward man-"
+        },
+        "2": {
+          "text": "ner"
+        }
+      },
+      "text": {
+        "TEXT": ".   Convolutional Neural Networks consist of layers of small computational units that process visual information hierarchically in a feed-forward man- ner"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Convolutional Neural Networks consist of layers of small computational units that process visual information hierarchically [...]&nbsp;<span>\n\n(Gatys et al., 2015)\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

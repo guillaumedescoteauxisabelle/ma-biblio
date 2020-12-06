@@ -1,0 +1,823 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12PyHKRyAM",
+      "guid": "1xWzKQkGZs",
+      "created": "2020-09-14T20:58:33.458Z",
+      "lastUpdated": "2020-09-14T21:31:33.834Z",
+      "rects": {
+        "0": {
+          "left": 168,
+          "top": 70,
+          "right": 647,
+          "bottom": 91,
+          "width": 479,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Houdini Engine: Evolution Towards a Procedural Pipeline",
+          "rect": {
+            "left": 168,
+            "top": 70,
+            "right": 647,
+            "bottom": 91,
+            "width": 479,
+            "height": 21
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Houdini Engine: Evolution Towards a Procedural Pipeline"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Houdini Engine: Evolution Towards a Procedural Pipeline&nbsp;<span id=\"docs-internal-guid-af429a3d-7fff-a1b2-33a1-c4e01d7bbc3d\"><a href=\"https://www.zotero.org/google-docs/?PXkeiQ\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">(Xu &amp; Campeanuy, 2014)</span></a></span>"
+      }
+    },
+    {
+      "id": "1Tm2AuLFH1",
+      "guid": "1Tm2AuLFH1",
+      "created": "2020-09-14T20:58:45.736Z",
+      "lastUpdated": "2020-09-14T20:58:45.736Z",
+      "rects": {
+        "0": {
+          "left": 72,
+          "top": 450,
+          "right": 392,
+          "bottom": 463,
+          "width": 320,
+          "height": 13
+        },
+        "1": {
+          "left": 72,
+          "top": 463,
+          "right": 147,
+          "bottom": 477,
+          "width": 75,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Proceduralism has become increasingly important to both film and",
+          "rect": {
+            "left": 72,
+            "top": 450,
+            "right": 392,
+            "bottom": 463,
+            "width": 320,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "game  pipelines",
+          "rect": {
+            "left": 72,
+            "top": 463,
+            "right": 147,
+            "bottom": 477,
+            "width": 75,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Proceduralism has become increasingly important to both film and\ngame  pipelines"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12KfZVwHFu",
+      "guid": "12KfZVwHFu",
+      "created": "2020-09-14T21:12:22.946Z",
+      "lastUpdated": "2020-09-14T21:12:22.946Z",
+      "rects": {
+        "0": {
+          "left": 482,
+          "top": 508,
+          "right": 659,
+          "bottom": 522,
+          "width": 177,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " procedural network acts like a recipe",
+          "rect": {
+            "left": 482,
+            "top": 508,
+            "right": 659,
+            "bottom": 522,
+            "width": 176,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": " procedural network acts like a recipe"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12AxdxFVYY",
+      "guid": "12AxdxFVYY",
+      "created": "2020-09-14T21:23:00.014Z",
+      "lastUpdated": "2020-09-14T21:23:00.014Z",
+      "rects": {
+        "0": {
+          "left": 300,
+          "top": 884,
+          "right": 366,
+          "bottom": 897,
+          "width": 66,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "node network",
+          "rect": {
+            "left": 300,
+            "top": 884,
+            "right": 366,
+            "bottom": 897,
+            "width": 66,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "node network"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12PNPDz5XF",
+      "guid": "12PNPDz5XF",
+      "created": "2020-09-14T21:23:31.776Z",
+      "lastUpdated": "2020-09-14T21:23:31.776Z",
+      "rects": {
+        "0": {
+          "left": 125,
+          "top": 520,
+          "right": 341,
+          "bottom": 534,
+          "width": 216,
+          "height": 14
+        },
+        "1": {
+          "left": 584,
+          "top": -3,
+          "right": 611,
+          "bottom": 520,
+          "width": 27,
+          "height": 523
+        },
+        "2": {
+          "left": 365,
+          "top": 520,
+          "right": 392,
+          "bottom": 534,
+          "width": 27,
+          "height": 14
+        },
+        "3": {
+          "left": 72,
+          "top": 533,
+          "right": 392,
+          "bottom": 547,
+          "width": 320,
+          "height": 14
+        },
+        "4": {
+          "left": 72,
+          "top": 546,
+          "right": 392,
+          "bottom": 560,
+          "width": 320,
+          "height": 14
+        },
+        "5": {
+          "left": 72,
+          "top": 560,
+          "right": 118,
+          "bottom": 574,
+          "width": 46,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Users work by placing and connecting these ",
+          "rect": {
+            "left": 125,
+            "top": 520,
+            "right": 341,
+            "bottom": 534,
+            "width": 216,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "node",
+          "rect": {
+            "left": 584,
+            "top": -3,
+            "right": 611,
+            "bottom": 11,
+            "width": 26,
+            "height": 13
+          }
+        },
+        "2": {
+          "text": "s into",
+          "rect": {
+            "left": 365,
+            "top": 520,
+            "right": 392,
+            "bottom": 534,
+            "width": 26,
+            "height": 13
+          }
+        },
+        "3": {
+          "text": "networks. Data flows top down, from one node to another, and each",
+          "rect": {
+            "left": 72,
+            "top": 533,
+            "right": 392,
+            "bottom": 547,
+            "width": 320,
+            "height": 13
+          }
+        },
+        "4": {
+          "text": "node modifies the data and then passes the modified data onto the",
+          "rect": {
+            "left": 72,
+            "top": 546,
+            "right": 392,
+            "bottom": 560,
+            "width": 320,
+            "height": 13
+          }
+        },
+        "5": {
+          "text": "next node",
+          "rect": {
+            "left": 72,
+            "top": 560,
+            "right": 118,
+            "bottom": 574,
+            "width": 46,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Users work by placing and connecting these nodes into\nnetworks. Data flows top down, from one node to another, and each\nnode modifies the data and then passes the modified data onto the\nnext node"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1ETpfZpSJp",
+      "guid": "1ETpfZpSJp",
+      "created": "2020-09-14T21:26:08.906Z",
+      "lastUpdated": "2020-09-14T21:26:08.906Z",
+      "rects": {
+        "0": {
+          "left": 725,
+          "top": 228,
+          "right": 744,
+          "bottom": 242,
+          "width": 19,
+          "height": 14
+        },
+        "1": {
+          "left": 424,
+          "top": 241,
+          "right": 607,
+          "bottom": 255,
+          "width": 183,
+          "height": 14
+        },
+        "2": {
+          "left": 396,
+          "top": -4,
+          "right": 439,
+          "bottom": 241,
+          "width": 43,
+          "height": 245
+        },
+        "3": {
+          "left": 646,
+          "top": 241,
+          "right": 667,
+          "bottom": 255,
+          "width": 21,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "get-",
+          "rect": {
+            "left": 725,
+            "top": 228,
+            "right": 744,
+            "bottom": 242,
+            "width": 18,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "ting the results out of Houdini proved ",
+          "rect": {
+            "left": 424,
+            "top": 241,
+            "right": 607,
+            "bottom": 255,
+            "width": 183,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "problem",
+          "rect": {
+            "left": 396,
+            "top": -4,
+            "right": 439,
+            "bottom": 10,
+            "width": 42,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "atic.",
+          "rect": {
+            "left": 646,
+            "top": 241,
+            "right": 667,
+            "bottom": 255,
+            "width": 20,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "get-\nting the results out of Houdini proved problematic."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "12PS2iYoVA",
+      "guid": "12PS2iYoVA",
+      "created": "2020-09-14T21:30:58.312Z",
+      "lastUpdated": "2020-09-14T21:30:58.312Z",
+      "rects": {
+        "0": {
+          "left": 625,
+          "top": 897,
+          "right": 744,
+          "bottom": 911,
+          "width": 119,
+          "height": 14
+        },
+        "1": {
+          "left": 424,
+          "top": 910,
+          "right": 744,
+          "bottom": 924,
+          "width": 320,
+          "height": 14
+        },
+        "2": {
+          "left": 424,
+          "top": 924,
+          "right": 528,
+          "bottom": 938,
+          "width": 104,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "epresentations of every-",
+          "rect": {
+            "left": 625,
+            "top": 897,
+            "right": 744,
+            "bottom": 911,
+            "width": 118,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "thing from lights, to cameras, to meshes, volumes, skeletons, skin",
+          "rect": {
+            "left": 424,
+            "top": 910,
+            "right": 744,
+            "bottom": 924,
+            "width": 320,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "information and so on",
+          "rect": {
+            "left": 424,
+            "top": 924,
+            "right": 528,
+            "bottom": 938,
+            "width": 104,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "epresentations of every-\nthing from lights, to cameras, to meshes, volumes, skeletons, skin\ninformation and so on"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12PB7HRYnq",
+      "guid": "12PB7HRYnq",
+      "created": "2020-09-14T21:31:04.664Z",
+      "lastUpdated": "2020-09-14T21:31:13.242Z",
+      "rects": {
+        "0": {
+          "left": 50.326797385620914,
+          "top": 5.744949494949496,
+          "width": 42.156862745098046,
+          "height": 38.76262626262626
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12Ep3kB93vrKA2a4KzQp",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12Ep3kB93vrKA2a4KzQp.png"
+        },
+        "width": 516,
+        "height": 614,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 410,
+        "y": 60,
+        "width": 344,
+        "height": 409
+      }
+    },
+    {
+      "id": "1dSPGdPEVC",
+      "guid": "1dSPGdPEVC",
+      "created": "2020-09-14T21:32:51.725Z",
+      "lastUpdated": "2020-09-14T21:32:51.725Z",
+      "rects": {
+        "0": {
+          "left": 89,
+          "top": 331,
+          "right": 214,
+          "bottom": 348,
+          "width": 125,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Asset Abstraction",
+          "rect": {
+            "left": 89,
+            "top": 331,
+            "right": 214,
+            "bottom": 348,
+            "width": 125,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Asset Abstraction"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1tk8GwsEVB",
+      "guid": "1tk8GwsEVB",
+      "created": "2020-09-14T21:33:06.874Z",
+      "lastUpdated": "2020-09-14T21:33:06.874Z",
+      "rects": {
+        "0": {
+          "left": 88,
+          "top": 433,
+          "right": 204,
+          "bottom": 450,
+          "width": 116,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "API Form Factor",
+          "rect": {
+            "left": 88,
+            "top": 433,
+            "right": 204,
+            "bottom": 450,
+            "width": 115,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "API Form Factor"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12omNdQhma",
+      "guid": "12omNdQhma",
+      "created": "2020-09-14T21:33:18.152Z",
+      "lastUpdated": "2020-09-14T21:33:18.152Z",
+      "rects": {
+        "0": {
+          "left": 178,
+          "top": 160,
+          "right": 363,
+          "bottom": 177,
+          "width": 185,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The Value is in the Recipe",
+          "rect": {
+            "left": 178,
+            "top": 160,
+            "right": 363,
+            "bottom": 177,
+            "width": 185,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The Value is in the Recipe"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "15nbbUaydr",
+      "guid": "1aDwQFL1nd",
+      "created": "2020-09-20T23:28:41.632Z",
+      "lastUpdated": "2020-09-20T23:28:46.356Z",
+      "rects": {
+        "0": {
+          "left": 99,
+          "top": 148,
+          "right": 270,
+          "bottom": 164,
+          "width": 171,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "oose vs. Tight Coupling",
+          "rect": {
+            "left": 99,
+            "top": 148,
+            "right": 270,
+            "bottom": 164,
+            "width": 171,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "oose vs. Tight Coupling"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Loose vs. Tight Coupling"
+      }
+    },
+    {
+      "id": "1j8ncZ4mjB",
+      "guid": "1j8ncZ4mjB",
+      "created": "2020-09-20T23:28:59.959Z",
+      "lastUpdated": "2020-09-20T23:28:59.959Z",
+      "rects": {
+        "0": {
+          "left": 450,
+          "top": 633,
+          "right": 539,
+          "bottom": 647,
+          "width": 89,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "S",
+          "rect": {
+            "left": 450,
+            "top": 633,
+            "right": 459,
+            "bottom": 647,
+            "width": 9,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "tring Handl",
+          "rect": {
+            "left": 459,
+            "top": 633,
+            "right": 525,
+            "bottom": 647,
+            "width": 65,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "es",
+          "rect": {
+            "left": 525,
+            "top": 633,
+            "right": 539,
+            "bottom": 647,
+            "width": 14,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "String Handles"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1NsLmr2x8H",
+      "guid": "15ede9nFez",
+      "created": "2020-09-20T23:29:17.339Z",
+      "lastUpdated": "2020-09-20T23:29:21.895Z",
+      "rects": {
+        "0": {
+          "left": 108,
+          "top": 789,
+          "right": 207,
+          "bottom": 803,
+          "width": 99,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ost Complexities",
+          "rect": {
+            "left": 108,
+            "top": 789,
+            "right": 207,
+            "bottom": 803,
+            "width": 99,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ost Complexities"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Host Complexities"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

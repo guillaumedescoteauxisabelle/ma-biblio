@@ -1,0 +1,1173 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "124eCcupbQ",
+      "guid": "124eCcupbQ",
+      "created": "2020-09-19T23:01:04.936Z",
+      "lastUpdated": "2020-09-19T23:01:04.936Z",
+      "rects": {
+        "0": {
+          "left": 462,
+          "top": 786,
+          "right": 606,
+          "bottom": 803,
+          "width": 144,
+          "height": 17
+        },
+        "1": {
+          "left": 152,
+          "top": 803,
+          "right": 567,
+          "bottom": 820,
+          "width": 415,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "creativity support tools",
+          "rect": {
+            "left": 462,
+            "top": 786,
+            "right": 606,
+            "bottom": 803,
+            "width": 144,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "enable discovery and innovation on a broader scale than ever before;",
+          "rect": {
+            "left": 152,
+            "top": 803,
+            "right": 567,
+            "bottom": 820,
+            "width": 414,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "creativity support tools\nenable discovery and innovation on a broader scale than ever before;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1gsVDAMGvD",
+      "guid": "1TSEsxSLWH",
+      "created": "2020-09-19T23:01:33.230Z",
+      "lastUpdated": "2020-09-19T23:08:12.743Z",
+      "rects": {
+        "0": {
+          "left": 73,
+          "top": 119,
+          "right": 381,
+          "bottom": 136,
+          "width": 308,
+          "height": 17
+        },
+        "1": {
+          "left": 73,
+          "top": 136,
+          "right": 270,
+          "bottom": 153,
+          "width": 197,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "modern creativity support tools also enable new",
+          "rect": {
+            "left": 73,
+            "top": 119,
+            "right": 381,
+            "bottom": 136,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "formsofexpressionforindividuals",
+          "rect": {
+            "left": 73,
+            "top": 136,
+            "right": 270,
+            "bottom": 153,
+            "width": 196,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "modern creativity support tools also enable new\nformsofexpressionforindividuals"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "[...] modern creativity support tools also enable new\nforms of expression for individuals"
+      }
+    },
+    {
+      "id": "12a8QaMexc",
+      "guid": "122XPwKH5z",
+      "created": "2020-09-19T23:01:50.114Z",
+      "lastUpdated": "2020-09-19T23:07:52.016Z",
+      "rects": {
+        "0": {
+          "left": 319,
+          "top": 169,
+          "right": 381,
+          "bottom": 186,
+          "width": 62,
+          "height": 17
+        },
+        "1": {
+          "left": 73,
+          "top": 186,
+          "right": 381,
+          "bottom": 203,
+          "width": 308,
+          "height": 17
+        },
+        "2": {
+          "left": 73,
+          "top": 203,
+          "right": 381,
+          "bottom": 220,
+          "width": 308,
+          "height": 17
+        },
+        "3": {
+          "left": 73,
+          "top": 219,
+          "right": 381,
+          "bottom": 236,
+          "width": 308,
+          "height": 17
+        },
+        "4": {
+          "left": 73,
+          "top": 236,
+          "right": 381,
+          "bottom": 253,
+          "width": 308,
+          "height": 17
+        },
+        "5": {
+          "left": 73,
+          "top": 253,
+          "right": 381,
+          "bottom": 270,
+          "width": 308,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Creativity",
+          "rect": {
+            "left": 319,
+            "top": 169,
+            "right": 381,
+            "bottom": 186,
+            "width": 61,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "includes discovery or invention of a significant idea,",
+          "rect": {
+            "left": 73,
+            "top": 186,
+            "right": 381,
+            "bottom": 203,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "pattern, method, or device that gains recognition",
+          "rect": {
+            "left": 73,
+            "top": 203,
+            "right": 381,
+            "bottom": 220,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "from accepted leaders in a field, while innovation",
+          "rect": {
+            "left": 73,
+            "top": 219,
+            "right": 381,
+            "bottom": 236,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "requires further steps to ensure adoption (see the sec-",
+          "rect": {
+            "left": 73,
+            "top": 236,
+            "right": 381,
+            "bottom": 253,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "tion “Defining and Supporting Creative Processes”).",
+          "rect": {
+            "left": 73,
+            "top": 253,
+            "right": 381,
+            "bottom": 270,
+            "width": 307,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Creativity\nincludes discovery or invention of a significant idea,\npattern, method, or device that gains recognition\nfrom accepted leaders in a field, while innovation\nrequires further steps to ensure adoption (see the sec-\ntion “Defining and Supporting Creative Processes”)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Creativity\nincludes discovery or invention of a significant idea,\npattern, method, or device that gains recognition\nfrom accepted leaders in a field, while innovation\nrequires further steps to ensure adoption (see the section “Defining and Supporting Creative Processes”)."
+      }
+    },
+    {
+      "id": "12FaCaxkST",
+      "guid": "16tomZDrrD",
+      "created": "2020-09-19T23:03:14.178Z",
+      "lastUpdated": "2020-09-19T23:07:38.832Z",
+      "rects": {
+        "0": {
+          "left": 157,
+          "top": 336,
+          "right": 228,
+          "bottom": 353,
+          "width": 71,
+          "height": 17
+        },
+        "1": {
+          "left": 73,
+          "top": 353,
+          "right": 228,
+          "bottom": 370,
+          "width": 155,
+          "height": 17
+        },
+        "2": {
+          "left": 73,
+          "top": 369,
+          "right": 228,
+          "bottom": 386,
+          "width": 155,
+          "height": 17
+        },
+        "3": {
+          "left": 73,
+          "top": 386,
+          "right": 228,
+          "bottom": 403,
+          "width": 155,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "nformation",
+          "rect": {
+            "left": 157,
+            "top": 336,
+            "right": 228,
+            "bottom": 353,
+            "width": 70,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "vi",
+          "rect": {
+            "left": 73,
+            "top": 353,
+            "right": 83,
+            "bottom": 370,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "sualization tools, which",
+          "rect": {
+            "left": 83,
+            "top": 353,
+            "right": 228,
+            "bottom": 370,
+            "width": 145,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "enable them to make dis-",
+          "rect": {
+            "left": 73,
+            "top": 369,
+            "right": 228,
+            "bottom": 386,
+            "width": 154,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "coveries about their data",
+          "rect": {
+            "left": 73,
+            "top": 386,
+            "right": 228,
+            "bottom": 403,
+            "width": 154,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "nformation\nvisualization tools, which\nenable them to make dis-\ncoveries about their data"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "[...] information\nvisualization tools, which\nenable them to make discoveries about their data."
+      }
+    },
+    {
+      "id": "12roNSfgHu",
+      "guid": "126RzhdXDA",
+      "created": "2020-09-19T23:04:05.966Z",
+      "lastUpdated": "2020-09-19T23:04:39.450Z",
+      "rects": {
+        "0": {
+          "left": 110,
+          "top": 509,
+          "right": 669,
+          "bottom": 556,
+          "width": 559,
+          "height": 47
+        },
+        "1": {
+          "left": 137,
+          "top": 536,
+          "right": 642,
+          "bottom": 576,
+          "width": 505,
+          "height": 40
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CREATIVITYSUPPORTTOOLS",
+          "rect": {
+            "left": 110,
+            "top": 509,
+            "right": 669,
+            "bottom": 556,
+            "width": 558,
+            "height": 46
+          }
+        },
+        "1": {
+          "text": "Accelerating Discovery and Innovation",
+          "rect": {
+            "left": 137,
+            "top": 536,
+            "right": 642,
+            "bottom": 576,
+            "width": 504,
+            "height": 40
+          }
+        }
+      },
+      "text": {
+        "TEXT": "CREATIVITYSUPPORTTOOLS\nAccelerating Discovery and Innovation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>CREATIVITYSUPPORTTOOLS\nAccelerating Discovery and Innovation<br><br><a href=\"https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0\">https://www.dropbox.com/s/4bu4eihkfv8aoxg/Shneiderman-2007-01.mp3?dl=0</a></p><p><br></p><p><a href=\"https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0\">https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0</a></p><p><br></p><p><a href=\"https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0\">https://www.dropbox.com/s/04qszaepojy196g/Shneiderman-2007-03-Defining-and-Supporting-Creative-Processes.mp3?dl=0</a></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "id": "121AK4TW6a",
+      "guid": "121AK4TW6a",
+      "created": "2020-09-19T23:06:44.323Z",
+      "lastUpdated": "2020-09-19T23:06:52.256Z",
+      "rects": {
+        "0": {
+          "left": 30.07889546351085,
+          "top": 26.696165191740413,
+          "width": 40.92702169625247,
+          "height": 38.27433628318584
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12pUVNyBHqtRmNSDNWWe",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12pUVNyBHqtRmNSDNWWe.png"
+        },
+        "width": 415,
+        "height": 519,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 234,
+        "y": 278,
+        "width": 319,
+        "height": 399
+      }
+    },
+    {
+      "id": "1SqzjUzbAQ",
+      "guid": "129GNbeJ1c",
+      "created": "2020-09-19T23:11:21.021Z",
+      "lastUpdated": "2020-09-19T23:12:40.096Z",
+      "rects": {
+        "0": {
+          "left": 397,
+          "top": 136,
+          "right": 420,
+          "bottom": 153,
+          "width": 23,
+          "height": 17
+        },
+        "1": {
+          "left": 421,
+          "top": 140,
+          "right": 461,
+          "bottom": 152,
+          "width": 40,
+          "height": 12
+        },
+        "2": {
+          "left": 465,
+          "top": 136,
+          "right": 473,
+          "bottom": 153,
+          "width": 8,
+          "height": 17
+        },
+        "3": {
+          "left": 473,
+          "top": 140,
+          "right": 496,
+          "bottom": 152,
+          "width": 23,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A H",
+          "rect": {
+            "left": 397,
+            "top": 136,
+            "right": 420,
+            "bottom": 153,
+            "width": 23,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "ISTORIC",
+          "rect": {
+            "left": 421,
+            "top": 140,
+            "right": 461,
+            "bottom": 152,
+            "width": 39,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "S",
+          "rect": {
+            "left": 465,
+            "top": 136,
+            "right": 473,
+            "bottom": 153,
+            "width": 8,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "HIFT",
+          "rect": {
+            "left": 473,
+            "top": 140,
+            "right": 496,
+            "bottom": 152,
+            "width": 23,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "A H\nISTORIC\nS\nHIFT"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "A H\nISTORIC\nS\nHIFT<br><br><a href=\"https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0\" target=\"_blank\"><b><a href=\"https://www.dropbox.com/s/2viwnb5ltqbo1ct/Shneiderman-2007-02-A-Historic-Shift.mp3?dl=0\" target=\"_blank\">Écouter</a></b></a>"
+      }
+    },
+    {
+      "id": "12hHN9syoC",
+      "guid": "12hHN9syoC",
+      "created": "2020-09-19T23:13:33.023Z",
+      "lastUpdated": "2020-09-19T23:13:33.023Z",
+      "rects": {
+        "0": {
+          "left": 647,
+          "top": 553,
+          "right": 705,
+          "bottom": 570,
+          "width": 58,
+          "height": 17
+        },
+        "1": {
+          "left": 558,
+          "top": 569,
+          "right": 705,
+          "bottom": 586,
+          "width": 147,
+          "height": 17
+        },
+        "2": {
+          "left": 558,
+          "top": 586,
+          "right": 705,
+          "bottom": 603,
+          "width": 147,
+          "height": 17
+        },
+        "3": {
+          "left": 558,
+          "top": 603,
+          "right": 705,
+          "bottom": 620,
+          "width": 147,
+          "height": 17
+        },
+        "4": {
+          "left": 558,
+          "top": 619,
+          "right": 705,
+          "bottom": 636,
+          "width": 147,
+          "height": 17
+        },
+        "5": {
+          "left": 558,
+          "top": 636,
+          "right": 705,
+          "bottom": 653,
+          "width": 147,
+          "height": 17
+        },
+        "6": {
+          "left": 558,
+          "top": 653,
+          "right": 705,
+          "bottom": 670,
+          "width": 147,
+          "height": 17
+        },
+        "7": {
+          "left": 558,
+          "top": 669,
+          "right": 676,
+          "bottom": 686,
+          "width": 118,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The chal-",
+          "rect": {
+            "left": 647,
+            "top": 553,
+            "right": 705,
+            "bottom": 570,
+            "width": 57,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "lenges they face stem",
+          "rect": {
+            "left": 558,
+            "top": 569,
+            "right": 705,
+            "bottom": 586,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "from the vague require-",
+          "rect": {
+            "left": 558,
+            "top": 586,
+            "right": 705,
+            "bottom": 603,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "ments for discovery and",
+          "rect": {
+            "left": 558,
+            "top": 603,
+            "right": 705,
+            "bottom": 620,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "innovation, as well as",
+          "rect": {
+            "left": 558,
+            "top": 619,
+            "right": 705,
+            "bottom": 636,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "fromtheunorthodoxuser",
+          "rect": {
+            "left": 558,
+            "top": 636,
+            "right": 705,
+            "bottom": 653,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "behaviors and unclear",
+          "rect": {
+            "left": 558,
+            "top": 653,
+            "right": 705,
+            "bottom": 670,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "measures of success",
+          "rect": {
+            "left": 558,
+            "top": 669,
+            "right": 676,
+            "bottom": 686,
+            "width": 118,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The chal-\nlenges they face stem\nfrom the vague require-\nments for discovery and\ninnovation, as well as\nfromtheunorthodoxuser\nbehaviors and unclear\nmeasures of success"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "12Pxb3Rtao",
+      "guid": "12Pxb3Rtao",
+      "created": "2020-09-19T23:13:41.277Z",
+      "lastUpdated": "2020-09-19T23:13:41.277Z",
+      "rects": {
+        "0": {
+          "left": 647,
+          "top": 386,
+          "right": 705,
+          "bottom": 403,
+          "width": 58,
+          "height": 17
+        },
+        "1": {
+          "left": 558,
+          "top": 403,
+          "right": 705,
+          "bottom": 420,
+          "width": 147,
+          "height": 17
+        },
+        "2": {
+          "left": 558,
+          "top": 419,
+          "right": 705,
+          "bottom": 436,
+          "width": 147,
+          "height": 17
+        },
+        "3": {
+          "left": 558,
+          "top": 436,
+          "right": 705,
+          "bottom": 453,
+          "width": 147,
+          "height": 17
+        },
+        "4": {
+          "left": 558,
+          "top": 453,
+          "right": 705,
+          "bottom": 470,
+          "width": 147,
+          "height": 17
+        },
+        "5": {
+          "left": 558,
+          "top": 469,
+          "right": 705,
+          "bottom": 486,
+          "width": 147,
+          "height": 17
+        },
+        "6": {
+          "left": 558,
+          "top": 486,
+          "right": 705,
+          "bottom": 503,
+          "width": 147,
+          "height": 17
+        },
+        "7": {
+          "left": 558,
+          "top": 503,
+          "right": 705,
+          "bottom": 520,
+          "width": 147,
+          "height": 17
+        },
+        "8": {
+          "left": 558,
+          "top": 519,
+          "right": 705,
+          "bottom": 536,
+          "width": 147,
+          "height": 17
+        },
+        "9": {
+          "left": 558,
+          "top": 536,
+          "right": 705,
+          "bottom": 553,
+          "width": 147,
+          "height": 17
+        },
+        "10": {
+          "left": 558,
+          "top": 553,
+          "right": 639,
+          "bottom": 570,
+          "width": 81,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " growing",
+          "rect": {
+            "left": 647,
+            "top": 386,
+            "right": 705,
+            "bottom": 403,
+            "width": 58,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "community of innovative",
+          "rect": {
+            "left": 558,
+            "top": 403,
+            "right": 705,
+            "bottom": 420,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "tool designers and user",
+          "rect": {
+            "left": 558,
+            "top": 419,
+            "right": 705,
+            "bottom": 436,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "interface visionaries is",
+          "rect": {
+            "left": 558,
+            "top": 436,
+            "right": 705,
+            "bottom": 453,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "addressing a greater chal-",
+          "rect": {
+            "left": 558,
+            "top": 453,
+            "right": 705,
+            "bottom": 470,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "lenge and moving from",
+          "rect": {
+            "left": 558,
+            "top": 469,
+            "right": 705,
+            "bottom": 486,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "the comparatively safe",
+          "rect": {
+            "left": 558,
+            "top": 486,
+            "right": 705,
+            "bottom": 503,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "territory of productivity",
+          "rect": {
+            "left": 558,
+            "top": 503,
+            "right": 705,
+            "bottom": 520,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "support tools to the more",
+          "rect": {
+            "left": 558,
+            "top": 519,
+            "right": 705,
+            "bottom": 536,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "risky frontier of creativity",
+          "rect": {
+            "left": 558,
+            "top": 536,
+            "right": 705,
+            "bottom": 553,
+            "width": 146,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "support tools",
+          "rect": {
+            "left": 558,
+            "top": 553,
+            "right": 639,
+            "bottom": 570,
+            "width": 80,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": " growing\ncommunity of innovative\ntool designers and user\ninterface visionaries is\naddressing a greater chal-\nlenge and moving from\nthe comparatively safe\nterritory of productivity\nsupport tools to the more\nrisky frontier of creativity\nsupport tools"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "12so8uZkBx",
+      "guid": "12so8uZkBx",
+      "created": "2020-09-19T23:18:01.545Z",
+      "lastUpdated": "2020-09-19T23:18:01.545Z",
+      "rects": {
+        "0": {
+          "left": 488,
+          "top": 886,
+          "right": 705,
+          "bottom": 903,
+          "width": 217,
+          "height": 17
+        },
+        "1": {
+          "left": 397,
+          "top": 903,
+          "right": 705,
+          "bottom": 920,
+          "width": 308,
+          "height": 17
+        },
+        "2": {
+          "left": 397,
+          "top": 919,
+          "right": 705,
+          "bottom": 936,
+          "width": 308,
+          "height": 17
+        },
+        "3": {
+          "left": 397,
+          "top": 936,
+          "right": 705,
+          "bottom": 953,
+          "width": 308,
+          "height": 17
+        },
+        "4": {
+          "left": 397,
+          "top": 953,
+          "right": 551,
+          "bottom": 970,
+          "width": 154,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ccelerator for creative efforts is the",
+          "rect": {
+            "left": 488,
+            "top": 886,
+            "right": 705,
+            "bottom": 903,
+            "width": 217,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "capacity to locate, study, review, and revise existing",
+          "rect": {
+            "left": 397,
+            "top": 903,
+            "right": 705,
+            "bottom": 920,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "projects and performances, such as open source soft-",
+          "rect": {
+            "left": 397,
+            "top": 919,
+            "right": 705,
+            "bottom": 936,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "ware modules, Web page source code, architectural",
+          "rect": {
+            "left": 397,
+            "top": 936,
+            "right": 705,
+            "bottom": 953,
+            "width": 307,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "drawings, or music scores",
+          "rect": {
+            "left": 397,
+            "top": 953,
+            "right": 551,
+            "bottom": 970,
+            "width": 153,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ccelerator for creative efforts is the\ncapacity to locate, study, review, and revise existing\nprojects and performances, such as open source soft-\nware modules, Web page source code, architectural\ndrawings, or music scores"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12KhXox4HK",
+      "guid": "12KhXox4HK",
+      "created": "2020-09-19T23:19:26.737Z",
+      "lastUpdated": "2020-09-19T23:19:52.838Z",
+      "rects": {
+        "0": {
+          "left": 8.974358974358974,
+          "top": 7.669616519174041,
+          "width": 67.15976331360946,
+          "height": 36.13569321533923
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12SAAZRZ352CeGZRUnxi",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12SAAZRZ352CeGZRUnxi.png"
+        },
+        "width": 681,
+        "height": 490,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 70,
+        "y": 80,
+        "width": 523,
+        "height": 376
+      }
+    },
+    {
+      "id": "1var24Hzm1kAvoZ4Rstd",
+      "guid": "1var24Hzm1kAvoZ4Rstd",
+      "created": "2020-09-19T23:21:13.051Z",
+      "lastUpdated": "2020-09-19T23:21:13.051Z",
+      "content": {
+        "HTML": "<p>Autodesk Inventor's Design Accelerators</p>"
+      },
+      "ref": "area-highlight:12KhXox4HK"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

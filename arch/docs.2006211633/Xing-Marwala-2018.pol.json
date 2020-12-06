@@ -1,0 +1,1293 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12j1JwtGri",
+      "guid": "1u66ERJ1cG",
+      "created": "2020-05-12T04:03:42.776Z",
+      "lastUpdated": "2020-05-12T04:06:57.926Z",
+      "rects": {
+        "0": {
+          "left": 253,
+          "top": 339,
+          "right": 700,
+          "bottom": 356,
+          "width": 447,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "e application of artificial intelligence (AI) to the creation of digital art. ",
+          "rect": {
+            "left": 253,
+            "top": 339,
+            "right": 700,
+            "bottom": 356,
+            "width": 447,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "e application of artificial intelligence (AI) to the creation of digital art. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "[...] application of artificial intelligence (AI) to the creation of digital art. "
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1Mmuj6SYsE",
+      "guid": "1Mmuj6SYsE",
+      "created": "2020-05-12T04:05:42.003Z",
+      "lastUpdated": "2020-05-12T04:05:42.003Z",
+      "rects": {
+        "0": {
+          "left": 177,
+          "top": 398,
+          "right": 698,
+          "bottom": 416,
+          "width": 521,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Machine  learning  is  the  statistical  approach  to  bui",
+          "rect": {
+            "left": 177,
+            "top": 398,
+            "right": 528,
+            "bottom": 416,
+            "width": 351,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "lding  intelligent  systems",
+          "rect": {
+            "left": 528,
+            "top": 398,
+            "right": 693,
+            "bottom": 416,
+            "width": 165,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": ".",
+          "rect": {
+            "left": 694,
+            "top": 398,
+            "right": 698,
+            "bottom": 416,
+            "width": 4,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Machine  learning  is  the  statistical  approach  to  building  intelligent  systems."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1vb9UiUZct",
+      "guid": "1vb9UiUZct",
+      "created": "2020-05-12T04:06:02.640Z",
+      "lastUpdated": "2020-05-12T04:06:02.640Z",
+      "rects": {
+        "0": {
+          "left": 327,
+          "top": 379,
+          "right": 443,
+          "bottom": 396,
+          "width": 116,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "machine  learning",
+          "rect": {
+            "left": 327,
+            "top": 379,
+            "right": 443,
+            "bottom": 396,
+            "width": 116,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "machine  learning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1v1GVCB7Mn",
+      "guid": "1v1GVCB7Mn",
+      "created": "2020-05-12T04:06:05.880Z",
+      "lastUpdated": "2020-05-12T04:06:05.880Z",
+      "rects": {
+        "0": {
+          "left": 456,
+          "top": 379,
+          "right": 634,
+          "bottom": 396,
+          "width": 178,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "evolutionary  programming ",
+          "rect": {
+            "left": 456,
+            "top": 379,
+            "right": 634,
+            "bottom": 396,
+            "width": 178,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "evolutionary  programming "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12QJ3hxJJC",
+      "guid": "12QJ3hxJJC",
+      "created": "2020-05-12T04:06:16.189Z",
+      "lastUpdated": "2020-05-12T04:06:16.189Z",
+      "rects": {
+        "0": {
+          "left": 671,
+          "top": 379,
+          "right": 695,
+          "bottom": 398,
+          "width": 24,
+          "height": 19
+        },
+        "1": {
+          "left": 95,
+          "top": 398,
+          "right": 168,
+          "bottom": 416,
+          "width": 73,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "soft",
+          "rect": {
+            "left": 671,
+            "top": 379,
+            "right": 695,
+            "bottom": 396,
+            "width": 24,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "computing",
+          "rect": {
+            "left": 95,
+            "top": 398,
+            "right": 163,
+            "bottom": 416,
+            "width": 68,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": ".",
+          "rect": {
+            "left": 164,
+            "top": 398,
+            "right": 168,
+            "bottom": 416,
+            "width": 4,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "soft\ncomputing."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1r3zGEGMfW",
+      "guid": "1r3zGEGMfW",
+      "created": "2020-05-12T04:06:27.623Z",
+      "lastUpdated": "2020-05-12T04:06:27.623Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 418,
+          "right": 701,
+          "bottom": 438,
+          "width": 606,
+          "height": 20
+        },
+        "1": {
+          "left": 95,
+          "top": 438,
+          "right": 158,
+          "bottom": 456,
+          "width": 63,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Evolutionary  programming  i",
+          "rect": {
+            "left": 95,
+            "top": 418,
+            "right": 276,
+            "bottom": 436,
+            "width": 181,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "s  the  use ",
+          "rect": {
+            "left": 276,
+            "top": 418,
+            "right": 347,
+            "bottom": 436,
+            "width": 70,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "of  natural  evolutionary  systems  to  design  intelligent ",
+          "rect": {
+            "left": 350,
+            "top": 418,
+            "right": 701,
+            "bottom": 436,
+            "width": 351,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "machines",
+          "rect": {
+            "left": 95,
+            "top": 438,
+            "right": 158,
+            "bottom": 456,
+            "width": 62,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Evolutionary  programming  is  the  use  of  natural  evolutionary  systems  to  design  intelligent \nmachines"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "15rB2dj8w9",
+      "guid": "15rB2dj8w9",
+      "created": "2020-05-12T04:06:43.904Z",
+      "lastUpdated": "2020-05-12T04:06:43.904Z",
+      "rects": {
+        "0": {
+          "left": 323,
+          "top": 478,
+          "right": 702,
+          "bottom": 498,
+          "width": 379,
+          "height": 20
+        },
+        "1": {
+          "left": 95,
+          "top": 498,
+          "right": 264,
+          "bottom": 516,
+          "width": 169,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Soft  computing  includes  techniques  such  as  agent  based ",
+          "rect": {
+            "left": 323,
+            "top": 478,
+            "right": 702,
+            "bottom": 496,
+            "width": 378,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "modelling and fuzzy logic.",
+          "rect": {
+            "left": 95,
+            "top": 498,
+            "right": 264,
+            "bottom": 516,
+            "width": 169,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Soft  computing  includes  techniques  such  as  agent  based \nmodelling and fuzzy logic."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12ZYn8d4LL",
+      "guid": "12grQVaEbU",
+      "created": "2020-06-02T18:15:28.390Z",
+      "lastUpdated": "2020-06-02T18:16:30.955Z",
+      "rects": {
+        "0": {
+          "left": 316,
+          "top": 728,
+          "right": 648,
+          "bottom": 746,
+          "width": 332,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "definition of creativity ",
+          "rect": {
+            "left": 316,
+            "top": 728,
+            "right": 464,
+            "bottom": 746,
+            "width": 148,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "remains",
+          "rect": {
+            "left": 465,
+            "top": 728,
+            "right": 515,
+            "bottom": 746,
+            "width": 50,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "rather controversial,",
+          "rect": {
+            "left": 519,
+            "top": 728,
+            "right": 648,
+            "bottom": 746,
+            "width": 129,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "definition of creativity remains rather controversial,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] definition of creativity remains rather controversial [...]&nbsp; (Tang and Werner, 2017; Hernandez-Romero, 2017).</p><p><br></p><p><br></p><p>Though creativity can be generally understood as the capability of producing original and novel work or knowledge, the universaldefinition of creativity remainsrather controversial, mainlydue to its complex nature (Tang and Werner, 2017; Hernandez-Romero, 2017).<br></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "125MJWY1SD",
+      "guid": "12Vxmuq9n6",
+      "created": "2020-06-02T18:17:07.190Z",
+      "lastUpdated": "2020-06-02T18:18:52.618Z",
+      "rects": {
+        "0": {
+          "left": 200,
+          "top": 898,
+          "right": 401,
+          "bottom": 916,
+          "width": 201,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "classified  into  three  categorie",
+          "rect": {
+            "left": 200,
+            "top": 898,
+            "right": 401,
+            "bottom": 916,
+            "width": 200,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "classified  into  three  categorie"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "revisedText": {
+        "HTML": "<p>[...] classified  into  <b>three  categories</b>,  namely,  narrow  AI,  AGI  (<b>artificial  general intelligence</b>), and <b>conscious AI</b> (Wang and Goertzel, 2012).&nbsp;</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12QmZiqkzx",
+      "guid": "12QmZiqkzx",
+      "created": "2020-06-02T18:19:19.698Z",
+      "lastUpdated": "2020-06-02T18:19:19.698Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 165,
+          "right": 239,
+          "bottom": 183,
+          "width": 120,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Wh",
+          "rect": {
+            "left": 119,
+            "top": 165,
+            "right": 144,
+            "bottom": 183,
+            "width": 24,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "y ",
+          "rect": {
+            "left": 144,
+            "top": 165,
+            "right": 156,
+            "bottom": 183,
+            "width": 11,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Digital Art",
+          "rect": {
+            "left": 157,
+            "top": 165,
+            "right": 230,
+            "bottom": 183,
+            "width": 72,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "?",
+          "rect": {
+            "left": 230,
+            "top": 165,
+            "right": 239,
+            "bottom": 183,
+            "width": 8,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Why Digital Art ?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1qkiiTAJCC",
+      "guid": "1qkiiTAJCC",
+      "created": "2020-06-02T18:19:26.664Z",
+      "lastUpdated": "2020-06-02T18:19:26.664Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 595,
+          "right": 367,
+          "bottom": 613,
+          "width": 248,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Creativity",
+          "rect": {
+            "left": 119,
+            "top": 595,
+            "right": 188,
+            "bottom": 613,
+            "width": 69,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "and ",
+          "rect": {
+            "left": 193,
+            "top": 595,
+            "right": 223,
+            "bottom": 613,
+            "width": 29,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Artificial Intelligence",
+          "rect": {
+            "left": 222,
+            "top": 595,
+            "right": 367,
+            "bottom": 613,
+            "width": 145,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Creativity and Artificial Intelligence"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1FVFMs8FFT",
+      "guid": "1FVFMs8FFT",
+      "created": "2020-06-02T18:19:33.800Z",
+      "lastUpdated": "2020-06-02T18:19:33.800Z",
+      "rects": {
+        "0": {
+          "left": 148,
+          "top": 696,
+          "right": 489,
+          "bottom": 713,
+          "width": 341,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Short",
+          "rect": {
+            "left": 148,
+            "top": 696,
+            "right": 184,
+            "bottom": 713,
+            "width": 36,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "-",
+          "rect": {
+            "left": 184,
+            "top": 696,
+            "right": 190,
+            "bottom": 713,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Term",
+          "rect": {
+            "left": 190,
+            "top": 696,
+            "right": 225,
+            "bottom": 713,
+            "width": 35,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "Cases",
+          "rect": {
+            "left": 229,
+            "top": 696,
+            "right": 268,
+            "bottom": 713,
+            "width": 38,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": ": ",
+          "rect": {
+            "left": 267,
+            "top": 696,
+            "right": 276,
+            "bottom": 713,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "AI",
+          "rect": {
+            "left": 277,
+            "top": 696,
+            "right": 294,
+            "bottom": 713,
+            "width": 16,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "-",
+          "rect": {
+            "left": 293,
+            "top": 696,
+            "right": 299,
+            "bottom": 713,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "A",
+          "rect": {
+            "left": 299,
+            "top": 696,
+            "right": 308,
+            "bottom": 713,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "ssisted ",
+          "rect": {
+            "left": 309,
+            "top": 696,
+            "right": 356,
+            "bottom": 713,
+            "width": 46,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "Digital ",
+          "rect": {
+            "left": 356,
+            "top": 696,
+            "right": 406,
+            "bottom": 713,
+            "width": 49,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "Art Creation",
+          "rect": {
+            "left": 406,
+            "top": 696,
+            "right": 489,
+            "bottom": 713,
+            "width": 82,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Short-Term Cases: AI-A ssisted Digital Art Creation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1C3sXgCu9f",
+      "guid": "1C3sXgCu9f",
+      "created": "2020-06-02T18:19:40.280Z",
+      "lastUpdated": "2020-06-02T18:19:40.280Z",
+      "rects": {
+        "0": {
+          "left": 148,
+          "top": 855,
+          "right": 594,
+          "bottom": 873,
+          "width": 446,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Mid",
+          "rect": {
+            "left": 148,
+            "top": 855,
+            "right": 174,
+            "bottom": 873,
+            "width": 26,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "-",
+          "rect": {
+            "left": 175,
+            "top": 855,
+            "right": 180,
+            "bottom": 873,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Term",
+          "rect": {
+            "left": 180,
+            "top": 855,
+            "right": 216,
+            "bottom": 873,
+            "width": 35,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "Cases",
+          "rect": {
+            "left": 220,
+            "top": 855,
+            "right": 258,
+            "bottom": 873,
+            "width": 38,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": ": ",
+          "rect": {
+            "left": 258,
+            "top": 855,
+            "right": 267,
+            "bottom": 873,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "Human ",
+          "rect": {
+            "left": 267,
+            "top": 855,
+            "right": 322,
+            "bottom": 873,
+            "width": 54,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "and ",
+          "rect": {
+            "left": 322,
+            "top": 855,
+            "right": 351,
+            "bottom": 873,
+            "width": 28,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "AI",
+          "rect": {
+            "left": 351,
+            "top": 855,
+            "right": 368,
+            "bottom": 873,
+            "width": 16,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "Collaborated ",
+          "rect": {
+            "left": 372,
+            "top": 855,
+            "right": 461,
+            "bottom": 873,
+            "width": 89,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "Digital ",
+          "rect": {
+            "left": 461,
+            "top": 855,
+            "right": 511,
+            "bottom": 873,
+            "width": 49,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "Art Creation",
+          "rect": {
+            "left": 511,
+            "top": 855,
+            "right": 594,
+            "bottom": 873,
+            "width": 83,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Mid-Term Cases: Human and AI Collaborated Digital Art Creation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "125uA6PgDv",
+      "guid": "125uA6PgDv",
+      "created": "2020-06-02T18:19:52.146Z",
+      "lastUpdated": "2020-06-02T18:19:52.146Z",
+      "rects": {
+        "0": {
+          "left": 148,
+          "top": 145,
+          "right": 640,
+          "bottom": 163,
+          "width": 492,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Long",
+          "rect": {
+            "left": 148,
+            "top": 145,
+            "right": 182,
+            "bottom": 163,
+            "width": 34,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "-",
+          "rect": {
+            "left": 182,
+            "top": 145,
+            "right": 187,
+            "bottom": 163,
+            "width": 5,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Term",
+          "rect": {
+            "left": 187,
+            "top": 145,
+            "right": 223,
+            "bottom": 163,
+            "width": 35,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "Cases",
+          "rect": {
+            "left": 227,
+            "top": 145,
+            "right": 266,
+            "bottom": 163,
+            "width": 38,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": ": ",
+          "rect": {
+            "left": 266,
+            "top": 145,
+            "right": 275,
+            "bottom": 163,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "Art Decentralized Autonomous ",
+          "rect": {
+            "left": 275,
+            "top": 145,
+            "right": 482,
+            "bottom": 163,
+            "width": 207,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "Organization (ArtDAO)",
+          "rect": {
+            "left": 484,
+            "top": 145,
+            "right": 640,
+            "bottom": 163,
+            "width": 156,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Long-Term Cases: Art Decentralized Autonomous  Organization (ArtDAO)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "19sndFNpg5",
+      "guid": "19sndFNpg5",
+      "created": "2020-06-03T02:07:52.575Z",
+      "lastUpdated": "2020-06-03T02:07:52.575Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 196,
+          "right": 659,
+          "bottom": 214,
+          "width": 564,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Technological  development  or  revolution  has  a  long  history  of  influencing  creativity.",
+          "rect": {
+            "left": 95,
+            "top": 196,
+            "right": 659,
+            "bottom": 214,
+            "width": 563,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Technological  development  or  revolution  has  a  long  history  of  influencing  creativity."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12PF9m6iVH",
+      "guid": "12PF9m6iVH",
+      "created": "2020-06-03T02:08:08.727Z",
+      "lastUpdated": "2020-06-03T02:08:08.727Z",
+      "rects": {
+        "0": {
+          "left": 638,
+          "top": 236,
+          "right": 701,
+          "bottom": 255,
+          "width": 63,
+          "height": 19
+        },
+        "1": {
+          "left": 95,
+          "top": 255,
+          "right": 700,
+          "bottom": 275,
+          "width": 605,
+          "height": 20
+        },
+        "2": {
+          "left": 95,
+          "top": 275,
+          "right": 460,
+          "bottom": 292,
+          "width": 365,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "With new ",
+          "rect": {
+            "left": 638,
+            "top": 236,
+            "right": 701,
+            "bottom": 254,
+            "width": 63,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "communication capacity being enabled by this technological advancement, the widespread of ",
+          "rect": {
+            "left": 95,
+            "top": 255,
+            "right": 700,
+            "bottom": 272,
+            "width": 605,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "material  and  intellectual  exchange  become",
+          "rect": {
+            "left": 95,
+            "top": 275,
+            "right": 387,
+            "bottom": 292,
+            "width": 292,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "s  possible.",
+          "rect": {
+            "left": 388,
+            "top": 275,
+            "right": 460,
+            "bottom": 292,
+            "width": 71,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "With new \ncommunication capacity being enabled by this technological advancement, the widespread of \nmaterial  and  intellectual  exchange  becomes  possible."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

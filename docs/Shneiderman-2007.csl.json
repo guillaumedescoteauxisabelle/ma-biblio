@@ -1,0 +1,43 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/J8LGVHXM",
+		"type": "article-journal",
+		"abstract": "How can designers of programming interfaces, interactive tools, and rich social environments enable more people to be more creative more often?",
+		"container-title": "Communications of the ACM",
+		"DOI": "10.1145/1323688.1323689",
+		"ISSN": "0001-0782",
+		"issue": "12",
+		"journalAbbreviation": "Commun. ACM",
+		"note": "ZSCC: 0000618",
+		"page": "20–32",
+		"source": "December 2007",
+		"title": "Creativity support tools: accelerating discovery and innovation",
+		"title-short": "Creativity support tools",
+		"URL": "http://doi.org/10.1145/1323688.1323689",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Shneiderman",
+				"given": "Ben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					12,
+					1
+				]
+			]
+		}
+	}
+]

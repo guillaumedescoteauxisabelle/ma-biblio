@@ -1,0 +1,808 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1c9tyV7s59",
+      "guid": "12qEqhkqPw",
+      "created": "2020-09-28T22:45:07.214Z",
+      "lastUpdated": "2020-09-28T22:45:50.407Z",
+      "rects": {
+        "0": {
+          "left": 48,
+          "top": 65,
+          "right": 362,
+          "bottom": 80,
+          "width": 314,
+          "height": 15
+        },
+        "1": {
+          "left": 35,
+          "top": 80,
+          "right": 75,
+          "bottom": 95,
+          "width": 40,
+          "height": 15
+        },
+        "2": {
+          "left": 75,
+          "top": 81,
+          "right": 80,
+          "bottom": 91,
+          "width": 5,
+          "height": 10
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L'étude ",
+          "rect": {
+            "left": 48,
+            "top": 65,
+            "right": 92,
+            "bottom": 80,
+            "width": 44,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "du ",
+          "rect": {
+            "left": 93,
+            "top": 65,
+            "right": 111,
+            "bottom": 80,
+            "width": 18,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "raisonnement ",
+          "rect": {
+            "left": 112,
+            "top": 65,
+            "right": 190,
+            "bottom": 80,
+            "width": 77,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "déductif ",
+          "rect": {
+            "left": 190,
+            "top": 65,
+            "right": 240,
+            "bottom": 80,
+            "width": 49,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "constitue ",
+          "rect": {
+            "left": 240,
+            "top": 65,
+            "right": 293,
+            "bottom": 80,
+            "width": 53,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "l'objet ",
+          "rect": {
+            "left": 293,
+            "top": 65,
+            "right": 332,
+            "bottom": 80,
+            "width": 39,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "de ",
+          "rect": {
+            "left": 332,
+            "top": 65,
+            "right": 348,
+            "bottom": 80,
+            "width": 16,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "la ",
+          "rect": {
+            "left": 349,
+            "top": 65,
+            "right": 362,
+            "bottom": 80,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "logique",
+          "rect": {
+            "left": 35,
+            "top": 80,
+            "right": 75,
+            "bottom": 95,
+            "width": 40,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "3",
+          "rect": {
+            "left": 75,
+            "top": 81,
+            "right": 80,
+            "bottom": 91,
+            "width": 5,
+            "height": 10
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L'étude  du raisonnement  déductif constitue l'objet de  la \nlogique\n3"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>L'étude  du raisonnement  déductif constitue l'objet de  la \nlogique</b></p><p><br></p><p><i>On  considère parfois  la  logique comme incluant l'étude du  raisonnement inductif, de sorte qu \"il existerait une logique inductive à côté d\"une logique déductive. Dans cc  livre, la  logique est  entendue au  sens du  raisonnement déductif exclusivement.&nbsp;</i><br></p>"
+      }
+    },
+    {
+      "id": "12RZ1uBzpo",
+      "guid": "12RZ1uBzpo",
+      "created": "2020-09-28T22:46:06.892Z",
+      "lastUpdated": "2020-09-28T22:46:17.174Z",
+      "rects": {
+        "0": {
+          "left": 2.6941362916006337,
+          "top": 19.959058341862846,
+          "width": 88.11410459587955,
+          "height": 44.114636642784035
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12DsEZcAeVHoDMJrfZqn",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12DsEZcAeVHoDMJrfZqn.png"
+        },
+        "width": 556,
+        "height": 431,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 10,
+        "y": 121,
+        "width": 347,
+        "height": 269
+      }
+    },
+    {
+      "id": "1u3GAmNhDm",
+      "guid": "1u3GAmNhDm",
+      "created": "2020-09-28T22:48:58.795Z",
+      "lastUpdated": "2020-09-28T22:49:10.558Z",
+      "rects": {
+        "0": {
+          "left": 1.901743264659271,
+          "top": 3.377686796315251,
+          "width": 96.03803486529318,
+          "height": 95.39406345957012
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1o7jaRoMR9w5kdCPJpkF",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1o7jaRoMR9w5kdCPJpkF.png"
+        },
+        "width": 606,
+        "height": 932,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 7,
+        "y": 20,
+        "width": 378,
+        "height": 582
+      }
+    },
+    {
+      "id": "11NgzeWfca",
+      "guid": "1JNwVzASkC",
+      "created": "2020-09-28T22:49:17.521Z",
+      "lastUpdated": "2020-09-28T22:49:46.604Z",
+      "rects": {
+        "0": {
+          "left": 177,
+          "top": 48,
+          "right": 295,
+          "bottom": 71,
+          "width": 118,
+          "height": 23
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CHALME",
+          "rect": {
+            "left": 177,
+            "top": 48,
+            "right": 262,
+            "bottom": 71,
+            "width": 84,
+            "height": 22
+          }
+        },
+        "1": {
+          "text": "RS ",
+          "rect": {
+            "left": 262,
+            "top": 48,
+            "right": 295,
+            "bottom": 71,
+            "width": 33,
+            "height": 22
+          }
+        }
+      },
+      "text": {
+        "TEXT": "CHALMERS "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>CHALMERS</b></p><p><br></p><p>---------------------------------------------------------</p><p>Citer: (Chalmers, 1990)</p><p>FTag: Chalmers-1990</p><p>\n\n</p><p>APA7: Chalmers, A. F. (1990). <em>Qu’est-ce que la science ?</em> 292.</p><p>-----------------------------------------------------------------------</p><p></p><p> </p>"
+      }
+    },
+    {
+      "id": "1e3ZepW1bP",
+      "guid": "1nPZVDbNND",
+      "created": "2020-09-28T22:50:29.215Z",
+      "lastUpdated": "2020-09-28T22:50:36.044Z",
+      "rects": {
+        "0": {
+          "left": 100,
+          "top": 148,
+          "right": 297,
+          "bottom": 183,
+          "width": 197,
+          "height": 35
+        },
+        "1": {
+          "left": 120,
+          "top": 181,
+          "right": 274,
+          "bottom": 216,
+          "width": 154,
+          "height": 35
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Qu'est-ce ",
+          "rect": {
+            "left": 100,
+            "top": 148,
+            "right": 236,
+            "bottom": 183,
+            "width": 136,
+            "height": 35
+          }
+        },
+        "1": {
+          "text": "que ",
+          "rect": {
+            "left": 239,
+            "top": 148,
+            "right": 297,
+            "bottom": 183,
+            "width": 57,
+            "height": 35
+          }
+        },
+        "2": {
+          "text": "la science? ",
+          "rect": {
+            "left": 120,
+            "top": 181,
+            "right": 274,
+            "bottom": 216,
+            "width": 154,
+            "height": 35
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Qu'est-ce  que \nla science? "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Qu'est-ce  que \nla science?</h1><blockquote class=\"dropdown-item\"></blockquote>"
+      }
+    },
+    {
+      "id": "1zZPaBHdWL",
+      "guid": "12w9uu59X9",
+      "created": "2020-09-28T22:51:31.814Z",
+      "lastUpdated": "2020-09-28T22:52:40.774Z",
+      "rects": {
+        "0": {
+          "left": 43,
+          "top": 51,
+          "right": 358,
+          "bottom": 66,
+          "width": 315,
+          "height": 15
+        },
+        "1": {
+          "left": 30,
+          "top": 66,
+          "right": 358,
+          "bottom": 81,
+          "width": 328,
+          "height": 15
+        },
+        "2": {
+          "left": 30,
+          "top": 80,
+          "right": 358,
+          "bottom": 96,
+          "width": 328,
+          "height": 16
+        },
+        "3": {
+          "left": 30,
+          "top": 96,
+          "right": 149,
+          "bottom": 111,
+          "width": 119,
+          "height": 15
+        },
+        "4": {
+          "left": 150,
+          "top": 66,
+          "right": 196,
+          "bottom": 96,
+          "width": 46,
+          "height": 30
+        },
+        "5": {
+          "left": 199,
+          "top": 96,
+          "right": 358,
+          "bottom": 111,
+          "width": 159,
+          "height": 15
+        },
+        "6": {
+          "left": 30,
+          "top": 81,
+          "right": 91,
+          "bottom": 96,
+          "width": 61,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ce type ",
+          "rect": {
+            "left": 43,
+            "top": 51,
+            "right": 90,
+            "bottom": 66,
+            "width": 47,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "de raisonnement ",
+          "rect": {
+            "left": 91,
+            "top": 51,
+            "right": 187,
+            "bottom": 66,
+            "width": 96,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "qui, à partir ",
+          "rect": {
+            "left": 189,
+            "top": 51,
+            "right": 262,
+            "bottom": 66,
+            "width": 73,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "d'une ",
+          "rect": {
+            "left": 264,
+            "top": 51,
+            "right": 299,
+            "bottom": 66,
+            "width": 34,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "série ",
+          "rect": {
+            "left": 300,
+            "top": 51,
+            "right": 329,
+            "bottom": 66,
+            "width": 28,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "finie ",
+          "rect": {
+            "left": 330,
+            "top": 51,
+            "right": 358,
+            "bottom": 66,
+            "width": 27,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "d'énoncés ",
+          "rect": {
+            "left": 30,
+            "top": 66,
+            "right": 87,
+            "bottom": 81,
+            "width": 56,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "singuliers, ",
+          "rect": {
+            "left": 95,
+            "top": 66,
+            "right": 154,
+            "bottom": 81,
+            "width": 58,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "aboutit ",
+          "rect": {
+            "left": 162,
+            "top": 66,
+            "right": 205,
+            "bottom": 81,
+            "width": 43,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "à  légitimer ",
+          "rect": {
+            "left": 213,
+            "top": 66,
+            "right": 283,
+            "bottom": 81,
+            "width": 70,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "un  énoncé ",
+          "rect": {
+            "left": 291,
+            "top": 66,
+            "right": 358,
+            "bottom": 81,
+            "width": 67,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "universel, ",
+          "rect": {
+            "left": 30,
+            "top": 80,
+            "right": 86,
+            "bottom": 96,
+            "width": 56,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": "qui  fait  passer ",
+          "rect": {
+            "left": 90,
+            "top": 80,
+            "right": 178,
+            "bottom": 96,
+            "width": 88,
+            "height": 15
+          }
+        },
+        "13": {
+          "text": "du  particulier ",
+          "rect": {
+            "left": 182,
+            "top": 80,
+            "right": 264,
+            "bottom": 96,
+            "width": 81,
+            "height": 15
+          }
+        },
+        "14": {
+          "text": "au  général, ",
+          "rect": {
+            "left": 268,
+            "top": 80,
+            "right": 335,
+            "bottom": 96,
+            "width": 67,
+            "height": 15
+          }
+        },
+        "15": {
+          "text": "est ",
+          "rect": {
+            "left": 340,
+            "top": 80,
+            "right": 358,
+            "bottom": 96,
+            "width": 18,
+            "height": 15
+          }
+        },
+        "16": {
+          "text": "appelé ",
+          "rect": {
+            "left": 30,
+            "top": 96,
+            "right": 69,
+            "bottom": 111,
+            "width": 39,
+            "height": 15
+          }
+        },
+        "17": {
+          "text": "raisonnement ",
+          "rect": {
+            "left": 71,
+            "top": 96,
+            "right": 149,
+            "bottom": 111,
+            "width": 77,
+            "height": 15
+          }
+        },
+        "18": {
+          "text": "inductif, ",
+          "rect": {
+            "left": 150,
+            "top": 66,
+            "right": 196,
+            "bottom": 81,
+            "width": 45,
+            "height": 15
+          }
+        },
+        "19": {
+          "text": "le processus ",
+          "rect": {
+            "left": 199,
+            "top": 96,
+            "right": 270,
+            "bottom": 111,
+            "width": 70,
+            "height": 15
+          }
+        },
+        "20": {
+          "text": "lui-même ",
+          "rect": {
+            "left": 271,
+            "top": 96,
+            "right": 325,
+            "bottom": 111,
+            "width": 54,
+            "height": 15
+          }
+        },
+        "21": {
+          "text": "étant ",
+          "rect": {
+            "left": 326,
+            "top": 96,
+            "right": 358,
+            "bottom": 111,
+            "width": 31,
+            "height": 15
+          }
+        },
+        "22": {
+          "text": "l'induction. ",
+          "rect": {
+            "left": 30,
+            "top": 81,
+            "right": 91,
+            "bottom": 96,
+            "width": 61,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Ce type  de raisonnement  qui, à partir  d'une  série  finie \nd'énoncés  singuliers,  aboutit  à  légitimer  un  énoncé \nuniversel,  qui  fait  passer  du  particulier  au  général,  est \nappelé  raisonnement \ninductif, \nle processus  lui-même  étant \nl'induction. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Ce type  de raisonnement  qui, à partir  d'une  série  finie \nd'énoncés  singuliers,  aboutit  à  légitimer  un  énoncé \nuniversel,  qui  fait  <b>passer  du  particulier  au  général,</b>  est \nappelé  raisonnement \ninductif, \nle processus  lui-même  étant \nl'induction. "
+      }
+    },
+    {
+      "id": "1czffGLirU",
+      "guid": "17K8NM8MrC",
+      "created": "2020-09-28T22:52:10.725Z",
+      "lastUpdated": "2020-09-28T22:52:17.368Z",
+      "rects": {
+        "0": {
+          "left": 31,
+          "top": 98,
+          "right": 174,
+          "bottom": 118,
+          "width": 143,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "2. ",
+          "rect": {
+            "left": 31,
+            "top": 98,
+            "right": 47,
+            "bottom": 118,
+            "width": 15,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "L'inductivisme ",
+          "rect": {
+            "left": 49,
+            "top": 98,
+            "right": 142,
+            "bottom": 118,
+            "width": 93,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "n",
+          "rect": {
+            "left": 143,
+            "top": 98,
+            "right": 152,
+            "bottom": 118,
+            "width": 8,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "aïf ",
+          "rect": {
+            "left": 152,
+            "top": 98,
+            "right": 174,
+            "bottom": 118,
+            "width": 22,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "2.  L'inductivisme  naïf "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>2.  L'inductivisme  naïf</h1>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

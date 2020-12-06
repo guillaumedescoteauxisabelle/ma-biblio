@@ -1,0 +1,46 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/9Y2R3ZG6",
+		"type": "article-journal",
+		"abstract": "The aim of our studies is to develop tools and guidelines to improve team design practice. In order to improve team designing, we have to understand it, in order to understand we must be able to analyze and describe it. To describe the nature of team designing, we developed anew description method, based on Schon’s theory of reflective practice.This method was tested by applying it in the description of the activities of two design teams. The description method proves to be very useful, in that it allows a concise description of a design project in which the elements vital to the understanding of the design progress are conserved. Comparing the obtained descriptions of these two teams designing reveals different patterns of behavior. These patterns of behavior arouse an interest in a more detailed and in-depth analysis of team design behavior.",
+		"container-title": "Design Studies",
+		"DOI": "10.1016/S0142-694X(98)00011-8",
+		"ISSN": "0142694X",
+		"issue": "3",
+		"journalAbbreviation": "Design Studies",
+		"language": "en",
+		"note": "ZSCC: 0000576",
+		"page": "249-271",
+		"source": "DOI.org (Crossref)",
+		"title": "The reflective practice of design teams",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X98000118",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Valkenburg",
+				"given": "Rianne"
+			},
+			{
+				"family": "Dorst",
+				"given": "Kees"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					7
+				]
+			]
+		}
+	}
+]

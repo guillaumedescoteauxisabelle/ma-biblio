@@ -1,0 +1,452 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1wH5tg7g4f",
+      "guid": "12UAd46qL1",
+      "created": "2020-02-10T02:54:47.345Z",
+      "lastUpdated": "2020-11-01T23:49:30.320Z",
+      "rects": {
+        "0": {
+          "left": 404,
+          "top": 79,
+          "right": 747,
+          "bottom": 100,
+          "width": 343,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PROFESSORS BY RESEARCH INTERESTS",
+          "rect": {
+            "left": 404,
+            "top": 79,
+            "right": 747,
+            "bottom": 100,
+            "width": 342,
+            "height": 21
+          }
+        }
+      },
+      "text": {
+        "TEXT": "PROFESSORS BY RESEARCH INTERESTS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h1>MILA - PROFESSORS BY RESEARCH INTERESTS</h1>"
+      }
+    },
+    {
+      "id": "1AWKqsrGfx",
+      "guid": "1AWKqsrGfx",
+      "created": "2020-02-10T02:55:07.189Z",
+      "lastUpdated": "2020-02-10T02:55:07.189Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 297,
+          "right": 233,
+          "bottom": 313,
+          "width": 177,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Comp",
+          "rect": {
+            "left": 56,
+            "top": 297,
+            "right": 96,
+            "bottom": 313,
+            "width": 39,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "utational photography",
+          "rect": {
+            "left": 96,
+            "top": 297,
+            "right": 233,
+            "bottom": 313,
+            "width": 136,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Computational photography"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12Qr28aRpt",
+      "guid": "12Qr28aRpt",
+      "created": "2020-02-10T02:55:12.085Z",
+      "lastUpdated": "2020-02-10T02:55:12.085Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 507,
+          "right": 180,
+          "bottom": 523,
+          "width": 124,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Distributed systems",
+          "rect": {
+            "left": 56,
+            "top": 507,
+            "right": 180,
+            "bottom": 523,
+            "width": 123,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Distributed systems"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12nkrRv58j",
+      "guid": "12nkrRv58j",
+      "created": "2020-02-10T02:57:39.847Z",
+      "lastUpdated": "2020-02-10T02:57:39.847Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 99,
+          "right": 175,
+          "bottom": 114,
+          "width": 119,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Dynamical systems",
+          "rect": {
+            "left": 56,
+            "top": 99,
+            "right": 175,
+            "bottom": 114,
+            "width": 118,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Dynamical systems"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12iJZ4N1nE",
+      "guid": "1ALi2WzPC2",
+      "created": "2020-02-10T02:57:47.600Z",
+      "lastUpdated": "2020-11-01T23:55:10.223Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 259,
+          "right": 173,
+          "bottom": 274,
+          "width": 117,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Generative models",
+          "rect": {
+            "left": 56,
+            "top": 259,
+            "right": 173,
+            "bottom": 274,
+            "width": 117,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Generative models"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Generative models (Professor's Interested)</h2><p>* Aaron Courville</p><p>* Irina Rish</p><p>* Ioannis Mitliagkas</p><p>* Laurent Charlin</p><p>* Marc G. Bellemare</p><p>* Pascal Vincent</p><p>* Siamak Ravanbakhsh</p><p>* Simon Lacoste-Julien</p><p>* Yoshua Bengio</p><p><br></p>"
+      },
+      "tags": {
+        "MILA": {
+          "id": "MILA",
+          "label": "MILA"
+        },
+        "AIResources": {
+          "id": "AIResources",
+          "label": "AIResources"
+        }
+      }
+    },
+    {
+      "id": "12VoM7FcE1",
+      "guid": "12VoM7FcE1",
+      "created": "2020-02-10T03:16:31.740Z",
+      "lastUpdated": "2020-02-10T03:16:31.740Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 125,
+          "right": 182,
+          "bottom": 141,
+          "width": 126,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Neural data analysis",
+          "rect": {
+            "left": 56,
+            "top": 125,
+            "right": 182,
+            "bottom": 141,
+            "width": 125,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Neural data analysis"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Bw3mpP64W",
+      "guid": "1Bw3mpP64W",
+      "created": "2020-02-10T03:16:47.688Z",
+      "lastUpdated": "2020-02-10T03:16:47.688Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 146,
+          "right": 92,
+          "bottom": 162,
+          "width": 36,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "GANs",
+          "rect": {
+            "left": 56,
+            "top": 146,
+            "right": 92,
+            "bottom": 162,
+            "width": 35,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "GANs"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "12KXMcpGMo",
+      "guid": "1u1PkwmzHv",
+      "created": "2020-11-01T23:50:18.230Z",
+      "lastUpdated": "2020-11-01T23:53:32.850Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 534,
+          "right": 73,
+          "bottom": 550,
+          "width": 17,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "DL"
+        }
+      },
+      "text": {
+        "TEXT": "DL"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>DL (Professor's Interested in Deep-Learning)</h2><p><span>\n\n</span></p><p><span><br></span></p><p>* Aaron Courville</p><p>* Aishwarya Agrawal (August 2020)</p><p>* Christopher Pal</p><p>* Hugo Larochelle</p><p>* Ioannis Mitliagkas</p><p>* Irina Rish</p><p>* Joelle Pineau</p><p>* Laurent Charlin</p><p>* Marc G. Bellemare</p><p>* Nicolas Le Roux</p><p>* Pascal Vincent</p><p>* Sarath Chandar</p><p>* Siamak Ravanbakhsh</p><p>* Simon Lacoste-Julien</p><p>* William L. Hamilton</p><p><span style=\"letter-spacing: 0.01071em;\">* Yoshua Bengio</span></p>"
+      },
+      "tags": {
+        "MILA": {
+          "id": "MILA",
+          "label": "MILA"
+        }
+      }
+    },
+    {
+      "id": "12h7pHiN4u",
+      "guid": "12h7pHiN4u",
+      "created": "2020-11-01T23:56:02.980Z",
+      "lastUpdated": "2020-11-01T23:56:02.980Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 715,
+          "right": 224,
+          "bottom": 731,
+          "width": 167,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recurrent neural networks"
+        }
+      },
+      "text": {
+        "TEXT": "Recurrent neural networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12gUP6iiCt",
+      "guid": "1LPa139QGE",
+      "created": "2020-11-01T23:56:38.247Z",
+      "lastUpdated": "2020-11-01T23:57:20.937Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 741,
+          "right": 72,
+          "bottom": 757,
+          "width": 16,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "RL"
+        }
+      },
+      "text": {
+        "TEXT": "RL"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>RL (Professor's Interested in Reinforcement Learning)</h2><p>* Blake Richards</p><p>* Devon Hjelm</p><p>* Doina Precup</p><p>* Geoffrey Gordon</p><p>* Joelle Pineau</p><p>* Laurent Charlin</p><p>* Marc G. Bellemare</p><p>* Pierre-Luc Bacon</p><p>* Yoshua Bengio</p><p><br></p><p><br></p>"
+      },
+      "tags": {
+        "MILA": {
+          "id": "MILA",
+          "label": "MILA"
+        },
+        "AIResources": {
+          "id": "AIResources",
+          "label": "AIResources"
+        }
+      }
+    },
+    {
+      "id": "12VWowrkUa",
+      "guid": "127aQy99UE",
+      "created": "2020-11-02T01:18:25.087Z",
+      "lastUpdated": "2020-11-02T01:18:29.066Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 146,
+          "right": 167,
+          "bottom": 162,
+          "width": 85,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PROFESSORS"
+        }
+      },
+      "text": {
+        "TEXT": "PROFESSORS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (<em>MILA - Professors-by-Interests-2019-12-09.Pdf</em>, 2019)</p>\n<p>FTag:MILA-Professors-by-Interests-2019-12-09-Pdf-2019</p>\n<p>APA7:&nbsp; <em>MILA - Professors-by-interests-2019-12-09.pdf</em>. (2019). <a href=\"https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf\">https://mila.quebec/wp-content/uploads/2019/11/Professors-by-interests-2019-12-09.pdf</a></p>\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

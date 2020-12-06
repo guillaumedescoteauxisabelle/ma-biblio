@@ -1,0 +1,487 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1VHG6YPZad",
+      "guid": "12rHv27w6Z",
+      "created": "2020-10-13T20:08:04.665Z",
+      "lastUpdated": "2020-10-13T20:08:09.989Z",
+      "rects": {
+        "0": {
+          "left": 106,
+          "top": 71,
+          "right": 710,
+          "bottom": 99,
+          "width": 604,
+          "height": 28
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recognizing Creative Needs in User Interface Design",
+          "rect": {
+            "left": 106,
+            "top": 71,
+            "right": 710,
+            "bottom": 99,
+            "width": 604,
+            "height": 27
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Recognizing Creative Needs in User Interface Design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Recognizing Creative Needs in User Interface Design</h1>"
+      }
+    },
+    {
+      "id": "12CtTaneay",
+      "guid": "12XXQx2PRk",
+      "created": "2020-10-13T20:08:25.034Z",
+      "lastUpdated": "2020-10-13T20:13:14.249Z",
+      "rects": {
+        "0": {
+          "left": 71,
+          "top": 241,
+          "right": 382,
+          "bottom": 256,
+          "width": 311,
+          "height": 15
+        },
+        "1": {
+          "left": 71,
+          "top": 255,
+          "right": 358,
+          "bottom": 269,
+          "width": 287,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The  creative  process  requires  experi",
+          "rect": {
+            "left": 71,
+            "top": 241,
+            "right": 243,
+            "bottom": 256,
+            "width": 171,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "mentation,  the  exploration  of  ",
+          "rect": {
+            "left": 249,
+            "top": 241,
+            "right": 382,
+            "bottom": 256,
+            "width": 133,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "variations,  and  the  continual  eval",
+          "rect": {
+            "left": 71,
+            "top": 255,
+            "right": 226,
+            "bottom": 269,
+            "width": 155,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "uation  of  one’s  progress.  ",
+          "rect": {
+            "left": 236,
+            "top": 255,
+            "right": 358,
+            "bottom": 269,
+            "width": 121,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The  creative  process  requires  experi mentation,  the  exploration  of  \nvariations,  and  the  continual  eval uation  of  one’s  progress.  "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "CreativeProcess": {
+          "id": "CreativeProcess",
+          "label": "CreativeProcess"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>The  creative  process  requires  experimentation,  the  exploration  of  \nvariations,  and  the  continual  evaluation  of  one’s  progress.&nbsp;&nbsp;[...] these  processes  are  frequently  non-linear  and  iterative [...]</p><p><br></p><p>#context</p>"
+      }
+    },
+    {
+      "id": "1cquMNjkbh",
+      "guid": "1GnpdVhGdQ",
+      "created": "2020-10-13T20:08:47.155Z",
+      "lastUpdated": "2020-10-13T20:13:22.773Z",
+      "rects": {
+        "0": {
+          "left": 72,
+          "top": 269,
+          "right": 346,
+          "bottom": 283,
+          "width": 274,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "these  processes  are  frequently  non-",
+          "rect": {
+            "left": 72,
+            "top": 269,
+            "right": 246,
+            "bottom": 283,
+            "width": 174,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "linear  and  iterative,",
+          "rect": {
+            "left": 251,
+            "top": 269,
+            "right": 346,
+            "bottom": 283,
+            "width": 95,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "these  processes  are  frequently  non- linear  and  iterative,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>[...] these  processes  are  frequently  non-linear  and  iterative,</p><p>#context<br></p>"
+      }
+    },
+    {
+      "id": "12YS7n6H6f",
+      "guid": "1QJuh4otv8",
+      "created": "2020-10-13T20:08:59.897Z",
+      "lastUpdated": "2020-10-13T20:12:50.510Z",
+      "rects": {
+        "0": {
+          "left": 352,
+          "top": 269,
+          "right": 393,
+          "bottom": 283,
+          "width": 41,
+          "height": 14
+        },
+        "1": {
+          "left": 72,
+          "top": 283,
+          "right": 395,
+          "bottom": 297,
+          "width": 323,
+          "height": 14
+        },
+        "2": {
+          "left": 72,
+          "top": 297,
+          "right": 392,
+          "bottom": 311,
+          "width": 320,
+          "height": 14
+        },
+        "3": {
+          "left": 72,
+          "top": 310,
+          "right": 175,
+          "bottom": 324,
+          "width": 103,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "mo",
+          "rect": {
+            "left": 352,
+            "top": 269,
+            "right": 367,
+            "bottom": 283,
+            "width": 15,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "dern  ",
+          "rect": {
+            "left": 367,
+            "top": 269,
+            "right": 393,
+            "bottom": 283,
+            "width": 26,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "user  interfaces  do  not  explicit",
+          "rect": {
+            "left": 72,
+            "top": 283,
+            "right": 228,
+            "bottom": 297,
+            "width": 156,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "ly  support  these  practices,  and  ",
+          "rect": {
+            "left": 230,
+            "top": 283,
+            "right": 395,
+            "bottom": 297,
+            "width": 164,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "instead impose a linear progression through tasks that is a poor fit ",
+          "rect": {
+            "left": 72,
+            "top": 297,
+            "right": 392,
+            "bottom": 311,
+            "width": 320,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "for  creative  pursuits.  ",
+          "rect": {
+            "left": 72,
+            "top": 310,
+            "right": 175,
+            "bottom": 324,
+            "width": 103,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "modern  \nuser  interfaces  do  not  explicit ly  support  these  practices,  and  \ninstead impose a linear progression through tasks that is a poor fit \nfor  creative  pursuits.  "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] modern  \nuser  interfaces  do  not  explicitly  support  these  practices,  and  \ninstead impose a linear progression through tasks that is a poor fit \nfor  creative  pursuits.</p><p><br></p><p>#problematic</p><p>  </p>"
+      },
+      "tags": {
+        "Problematic": {
+          "id": "Problematic",
+          "label": "Problematic"
+        }
+      }
+    },
+    {
+      "id": "1ESS3DSu8C",
+      "guid": "1KhEkJhyTW",
+      "created": "2020-10-13T20:09:29.483Z",
+      "lastUpdated": "2020-10-13T20:13:00.298Z",
+      "rects": {
+        "0": {
+          "left": 242,
+          "top": 310,
+          "right": 387,
+          "bottom": 324,
+          "width": 145,
+          "height": 14
+        },
+        "1": {
+          "left": 72,
+          "top": 324,
+          "right": 387,
+          "bottom": 338,
+          "width": 315,
+          "height": 14
+        },
+        "2": {
+          "left": 72,
+          "top": 338,
+          "right": 391,
+          "bottom": 352,
+          "width": 319,
+          "height": 14
+        },
+        "3": {
+          "left": 72,
+          "top": 352,
+          "right": 171,
+          "bottom": 366,
+          "width": 99,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "we  use  data  from  three  case  ",
+          "rect": {
+            "left": 242,
+            "top": 310,
+            "right": 387,
+            "bottom": 324,
+            "width": 145,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "studies,  and  draw  upon  Schön’s  theory  of  reflection-in-action  to  ",
+          "rect": {
+            "left": 72,
+            "top": 324,
+            "right": 387,
+            "bottom": 338,
+            "width": 315,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "illustrate specific deficiencies in ",
+          "rect": {
+            "left": 72,
+            "top": 338,
+            "right": 230,
+            "bottom": 352,
+            "width": 158,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "current user interfaces when used ",
+          "rect": {
+            "left": 230,
+            "top": 338,
+            "right": 391,
+            "bottom": 352,
+            "width": 160,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "in creative endeavors",
+          "rect": {
+            "left": 72,
+            "top": 352,
+            "right": 171,
+            "bottom": 366,
+            "width": 99,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "we  use  data  from  three  case  \nstudies,  and  draw  upon  Schön’s  theory  of  reflection-in-action  to  \nillustrate specific deficiencies in current user interfaces when used \nin creative endeavors"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>[...] we  use  data  from  three  case  \nstudies,  and  draw  upon  Schön’s  theory  of  reflection-in-action  to  \nillustrate specific deficiencies in current user interfaces when used \nin creative endeavors</p><p><br></p><p>#ct</p>"
+      }
+    },
+    {
+      "id": "1ab2Y4DT9X",
+      "guid": "12nZnzmmxH",
+      "created": "2020-10-13T20:10:18.847Z",
+      "lastUpdated": "2020-10-13T20:10:40.565Z",
+      "rects": {
+        "0": {
+          "left": 344,
+          "top": 122,
+          "right": 380,
+          "bottom": 140,
+          "width": 36,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Terry",
+          "rect": {
+            "left": 344,
+            "top": 122,
+            "right": 380,
+            "bottom": 140,
+            "width": 35,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Terry"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Terry</p><p><br></p><p>Citer:(Terry &amp; Mynatt, 2002)</p><p>FTag: Terry-Mynatt-2002</p><p>\n\n</p><p>APA7: Terry, M., &amp; Mynatt, E. D. (2002). Recognizing creative needs in user interface design. <em>Proceedings of the Fourth Conference on Creativity &amp; Cognition&nbsp; - C&amp;C ’02</em>, 38–44. <a href=\"https://doi.org/10.1145/581710.581718\">https://doi.org/10.1145/581710.581718</a><a href=\"https://doi.org/10.1145/581710.581718\"></a></p><p>#biblio</p><p>---------------------------------------------------------------------------------</p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

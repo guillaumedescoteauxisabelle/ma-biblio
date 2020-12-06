@@ -1,0 +1,2764 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1dSrv3uF37",
+      "guid": "125fboJvZQ",
+      "created": "2020-09-15T20:35:10.697Z",
+      "lastUpdated": "2020-10-14T14:14:14.530Z",
+      "rects": {
+        "0": {
+          "left": 151,
+          "top": 258,
+          "right": 371,
+          "bottom": 273,
+          "width": 220,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L",
+          "rect": {
+            "left": 151,
+            "top": 258,
+            "right": 158,
+            "bottom": 273,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "E",
+          "rect": {
+            "left": 160,
+            "top": 258,
+            "right": 168,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "PR",
+          "rect": {
+            "left": 171,
+            "top": 258,
+            "right": 187,
+            "bottom": 273,
+            "width": 16,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "O",
+          "rect": {
+            "left": 187,
+            "top": 258,
+            "right": 196,
+            "bottom": 273,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "CE",
+          "rect": {
+            "left": 196,
+            "top": 258,
+            "right": 213,
+            "bottom": 273,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "SS",
+          "rect": {
+            "left": 214,
+            "top": 258,
+            "right": 229,
+            "bottom": 273,
+            "width": 14,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "US",
+          "rect": {
+            "left": 228,
+            "top": 258,
+            "right": 245,
+            "bottom": 273,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "DE",
+          "rect": {
+            "left": 249,
+            "top": 258,
+            "right": 267,
+            "bottom": 273,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "L",
+          "rect": {
+            "left": 270,
+            "top": 258,
+            "right": 277,
+            "bottom": 273,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "A",
+          "rect": {
+            "left": 278,
+            "top": 258,
+            "right": 287,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "R",
+          "rect": {
+            "left": 291,
+            "top": 258,
+            "right": 300,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "EC",
+          "rect": {
+            "left": 300,
+            "top": 258,
+            "right": 317,
+            "bottom": 273,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": "H",
+          "rect": {
+            "left": 317,
+            "top": 258,
+            "right": 326,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "13": {
+          "text": "E",
+          "rect": {
+            "left": 327,
+            "top": 258,
+            "right": 336,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "14": {
+          "text": "R",
+          "rect": {
+            "left": 335,
+            "top": 258,
+            "right": 344,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "15": {
+          "text": "C",
+          "rect": {
+            "left": 344,
+            "top": 258,
+            "right": 353,
+            "bottom": 273,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "16": {
+          "text": "H",
+          "rect": {
+            "left": 352,
+            "top": 258,
+            "right": 361,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        },
+        "17": {
+          "text": "E",
+          "rect": {
+            "left": 362,
+            "top": 258,
+            "right": 371,
+            "bottom": 273,
+            "width": 8,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L E PROCESSUS DE L A RECH ERCH E"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<div class=\"csl-bib-body\" style=\"line-height: 2; margin-left: 2em; text-indent:-2em;\">\n  <div class=\"csl-entry\"><p>Citer: (N’Da, 2015)</p>\n<p>FTag: NDa-2015</p>\n<p>APA7: N’Da, P. (2015). <em>Recherche et méthodologie en sciences sociales et humaines: Réussir sa thèse, son mémoire de master ou professionnel, et son article</em>. Harmattan.</p></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-2-343-05303-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Recherche%20et%20m%C3%A9thodologie%20en%20sciences%20sociales%20et%20humaines%3A%20r%C3%A9ussir%20sa%20th%C3%A8se%2C%20son%20m%C3%A9moire%20de%20master%20ou%20professionnel%2C%20et%20son%20article&amp;rft.place=Paris&amp;rft.publisher=Harmattan&amp;rft.aufirst=Paul&amp;rft.aulast=N'Da&amp;rft.au=Paul%20N'Da&amp;rft.date=2015&amp;rft.isbn=978-2-343-05303-5&amp;rft.language=fr\"></span></div>"
+      }
+    },
+    {
+      "id": "14Zh4DgJKn",
+      "guid": "14Zh4DgJKn",
+      "created": "2020-09-15T20:36:26.083Z",
+      "lastUpdated": "2020-09-15T20:36:26.083Z",
+      "rects": {
+        "0": {
+          "left": 172,
+          "top": 144,
+          "right": 432,
+          "bottom": 170,
+          "width": 260,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le",
+          "rect": {
+            "left": 172,
+            "top": 144,
+            "right": 196,
+            "bottom": 170,
+            "width": 23,
+            "height": 25
+          }
+        },
+        "1": {
+          "text": "pr",
+          "rect": {
+            "left": 201,
+            "top": 144,
+            "right": 222,
+            "bottom": 170,
+            "width": 21,
+            "height": 25
+          }
+        },
+        "2": {
+          "text": "ocessus",
+          "rect": {
+            "left": 222,
+            "top": 144,
+            "right": 288,
+            "bottom": 170,
+            "width": 66,
+            "height": 25
+          }
+        },
+        "3": {
+          "text": "de",
+          "rect": {
+            "left": 294,
+            "top": 144,
+            "right": 315,
+            "bottom": 170,
+            "width": 21,
+            "height": 25
+          }
+        },
+        "4": {
+          "text": "la",
+          "rect": {
+            "left": 320,
+            "top": 144,
+            "right": 337,
+            "bottom": 170,
+            "width": 16,
+            "height": 25
+          }
+        },
+        "5": {
+          "text": "re",
+          "rect": {
+            "left": 343,
+            "top": 144,
+            "right": 361,
+            "bottom": 170,
+            "width": 18,
+            "height": 25
+          }
+        },
+        "6": {
+          "text": "cher",
+          "rect": {
+            "left": 361,
+            "top": 144,
+            "right": 401,
+            "bottom": 170,
+            "width": 40,
+            "height": 25
+          }
+        },
+        "7": {
+          "text": "che",
+          "rect": {
+            "left": 401,
+            "top": 144,
+            "right": 432,
+            "bottom": 170,
+            "width": 30,
+            "height": 25
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Le processus de la recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12VUSWidY8fA2cn7qqZJ",
+      "guid": "12VUSWidY8fA2cn7qqZJ",
+      "created": "2020-09-15T20:45:40.078Z",
+      "lastUpdated": "2020-09-15T20:45:40.078Z",
+      "content": {
+        "HTML": "<p>Objectiver l'objet d'étude.</p>"
+      },
+      "ref": "text-highlight:14Zh4DgJKn"
+    },
+    {
+      "id": "12JFHCctvRGEzLAxAQMV",
+      "guid": "12JFHCctvRGEzLAxAQMV",
+      "created": "2020-09-15T20:50:43.857Z",
+      "lastUpdated": "2020-09-15T20:50:43.857Z",
+      "content": {
+        "HTML": "<p>Il y a le projet et le rapport de recherche</p>"
+      },
+      "ref": "text-highlight:14Zh4DgJKn"
+    },
+    {
+      "id": "1XyWLmAFJK",
+      "guid": "1XyWLmAFJK",
+      "created": "2020-09-15T20:50:50.820Z",
+      "lastUpdated": "2020-09-15T20:50:50.820Z",
+      "rects": {
+        "0": {
+          "left": 165,
+          "top": 221,
+          "right": 277,
+          "bottom": 238,
+          "width": 112,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "pr",
+          "rect": {
+            "left": 165,
+            "top": 221,
+            "right": 177,
+            "bottom": 238,
+            "width": 12,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "oj",
+          "rect": {
+            "left": 177,
+            "top": 221,
+            "right": 188,
+            "bottom": 238,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "et",
+          "rect": {
+            "left": 188,
+            "top": 221,
+            "right": 199,
+            "bottom": 238,
+            "width": 10,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "de",
+          "rect": {
+            "left": 203,
+            "top": 221,
+            "right": 216,
+            "bottom": 238,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "re",
+          "rect": {
+            "left": 220,
+            "top": 221,
+            "right": 231,
+            "bottom": 238,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "cherche",
+          "rect": {
+            "left": 231,
+            "top": 221,
+            "right": 277,
+            "bottom": 238,
+            "width": 45,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "projet de recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7"
+    },
+    {
+      "id": "1NeDfeYwmB",
+      "guid": "1NeDfeYwmB",
+      "created": "2020-09-15T20:50:54.712Z",
+      "lastUpdated": "2020-09-15T20:50:54.712Z",
+      "rects": {
+        "0": {
+          "left": 309,
+          "top": 221,
+          "right": 430,
+          "bottom": 238,
+          "width": 121,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "rapport",
+          "rect": {
+            "left": 309,
+            "top": 221,
+            "right": 351,
+            "bottom": 238,
+            "width": 42,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "de",
+          "rect": {
+            "left": 355,
+            "top": 221,
+            "right": 369,
+            "bottom": 238,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "re",
+          "rect": {
+            "left": 373,
+            "top": 221,
+            "right": 384,
+            "bottom": 238,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "cherche",
+          "rect": {
+            "left": 384,
+            "top": 221,
+            "right": 430,
+            "bottom": 238,
+            "width": 45,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "rapport de recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7"
+    },
+    {
+      "id": "19KbmBGErC",
+      "guid": "19KbmBGErC",
+      "created": "2020-09-15T20:51:27.360Z",
+      "lastUpdated": "2020-09-15T20:51:27.360Z",
+      "rects": {
+        "0": {
+          "left": 160,
+          "top": 475,
+          "right": 469,
+          "bottom": 491,
+          "width": 309,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "fournir",
+          "rect": {
+            "left": 160,
+            "top": 475,
+            "right": 201,
+            "bottom": 491,
+            "width": 40,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "un",
+          "rect": {
+            "left": 208,
+            "top": 475,
+            "right": 223,
+            "bottom": 491,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "effort",
+          "rect": {
+            "left": 230,
+            "top": 475,
+            "right": 262,
+            "bottom": 491,
+            "width": 32,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "d'",
+          "rect": {
+            "left": 270,
+            "top": 475,
+            "right": 279,
+            "bottom": 491,
+            "width": 9,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "objec",
+          "rect": {
+            "left": 280,
+            "top": 475,
+            "right": 311,
+            "bottom": 491,
+            "width": 31,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "tivation",
+          "rect": {
+            "left": 311,
+            "top": 475,
+            "right": 356,
+            "bottom": 491,
+            "width": 44,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "de",
+          "rect": {
+            "left": 363,
+            "top": 475,
+            "right": 377,
+            "bottom": 491,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "l'",
+          "rect": {
+            "left": 384,
+            "top": 475,
+            "right": 391,
+            "bottom": 491,
+            "width": 6,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "objet",
+          "rect": {
+            "left": 391,
+            "top": 475,
+            "right": 420,
+            "bottom": 491,
+            "width": 29,
+            "height": 16
+          }
+        },
+        "9": {
+          "text": "d'",
+          "rect": {
+            "left": 427,
+            "top": 475,
+            "right": 437,
+            "bottom": 491,
+            "width": 9,
+            "height": 16
+          }
+        },
+        "10": {
+          "text": "étu",
+          "rect": {
+            "left": 437,
+            "top": 475,
+            "right": 455,
+            "bottom": 491,
+            "width": 17,
+            "height": 16
+          }
+        },
+        "11": {
+          "text": "de",
+          "rect": {
+            "left": 455,
+            "top": 475,
+            "right": 469,
+            "bottom": 491,
+            "width": 13,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "fournir un effort d'objectivation de l'objet d'étude"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12tNP12Ai6",
+      "guid": "12tNP12Ai6",
+      "created": "2020-09-15T20:52:06.771Z",
+      "lastUpdated": "2020-09-15T20:52:06.771Z",
+      "rects": {
+        "0": {
+          "left": 418,
+          "top": 575,
+          "right": 517,
+          "bottom": 592,
+          "width": 99,
+          "height": 17
+        },
+        "1": {
+          "left": 66,
+          "top": 592,
+          "right": 320,
+          "bottom": 608,
+          "width": 254,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "un",
+          "rect": {
+            "left": 418,
+            "top": 575,
+            "right": 432,
+            "bottom": 591,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "chem",
+          "rect": {
+            "left": 439,
+            "top": 575,
+            "right": 471,
+            "bottom": 591,
+            "width": 31,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "in",
+          "rect": {
+            "left": 470,
+            "top": 575,
+            "right": 482,
+            "bottom": 591,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "em",
+          "rect": {
+            "left": 482,
+            "top": 575,
+            "right": 500,
+            "bottom": 591,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "ent",
+          "rect": {
+            "left": 500,
+            "top": 575,
+            "right": 517,
+            "bottom": 591,
+            "width": 17,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "ordonné",
+          "rect": {
+            "left": 66,
+            "top": 592,
+            "right": 114,
+            "bottom": 608,
+            "width": 48,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "qui",
+          "rect": {
+            "left": 121,
+            "top": 592,
+            "right": 139,
+            "bottom": 608,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "passe",
+          "rect": {
+            "left": 146,
+            "top": 592,
+            "right": 178,
+            "bottom": 608,
+            "width": 31,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "par",
+          "rect": {
+            "left": 185,
+            "top": 592,
+            "right": 204,
+            "bottom": 608,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "9": {
+          "text": "une",
+          "rect": {
+            "left": 211,
+            "top": 592,
+            "right": 232,
+            "bottom": 608,
+            "width": 21,
+            "height": 16
+          }
+        },
+        "10": {
+          "text": "série",
+          "rect": {
+            "left": 239,
+            "top": 592,
+            "right": 267,
+            "bottom": 608,
+            "width": 27,
+            "height": 16
+          }
+        },
+        "11": {
+          "text": "d'ét",
+          "rect": {
+            "left": 273,
+            "top": 592,
+            "right": 294,
+            "bottom": 608,
+            "width": 20,
+            "height": 16
+          }
+        },
+        "12": {
+          "text": "apes",
+          "rect": {
+            "left": 294,
+            "top": 592,
+            "right": 320,
+            "bottom": 608,
+            "width": 26,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "un cheminement\nordonné qui passe par une série d'étapes"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1a4UtHeENx",
+      "guid": "1a4UtHeENx",
+      "created": "2020-09-15T20:52:15.501Z",
+      "lastUpdated": "2020-09-15T20:52:15.501Z",
+      "rects": {
+        "0": {
+          "left": 118,
+          "top": 609,
+          "right": 438,
+          "bottom": 625,
+          "width": 320,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "pha",
+          "rect": {
+            "left": 118,
+            "top": 609,
+            "right": 139,
+            "bottom": 625,
+            "width": 21,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "ses",
+          "rect": {
+            "left": 140,
+            "top": 609,
+            "right": 157,
+            "bottom": 625,
+            "width": 17,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "suc",
+          "rect": {
+            "left": 161,
+            "top": 609,
+            "right": 180,
+            "bottom": 625,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "ce",
+          "rect": {
+            "left": 181,
+            "top": 609,
+            "right": 194,
+            "bottom": 625,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "ssi",
+          "rect": {
+            "left": 193,
+            "top": 609,
+            "right": 209,
+            "bottom": 625,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "ve",
+          "rect": {
+            "left": 209,
+            "top": 609,
+            "right": 223,
+            "bottom": 625,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "s",
+          "rect": {
+            "left": 223,
+            "top": 609,
+            "right": 230,
+            "bottom": 625,
+            "width": 7,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "et",
+          "rect": {
+            "left": 232,
+            "top": 609,
+            "right": 243,
+            "bottom": 625,
+            "width": 10,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "pro",
+          "rect": {
+            "left": 246,
+            "top": 609,
+            "right": 266,
+            "bottom": 625,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "9": {
+          "text": "gre",
+          "rect": {
+            "left": 266,
+            "top": 609,
+            "right": 284,
+            "bottom": 625,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "10": {
+          "text": "ssi",
+          "rect": {
+            "left": 285,
+            "top": 609,
+            "right": 300,
+            "bottom": 625,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "11": {
+          "text": "ve",
+          "rect": {
+            "left": 300,
+            "top": 609,
+            "right": 314,
+            "bottom": 625,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "12": {
+          "text": "s",
+          "rect": {
+            "left": 314,
+            "top": 609,
+            "right": 321,
+            "bottom": 625,
+            "width": 7,
+            "height": 16
+          }
+        },
+        "13": {
+          "text": "co",
+          "rect": {
+            "left": 323,
+            "top": 609,
+            "right": 337,
+            "bottom": 625,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "14": {
+          "text": "ndu",
+          "rect": {
+            "left": 338,
+            "top": 609,
+            "right": 360,
+            "bottom": 625,
+            "width": 21,
+            "height": 16
+          }
+        },
+        "15": {
+          "text": "isa",
+          "rect": {
+            "left": 360,
+            "top": 609,
+            "right": 376,
+            "bottom": 625,
+            "width": 16,
+            "height": 16
+          }
+        },
+        "16": {
+          "text": "nt",
+          "rect": {
+            "left": 376,
+            "top": 609,
+            "right": 387,
+            "bottom": 625,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "17": {
+          "text": "à",
+          "rect": {
+            "left": 391,
+            "top": 609,
+            "right": 399,
+            "bottom": 625,
+            "width": 8,
+            "height": 16
+          }
+        },
+        "18": {
+          "text": "un",
+          "rect": {
+            "left": 401,
+            "top": 609,
+            "right": 415,
+            "bottom": 625,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "19": {
+          "text": "but",
+          "rect": {
+            "left": 419,
+            "top": 609,
+            "right": 438,
+            "bottom": 625,
+            "width": 18,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "phases successives et progressives conduisant à un but"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12uC7h6pzk",
+      "guid": "12uC7h6pzk",
+      "created": "2020-09-15T20:53:07.255Z",
+      "lastUpdated": "2020-09-15T20:53:07.255Z",
+      "rects": {
+        "0": {
+          "left": 358,
+          "top": 626,
+          "right": 518,
+          "bottom": 642,
+          "width": 160,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "déc",
+          "rect": {
+            "left": 358,
+            "top": 626,
+            "right": 379,
+            "bottom": 642,
+            "width": 20,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "o",
+          "rect": {
+            "left": 379,
+            "top": 626,
+            "right": 386,
+            "bottom": 642,
+            "width": 7,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "mposé",
+          "rect": {
+            "left": 386,
+            "top": 626,
+            "right": 424,
+            "bottom": 642,
+            "width": 38,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "en",
+          "rect": {
+            "left": 430,
+            "top": 626,
+            "right": 443,
+            "bottom": 642,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "trois",
+          "rect": {
+            "left": 448,
+            "top": 626,
+            "right": 474,
+            "bottom": 642,
+            "width": 26,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "phases",
+          "rect": {
+            "left": 479,
+            "top": 626,
+            "right": 518,
+            "bottom": 642,
+            "width": 39,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "décomposé en trois phases"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12ffmJW5Ga",
+      "guid": "12ffmJW5Ga",
+      "created": "2020-09-15T20:53:15.554Z",
+      "lastUpdated": "2020-09-15T20:53:15.554Z",
+      "rects": {
+        "0": {
+          "left": 66,
+          "top": 660,
+          "right": 242,
+          "bottom": 676,
+          "width": 176,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Marie-",
+          "rect": {
+            "left": 66,
+            "top": 660,
+            "right": 106,
+            "bottom": 676,
+            "width": 39,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "F",
+          "rect": {
+            "left": 106,
+            "top": 660,
+            "right": 115,
+            "bottom": 676,
+            "width": 8,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "abien",
+          "rect": {
+            "left": 114,
+            "top": 660,
+            "right": 146,
+            "bottom": 676,
+            "width": 31,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "ne",
+          "rect": {
+            "left": 146,
+            "top": 660,
+            "right": 160,
+            "bottom": 676,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "F",
+          "rect": {
+            "left": 163,
+            "top": 660,
+            "right": 172,
+            "bottom": 676,
+            "width": 8,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "ortin",
+          "rect": {
+            "left": 171,
+            "top": 660,
+            "right": 199,
+            "bottom": 676,
+            "width": 27,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "(1",
+          "rect": {
+            "left": 203,
+            "top": 660,
+            "right": 215,
+            "bottom": 676,
+            "width": 12,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "99",
+          "rect": {
+            "left": 215,
+            "top": 660,
+            "right": 230,
+            "bottom": 676,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "6)",
+          "rect": {
+            "left": 230,
+            "top": 660,
+            "right": 242,
+            "bottom": 676,
+            "width": 12,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Marie-Fabienne Fortin (1996)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12h3khDYnpHvWtRXwZYk",
+      "guid": "12h3khDYnpHvWtRXwZYk",
+      "created": "2020-09-15T20:53:45.516Z",
+      "lastUpdated": "2020-09-15T20:53:45.516Z",
+      "content": {
+        "HTML": "<p>Il référence Marie-Fabienne Fortin, 1996</p>"
+      },
+      "ref": "text-highlight:14Zh4DgJKn"
+    },
+    {
+      "id": "12b5XFb2au",
+      "guid": "1F6sEAmbWL",
+      "created": "2020-09-15T21:06:48.829Z",
+      "lastUpdated": "2020-09-15T21:07:03.171Z",
+      "rects": {
+        "0": {
+          "left": 97,
+          "top": 676,
+          "right": 223,
+          "bottom": 693,
+          "width": 126,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "a",
+          "rect": {
+            "left": 97,
+            "top": 676,
+            "right": 106,
+            "bottom": 693,
+            "width": 8,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "phas",
+          "rect": {
+            "left": 110,
+            "top": 676,
+            "right": 137,
+            "bottom": 693,
+            "width": 27,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "e",
+          "rect": {
+            "left": 137,
+            "top": 676,
+            "right": 144,
+            "bottom": 693,
+            "width": 7,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "conceptuel",
+          "rect": {
+            "left": 149,
+            "top": 676,
+            "right": 212,
+            "bottom": 693,
+            "width": 63,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "le",
+          "rect": {
+            "left": 213,
+            "top": 676,
+            "right": 223,
+            "bottom": 693,
+            "width": 10,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "a phase conceptuelle"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7",
+      "revisedText": {
+        "HTML": "La phase conceptuelle"
+      }
+    },
+    {
+      "id": "1R4WuiimeL",
+      "guid": "1R4WuiimeL",
+      "created": "2020-09-15T21:06:52.563Z",
+      "lastUpdated": "2020-09-15T21:06:52.563Z",
+      "rects": {
+        "0": {
+          "left": 93,
+          "top": 744,
+          "right": 245,
+          "bottom": 760,
+          "width": 152,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "la",
+          "rect": {
+            "left": 93,
+            "top": 744,
+            "right": 105,
+            "bottom": 760,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "ph",
+          "rect": {
+            "left": 109,
+            "top": 744,
+            "right": 124,
+            "bottom": 760,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "ase",
+          "rect": {
+            "left": 123,
+            "top": 744,
+            "right": 143,
+            "bottom": 760,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "mét",
+          "rect": {
+            "left": 146,
+            "top": 744,
+            "right": 168,
+            "bottom": 760,
+            "width": 21,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "hod",
+          "rect": {
+            "left": 168,
+            "top": 744,
+            "right": 190,
+            "bottom": 760,
+            "width": 22,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "ol",
+          "rect": {
+            "left": 190,
+            "top": 744,
+            "right": 201,
+            "bottom": 760,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "ogi",
+          "rect": {
+            "left": 201,
+            "top": 744,
+            "right": 220,
+            "bottom": 760,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "que",
+          "rect": {
+            "left": 220,
+            "top": 744,
+            "right": 241,
+            "bottom": 760,
+            "width": 21,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": ".",
+          "rect": {
+            "left": 241,
+            "top": 744,
+            "right": 245,
+            "bottom": 760,
+            "width": 3,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "la phase méthodologique."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7"
+    },
+    {
+      "id": "12rZhRS28T",
+      "guid": "12rZhRS28T",
+      "created": "2020-09-15T21:06:56.169Z",
+      "lastUpdated": "2020-09-15T21:06:56.169Z",
+      "rects": {
+        "0": {
+          "left": 93,
+          "top": 761,
+          "right": 206,
+          "bottom": 777,
+          "width": 113,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "la",
+          "rect": {
+            "left": 93,
+            "top": 761,
+            "right": 105,
+            "bottom": 777,
+            "width": 11,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "ph",
+          "rect": {
+            "left": 109,
+            "top": 761,
+            "right": 124,
+            "bottom": 777,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "ase",
+          "rect": {
+            "left": 123,
+            "top": 761,
+            "right": 143,
+            "bottom": 777,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "empirique",
+          "rect": {
+            "left": 146,
+            "top": 761,
+            "right": 206,
+            "bottom": 777,
+            "width": 59,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "la phase empirique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7"
+    },
+    {
+      "id": "1T1MzADJeF",
+      "guid": "1T1MzADJeF",
+      "created": "2020-09-15T21:07:33.860Z",
+      "lastUpdated": "2020-09-15T21:07:33.860Z",
+      "rects": {
+        "0": {
+          "left": 110,
+          "top": 183,
+          "right": 303,
+          "bottom": 198,
+          "width": 193,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Pha",
+          "rect": {
+            "left": 110,
+            "top": 183,
+            "right": 132,
+            "bottom": 198,
+            "width": 22,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "se",
+          "rect": {
+            "left": 132,
+            "top": 183,
+            "right": 143,
+            "bottom": 198,
+            "width": 11,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "de",
+          "rect": {
+            "left": 146,
+            "top": 183,
+            "right": 160,
+            "bottom": 198,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "co",
+          "rect": {
+            "left": 163,
+            "top": 183,
+            "right": 176,
+            "bottom": 198,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "nc",
+          "rect": {
+            "left": 176,
+            "top": 183,
+            "right": 189,
+            "bottom": 198,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "ept",
+          "rect": {
+            "left": 189,
+            "top": 183,
+            "right": 207,
+            "bottom": 198,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "io",
+          "rect": {
+            "left": 207,
+            "top": 183,
+            "right": 217,
+            "bottom": 198,
+            "width": 10,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "n",
+          "rect": {
+            "left": 217,
+            "top": 183,
+            "right": 224,
+            "bottom": 198,
+            "width": 6,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "/c",
+          "rect": {
+            "left": 228,
+            "top": 183,
+            "right": 238,
+            "bottom": 198,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "on",
+          "rect": {
+            "left": 238,
+            "top": 183,
+            "right": 252,
+            "bottom": 198,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "st",
+          "rect": {
+            "left": 251,
+            "top": 183,
+            "right": 261,
+            "bottom": 198,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "11": {
+          "text": "ru",
+          "rect": {
+            "left": 261,
+            "top": 183,
+            "right": 275,
+            "bottom": 198,
+            "width": 13,
+            "height": 15
+          }
+        },
+        "12": {
+          "text": "ct",
+          "rect": {
+            "left": 275,
+            "top": 183,
+            "right": 285,
+            "bottom": 198,
+            "width": 10,
+            "height": 15
+          }
+        },
+        "13": {
+          "text": "ion",
+          "rect": {
+            "left": 285,
+            "top": 183,
+            "right": 303,
+            "bottom": 198,
+            "width": 17,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Phase de conception /construction"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12TvBbzFrV",
+      "guid": "12TvBbzFrV",
+      "created": "2020-09-15T22:24:36.186Z",
+      "lastUpdated": "2020-09-15T22:24:36.186Z",
+      "rects": {
+        "0": {
+          "left": 109,
+          "top": 340,
+          "right": 237,
+          "bottom": 355,
+          "width": 128,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Phase",
+          "rect": {
+            "left": 109,
+            "top": 340,
+            "right": 142,
+            "bottom": 355,
+            "width": 33,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "méthod",
+          "rect": {
+            "left": 146,
+            "top": 340,
+            "right": 189,
+            "bottom": 355,
+            "width": 43,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "ol",
+          "rect": {
+            "left": 188,
+            "top": 340,
+            "right": 199,
+            "bottom": 355,
+            "width": 10,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "ogique",
+          "rect": {
+            "left": 199,
+            "top": 340,
+            "right": 237,
+            "bottom": 355,
+            "width": 37,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Phase méthodologique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1213viHt7x",
+      "guid": "1213viHt7x",
+      "created": "2020-09-15T22:27:49.310Z",
+      "lastUpdated": "2020-09-15T22:27:49.310Z",
+      "rects": {
+        "0": {
+          "left": 115,
+          "top": 508,
+          "right": 357,
+          "bottom": 523,
+          "width": 242,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Phase",
+          "rect": {
+            "left": 115,
+            "top": 508,
+            "right": 146,
+            "bottom": 523,
+            "width": 31,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "empiriqu",
+          "rect": {
+            "left": 149,
+            "top": 508,
+            "right": 198,
+            "bottom": 523,
+            "width": 49,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "e",
+          "rect": {
+            "left": 198,
+            "top": 508,
+            "right": 206,
+            "bottom": 523,
+            "width": 7,
+            "height": 15
+          }
+        },
+        "3": {
+          "text": "et",
+          "rect": {
+            "left": 207,
+            "top": 508,
+            "right": 217,
+            "bottom": 523,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "4": {
+          "text": "de",
+          "rect": {
+            "left": 220,
+            "top": 508,
+            "right": 232,
+            "bottom": 523,
+            "width": 12,
+            "height": 15
+          }
+        },
+        "5": {
+          "text": "trai",
+          "rect": {
+            "left": 235,
+            "top": 508,
+            "right": 254,
+            "bottom": 523,
+            "width": 19,
+            "height": 15
+          }
+        },
+        "6": {
+          "text": "te",
+          "rect": {
+            "left": 254,
+            "top": 508,
+            "right": 263,
+            "bottom": 523,
+            "width": 9,
+            "height": 15
+          }
+        },
+        "7": {
+          "text": "ment",
+          "rect": {
+            "left": 263,
+            "top": 508,
+            "right": 291,
+            "bottom": 523,
+            "width": 27,
+            "height": 15
+          }
+        },
+        "8": {
+          "text": "des",
+          "rect": {
+            "left": 293,
+            "top": 508,
+            "right": 311,
+            "bottom": 523,
+            "width": 17,
+            "height": 15
+          }
+        },
+        "9": {
+          "text": "donn",
+          "rect": {
+            "left": 314,
+            "top": 508,
+            "right": 341,
+            "bottom": 523,
+            "width": 27,
+            "height": 15
+          }
+        },
+        "10": {
+          "text": "ées",
+          "rect": {
+            "left": 341,
+            "top": 508,
+            "right": 357,
+            "bottom": 523,
+            "width": 15,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Phase empirique et de traitement des données"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1ZNBEK9L44",
+      "guid": "1ZNBEK9L44",
+      "created": "2020-09-15T22:35:06.722Z",
+      "lastUpdated": "2020-09-15T22:35:06.722Z",
+      "rects": {
+        "0": {
+          "left": 89,
+          "top": 90,
+          "right": 309,
+          "bottom": 106,
+          "width": 220,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "t",
+          "rect": {
+            "left": 89,
+            "top": 90,
+            "right": 92,
+            "bottom": 106,
+            "width": 3,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "oute",
+          "rect": {
+            "left": 92,
+            "top": 90,
+            "right": 116,
+            "bottom": 106,
+            "width": 24,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "représ",
+          "rect": {
+            "left": 120,
+            "top": 90,
+            "right": 154,
+            "bottom": 106,
+            "width": 34,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "en",
+          "rect": {
+            "left": 154,
+            "top": 90,
+            "right": 167,
+            "bottom": 106,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "tati",
+          "rect": {
+            "left": 167,
+            "top": 90,
+            "right": 183,
+            "bottom": 106,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "on",
+          "rect": {
+            "left": 183,
+            "top": 90,
+            "right": 197,
+            "bottom": 106,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "est",
+          "rect": {
+            "left": 200,
+            "top": 90,
+            "right": 215,
+            "bottom": 106,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "une",
+          "rect": {
+            "left": 219,
+            "top": 90,
+            "right": 239,
+            "bottom": 106,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "construc",
+          "rect": {
+            "left": 242,
+            "top": 90,
+            "right": 288,
+            "bottom": 106,
+            "width": 46,
+            "height": 16
+          }
+        },
+        "9": {
+          "text": "tion",
+          "rect": {
+            "left": 288,
+            "top": 90,
+            "right": 309,
+            "bottom": 106,
+            "width": 20,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "toute représentation est une construction"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1NKzq4Zogq",
+      "guid": "1NKzq4Zogq",
+      "created": "2020-09-15T22:44:17.626Z",
+      "lastUpdated": "2020-09-15T22:44:17.626Z",
+      "rects": {
+        "0": {
+          "left": 205,
+          "top": 309,
+          "right": 485,
+          "bottom": 325,
+          "width": 280,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "im",
+          "rect": {
+            "left": 205,
+            "top": 309,
+            "right": 220,
+            "bottom": 325,
+            "width": 15,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "ag",
+          "rect": {
+            "left": 220,
+            "top": 309,
+            "right": 234,
+            "bottom": 325,
+            "width": 13,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "iner",
+          "rect": {
+            "left": 234,
+            "top": 309,
+            "right": 257,
+            "bottom": 325,
+            "width": 22,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "les",
+          "rect": {
+            "left": 261,
+            "top": 309,
+            "right": 278,
+            "bottom": 325,
+            "width": 16,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": "répo",
+          "rect": {
+            "left": 282,
+            "top": 309,
+            "right": 308,
+            "bottom": 325,
+            "width": 26,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "nses",
+          "rect": {
+            "left": 308,
+            "top": 309,
+            "right": 333,
+            "bottom": 325,
+            "width": 25,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": "appr",
+          "rect": {
+            "left": 338,
+            "top": 309,
+            "right": 364,
+            "bottom": 325,
+            "width": 26,
+            "height": 16
+          }
+        },
+        "7": {
+          "text": "opri",
+          "rect": {
+            "left": 364,
+            "top": 309,
+            "right": 387,
+            "bottom": 325,
+            "width": 23,
+            "height": 16
+          }
+        },
+        "8": {
+          "text": "ées",
+          "rect": {
+            "left": 388,
+            "top": 309,
+            "right": 406,
+            "bottom": 325,
+            "width": 18,
+            "height": 16
+          }
+        },
+        "9": {
+          "text": "(hy",
+          "rect": {
+            "left": 411,
+            "top": 309,
+            "right": 430,
+            "bottom": 325,
+            "width": 19,
+            "height": 16
+          }
+        },
+        "10": {
+          "text": "po",
+          "rect": {
+            "left": 430,
+            "top": 309,
+            "right": 445,
+            "bottom": 325,
+            "width": 14,
+            "height": 16
+          }
+        },
+        "11": {
+          "text": "thèses)",
+          "rect": {
+            "left": 445,
+            "top": 309,
+            "right": 485,
+            "bottom": 325,
+            "width": 40,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "imaginer les réponses appropriées (hypothèses)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "122pmuU2jS",
+      "guid": "12MK39zxcb",
+      "created": "2020-10-14T14:08:39.530Z",
+      "lastUpdated": "2020-10-14T14:09:42.712Z",
+      "rects": {
+        "0": {
+          "left": 504,
+          "top": 666,
+          "right": 519,
+          "bottom": 683,
+          "width": 15,
+          "height": 16
+        },
+        "1": {
+          "left": 67,
+          "top": 683,
+          "right": 116,
+          "bottom": 699,
+          "width": 49,
+          "height": 16
+        },
+        "2": {
+          "left": 115,
+          "top": 683,
+          "right": 130,
+          "bottom": 699,
+          "width": 15,
+          "height": 16
+        },
+        "3": {
+          "left": 135,
+          "top": 683,
+          "right": 146,
+          "bottom": 699,
+          "width": 11,
+          "height": 16
+        },
+        "4": {
+          "left": 145,
+          "top": 683,
+          "right": 164,
+          "bottom": 699,
+          "width": 18,
+          "height": 16
+        },
+        "5": {
+          "left": 169,
+          "top": 683,
+          "right": 203,
+          "bottom": 699,
+          "width": 34,
+          "height": 16
+        },
+        "6": {
+          "left": 208,
+          "top": 683,
+          "right": 216,
+          "bottom": 699,
+          "width": 8,
+          "height": 16
+        },
+        "7": {
+          "left": 220,
+          "top": 683,
+          "right": 231,
+          "bottom": 699,
+          "width": 11,
+          "height": 16
+        },
+        "8": {
+          "left": 236,
+          "top": 683,
+          "right": 266,
+          "bottom": 699,
+          "width": 29,
+          "height": 16
+        },
+        "9": {
+          "left": 266,
+          "top": 683,
+          "right": 300,
+          "bottom": 699,
+          "width": 34,
+          "height": 16
+        },
+        "10": {
+          "left": 304,
+          "top": 683,
+          "right": 326,
+          "bottom": 699,
+          "width": 21,
+          "height": 16
+        },
+        "11": {
+          "left": 331,
+          "top": 683,
+          "right": 342,
+          "bottom": 699,
+          "width": 11,
+          "height": 16
+        },
+        "12": {
+          "left": 347,
+          "top": 683,
+          "right": 406,
+          "bottom": 699,
+          "width": 59,
+          "height": 16
+        },
+        "13": {
+          "left": 410,
+          "top": 683,
+          "right": 439,
+          "bottom": 699,
+          "width": 28,
+          "height": 16
+        },
+        "14": {
+          "left": 439,
+          "top": 683,
+          "right": 446,
+          "bottom": 699,
+          "width": 7,
+          "height": 16
+        },
+        "15": {
+          "left": 451,
+          "top": 683,
+          "right": 492,
+          "bottom": 699,
+          "width": 41,
+          "height": 16
+        },
+        "16": {
+          "left": 497,
+          "top": 683,
+          "right": 507,
+          "bottom": 699,
+          "width": 10,
+          "height": 16
+        },
+        "17": {
+          "left": 513,
+          "top": 683,
+          "right": 521,
+          "bottom": 699,
+          "width": 8,
+          "height": 16
+        },
+        "18": {
+          "left": 67,
+          "top": 700,
+          "right": 99,
+          "bottom": 716,
+          "width": 32,
+          "height": 16
+        },
+        "19": {
+          "left": 109,
+          "top": 700,
+          "right": 123,
+          "bottom": 716,
+          "width": 13,
+          "height": 16
+        },
+        "20": {
+          "left": 133,
+          "top": 700,
+          "right": 182,
+          "bottom": 716,
+          "width": 48,
+          "height": 16
+        },
+        "21": {
+          "left": 190,
+          "top": 700,
+          "right": 200,
+          "bottom": 716,
+          "width": 9,
+          "height": 16
+        },
+        "22": {
+          "left": 209,
+          "top": 700,
+          "right": 251,
+          "bottom": 716,
+          "width": 41,
+          "height": 16
+        },
+        "23": {
+          "left": 260,
+          "top": 700,
+          "right": 288,
+          "bottom": 716,
+          "width": 27,
+          "height": 16
+        },
+        "24": {
+          "left": 298,
+          "top": 700,
+          "right": 312,
+          "bottom": 716,
+          "width": 14,
+          "height": 16
+        },
+        "25": {
+          "left": 312,
+          "top": 700,
+          "right": 319,
+          "bottom": 716,
+          "width": 7,
+          "height": 16
+        },
+        "26": {
+          "left": 328,
+          "top": 700,
+          "right": 356,
+          "bottom": 716,
+          "width": 28,
+          "height": 16
+        },
+        "27": {
+          "left": 356,
+          "top": 700,
+          "right": 376,
+          "bottom": 716,
+          "width": 20,
+          "height": 16
+        },
+        "28": {
+          "left": 375,
+          "top": 700,
+          "right": 396,
+          "bottom": 716,
+          "width": 20,
+          "height": 16
+        },
+        "29": {
+          "left": 396,
+          "top": 700,
+          "right": 420,
+          "bottom": 716,
+          "width": 24,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "La"
+        },
+        "1": {
+          "text": "populati"
+        },
+        "2": {
+          "text": "on"
+        },
+        "3": {
+          "text": "ci"
+        },
+        "4": {
+          "text": "ble"
+        },
+        "5": {
+          "text": "réfère"
+        },
+        "6": {
+          "text": "à"
+        },
+        "7": {
+          "text": "la"
+        },
+        "8": {
+          "text": "popu"
+        },
+        "9": {
+          "text": "lation"
+        },
+        "10": {
+          "text": "que"
+        },
+        "11": {
+          "text": "le"
+        },
+        "12": {
+          "text": "chercheur"
+        },
+        "13": {
+          "text": "désir"
+        },
+        "14": {
+          "text": "e"
+        },
+        "15": {
+          "text": "étudier"
+        },
+        "16": {
+          "text": "et"
+        },
+        "17": {
+          "text": "à"
+        },
+        "18": {
+          "text": "partir"
+        },
+        "19": {
+          "text": "de"
+        },
+        "20": {
+          "text": "laquelle"
+        },
+        "21": {
+          "text": "il"
+        },
+        "22": {
+          "text": "voudra"
+        },
+        "23": {
+          "text": "faire"
+        },
+        "24": {
+          "text": "de"
+        },
+        "25": {
+          "text": "s"
+        },
+        "26": {
+          "text": "géné"
+        },
+        "27": {
+          "text": "rali"
+        },
+        "28": {
+          "text": "sati"
+        },
+        "29": {
+          "text": "ons."
+        }
+      },
+      "text": {
+        "TEXT": "La populati on ci ble réfère à la popu lation que le chercheur désir e étudier et à partir de laquelle il voudra faire de s géné rali sati ons."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "La population cible réfère à la population que le chercheur désire étudier et à partir de laquelle il voudra faire des généralisations."
+      }
+    },
+    {
+      "id": "12DCmhnzZd",
+      "guid": "12DCmhnzZd",
+      "created": "2020-10-14T14:10:58.819Z",
+      "lastUpdated": "2020-10-14T14:10:58.819Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>Il y a donc un choix de ce que l'on veut étudier et généraliser.&nbsp; Notre désir doit donc peser dans la balance de ce choix de population.</p>"
+        },
+        "back": {
+          "HTML": "&gt;La population cible réfère à la population que le chercheur désire étudier et à partir de laquelle il voudra faire des généralisations. (p.36)"
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:122pmuU2jS"
+    },
+    {
+      "id": "12mYMFDwxD",
+      "guid": "12mYMFDwxD",
+      "created": "2020-10-14T14:12:56.232Z",
+      "lastUpdated": "2020-10-14T14:12:56.232Z",
+      "rects": {
+        "0": {
+          "left": 129,
+          "top": 180,
+          "right": 558,
+          "bottom": 221,
+          "width": 429,
+          "height": 41
+        },
+        "1": {
+          "left": 36,
+          "top": 222,
+          "right": 559,
+          "bottom": 264,
+          "width": 522,
+          "height": 41
+        },
+        "2": {
+          "left": 188,
+          "top": 280,
+          "right": 556,
+          "bottom": 304,
+          "width": 367,
+          "height": 23
+        },
+        "3": {
+          "left": 285,
+          "top": 306,
+          "right": 553,
+          "bottom": 330,
+          "width": 267,
+          "height": 23
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recherche et méthodologie"
+        },
+        "1": {
+          "text": "en sciences sociales et humaines"
+        },
+        "2": {
+          "text": "Réussir sa thèse, son mémoire de master"
+        },
+        "3": {
+          "text": "ou professionnel, et son article"
+        }
+      },
+      "text": {
+        "TEXT": "Recherche et méthodologie en sciences sociales et humaines Réussir sa thèse, son mémoire de master ou professionnel, et son article"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

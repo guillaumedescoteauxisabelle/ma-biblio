@@ -1,0 +1,5344 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12MzWdWEzT",
+      "guid": "12MzWdWEzT",
+      "created": "2020-09-17T18:34:32.154Z",
+      "lastUpdated": "2020-09-17T18:34:32.154Z",
+      "rects": {
+        "0": {
+          "left": 84,
+          "top": 43,
+          "right": 465,
+          "bottom": 70,
+          "width": 381,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The reflective practice of design teams",
+          "rect": {
+            "left": 84,
+            "top": 43,
+            "right": 465,
+            "bottom": 70,
+            "width": 381,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The reflective practice of design teams"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1kYCUKWZsf",
+      "guid": "12trCvLkwu",
+      "created": "2020-09-17T18:35:43.051Z",
+      "lastUpdated": "2020-10-04T20:16:27.646Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 90,
+          "right": 185,
+          "bottom": 104,
+          "width": 62,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Valkenburg ",
+          "rect": {
+            "left": 123,
+            "top": 90,
+            "right": 185,
+            "bottom": 104,
+            "width": 61,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Valkenburg "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Citer: (Valkenburg &amp; Dorst, 1998)</p>\n<p>FTag: Valkenburg-Dorst-1998</p>\n<div class=\"csl-bib-body\" style=\"line-height: 2; margin-left: 2em; text-indent: -2em;\">\n<div class=\"csl-entry\">APA7:&nbsp; Valkenburg, R., &amp; Dorst, K. (1998). The reflective practice of design teams. <em>Design Studies</em>, <em>19</em>(3), 249–271. <a href=\"https://doi.org/10.1016/S0142-694X(98)00011-8\">https://doi.org/10.1016/S0142-694X(98)00011-8</a><a href=\"https://doi.org/10.1016/S0142-694X(98)00011-8\"></a></div><div class=\"csl-entry\"><br></div><div class=\"csl-entry\">#meta</div></div>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12AERR8Mzu",
+      "guid": "12rcwAmVtT",
+      "created": "2020-09-17T19:01:33.987Z",
+      "lastUpdated": "2020-09-17T19:14:21.538Z",
+      "rects": {
+        "0": {
+          "left": 85,
+          "top": 401,
+          "right": 431,
+          "bottom": 418,
+          "width": 346,
+          "height": 17
+        },
+        "1": {
+          "left": 85,
+          "top": 418,
+          "right": 219,
+          "bottom": 432,
+          "width": 134,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords: design activity, teamwork, reflection-in-action, protocol",
+          "rect": {
+            "left": 85,
+            "top": 401,
+            "right": 431,
+            "bottom": 415,
+            "width": 346,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "analysis, research method",
+          "rect": {
+            "left": 85,
+            "top": 418,
+            "right": 219,
+            "bottom": 432,
+            "width": 134,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Keywords: design activity, teamwork, reflection-in-action, protocol\nanalysis, research method"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<b>Keywords</b>: design activity, teamwork, reflection-in-action, protocol\nanalysis, research method<br><br><b>Mots clés</b>: activité de conception, travail en équipe, réflexion en action, analyse de protocole, méthode de recherche<br>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12AhFpH6cK",
+      "guid": "12Niv9rS1v",
+      "created": "2020-09-17T19:16:36.417Z",
+      "lastUpdated": "2020-09-26T00:28:35.577Z",
+      "rects": {
+        "0": {
+          "left": 241,
+          "top": 684,
+          "right": 516,
+          "bottom": 703,
+          "width": 275,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Scho",
+          "rect": {
+            "left": 241,
+            "top": 684,
+            "right": 274,
+            "bottom": 703,
+            "width": 33,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 267,
+            "top": 684,
+            "right": 272,
+            "bottom": 703,
+            "width": 5,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "n’s paradigm of reflective practice",
+          "rect": {
+            "left": 274,
+            "top": 684,
+            "right": 516,
+            "bottom": 703,
+            "width": 242,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Scho\n ̈\nn’s paradigm of reflective practice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p><b>-------------------------------------------------------</b></p><p><b>Schon’s paradigm of reflective practice</b></p><p><b>-------------------------------------------------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "tags": {
+        "Schon": {
+          "id": "Schon",
+          "label": "Schon"
+        }
+      }
+    },
+    {
+      "id": "1PG8aPudBd",
+      "guid": "1PG8aPudBd",
+      "created": "2020-09-20T00:52:06.208Z",
+      "lastUpdated": "2020-09-20T00:52:06.208Z",
+      "rects": {
+        "0": {
+          "left": 392,
+          "top": 83,
+          "right": 602,
+          "bottom": 100,
+          "width": 210,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 100,
+          "right": 601,
+          "bottom": 118,
+          "width": 381,
+          "height": 18
+        },
+        "2": {
+          "left": 220,
+          "top": 118,
+          "right": 260,
+          "bottom": 132,
+          "width": 40,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "explain the relation between the protocol",
+          "rect": {
+            "left": 392,
+            "top": 83,
+            "right": 602,
+            "bottom": 97,
+            "width": 209,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "and  the  description of the  team  according  to  the mechanism of  reflective",
+          "rect": {
+            "left": 220,
+            "top": 100,
+            "right": 601,
+            "bottom": 114,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "practice",
+          "rect": {
+            "left": 220,
+            "top": 118,
+            "right": 260,
+            "bottom": 132,
+            "width": 40,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "explain the relation between the protocol\nand  the  description of the  team  according  to  the mechanism of  reflective\npractice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12JD1T2CX7",
+      "guid": "1ubHmVbqrQ",
+      "created": "2020-09-20T01:15:06.617Z",
+      "lastUpdated": "2020-09-20T01:15:15.898Z",
+      "rects": {
+        "0": {
+          "left": 294,
+          "top": 622,
+          "right": 601,
+          "bottom": 639,
+          "width": 307,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 639,
+          "right": 363,
+          "bottom": 653,
+          "width": 143,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " all the  interesting  moments occurred  when the  team  makes",
+          "rect": {
+            "left": 294,
+            "top": 622,
+            "right": 601,
+            "bottom": 636,
+            "width": 307,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "a transition between frames",
+          "rect": {
+            "left": 220,
+            "top": 639,
+            "right": 363,
+            "bottom": 653,
+            "width": 143,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " all the  interesting  moments occurred  when the  team  makes\na transition between frames"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": " all the  interesting  moments occurred  when the  team  makes\na <b>transition </b>between frames"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12MwYRJ7Xg",
+      "guid": "12TpySgCe3",
+      "created": "2020-09-20T01:21:03.392Z",
+      "lastUpdated": "2020-10-05T21:16:15.817Z",
+      "rects": {
+        "0": {
+          "left": 303,
+          "top": 118,
+          "right": 602,
+          "bottom": 135,
+          "width": 299,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 135,
+          "right": 602,
+          "bottom": 152,
+          "width": 382,
+          "height": 17
+        },
+        "2": {
+          "left": 220,
+          "top": 152,
+          "right": 602,
+          "bottom": 170,
+          "width": 382,
+          "height": 18
+        },
+        "3": {
+          "left": 220,
+          "top": 170,
+          "right": 299,
+          "bottom": 184,
+          "width": 79,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "o improve design theory and education systematically we",
+          "rect": {
+            "left": 303,
+            "top": 118,
+            "right": 602,
+            "bottom": 132,
+            "width": 298,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "need  to  make  a  transition  from  ",
+          "rect": {
+            "left": 220,
+            "top": 135,
+            "right": 390,
+            "bottom": 149,
+            "width": 170,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "this  pure  description  to  prescri",
+          "rect": {
+            "left": 390,
+            "top": 135,
+            "right": 551,
+            "bottom": 149,
+            "width": 161,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "ption.  We",
+          "rect": {
+            "left": 551,
+            "top": 135,
+            "right": 602,
+            "bottom": 149,
+            "width": 50,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "need  to further  analyze and discuss the  general patterns  that  occur in  the",
+          "rect": {
+            "left": 220,
+            "top": 152,
+            "right": 602,
+            "bottom": 166,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "described team",
+          "rect": {
+            "left": 220,
+            "top": 170,
+            "right": 299,
+            "bottom": 184,
+            "width": 79,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "o improve design theory and education systematically we\nneed  to  make  a  transition  from  this  pure  description  to  prescription.  We\nneed  to further  analyze and discuss the  general patterns  that  occur in  the\ndescribed team"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FCB900",
+      "revisedText": {
+        "HTML": "[...] to improve design theory and education systematically we\nneed  to  make  a  transition  from  this  pure  description  to  prescription.  We\nneed  to further  analyze and discuss the  general patterns  that  occur in  the\ndescribed teams.<br><br>#limit #discu"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1Ghz72oy5Y",
+      "guid": "1Ghz72oy5Y",
+      "created": "2020-09-20T23:31:01.359Z",
+      "lastUpdated": "2020-09-20T23:31:16.630Z",
+      "rects": {
+        "0": {
+          "left": 10.852713178294575,
+          "top": 3.735632183908046,
+          "width": 74.8062015503876,
+          "height": 79.95689655172413
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1RyWU687jK3MTubWv8gj",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1RyWU687jK3MTubWv8gj.png"
+        },
+        "width": 772,
+        "height": 1113,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 74,
+        "y": 34,
+        "width": 514,
+        "height": 742
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "123B62dTv6",
+      "guid": "123B62dTv6",
+      "created": "2020-09-20T23:32:36.706Z",
+      "lastUpdated": "2020-09-20T23:32:46.738Z",
+      "rects": {
+        "0": {
+          "left": 31.395348837209305,
+          "top": 16.594827586206897,
+          "width": 49.321705426356594,
+          "height": 17.816091954022987
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1L2xUZpXgJLddmQje22i",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1L2xUZpXgJLddmQje22i.png"
+        },
+        "width": 509,
+        "height": 248,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 216,
+        "y": 154,
+        "width": 339,
+        "height": 165
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1bRAg3BeCf",
+      "guid": "1bRAg3BeCf",
+      "created": "2020-09-20T23:32:53.008Z",
+      "lastUpdated": "2020-09-20T23:32:58.364Z",
+      "rects": {
+        "0": {
+          "left": 41.66666666666667,
+          "top": 37.35632183908046,
+          "width": 44.76744186046511,
+          "height": 18.821839080459768
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12MZy2SPkHdtegFP8phg",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12MZy2SPkHdtegFP8phg.png"
+        },
+        "width": 462,
+        "height": 262,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 286,
+        "y": 346,
+        "width": 307,
+        "height": 174
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12hyFLuEmm",
+      "guid": "12hyFLuEmm",
+      "created": "2020-09-20T23:33:09.850Z",
+      "lastUpdated": "2020-09-20T23:33:09.850Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 36,
+          "right": 238,
+          "bottom": 64,
+          "width": 18,
+          "height": 28
+        },
+        "1": {
+          "left": 238,
+          "top": 46,
+          "right": 336,
+          "bottom": 64,
+          "width": 98,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.",
+          "rect": {
+            "left": 220,
+            "top": 36,
+            "right": 238,
+            "bottom": 64,
+            "width": 18,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "4  Team ‘Tecc’",
+          "rect": {
+            "left": 238,
+            "top": 46,
+            "right": 336,
+            "bottom": 64,
+            "width": 97,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3.\n4  Team ‘Tecc’"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12k43EXBu1",
+      "guid": "12k43EXBu1",
+      "created": "2020-09-20T23:33:30.486Z",
+      "lastUpdated": "2020-09-20T23:33:41.996Z",
+      "rects": {
+        "0": {
+          "left": 11.918604651162791,
+          "top": 15.732758620689655,
+          "width": 70.34883720930233,
+          "height": 70.97701149425288
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1jJ2jDX43gBHkvpFGZNq",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1jJ2jDX43gBHkvpFGZNq.png"
+        },
+        "width": 726,
+        "height": 988,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 82,
+        "y": 146,
+        "width": 484,
+        "height": 658
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "16PbJ2AJx7",
+      "guid": "16PbJ2AJx7",
+      "created": "2020-09-20T23:33:52.791Z",
+      "lastUpdated": "2020-09-20T23:34:05.047Z",
+      "rects": {
+        "0": {
+          "left": 11.046511627906977,
+          "top": 3.0172413793103448,
+          "width": 72.77131782945736,
+          "height": 62.571839080459775
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "19sjLbKRod6PeAY82Z5J",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "19sjLbKRod6PeAY82Z5J.png"
+        },
+        "width": 751,
+        "height": 871,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 76,
+        "y": 28,
+        "width": 500,
+        "height": 580
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1KHXTKiQs1",
+      "guid": "1KHXTKiQs1",
+      "created": "2020-09-20T23:34:09.788Z",
+      "lastUpdated": "2020-09-20T23:34:17.851Z",
+      "rects": {
+        "0": {
+          "left": 11.046511627906977,
+          "top": 55.67528735632184,
+          "width": 78.48837209302326,
+          "height": 30.818965517241374
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1uy6GMy9dZP9tjogJZfK",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1uy6GMy9dZP9tjogJZfK.png"
+        },
+        "width": 810,
+        "height": 429,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 76,
+        "y": 516,
+        "width": 540,
+        "height": 285
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "124dZmAM69",
+      "guid": "13knfbuKxG",
+      "created": "2020-09-23T22:49:08.628Z",
+      "lastUpdated": "2020-10-05T13:28:10.161Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 174,
+          "right": 233,
+          "bottom": 203,
+          "width": 13,
+          "height": 29
+        },
+        "1": {
+          "left": 241,
+          "top": 184,
+          "right": 485,
+          "bottom": 203,
+          "width": 244,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3",
+          "rect": {
+            "left": 220,
+            "top": 174,
+            "right": 233,
+            "bottom": 203,
+            "width": 12,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "The reflective practice of the teams",
+          "rect": {
+            "left": 241,
+            "top": 184,
+            "right": 485,
+            "bottom": 203,
+            "width": 244,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3\nThe reflective practice of the teams"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "<p>-----------------------------------------------------</p><h1></h1><h1>3\nThe reflective practice of the teams</h1>"
+      }
+    },
+    {
+      "id": "12ASsXkRVm",
+      "guid": "19DCxinYWY",
+      "created": "2020-09-23T22:49:46.991Z",
+      "lastUpdated": "2020-10-14T19:24:58.405Z",
+      "rects": {
+        "0": {
+          "left": 293,
+          "top": 240,
+          "right": 621,
+          "bottom": 257,
+          "width": 328,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 257,
+          "right": 616,
+          "bottom": 274,
+          "width": 396,
+          "height": 17
+        },
+        "2": {
+          "left": 220,
+          "top": 274,
+          "right": 620,
+          "bottom": 292,
+          "width": 400,
+          "height": 18
+        },
+        "3": {
+          "left": 220,
+          "top": 292,
+          "right": 613,
+          "bottom": 309,
+          "width": 393,
+          "height": 17
+        },
+        "4": {
+          "left": 220,
+          "top": 309,
+          "right": 377,
+          "bottom": 324,
+          "width": 157,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " four activities (naming, framing, moving and reflecting) and",
+          "rect": {
+            "left": 293,
+            "top": 240,
+            "right": 621,
+            "bottom": 254,
+            "width": 327,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "their relations:  the ‘mechanism of reflective practice’. The designers  start",
+          "rect": {
+            "left": 220,
+            "top": 257,
+            "right": 616,
+            "bottom": 272,
+            "width": 395,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "by naming the relevant issues in the design situation, framing the problem",
+          "rect": {
+            "left": 220,
+            "top": 274,
+            "right": 620,
+            "bottom": 289,
+            "width": 399,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "in a certain way, making moves towards a solution, and reflecting on those",
+          "rect": {
+            "left": 220,
+            "top": 292,
+            "right": 613,
+            "bottom": 306,
+            "width": 393,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "moves and the current frame.",
+          "rect": {
+            "left": 220,
+            "top": 309,
+            "right": 377,
+            "bottom": 324,
+            "width": 156,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " four activities (naming, framing, moving and reflecting) and\ntheir relations:  the ‘mechanism of reflective practice’. The designers  start\nby naming the relevant issues in the design situation, framing the problem\nin a certain way, making moves towards a solution, and reflecting on those\nmoves and the current frame."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Schon": {
+          "id": "Schon",
+          "label": "Schon"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "<p>[...] four activities (naming, framing, moving and reflecting) and their relations:&nbsp; the ‘mechanism of reflective practice’.&nbsp; The designers&nbsp; start by naming the relevant issues in the design situation, framing [...] making moves towards a solution, and reflecting on those moves and the current frame.&nbsp; (p.254)</p><p><br></p><p><br></p><p>## 4 Activities ##</p><p><br></p><p><br></p><p>* Naming</p><p>* Framing</p><p>* Moving</p><p>* Reflecting (replacing evaluating)</p><p><br></p><p>#CT</p>"
+      }
+    },
+    {
+      "id": "12PVA92G8L",
+      "guid": "12PVA92G8L",
+      "created": "2020-09-24T15:46:22.179Z",
+      "lastUpdated": "2020-09-24T15:46:22.179Z",
+      "rects": {
+        "0": {
+          "left": 237,
+          "top": 160,
+          "right": 455,
+          "bottom": 177,
+          "width": 218,
+          "height": 17
+        },
+        "1": {
+          "left": 85,
+          "top": 177,
+          "right": 197,
+          "bottom": 192,
+          "width": 112,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "dev",
+          "rect": {
+            "left": 237,
+            "top": 160,
+            "right": 257,
+            "bottom": 174,
+            "width": 19,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "e",
+          "rect": {
+            "left": 257,
+            "top": 160,
+            "right": 263,
+            "bottom": 174,
+            "width": 6,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "l",
+          "rect": {
+            "left": 263,
+            "top": 160,
+            "right": 267,
+            "bottom": 174,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "o",
+          "rect": {
+            "left": 267,
+            "top": 160,
+            "right": 273,
+            "bottom": 174,
+            "width": 6,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "p ",
+          "rect": {
+            "left": 273,
+            "top": 160,
+            "right": 284,
+            "bottom": 174,
+            "width": 10,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "t",
+          "rect": {
+            "left": 284,
+            "top": 160,
+            "right": 288,
+            "bottom": 174,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "6": {
+          "text": "o",
+          "rect": {
+            "left": 287,
+            "top": 160,
+            "right": 294,
+            "bottom": 174,
+            "width": 6,
+            "height": 14
+          }
+        },
+        "7": {
+          "text": "ols and gui",
+          "rect": {
+            "left": 294,
+            "top": 160,
+            "right": 354,
+            "bottom": 174,
+            "width": 59,
+            "height": 14
+          }
+        },
+        "8": {
+          "text": "d",
+          "rect": {
+            "left": 354,
+            "top": 160,
+            "right": 361,
+            "bottom": 174,
+            "width": 7,
+            "height": 14
+          }
+        },
+        "9": {
+          "text": "elin",
+          "rect": {
+            "left": 361,
+            "top": 160,
+            "right": 381,
+            "bottom": 174,
+            "width": 20,
+            "height": 14
+          }
+        },
+        "10": {
+          "text": "es to improve",
+          "rect": {
+            "left": 381,
+            "top": 160,
+            "right": 455,
+            "bottom": 174,
+            "width": 73,
+            "height": 14
+          }
+        },
+        "11": {
+          "text": "team design",
+          "rect": {
+            "left": 85,
+            "top": 177,
+            "right": 150,
+            "bottom": 192,
+            "width": 65,
+            "height": 14
+          }
+        },
+        "12": {
+          "text": "practice",
+          "rect": {
+            "left": 154,
+            "top": 177,
+            "right": 197,
+            "bottom": 192,
+            "width": 43,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "develop tools and guidelines to improve\nteam design practice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1tF1WKoGfZ",
+      "guid": "12mJMaW1dF",
+      "created": "2020-09-24T15:51:39.998Z",
+      "lastUpdated": "2020-09-26T00:33:35.941Z",
+      "rects": {
+        "0": {
+          "left": 85,
+          "top": 194,
+          "right": 153,
+          "bottom": 209,
+          "width": 68,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "understand i",
+          "rect": {
+            "left": 85,
+            "top": 194,
+            "right": 153,
+            "bottom": 209,
+            "width": 68,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "understand i"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "understand"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1VsCmRacz5",
+      "guid": "1n1GXuE42v",
+      "created": "2020-09-24T15:51:47.944Z",
+      "lastUpdated": "2020-09-26T00:33:32.842Z",
+      "rects": {
+        "0": {
+          "left": 391,
+          "top": 194,
+          "right": 459,
+          "bottom": 212,
+          "width": 68,
+          "height": 18
+        },
+        "1": {
+          "left": 85,
+          "top": 212,
+          "right": 137,
+          "bottom": 226,
+          "width": 52,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " analyze and",
+          "rect": {
+            "left": 391,
+            "top": 194,
+            "right": 459,
+            "bottom": 209,
+            "width": 68,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "describe i",
+          "rect": {
+            "left": 85,
+            "top": 212,
+            "right": 137,
+            "bottom": 226,
+            "width": 52,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " analyze and\ndescribe i"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": " analyze and\ndescribe"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12uF1fjFrs",
+      "guid": "12AGKRszCh",
+      "created": "2020-09-24T15:52:00.031Z",
+      "lastUpdated": "2020-09-26T00:34:06.024Z",
+      "rects": {
+        "0": {
+          "left": 85,
+          "top": 229,
+          "right": 453,
+          "bottom": 243,
+          "width": 368,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "new description method, based on Scho",
+          "rect": {
+            "left": 85,
+            "top": 229,
+            "right": 296,
+            "bottom": 243,
+            "width": 211,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 286,
+            "top": 229,
+            "right": 290,
+            "bottom": 243,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "n’s theory of reflective practic",
+          "rect": {
+            "left": 291,
+            "top": 229,
+            "right": 453,
+            "bottom": 243,
+            "width": 162,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "new description method, based on Scho\n ̈\nn’s theory of reflective practic"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>new description method, based on Schon’s theory of reflective practice</p><p><b>#metho #results</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12Y4H3RjEy",
+      "guid": "12n8vzfNm8",
+      "created": "2020-09-26T00:15:04.294Z",
+      "lastUpdated": "2020-09-26T00:15:40.783Z",
+      "rects": {
+        "0": {
+          "left": 85,
+          "top": 245,
+          "right": 462,
+          "bottom": 263,
+          "width": 377,
+          "height": 18
+        },
+        "1": {
+          "left": 85,
+          "top": 263,
+          "right": 465,
+          "bottom": 280,
+          "width": 380,
+          "height": 17
+        },
+        "2": {
+          "left": 85,
+          "top": 280,
+          "right": 439,
+          "bottom": 297,
+          "width": 354,
+          "height": 17
+        },
+        "3": {
+          "left": 85,
+          "top": 297,
+          "right": 409,
+          "bottom": 314,
+          "width": 324,
+          "height": 17
+        },
+        "4": {
+          "left": 85,
+          "top": 314,
+          "right": 138,
+          "bottom": 329,
+          "width": 53,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This method was tested by applying it in the description of the activities",
+          "rect": {
+            "left": 85,
+            "top": 245,
+            "right": 462,
+            "bottom": 260,
+            "width": 377,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "of two design teams. The description method proves to be very useful, in",
+          "rect": {
+            "left": 85,
+            "top": 263,
+            "right": 465,
+            "bottom": 277,
+            "width": 380,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "that it allows a concise description of a design project in which the",
+          "rect": {
+            "left": 85,
+            "top": 280,
+            "right": 439,
+            "bottom": 294,
+            "width": 354,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "elements vital to the understanding of the design progress are",
+          "rect": {
+            "left": 85,
+            "top": 297,
+            "right": 409,
+            "bottom": 312,
+            "width": 324,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "conserved",
+          "rect": {
+            "left": 85,
+            "top": 314,
+            "right": 138,
+            "bottom": 329,
+            "width": 53,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "This method was tested by applying it in the description of the activities\nof two design teams. The description method proves to be very useful, in\nthat it allows a concise description of a design project in which the\nelements vital to the understanding of the design progress are\nconserved"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "revisedText": {
+        "HTML": "<p>This method was tested by applying it in the description of the activities\nof two design teams. The description method proves to be very useful, in\nthat it allows a concise description of a design project in which the\nelements vital to the understanding of the design progress are\nconserved</p><p><b>#metho</b><br></p><p><b><br></b></p><p><b><br></b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1aivHrgbab",
+      "guid": "1jzdDHmNWq",
+      "created": "2020-09-26T00:21:49.840Z",
+      "lastUpdated": "2020-09-26T00:22:18.871Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 314,
+          "right": 437,
+          "bottom": 331,
+          "width": 292,
+          "height": 17
+        },
+        "1": {
+          "left": 85,
+          "top": 331,
+          "right": 336,
+          "bottom": 346,
+          "width": 251,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Comparing the obtained descriptions of these two",
+          "rect": {
+            "left": 145,
+            "top": 314,
+            "right": 403,
+            "bottom": 329,
+            "width": 258,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " teams",
+          "rect": {
+            "left": 403,
+            "top": 314,
+            "right": 437,
+            "bottom": 329,
+            "width": 33,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "designing reveals different patterns of behaviour",
+          "rect": {
+            "left": 85,
+            "top": 331,
+            "right": 336,
+            "bottom": 346,
+            "width": 251,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Comparing the obtained descriptions of these two teams\ndesigning reveals different patterns of behaviour"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7",
+      "revisedText": {
+        "HTML": "<p>Comparing the obtained descriptions of these two teams\ndesigning reveals different patterns of behaviour</p><p><b>#results</b></p><p></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12YnEPVLrL",
+      "guid": "1Eh4qEGgZv",
+      "created": "2020-09-26T00:22:37.542Z",
+      "lastUpdated": "2020-10-02T13:56:43.789Z",
+      "rects": {
+        "0": {
+          "left": 361,
+          "top": 349,
+          "right": 465,
+          "bottom": 366,
+          "width": 104,
+          "height": 17
+        },
+        "1": {
+          "left": 85,
+          "top": 366,
+          "right": 206,
+          "bottom": 380,
+          "width": 121,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "in-dept",
+          "rect": {
+            "left": 361,
+            "top": 349,
+            "right": 400,
+            "bottom": 363,
+            "width": 38,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "h analysis of",
+          "rect": {
+            "left": 400,
+            "top": 349,
+            "right": 465,
+            "bottom": 363,
+            "width": 65,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "team design behaviour.",
+          "rect": {
+            "left": 85,
+            "top": 366,
+            "right": 206,
+            "bottom": 380,
+            "width": 120,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "in-depth analysis of\nteam design behaviour."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>in-depth analysis of team design behaviour.</p><p><br></p><p><br></p><p><b>#objectives</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12who3mfx6",
+      "guid": "15tiH8K1R1",
+      "created": "2020-09-26T00:31:36.030Z",
+      "lastUpdated": "2020-09-26T00:33:21.069Z",
+      "rects": {
+        "0": {
+          "left": 545,
+          "top": 256,
+          "right": 602,
+          "bottom": 273,
+          "width": 57,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 273,
+          "right": 481,
+          "bottom": 288,
+          "width": 262,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " “a  kind  of",
+          "rect": {
+            "left": 545,
+            "top": 256,
+            "right": 602,
+            "bottom": 270,
+            "width": 56,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "knowing  is inherent in  intelligent  action”",
+          "rect": {
+            "left": 219,
+            "top": 273,
+            "right": 434,
+            "bottom": 288,
+            "width": 214,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "3",
+          "rect": {
+            "left": 435,
+            "top": 273,
+            "right": 439,
+            "bottom": 283,
+            "width": 3,
+            "height": 9
+          }
+        },
+        "3": {
+          "text": "(p.  50)",
+          "rect": {
+            "left": 443,
+            "top": 273,
+            "right": 481,
+            "bottom": 288,
+            "width": 37,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " “a  kind  of\nknowing  is inherent in  intelligent  action”\n3\n(p.  50)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": " <b>“a  kind  of\nknowing  is inherent in  intelligent  action”&nbsp;&nbsp;</b><i>(Schön, 2017. p.  50)</i>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12Wn4xWLAX",
+      "guid": "12Wn4xWLAX",
+      "created": "2020-09-26T00:41:00.290Z",
+      "lastUpdated": "2020-09-26T00:41:10.990Z",
+      "rects": {
+        "0": {
+          "left": 50.89485458612975,
+          "top": 60.11608623548922,
+          "width": 18.0089485458613,
+          "height": 26.86567164179104
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12SBZuhxJvXTRmXCaRjJ",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12SBZuhxJvXTRmXCaRjJ.png"
+        },
+        "width": 161,
+        "height": 324,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 349,
+        "y": 557,
+        "width": 123,
+        "height": 249
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "15uxRLWqRt",
+      "guid": "19BzN57Mzp",
+      "created": "2020-09-26T00:44:45.468Z",
+      "lastUpdated": "2020-09-26T00:47:03.992Z",
+      "rects": {
+        "0": {
+          "left": 249,
+          "top": 290,
+          "right": 601,
+          "bottom": 307,
+          "width": 352,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 307,
+          "right": 434,
+          "bottom": 322,
+          "width": 215,
+          "height": 15
+        },
+        "2": {
+          "left": 435,
+          "top": 308,
+          "right": 439,
+          "bottom": 317,
+          "width": 4,
+          "height": 9
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "implicit knowl",
+          "rect": {
+            "left": 249,
+            "top": 290,
+            "right": 321,
+            "bottom": 305,
+            "width": 72,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "edge cannot be described within the prevalent metho-",
+          "rect": {
+            "left": 321,
+            "top": 290,
+            "right": 601,
+            "bottom": 305,
+            "width": 280,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "dological paradigm of technical rationality",
+          "rect": {
+            "left": 219,
+            "top": 307,
+            "right": 434,
+            "bottom": 322,
+            "width": 214,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "7",
+          "rect": {
+            "left": 435,
+            "top": 308,
+            "right": 439,
+            "bottom": 317,
+            "width": 3,
+            "height": 9
+          }
+        }
+      },
+      "text": {
+        "TEXT": "implicit knowledge cannot be described within the prevalent metho-\ndological paradigm of technical rationality\n7"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] implicit knowledge cannot be described within the prevalent methodological paradigm of technical rationality.</p><p><b>#problematic</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12RcTFSE53",
+      "guid": "125F6HDuWM",
+      "created": "2020-09-26T00:53:13.666Z",
+      "lastUpdated": "2020-09-26T01:01:35.706Z",
+      "rects": {
+        "0": {
+          "left": 382,
+          "top": 342,
+          "right": 601,
+          "bottom": 359,
+          "width": 219,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 359,
+          "right": 263,
+          "bottom": 374,
+          "width": 44,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "im",
+          "rect": {
+            "left": 382,
+            "top": 342,
+            "right": 394,
+            "bottom": 356,
+            "width": 11,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "plicit  ‘knowing-in-action’  is  difficult  to",
+          "rect": {
+            "left": 394,
+            "top": 342,
+            "right": 601,
+            "bottom": 356,
+            "width": 206,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "describe",
+          "rect": {
+            "left": 219,
+            "top": 359,
+            "right": 263,
+            "bottom": 374,
+            "width": 43,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "implicit  ‘knowing-in-action’  is  difficult  to\ndescribe"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>implicit  ‘knowing-in-action’  is  difficult  to\ndescribe</p><p><b>#problematic</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1E3XfyUm6s",
+      "guid": "1Uez8nGpti",
+      "created": "2020-09-26T00:56:37.060Z",
+      "lastUpdated": "2020-09-26T00:57:04.392Z",
+      "rects": {
+        "0": {
+          "left": 238,
+          "top": 376,
+          "right": 602,
+          "bottom": 394,
+          "width": 364,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 394,
+          "right": 280,
+          "bottom": 409,
+          "width": 61,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " explicit  reflection  that  guides  the  devel",
+          "rect": {
+            "left": 238,
+            "top": 376,
+            "right": 447,
+            "bottom": 391,
+            "width": 208,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "opment  of  one’s  knowing-in-",
+          "rect": {
+            "left": 447,
+            "top": 376,
+            "right": 602,
+            "bottom": 391,
+            "width": 154,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "action habit",
+          "rect": {
+            "left": 219,
+            "top": 394,
+            "right": 280,
+            "bottom": 409,
+            "width": 60,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " explicit  reflection  that  guides  the  development  of  one’s  knowing-in-\naction habit"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p> explicit  reflection  that  guides  the  development  of  one’s  knowing-in-\naction habits.&nbsp; This he calls <b>reflection-in-action.</b></p><p><b>#CT</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12JYm3xona",
+      "guid": "167UYm8FqN",
+      "created": "2020-09-26T01:01:12.684Z",
+      "lastUpdated": "2020-10-02T23:28:27.795Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 429,
+          "right": 440,
+          "bottom": 443,
+          "width": 221,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Scho",
+          "rect": {
+            "left": 219,
+            "top": 429,
+            "right": 245,
+            "bottom": 443,
+            "width": 25,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 239,
+            "top": 429,
+            "right": 244,
+            "bottom": 443,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "n’s theory is based on a constructionis",
+          "rect": {
+            "left": 245,
+            "top": 429,
+            "right": 440,
+            "bottom": 443,
+            "width": 195,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Scho\n ̈\nn’s theory is based on a constructionis"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "<p>Schon’s theory is based on a constructionism</p><p><br></p><p>#CT</p>"
+      }
+    },
+    {
+      "id": "12gG8RUJi8",
+      "guid": "12heTqcP2b",
+      "created": "2020-10-02T00:12:00.309Z",
+      "lastUpdated": "2020-10-03T01:29:03.184Z",
+      "rects": {
+        "0": {
+          "left": 451,
+          "top": 273,
+          "right": 601,
+          "bottom": 290,
+          "width": 150,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 290,
+          "right": 601,
+          "bottom": 307,
+          "width": 382,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 307,
+          "right": 602,
+          "bottom": 325,
+          "width": 383,
+          "height": 18
+        },
+        "3": {
+          "left": 219,
+          "top": 325,
+          "right": 602,
+          "bottom": 342,
+          "width": 383,
+          "height": 17
+        },
+        "4": {
+          "left": 219,
+          "top": 342,
+          "right": 601,
+          "bottom": 359,
+          "width": 382,
+          "height": 17
+        },
+        "5": {
+          "left": 219,
+          "top": 359,
+          "right": 540,
+          "bottom": 374,
+          "width": 321,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "little  of the  research  methods",
+          "rect": {
+            "left": 451,
+            "top": 273,
+            "right": 601,
+            "bottom": 288,
+            "width": 150,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "currently used in design methodology is suited for our purp",
+          "rect": {
+            "left": 219,
+            "top": 290,
+            "right": 521,
+            "bottom": 305,
+            "width": 301,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "oses. The com-",
+          "rect": {
+            "left": 521,
+            "top": 290,
+            "right": 601,
+            "bottom": 305,
+            "width": 80,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "plexity  of  design  has  always  made  it  difficult  to  study  real  life  design",
+          "rect": {
+            "left": 219,
+            "top": 307,
+            "right": 602,
+            "bottom": 322,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "activity, and none of the existing research methods to observe and describe",
+          "rect": {
+            "left": 219,
+            "top": 325,
+            "right": 602,
+            "bottom": 339,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "designing  provides  us with  data  that  is rich  enough, in  that  it spans  both",
+          "rect": {
+            "left": 219,
+            "top": 342,
+            "right": 601,
+            "bottom": 356,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "6": {
+          "text": "the design process and relevant aspects of the design context.",
+          "rect": {
+            "left": 219,
+            "top": 359,
+            "right": 540,
+            "bottom": 374,
+            "width": 320,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "little  of the  research  methods\ncurrently used in design methodology is suited for our purposes. The com-\nplexity  of  design  has  always  made  it  difficult  to  study  real  life  design\nactivity, and none of the existing research methods to observe and describe\ndesigning  provides  us with  data  that  is rich  enough, in  that  it spans  both\nthe design process and relevant aspects of the design context."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] little  of the  research  methods\ncurrently used in design methodology is suited for our purposes. <b>The complexity  of  design  has  always  made  it  difficult  to  study  real  life  design\nactivity</b>, and none of the existing research methods to observe and describe\ndesigning  provides  us with  data  that  is rich  enough, in  that  it spans  both\nthe design process and relevant aspects of the design context.</p><p><br></p><p><b>#problematic</b></p>"
+      },
+      "tags": {
+        "DesignIssue": {
+          "id": "DesignIssue",
+          "label": "DesignIssue"
+        },
+        "ComplexityIssue": {
+          "id": "ComplexityIssue",
+          "label": "ComplexityIssue"
+        }
+      }
+    },
+    {
+      "id": "12F3TVZxBr",
+      "guid": "12F3TVZxBr",
+      "created": "2020-10-02T00:21:19.386Z",
+      "lastUpdated": "2020-10-02T15:12:15.300Z",
+      "rects": {
+        "0": {
+          "left": 335,
+          "top": 515,
+          "right": 574,
+          "bottom": 530,
+          "width": 239,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "basic  elements  of  design  a",
+          "rect": {
+            "left": 335,
+            "top": 515,
+            "right": 475,
+            "bottom": 530,
+            "width": 140,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "ctivities  are  actions",
+          "rect": {
+            "left": 475,
+            "top": 515,
+            "right": 574,
+            "bottom": 530,
+            "width": 98,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "basic  elements  of  design  activities  are  actions"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "concept": {
+          "id": "concept",
+          "label": "concept"
+        }
+      }
+    },
+    {
+      "id": "12ewkS8eyS",
+      "guid": "1QFqjvtfwQ",
+      "created": "2020-10-02T00:21:45.956Z",
+      "lastUpdated": "2020-10-05T15:26:10.827Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 429,
+          "right": 602,
+          "bottom": 446,
+          "width": 383,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 446,
+          "right": 601,
+          "bottom": 463,
+          "width": 382,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 463,
+          "right": 602,
+          "bottom": 480,
+          "width": 383,
+          "height": 17
+        },
+        "3": {
+          "left": 219,
+          "top": 480,
+          "right": 440,
+          "bottom": 495,
+          "width": 221,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Scho",
+          "rect": {
+            "left": 219,
+            "top": 429,
+            "right": 245,
+            "bottom": 443,
+            "width": 25,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 239,
+            "top": 429,
+            "right": 244,
+            "bottom": 443,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "n’s theory is based on a constructionist view of human perception and",
+          "rect": {
+            "left": 245,
+            "top": 429,
+            "right": 602,
+            "bottom": 443,
+            "width": 356,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "thought  processes:  through  the  execution  of  ‘move-testing  experiments’",
+          "rect": {
+            "left": 219,
+            "top": 446,
+            "right": 601,
+            "bottom": 460,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "(involving action and reflection), a designer is actively constructing a view",
+          "rect": {
+            "left": 219,
+            "top": 463,
+            "right": 602,
+            "bottom": 477,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "of the world based on his/her experiences.",
+          "rect": {
+            "left": 219,
+            "top": 480,
+            "right": 440,
+            "bottom": 495,
+            "width": 220,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Scho\n ̈\nn’s theory is based on a constructionist view of human perception and\nthought  processes:  through  the  execution  of  ‘move-testing  experiments’\n(involving action and reflection), a designer is actively constructing a view\nof the world based on his/her experiences."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Schon’s theory is based on a <b>constructionist</b> view of human perception and\nthought  processes:  through  the  execution  of 'move-testing experiments' (involving action and reflection), a designer is actively constructing a view\nof the world based on his/her experiences.</p><p><br></p><p><b>#CT</b></p>"
+      }
+    },
+    {
+      "id": "12UpfQmREV",
+      "guid": "12UpfQmREV",
+      "created": "2020-10-02T00:38:23.989Z",
+      "lastUpdated": "2020-10-02T00:38:23.989Z",
+      "rects": {
+        "0": {
+          "left": 510,
+          "top": 48,
+          "right": 601,
+          "bottom": 66,
+          "width": 91,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 66,
+          "right": 268,
+          "bottom": 80,
+          "width": 49,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "every design task",
+          "rect": {
+            "left": 510,
+            "top": 48,
+            "right": 601,
+            "bottom": 63,
+            "width": 91,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "is  unique,",
+          "rect": {
+            "left": 219,
+            "top": 66,
+            "right": 268,
+            "bottom": 80,
+            "width": 48,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "every design task\nis  unique,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "16gtdw3cj3",
+      "guid": "16gtdw3cj3",
+      "created": "2020-10-02T00:38:38.876Z",
+      "lastUpdated": "2020-10-02T00:38:38.876Z",
+      "rects": {
+        "0": {
+          "left": 581,
+          "top": 66,
+          "right": 602,
+          "bottom": 83,
+          "width": 21,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 83,
+          "right": 602,
+          "bottom": 100,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 100,
+          "right": 278,
+          "bottom": 115,
+          "width": 59,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  for",
+          "rect": {
+            "left": 581,
+            "top": 66,
+            "right": 602,
+            "bottom": 80,
+            "width": 20,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "designers  is  to  determine  how   such  a  single  unique  task  should  be",
+          "rect": {
+            "left": 219,
+            "top": 83,
+            "right": 602,
+            "bottom": 97,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "approached",
+          "rect": {
+            "left": 219,
+            "top": 100,
+            "right": 278,
+            "bottom": 115,
+            "width": 58,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "  for\ndesigners  is  to  determine  how   such  a  single  unique  task  should  be\napproached"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "1in2xwdSY1",
+      "guid": "1in2xwdSY1",
+      "created": "2020-10-02T00:39:02.618Z",
+      "lastUpdated": "2020-10-02T00:39:02.618Z",
+      "rects": {
+        "0": {
+          "left": 439,
+          "top": 117,
+          "right": 601,
+          "bottom": 135,
+          "width": 162,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 135,
+          "right": 431,
+          "bottom": 150,
+          "width": 212,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "was not considered describable",
+          "rect": {
+            "left": 439,
+            "top": 117,
+            "right": 601,
+            "bottom": 132,
+            "width": 162,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "or  generalisable  in  any  meaningful  way.",
+          "rect": {
+            "left": 219,
+            "top": 135,
+            "right": 431,
+            "bottom": 150,
+            "width": 211,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "was not considered describable\nor  generalisable  in  any  meaningful  way."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "12oBfpgFfB",
+      "guid": "1LNx8G4kFG",
+      "created": "2020-10-02T16:00:45.204Z",
+      "lastUpdated": "2020-10-04T20:53:28.687Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 140,
+          "right": 232,
+          "bottom": 167,
+          "width": 13,
+          "height": 27
+        },
+        "1": {
+          "left": 241,
+          "top": 147,
+          "right": 536,
+          "bottom": 166,
+          "width": 295,
+          "height": 19
+        },
+        "2": {
+          "left": 219,
+          "top": 166,
+          "right": 303,
+          "bottom": 185,
+          "width": 84,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "2",
+          "rect": {
+            "left": 219,
+            "top": 140,
+            "right": 232,
+            "bottom": 167,
+            "width": 12,
+            "height": 27
+          }
+        },
+        "1": {
+          "text": "A team protocol study: the Philips Design",
+          "rect": {
+            "left": 241,
+            "top": 147,
+            "right": 536,
+            "bottom": 166,
+            "width": 295,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "Competition",
+          "rect": {
+            "left": 219,
+            "top": 166,
+            "right": 303,
+            "bottom": 185,
+            "width": 83,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "2\nA team protocol study: the Philips Design\nCompetition"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1 class=\"dropdown-item\">2. A team protocol study: the Philips Design\nCompetition</h1>"
+      }
+    },
+    {
+      "id": "1i257b8XH3",
+      "guid": "1i257b8XH3",
+      "created": "2020-10-02T19:45:02.018Z",
+      "lastUpdated": "2020-10-02T19:45:02.018Z",
+      "rects": {
+        "0": {
+          "left": 254,
+          "top": 188,
+          "right": 601,
+          "bottom": 205,
+          "width": 347,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 205,
+          "right": 269,
+          "bottom": 219,
+          "width": 50,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "we want to investigate the occurrence of reflective practice in team",
+          "rect": {
+            "left": 254,
+            "top": 188,
+            "right": 601,
+            "bottom": 203,
+            "width": 347,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "designing",
+          "rect": {
+            "left": 219,
+            "top": 205,
+            "right": 269,
+            "bottom": 219,
+            "width": 49,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "we want to investigate the occurrence of reflective practice in team\ndesigning"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12TSmXuJDU",
+      "guid": "12nJPK51fD",
+      "created": "2020-10-02T20:31:32.678Z",
+      "lastUpdated": "2020-10-02T21:10:04.221Z",
+      "rects": {
+        "0": {
+          "left": 372,
+          "top": 205,
+          "right": 602,
+          "bottom": 223,
+          "width": 230,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 223,
+          "right": 476,
+          "bottom": 237,
+          "width": 257,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "look at the occurrence of the four activities",
+          "rect": {
+            "left": 372,
+            "top": 205,
+            "right": 602,
+            "bottom": 219,
+            "width": 229,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "and to see whether we are able to distinguish them",
+          "rect": {
+            "left": 219,
+            "top": 223,
+            "right": 476,
+            "bottom": 237,
+            "width": 256,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "look at the occurrence of the four activities\nand to see whether we are able to distinguish them"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>[...] look at the occurrence of the four activities\nand to see whether we are able to distinguish them</p><p><br></p><p><b>#goal</b></p>"
+      },
+      "tags": {
+        "TRPActivities": {
+          "id": "TRPActivities",
+          "label": "TRPActivities"
+        },
+        "ReflectivePractice": {
+          "id": "ReflectivePractice",
+          "label": "ReflectivePractice"
+        }
+      }
+    },
+    {
+      "id": "129RJ8iofX",
+      "guid": "1edh7PZZsW",
+      "created": "2020-10-02T20:50:23.278Z",
+      "lastUpdated": "2020-10-02T20:53:29.351Z",
+      "rects": {
+        "0": {
+          "left": 289,
+          "top": 619,
+          "right": 601,
+          "bottom": 636,
+          "width": 312,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 636,
+          "right": 357,
+          "bottom": 650,
+          "width": 138,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "by introducing several designers we also introduce the diffi-",
+          "rect": {
+            "left": 289,
+            "top": 619,
+            "right": 601,
+            "bottom": 633,
+            "width": 312,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "culties  of  team  designin",
+          "rect": {
+            "left": 219,
+            "top": 636,
+            "right": 348,
+            "bottom": 650,
+            "width": 128,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "g.",
+          "rect": {
+            "left": 348,
+            "top": 636,
+            "right": 357,
+            "bottom": 650,
+            "width": 9,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "by introducing several designers we also introduce the diffi-\nculties  of  team  designing."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[...] by introducing several designers we also introduce the difficulties  of  team  designing.</p><p> [...]&nbsp;</p><p>These  lie  in  <b>synchronising  the  thoughts  and activities</b>  of  the  team  members.</p><p>[...] lead to <b>misunderstanding </b>and <b>uncoordinated actions.</b></p><p><br></p><p><br></p><p>(p.249)</p><p><br></p><p>#problematic</p>"
+      }
+    },
+    {
+      "id": "171xkBAamz",
+      "guid": "171xkBAamz",
+      "created": "2020-10-02T20:52:30.567Z",
+      "lastUpdated": "2020-10-02T20:52:30.567Z",
+      "rects": {
+        "0": {
+          "left": 286,
+          "top": 688,
+          "right": 555,
+          "bottom": 703,
+          "width": 269,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "lead to misunde",
+          "rect": {
+            "left": 286,
+            "top": 688,
+            "right": 367,
+            "bottom": 703,
+            "width": 81,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "rs",
+          "rect": {
+            "left": 367,
+            "top": 688,
+            "right": 377,
+            "bottom": 703,
+            "width": 9,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "tanding and uncoordinated actions",
+          "rect": {
+            "left": 377,
+            "top": 688,
+            "right": 555,
+            "bottom": 703,
+            "width": 177,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "lead to misunderstanding and uncoordinated actions"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "123F2Y88fk",
+      "guid": "123F2Y88fk",
+      "created": "2020-10-02T21:01:45.581Z",
+      "lastUpdated": "2020-10-02T21:01:45.581Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>What are the <b>4 activities</b>&nbsp;?</p>"
+        },
+        "back": {
+          "HTML": "<p>[...] look at the occurrence of the four activities\nand to see whether we are able to distinguish them</p><p><br></p><p>## <b>Naming ##</b></p><p><br></p><p><br></p><p>## <b>Framing ##</b></p><p><br></p><p><br></p><p>## <b>Moving ##</b></p><p><br></p><p><br></p><p>## <b>Reflecting ##</b></p><p><br></p><p><br></p>"
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:12TSmXuJDU"
+    },
+    {
+      "id": "1EGySWqeej",
+      "guid": "12N6EuKpZC",
+      "created": "2020-10-02T21:25:54.484Z",
+      "lastUpdated": "2020-10-02T21:27:19.323Z",
+      "rects": {
+        "0": {
+          "left": 436,
+          "top": 670,
+          "right": 601,
+          "bottom": 688,
+          "width": 165,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 688,
+          "right": 578,
+          "bottom": 703,
+          "width": 359,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " term,  ‘",
+          "rect": {
+            "left": 436,
+            "top": 670,
+            "right": 476,
+            "bottom": 685,
+            "width": 40,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "evaluating’,  is confusing,",
+          "rect": {
+            "left": 476,
+            "top": 670,
+            "right": 601,
+            "bottom": 685,
+            "width": 125,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "because it  is generally used  when evaluating the  content of a  design",
+          "rect": {
+            "left": 219,
+            "top": 688,
+            "right": 578,
+            "bottom": 703,
+            "width": 358,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " term,  ‘evaluating’,  is confusing,\nbecause it  is generally used  when evaluating the  content of a  design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>[..] term,  ‘<b>evaluating</b>’,  is confusing,\nbecause it  is generally used  when <b>evaluating the  content</b> of a  design [...]&nbsp;To  avoid  this  confusion  [...]&nbsp; we will use the term <b>reflecting</b>.</p><p><br></p><p>#issue #term</p>"
+      }
+    },
+    {
+      "id": "1ZUBtQz4fQ",
+      "guid": "1iHnb3uxMe",
+      "created": "2020-10-02T23:25:26.836Z",
+      "lastUpdated": "2020-10-02T23:26:54.282Z",
+      "rects": {
+        "0": {
+          "left": 518,
+          "top": 48,
+          "right": 602,
+          "bottom": 66,
+          "width": 84,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 66,
+          "right": 602,
+          "bottom": 83,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 83,
+          "right": 601,
+          "bottom": 100,
+          "width": 382,
+          "height": 17
+        },
+        "3": {
+          "left": 219,
+          "top": 100,
+          "right": 602,
+          "bottom": 117,
+          "width": 383,
+          "height": 17
+        },
+        "4": {
+          "left": 219,
+          "top": 117,
+          "right": 381,
+          "bottom": 132,
+          "width": 162,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Donald Scho",
+          "rect": {
+            "left": 518,
+            "top": 48,
+            "right": 585,
+            "bottom": 63,
+            "width": 67,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 581,
+            "top": 48,
+            "right": 585,
+            "bottom": 63,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "n’s",
+          "rect": {
+            "left": 586,
+            "top": 48,
+            "right": 602,
+            "bottom": 63,
+            "width": 15,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "theory is often called ‘reflective practice’, it is concerned with ",
+          "rect": {
+            "left": 219,
+            "top": 66,
+            "right": 549,
+            "bottom": 80,
+            "width": 329,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "more than",
+          "rect": {
+            "left": 549,
+            "top": 66,
+            "right": 602,
+            "bottom": 80,
+            "width": 53,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "just  reflection.  Four  different  kinds  of  design  actions  exist,  and  we  are",
+          "rect": {
+            "left": 219,
+            "top": 83,
+            "right": 601,
+            "bottom": 97,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "6": {
+          "text": "interested  in  the  occurrence  of  all  four  of  them,  and  in  the  flow  of  how",
+          "rect": {
+            "left": 219,
+            "top": 100,
+            "right": 602,
+            "bottom": 115,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "7": {
+          "text": "they are used by the designers.",
+          "rect": {
+            "left": 219,
+            "top": 117,
+            "right": 381,
+            "bottom": 132,
+            "width": 161,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Donald Scho\n ̈\nn’s\ntheory is often called ‘reflective practice’, it is concerned with more than\njust  reflection.  Four  different  kinds  of  design  actions  exist,  and  we  are\ninterested  in  the  occurrence  of  all  four  of  them,  and  in  the  flow  of  how\nthey are used by the designers."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>Donald Schon’s\ntheory is often called ‘reflective practice’, it is concerned with more than\njust  reflection.  Four  different  kinds  of  design  actions  exist,  and  we  are\ninterested  in  the  <b>occurrence  of  all</b>  [...]&nbsp; in  the  flow  of  how\nthey are used by the designers.</p><p><br></p><p>#CT #metho</p>"
+      }
+    },
+    {
+      "id": "1oD661yhRF",
+      "guid": "1oD661yhRF",
+      "created": "2020-10-03T03:16:29.827Z",
+      "lastUpdated": "2020-10-03T03:16:29.827Z",
+      "rects": {
+        "0": {
+          "left": 476,
+          "top": 428,
+          "right": 503,
+          "bottom": 443,
+          "width": 27,
+          "height": 15
+        },
+        "1": {
+          "left": 498,
+          "top": 429,
+          "right": 502,
+          "bottom": 443,
+          "width": 4,
+          "height": 14
+        },
+        "2": {
+          "left": 503,
+          "top": 428,
+          "right": 602,
+          "bottom": 446,
+          "width": 99,
+          "height": 18
+        },
+        "3": {
+          "left": 219,
+          "top": 446,
+          "right": 602,
+          "bottom": 463,
+          "width": 383,
+          "height": 17
+        },
+        "4": {
+          "left": 219,
+          "top": 463,
+          "right": 415,
+          "bottom": 477,
+          "width": 196,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Scho",
+          "rect": {
+            "left": 476,
+            "top": 428,
+            "right": 503,
+            "bottom": 443,
+            "width": 26,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": " ̈",
+          "rect": {
+            "left": 498,
+            "top": 429,
+            "right": 502,
+            "bottom": 443,
+            "width": 4,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "n has constructed a",
+          "rect": {
+            "left": 503,
+            "top": 428,
+            "right": 602,
+            "bottom": 443,
+            "width": 99,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "theory  in  which  the  role  of the  designers,  the  design  task and  the  design",
+          "rect": {
+            "left": 219,
+            "top": 446,
+            "right": 602,
+            "bottom": 460,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "process  are integrated  (see section  1).",
+          "rect": {
+            "left": 219,
+            "top": 463,
+            "right": 415,
+            "bottom": 477,
+            "width": 195,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Scho\n ̈\nn has constructed a\ntheory  in  which  the  role  of the  designers,  the  design  task and  the  design\nprocess  are integrated  (see section  1)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1zeVsJX4PQ",
+      "guid": "19XjnnDw7H",
+      "created": "2020-10-03T20:45:20.710Z",
+      "lastUpdated": "2020-10-03T20:55:25.211Z",
+      "rects": {
+        "0": {
+          "left": 583,
+          "top": 819,
+          "right": 601,
+          "bottom": 833,
+          "width": 18,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "251",
+          "rect": {
+            "left": 583,
+            "top": 819,
+            "right": 601,
+            "bottom": 833,
+            "width": 18,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "251"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>Mon <b>intention</b>&nbsp;est de synthétiser ce que j'ai \"picturé\" auj pendant ma marche.&nbsp; <b>Je dois faire 2 pages qui contiennent le cadre théorique.</b></p><p><b><br></b></p><p><b>Schon critique le paradigme de la rationalité-technique en expliquant ses limites au niveau des méthodologies positivistes et leurs restrictions généralisantes à propos du design.&nbsp;</b></p><p><b><br></b></p><p><b>[...] design methodologists [...]&nbsp; restrict themselves to&nbsp; terms of generalities&nbsp; about&nbsp; design&nbsp; processes.&nbsp;</b><br></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p>(Valkenburg &amp; Dorst, 1998, p. 251-252)</p><p><br></p><p>#intention #CT</p>"
+      }
+    },
+    {
+      "id": "1TPx2G3AH3",
+      "guid": "12S2WQ6aft",
+      "created": "2020-10-03T20:51:01.175Z",
+      "lastUpdated": "2020-10-03T20:51:47.714Z",
+      "rects": {
+        "0": {
+          "left": 498,
+          "top": 722,
+          "right": 601,
+          "bottom": 739,
+          "width": 103,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 739,
+          "right": 602,
+          "bottom": 756,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 756,
+          "right": 384,
+          "bottom": 771,
+          "width": 165,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "d",
+          "rect": {
+            "left": 498,
+            "top": 722,
+            "right": 505,
+            "bottom": 736,
+            "width": 6,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "esign methodolog-",
+          "rect": {
+            "left": 505,
+            "top": 722,
+            "right": 601,
+            "bottom": 736,
+            "width": 96,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "ists that work within this paradigm  restrict themselves to  terms o",
+          "rect": {
+            "left": 219,
+            "top": 739,
+            "right": 561,
+            "bottom": 754,
+            "width": 341,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "f gener-",
+          "rect": {
+            "left": 561,
+            "top": 739,
+            "right": 602,
+            "bottom": 754,
+            "width": 41,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "alities  about  design  processes.  ",
+          "rect": {
+            "left": 219,
+            "top": 756,
+            "right": 384,
+            "bottom": 771,
+            "width": 164,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "design methodolog-\nists that work within this paradigm  restrict themselves to  terms of gener-\nalities  about  design  processes.  "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "[...] design methodologists [...]&nbsp; restrict themselves to  terms of generalities  about  design  processes.  "
+      }
+    },
+    {
+      "id": "1EMHJeH1XF",
+      "guid": "1EMHJeH1XF",
+      "created": "2020-10-03T20:52:47.752Z",
+      "lastUpdated": "2020-10-03T20:52:47.752Z",
+      "rects": {
+        "0": {
+          "left": 320,
+          "top": 152,
+          "right": 602,
+          "bottom": 169,
+          "width": 282,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 169,
+          "right": 317,
+          "bottom": 184,
+          "width": 98,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "tack",
+          "rect": {
+            "left": 320,
+            "top": 152,
+            "right": 342,
+            "bottom": 166,
+            "width": 22,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "ling of unique design tasks the essence, the artistry",
+          "rect": {
+            "left": 342,
+            "top": 152,
+            "right": 602,
+            "bottom": 166,
+            "width": 259,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "of design practice.",
+          "rect": {
+            "left": 219,
+            "top": 169,
+            "right": 317,
+            "bottom": 184,
+            "width": 97,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "tackling of unique design tasks the essence, the artistry\nof design practice."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "12NDHHXLF7",
+      "guid": "1EavkXwpvT",
+      "created": "2020-10-04T20:51:21.790Z",
+      "lastUpdated": "2020-10-04T20:54:03.590Z",
+      "rects": {
+        "0": {
+          "left": 583,
+          "top": 515,
+          "right": 601,
+          "bottom": 532,
+          "width": 18,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 532,
+          "right": 601,
+          "bottom": 550,
+          "width": 382,
+          "height": 18
+        },
+        "2": {
+          "left": 219,
+          "top": 550,
+          "right": 257,
+          "bottom": 564,
+          "width": 38,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "and",
+          "rect": {
+            "left": 583,
+            "top": 515,
+            "right": 601,
+            "bottom": 530,
+            "width": 17,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "th",
+          "rect": {
+            "left": 219,
+            "top": 532,
+            "right": 229,
+            "bottom": 546,
+            "width": 9,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "e kernel of the design ability is to make intelligent decisions about those",
+          "rect": {
+            "left": 229,
+            "top": 532,
+            "right": 601,
+            "bottom": 546,
+            "width": 372,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "actions.",
+          "rect": {
+            "left": 219,
+            "top": 550,
+            "right": 257,
+            "bottom": 564,
+            "width": 37,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "and\nthe kernel of the design ability is to make intelligent decisions about those\nactions."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>[...] the <b>kernel</b> of the <u>design ability</u> is to <b>make intelligent decisions</b> about those\n<b>actions</b>.</p><p><br></p><p>#CT #goal</p>"
+      },
+      "tags": {
+        "IntelligentAction": {
+          "id": "IntelligentAction",
+          "label": "IntelligentAction"
+        }
+      }
+    },
+    {
+      "id": "12mDiG1u53",
+      "guid": "1n2KMfUy4Y",
+      "created": "2020-10-05T13:30:37.031Z",
+      "lastUpdated": "2020-10-05T14:47:38.155Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 343,
+          "right": 601,
+          "bottom": 360,
+          "width": 382,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 360,
+          "right": 602,
+          "bottom": 377,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 377,
+          "right": 598,
+          "bottom": 392,
+          "width": 379,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Reflection is a cons",
+          "rect": {
+            "left": 219,
+            "top": 343,
+            "right": 320,
+            "bottom": 357,
+            "width": 100,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "cious and rational action that can lead to reframing the",
+          "rect": {
+            "left": 320,
+            "top": 343,
+            "right": 601,
+            "bottom": 357,
+            "width": 281,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "problem (when the frame is not satisfactory), the making of new moves, or",
+          "rect": {
+            "left": 219,
+            "top": 360,
+            "right": 602,
+            "bottom": 375,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "attending to new issues (naming, when the reflection leads to satisfaction)",
+          "rect": {
+            "left": 219,
+            "top": 377,
+            "right": 598,
+            "bottom": 392,
+            "width": 378,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Reflection is a conscious and rational action that can lead to reframing the\nproblem (when the frame is not satisfactory), the making of new moves, or\nattending to new issues (naming, when the reflection leads to satisfaction)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>La <b>réflexion </b>est une <b>action rationnelle</b>&nbsp;qui mène à un <b>recadrage&nbsp;</b>de de ce qui <b>est désiré</b> et dont la <b>réussite est douteuse</b>&nbsp;ou <b>acceptable</b>.&nbsp;</p><p>&gt;Reflection is a conscious and rational action [...] reframing [...] when the frame is not satisfactory [...] naming, when the reflection leads to satisfaction</p>"
+      },
+      "tags": {
+        "ActionRationnelle": {
+          "id": "ActionRationnelle",
+          "label": "ActionRationnelle"
+        },
+        "o2010051036": {
+          "id": "o2010051036",
+          "label": "o2010051036"
+        },
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        }
+      }
+    },
+    {
+      "id": "12Qx2ThUMM",
+      "guid": "12Qx2ThUMM",
+      "created": "2020-10-05T13:34:21.910Z",
+      "lastUpdated": "2020-10-05T13:34:21.910Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>What is the concept of <b>Reflection </b>according to Schon ?</p>"
+        },
+        "back": {
+          "HTML": "Reflection is a conscious and rational action that can lead to <b>reframing </b>[...] <b>not satisfactory</b> [...] making of <b>new moves</b>, [...] <b>naming</b>, when the reflection leads to satisfaction."
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:1n2KMfUy4Y"
+    },
+    {
+      "id": "1HXG7uL9Zb",
+      "guid": "1X9wcxHYGo",
+      "created": "2020-10-05T13:39:30.974Z",
+      "lastUpdated": "2020-10-05T16:01:48.676Z",
+      "rects": {
+        "0": {
+          "left": 266,
+          "top": 216,
+          "right": 601,
+          "bottom": 233,
+          "width": 335,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 233,
+          "right": 502,
+          "bottom": 248,
+          "width": 283,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "to recognise the four different activities we have to look at what",
+          "rect": {
+            "left": 266,
+            "top": 216,
+            "right": 601,
+            "bottom": 231,
+            "width": 335,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "the team is doing and which goals they have in mind.",
+          "rect": {
+            "left": 219,
+            "top": 233,
+            "right": 502,
+            "bottom": 248,
+            "width": 282,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "to recognise the four different activities we have to look at what\nthe team is doing and which goals they have in mind."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Il y a <b>reconnaissance du but</b> que se fixent les designers par l'observation des quatre types d'activité.</p><p><br></p><p>&gt;[...] to recognise the four different activities we have to look at what\nthe team is doing and which <b>goals </b>they have in mind.</p><p><br></p><p>#objective</p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "121AF1xJge",
+      "guid": "1Ud1RpnkxG",
+      "created": "2020-10-05T13:51:23.312Z",
+      "lastUpdated": "2020-10-05T14:35:29.416Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 332,
+          "right": 601,
+          "bottom": 349,
+          "width": 382,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 349,
+          "right": 481,
+          "bottom": 364,
+          "width": 262,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "When  the  team  frames  a  (sub)problem  or  (partial)  solution  to  explore",
+          "rect": {
+            "left": 219,
+            "top": 332,
+            "right": 601,
+            "bottom": 346,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "further on, then we code the context as a ‘frame’.",
+          "rect": {
+            "left": 219,
+            "top": 349,
+            "right": 481,
+            "bottom": 364,
+            "width": 261,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "When  the  team  frames  a  (sub)problem  or  (partial)  solution  to  explore\nfurther on, then we code the context as a ‘frame’."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p></p><p>Lorsqu'il y a <b>cadrage</b>&nbsp;d'une insatisfaction ou d'un questionnement proposant une résolution possible à explorer, le contexte est codifié comme étant du '<b>cadrage</b>'.</p><p><br></p><p>&gt;When  the  team  frames  a  (sub)problem  or  (partial)  solution  to  explore\nfurther on, then we code the context as a ‘frame’.</p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "125CHmu5kg",
+      "guid": "12QsvLzw9T",
+      "created": "2020-10-05T13:54:46.341Z",
+      "lastUpdated": "2020-10-05T16:17:00.265Z",
+      "rects": {
+        "0": {
+          "left": 485,
+          "top": 349,
+          "right": 602,
+          "bottom": 366,
+          "width": 117,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 366,
+          "right": 602,
+          "bottom": 384,
+          "width": 383,
+          "height": 18
+        },
+        "2": {
+          "left": 219,
+          "top": 384,
+          "right": 601,
+          "bottom": 401,
+          "width": 382,
+          "height": 17
+        },
+        "3": {
+          "left": 219,
+          "top": 401,
+          "right": 302,
+          "bottom": 416,
+          "width": 83,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The frame is a context",
+          "rect": {
+            "left": 485,
+            "top": 349,
+            "right": 602,
+            "bottom": 364,
+            "width": 117,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "for  the  next  activities;  something  to  hold  on  to  and  to  focus  on  while",
+          "rect": {
+            "left": 219,
+            "top": 366,
+            "right": 602,
+            "bottom": 381,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "designing. Therefore a frame is mostly only recognisable through the fol-",
+          "rect": {
+            "left": 219,
+            "top": 384,
+            "right": 601,
+            "bottom": 399,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "lowing activity. ",
+          "rect": {
+            "left": 219,
+            "top": 401,
+            "right": 302,
+            "bottom": 416,
+            "width": 82,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The frame is a context\nfor  the  next  activities;  something  to  hold  on  to  and  to  focus  on  while\ndesigning. Therefore a frame is mostly only recognisable through the fol-\nlowing activity. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>Le <b>cadrage</b>&nbsp;est génératif&nbsp;d'un nouveau contexte d'action dans lequel sera exploré des mouvements vers la résolution.&nbsp; Ce <b>contexte de cadrage</b>&nbsp;fournit un <b>ancrage</b>&nbsp;pendant le design qui donne une structure sur laquelle porter son attention.</p><p>&gt;The frame is a context\nfor  the  next  activities;  something  to  hold  on  to  and  to  focus  on  while\ndesigning. </p><p> </p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "12cNLSMWpg",
+      "guid": "1A2scVzydV",
+      "created": "2020-10-05T14:01:58.056Z",
+      "lastUpdated": "2020-10-05T16:13:02.971Z",
+      "rects": {
+        "0": {
+          "left": 522,
+          "top": 419,
+          "right": 601,
+          "bottom": 436,
+          "width": 79,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 436,
+          "right": 602,
+          "bottom": 453,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 453,
+          "right": 600,
+          "bottom": 468,
+          "width": 381,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "we noticed that",
+          "rect": {
+            "left": 522,
+            "top": 419,
+            "right": 601,
+            "bottom": 433,
+            "width": 78,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "the essence was the ‘context for further activities’. Then a frame can best",
+          "rect": {
+            "left": 219,
+            "top": 436,
+            "right": 602,
+            "bottom": 450,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "be visualised as a box in which other activities can occur (see Figure 2).",
+          "rect": {
+            "left": 219,
+            "top": 453,
+            "right": 600,
+            "bottom": 468,
+            "width": 380,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "we noticed that\nthe essence was the ‘context for further activities’. Then a frame can best\nbe visualised as a box in which other activities can occur (see Figure 2)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>Le contexte pour de nouvelle action est identifié comme un élément essentiel.</p><p>&gt;[...]we noticed that\nthe essence was the ‘<b>context for further activities</b>’.&nbsp;</p><p><br></p><p>#result</p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "16X8Dd4xtF",
+      "guid": "1L5P7fSq7c",
+      "created": "2020-10-05T14:09:20.075Z",
+      "lastUpdated": "2020-10-05T14:35:08.301Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 266,
+          "right": 601,
+          "bottom": 283,
+          "width": 382,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 283,
+          "right": 601,
+          "bottom": 300,
+          "width": 382,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 300,
+          "right": 524,
+          "bottom": 315,
+          "width": 305,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "When  the  team  is explicitly  pointing to  parts  of  the  design task  as being",
+          "rect": {
+            "left": 219,
+            "top": 266,
+            "right": 601,
+            "bottom": 280,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "important,  we  code  the  activity  as  ‘naming’.  During  the  naming-activity",
+          "rect": {
+            "left": 219,
+            "top": 283,
+            "right": 601,
+            "bottom": 297,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "the team is looking for relevant objects in the design task.",
+          "rect": {
+            "left": 219,
+            "top": 300,
+            "right": 524,
+            "bottom": 315,
+            "width": 304,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "When  the  team  is explicitly  pointing to  parts  of  the  design task  as being\nimportant,  we  code  the  activity  as  ‘naming’.  During  the  naming-activity\nthe team is looking for relevant objects in the design task."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>La nomentlature <b>\"nommer\"</b>&nbsp;est utilisé quand il est explicitement identifié qu'une composante du design est importante.<br><br></p><p>&gt;[...] explicitly  pointing to  parts  of  the  design task  as being\nimportant,  we  code  the  activity  as  ‘<b>naming</b>’.&nbsp;</p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "1r5z6zcg8n",
+      "guid": "1ua4j8RqqG",
+      "created": "2020-10-05T14:27:59.094Z",
+      "lastUpdated": "2020-10-05T14:34:13.929Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 486,
+          "right": 602,
+          "bottom": 503,
+          "width": 383,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 503,
+          "right": 602,
+          "bottom": 520,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 520,
+          "right": 602,
+          "bottom": 537,
+          "width": 383,
+          "height": 17
+        },
+        "3": {
+          "left": 219,
+          "top": 537,
+          "right": 601,
+          "bottom": 554,
+          "width": 382,
+          "height": 17
+        },
+        "4": {
+          "left": 219,
+          "top": 554,
+          "right": 601,
+          "bottom": 572,
+          "width": 382,
+          "height": 18
+        },
+        "5": {
+          "left": 219,
+          "top": 572,
+          "right": 431,
+          "bottom": 586,
+          "width": 212,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Experimental  actions  like  generating  ideas,  making  an  inventory,  sorting",
+          "rect": {
+            "left": 219,
+            "top": 486,
+            "right": 602,
+            "bottom": 500,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "information,   combining   ideas,   or   comparing   concepts   are   coded   as",
+          "rect": {
+            "left": 219,
+            "top": 503,
+            "right": 602,
+            "bottom": 517,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "‘moving’.  During  the  ‘moving’-activity,  the  team  not  only  tries  to  solve",
+          "rect": {
+            "left": 219,
+            "top": 520,
+            "right": 602,
+            "bottom": 534,
+            "width": 382,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "the problem, but at the same time also explores the suitability of the frame.",
+          "rect": {
+            "left": 219,
+            "top": 537,
+            "right": 601,
+            "bottom": 552,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "The move is always characterised by a verb, identifying the activity, comp-",
+          "rect": {
+            "left": 219,
+            "top": 554,
+            "right": 601,
+            "bottom": 569,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "lemented with the content of the activity",
+          "rect": {
+            "left": 219,
+            "top": 572,
+            "right": 431,
+            "bottom": 586,
+            "width": 211,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Experimental  actions  like  generating  ideas,  making  an  inventory,  sorting\ninformation,   combining   ideas,   or   comparing   concepts   are   coded   as\n‘moving’.  During  the  ‘moving’-activity,  the  team  not  only  tries  to  solve\nthe problem, but at the same time also explores the suitability of the frame.\nThe move is always characterised by a verb, identifying the activity, comp-\nlemented with the content of the activity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p></p><p><br></p><p>La codification <b>mouvement</b>&nbsp;s'est appliqué à tous ce qui est <b>caractérisé </b>par un <b>verbe</b>.</p><p>&gt;[...]&nbsp;generating  ideas,  making  an  inventory,  sorting\ninformation,   combining   ideas,   or   comparing   concepts   are   <b>coded   as\n‘moving’</b>. [...] <b>explores the suitability</b> of the frame.\nThe move is always <b>characterised by a verb,</b>&nbsp; [...].</p>"
+      },
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        },
+        "a2010051033": {
+          "id": "a2010051033",
+          "label": "a2010051033"
+        }
+      }
+    },
+    {
+      "id": "1ZTAbgWsi2",
+      "guid": "1ZTAbgWsi2",
+      "created": "2020-10-05T14:38:43.994Z",
+      "lastUpdated": "2020-10-05T14:38:43.994Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>What about that ?</p>"
+        },
+        "back": {
+          "HTML": "<p>La réflexion est une <b>action rationnelle</b>.</p><p>&gt;Reflection is a conscious and rational action that can lead to reframing the\nproblem (when the frame is not satisfactory), the making of new moves, or\nattending to new issues (naming, when the reflection leads to satisfaction)</p>"
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:143xT6PH8h"
+    },
+    {
+      "id": "12wfSbDLAw",
+      "guid": "1eJGYq2wps",
+      "created": "2020-10-05T16:03:18.029Z",
+      "lastUpdated": "2020-10-05T16:05:49.980Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 603,
+          "right": 601,
+          "bottom": 621,
+          "width": 382,
+          "height": 18
+        },
+        "1": {
+          "left": 219,
+          "top": 621,
+          "right": 601,
+          "bottom": 638,
+          "width": 382,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 638,
+          "right": 369,
+          "bottom": 653,
+          "width": 150,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "An explicit reflection on earlier activities to know what to do next is coded",
+          "rect": {
+            "left": 219,
+            "top": 603,
+            "right": 601,
+            "bottom": 618,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "as ‘reflecting’. The ‘reflecting’-activity contains a critical reflection of the",
+          "rect": {
+            "left": 219,
+            "top": 621,
+            "right": 601,
+            "bottom": 636,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "team on their earlier actions.",
+          "rect": {
+            "left": 219,
+            "top": 638,
+            "right": 369,
+            "bottom": 653,
+            "width": 149,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "An explicit reflection on earlier activities to know what to do next is coded\nas ‘reflecting’. The ‘reflecting’-activity contains a critical reflection of the\nteam on their earlier actions."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "tags": {
+        "CadrageReflectif": {
+          "id": "CadrageReflectif",
+          "label": "CadrageReflectif"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>La codification <b>réflection</b>&nbsp;est utilisé pour <b>critiquer</b> le résultat d'une action</p><p>&gt;An explicit reflection on earlier activities to know what to do next is coded\nas ‘<b>reflecting</b>’. The ‘reflecting’-activity contains a critical reflection of the\nteam on their earlier actions.</p>"
+      }
+    },
+    {
+      "id": "14XG4bE6aP",
+      "guid": "1ty6LevhBb",
+      "created": "2020-10-05T16:05:53.145Z",
+      "lastUpdated": "2020-10-05T16:06:55.253Z",
+      "rects": {
+        "0": {
+          "left": 580,
+          "top": 722,
+          "right": 601,
+          "bottom": 739,
+          "width": 21,
+          "height": 17
+        },
+        "1": {
+          "left": 219,
+          "top": 739,
+          "right": 602,
+          "bottom": 756,
+          "width": 383,
+          "height": 17
+        },
+        "2": {
+          "left": 219,
+          "top": 756,
+          "right": 601,
+          "bottom": 774,
+          "width": 382,
+          "height": 18
+        },
+        "3": {
+          "left": 219,
+          "top": 774,
+          "right": 438,
+          "bottom": 789,
+          "width": 219,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This",
+          "rect": {
+            "left": 580,
+            "top": 722,
+            "right": 601,
+            "bottom": 736,
+            "width": 21,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "ad",
+          "rect": {
+            "left": 219,
+            "top": 739,
+            "right": 233,
+            "bottom": 754,
+            "width": 13,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "dition to the structure of our description method shows the overview of",
+          "rect": {
+            "left": 233,
+            "top": 739,
+            "right": 602,
+            "bottom": 754,
+            "width": 369,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "the subjects the teams attend to and gives some added insight in the teams’",
+          "rect": {
+            "left": 219,
+            "top": 756,
+            "right": 601,
+            "bottom": 771,
+            "width": 381,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "strategies for approaching the design task.",
+          "rect": {
+            "left": 219,
+            "top": 774,
+            "right": 438,
+            "bottom": 789,
+            "width": 218,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "This\naddition to the structure of our description method shows the overview of\nthe subjects the teams attend to and gives some added insight in the teams’\nstrategies for approaching the design task."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8ED1FC",
+      "revisedText": {
+        "HTML": "<p>This\naddition to the structure of our description method shows the overview of\nthe subjects the teams attend to and gives some added insight in the teams’\nstrategies for approaching the design task.</p><p><br></p><p>#result</p>"
+      }
+    },
+    {
+      "id": "1bGQvZxX48",
+      "guid": "1dXifpy18Z",
+      "created": "2020-10-05T20:43:15.391Z",
+      "lastUpdated": "2020-10-05T20:43:40.857Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 490,
+          "right": 233,
+          "bottom": 519,
+          "width": 13,
+          "height": 29
+        },
+        "1": {
+          "left": 241,
+          "top": 499,
+          "right": 561,
+          "bottom": 519,
+          "width": 320,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4",
+          "rect": {
+            "left": 220,
+            "top": 490,
+            "right": 233,
+            "bottom": 519,
+            "width": 13,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "Discussion on implications for team designing",
+          "rect": {
+            "left": 241,
+            "top": 499,
+            "right": 561,
+            "bottom": 519,
+            "width": 319,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4\nDiscussion on implications for team designing"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>4\nDiscussion on implications for team designing</h1>"
+      }
+    },
+    {
+      "id": "1o86FiC8vQ",
+      "guid": "1o86FiC8vQ",
+      "created": "2020-10-05T20:51:11.664Z",
+      "lastUpdated": "2020-10-05T20:51:11.664Z",
+      "rects": {
+        "0": {
+          "left": 580,
+          "top": 567,
+          "right": 626,
+          "bottom": 585,
+          "width": 46,
+          "height": 18
+        },
+        "1": {
+          "left": 220,
+          "top": 585,
+          "right": 600,
+          "bottom": 600,
+          "width": 380,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "h",
+          "rect": {
+            "left": 580,
+            "top": 567,
+            "right": 587,
+            "bottom": 582,
+            "width": 6,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "at Tecc",
+          "rect": {
+            "left": 587,
+            "top": 567,
+            "right": 626,
+            "bottom": 582,
+            "width": 39,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "first explores the design task, before choosing and developing the sol",
+          "rect": {
+            "left": 220,
+            "top": 585,
+            "right": 600,
+            "bottom": 600,
+            "width": 379,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "hat Tecc\nfirst explores the design task, before choosing and developing the sol"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "1Zhexv3zVH",
+      "guid": "1Zhexv3zVH",
+      "created": "2020-10-05T20:51:26.262Z",
+      "lastUpdated": "2020-10-05T20:51:26.262Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 676,
+          "right": 233,
+          "bottom": 704,
+          "width": 13,
+          "height": 28
+        },
+        "1": {
+          "left": 241,
+          "top": 683,
+          "right": 560,
+          "bottom": 703,
+          "width": 319,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "5",
+          "rect": {
+            "left": 220,
+            "top": 676,
+            "right": 233,
+            "bottom": 704,
+            "width": 13,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "‘Reflective practice’ as an observation method",
+          "rect": {
+            "left": 241,
+            "top": 683,
+            "right": 560,
+            "bottom": 703,
+            "width": 318,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "5\n‘Reflective practice’ as an observation method"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1gWEvvBoBf",
+      "guid": "1218kF4QHt",
+      "created": "2020-10-05T20:53:38.911Z",
+      "lastUpdated": "2020-10-05T22:16:08.283Z",
+      "rects": {
+        "0": {
+          "left": 585,
+          "top": 723,
+          "right": 638,
+          "bottom": 740,
+          "width": 53,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 740,
+          "right": 634,
+          "bottom": 758,
+          "width": 414,
+          "height": 18
+        },
+        "2": {
+          "left": 220,
+          "top": 758,
+          "right": 635,
+          "bottom": 775,
+          "width": 415,
+          "height": 17
+        },
+        "3": {
+          "left": 220,
+          "top": 775,
+          "right": 299,
+          "bottom": 789,
+          "width": 79,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "gies—the",
+          "rect": {
+            "left": 585,
+            "top": 723,
+            "right": 638,
+            "bottom": 738,
+            "width": 52,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "description  of team  designing  in  episodes  and  categorizing  them",
+          "rect": {
+            "left": 220,
+            "top": 740,
+            "right": 583,
+            "bottom": 755,
+            "width": 363,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "  into  the",
+          "rect": {
+            "left": 583,
+            "top": 740,
+            "right": 634,
+            "bottom": 755,
+            "width": 50,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "four activities provides a good insight in the course of the t",
+          "rect": {
+            "left": 220,
+            "top": 758,
+            "right": 553,
+            "bottom": 773,
+            "width": 332,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "eam design on",
+          "rect": {
+            "left": 553,
+            "top": 758,
+            "right": 635,
+            "bottom": 773,
+            "width": 81,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "a  project  leve",
+          "rect": {
+            "left": 220,
+            "top": 775,
+            "right": 299,
+            "bottom": 789,
+            "width": 79,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "gies—the\ndescription  of team  designing  in  episodes  and  categorizing  them  into  the\nfour activities provides a good insight in the course of the team design on\na  project  leve"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<span id=\"docs-internal-guid-3386257c-7fff-aa63-e7cd-ea14988f4227\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">L’article discute aussi de la pratique réflexive comme méthode d'observation, bien que Schon n’ai pas eu cette intention en la créant.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">La categorization des activités et un regroupement supérieur en </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">épisodes</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> a été effectué pour simplifier la classification. “</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">[...] the description&nbsp; of team&nbsp; designing&nbsp; in&nbsp; episodes&nbsp; and&nbsp; categorizing&nbsp; them&nbsp; into&nbsp; the four activities provides a good insight in the course of the team design on a&nbsp; project&nbsp; level.” (Valkenburg &amp; Dorst, 1998, p.269)</span></p><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ils ont divisé les épisodes par </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">activité.</span></span>"
+      }
+    },
+    {
+      "id": "1241sf9Eou",
+      "guid": "1241sf9Eou",
+      "created": "2020-10-05T20:59:36.456Z",
+      "lastUpdated": "2020-10-05T20:59:36.456Z",
+      "rects": {
+        "0": {
+          "left": 416,
+          "top": 199,
+          "right": 629,
+          "bottom": 216,
+          "width": 213,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 216,
+          "right": 542,
+          "bottom": 231,
+          "width": 322,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "n. We, in this research, chose to divide",
+          "rect": {
+            "left": 416,
+            "top": 199,
+            "right": 629,
+            "bottom": 213,
+            "width": 212,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "the protocol  into episodes in  which the same  activity occ",
+          "rect": {
+            "left": 220,
+            "top": 216,
+            "right": 542,
+            "bottom": 231,
+            "width": 322,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "n. We, in this research, chose to divide\nthe protocol  into episodes in  which the same  activity occ"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "1pW4CugKcv",
+      "guid": "12HHQ1CjhK",
+      "created": "2020-10-05T21:01:01.074Z",
+      "lastUpdated": "2020-10-05T21:01:44.807Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 386,
+          "right": 632,
+          "bottom": 403,
+          "width": 412,
+          "height": 17
+        },
+        "1": {
+          "left": 220,
+          "top": 403,
+          "right": 633,
+          "bottom": 421,
+          "width": 413,
+          "height": 18
+        },
+        "2": {
+          "left": 220,
+          "top": 421,
+          "right": 632,
+          "bottom": 438,
+          "width": 412,
+          "height": 17
+        },
+        "3": {
+          "left": 220,
+          "top": 438,
+          "right": 314,
+          "bottom": 453,
+          "width": 94,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This way of describing team activities provides a good framework for dis-",
+          "rect": {
+            "left": 220,
+            "top": 386,
+            "right": 632,
+            "bottom": 401,
+            "width": 411,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "cussion  on  team  designing.  In  education  it  can  be  very  useful  to  either",
+          "rect": {
+            "left": 220,
+            "top": 403,
+            "right": 633,
+            "bottom": 418,
+            "width": 412,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "illustrate  design  professionals-in-action  or  to  confront  design  teams  with",
+          "rect": {
+            "left": 220,
+            "top": 421,
+            "right": 632,
+            "bottom": 436,
+            "width": 411,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "their own practic",
+          "rect": {
+            "left": 220,
+            "top": 438,
+            "right": 314,
+            "bottom": 453,
+            "width": 94,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "This way of describing team activities provides a good framework for dis-\ncussion  on  team  designing.  In  education  it  can  be  very  useful  to  either\nillustrate  design  professionals-in-action  or  to  confront  design  teams  with\ntheir own practic"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<p>This way of describing team activities provides a good framework for dis-\ncussion  on  team  designing.  In  education  it  can  be  very  useful  to  either\nillustrate  design  professionals-in-action  or  to  confront  design  teams  with\ntheir own practice.</p><p><br></p><p>#result</p>"
+      }
+    },
+    {
+      "id": "1J7L1HgAqy",
+      "guid": "1Xie1JUVyP",
+      "created": "2020-10-05T21:02:16.742Z",
+      "lastUpdated": "2020-10-05T21:02:43.303Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 727,
+          "right": 233,
+          "bottom": 756,
+          "width": 13,
+          "height": 29
+        },
+        "1": {
+          "left": 241,
+          "top": 735,
+          "right": 359,
+          "bottom": 755,
+          "width": 118,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "6",
+          "rect": {
+            "left": 220,
+            "top": 727,
+            "right": 233,
+            "bottom": 756,
+            "width": 13,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "Further research",
+          "rect": {
+            "left": 241,
+            "top": 735,
+            "right": 359,
+            "bottom": 755,
+            "width": 118,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "6\nFurther research"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1><b>6\nFurther research</b></h1>"
+      }
+    },
+    {
+      "id": "12aGhiAmNv",
+      "guid": "1TnjkPiX9j",
+      "created": "2020-10-05T21:09:09.115Z",
+      "lastUpdated": "2020-10-05T22:17:09.394Z",
+      "rects": {
+        "0": {
+          "left": 503,
+          "top": 256,
+          "right": 625,
+          "bottom": 274,
+          "width": 122,
+          "height": 18
+        },
+        "1": {
+          "left": 220,
+          "top": 274,
+          "right": 632,
+          "bottom": 291,
+          "width": 412,
+          "height": 17
+        },
+        "2": {
+          "left": 220,
+          "top": 291,
+          "right": 630,
+          "bottom": 309,
+          "width": 410,
+          "height": 18
+        },
+        "3": {
+          "left": 220,
+          "top": 309,
+          "right": 629,
+          "bottom": 326,
+          "width": 409,
+          "height": 17
+        },
+        "4": {
+          "left": 220,
+          "top": 326,
+          "right": 600,
+          "bottom": 340,
+          "width": 380,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "s, we can’t yet be sure",
+          "rect": {
+            "left": 503,
+            "top": 256,
+            "right": 625,
+            "bottom": 271,
+            "width": 121,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "about the suitability of this description  method for other teams. We have",
+          "rect": {
+            "left": 220,
+            "top": 274,
+            "right": 632,
+            "bottom": 289,
+            "width": 411,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "to make descriptions of more teams in other design situations. In order to",
+          "rect": {
+            "left": 220,
+            "top": 291,
+            "right": 630,
+            "bottom": 306,
+            "width": 409,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "be  able  to  explain  the  research  method  in  more  detail,  we  will  use  team",
+          "rect": {
+            "left": 220,
+            "top": 309,
+            "right": 629,
+            "bottom": 323,
+            "width": 408,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "protocols that are very well documented in the design research comm",
+          "rect": {
+            "left": 220,
+            "top": 326,
+            "right": 600,
+            "bottom": 340,
+            "width": 380,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "s, we can’t yet be sure\nabout the suitability of this description  method for other teams. We have\nto make descriptions of more teams in other design situations. In order to\nbe  able  to  explain  the  research  method  in  more  detail,  we  will  use  team\nprotocols that are very well documented in the design research comm"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">La recherche s’est limitée à deux études de cas et le modèle produit aurait besoin d’être étudié plus amplement dans des recherches futures pour améliorer la théorie du design et l’éducation en discutant plus amplement les patterns de design généraux.</span></p><p><span id=\"docs-internal-guid-dab93f17-7fff-3a7c-78fd-65d9946a2e8b\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Plus de cas seront à observer pour valider la fiabilité de la <b>méthode descriptive</b> développée. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">“[...] we can’t yet be sure about the <b>suitability </b>of this <b>description&nbsp; method</b> for other teams. We have to make descriptions of more teams in other design situations. In order to be&nbsp; able&nbsp; to&nbsp; explain&nbsp; the&nbsp; research&nbsp; method&nbsp; in&nbsp; more&nbsp; detail,&nbsp; we&nbsp; will&nbsp; use&nbsp; team protocols that are very well documented in the design research community [...]” </span></span><br></p>"
+      }
+    },
+    {
+      "id": "12pzaLPA3d",
+      "guid": "12pzaLPA3d",
+      "created": "2020-10-05T22:18:45.279Z",
+      "lastUpdated": "2020-10-05T22:18:45.279Z",
+      "rects": {
+        "0": {
+          "left": 85,
+          "top": 735,
+          "right": 91,
+          "bottom": 747,
+          "width": 6,
+          "height": 12
+        },
+        "1": {
+          "left": 94,
+          "top": 737,
+          "right": 199,
+          "bottom": 748,
+          "width": 105,
+          "height": 11
+        },
+        "2": {
+          "left": 85,
+          "top": 748,
+          "right": 197,
+          "bottom": 759,
+          "width": 112,
+          "height": 11
+        },
+        "3": {
+          "left": 85,
+          "top": 759,
+          "right": 200,
+          "bottom": 769,
+          "width": 115,
+          "height": 10
+        },
+        "4": {
+          "left": 85,
+          "top": 769,
+          "right": 200,
+          "bottom": 780,
+          "width": 115,
+          "height": 11
+        },
+        "5": {
+          "left": 85,
+          "top": 780,
+          "right": 186,
+          "bottom": 789,
+          "width": 101,
+          "height": 9
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "1",
+          "rect": {
+            "left": 85,
+            "top": 735,
+            "right": 91,
+            "bottom": 747,
+            "width": 6,
+            "height": 11
+          }
+        },
+        "1": {
+          "text": "Valkenburg,   A   C",
+          "rect": {
+            "left": 94,
+            "top": 737,
+            "right": 162,
+            "bottom": 746,
+            "width": 67,
+            "height": 9
+          }
+        },
+        "2": {
+          "text": "‘Shared",
+          "rect": {
+            "left": 172,
+            "top": 737,
+            "right": 199,
+            "bottom": 746,
+            "width": 26,
+            "height": 9
+          }
+        },
+        "3": {
+          "text": "understanding as a condition for",
+          "rect": {
+            "left": 85,
+            "top": 748,
+            "right": 197,
+            "bottom": 757,
+            "width": 112,
+            "height": 9
+          }
+        },
+        "4": {
+          "text": "team   design’",
+          "rect": {
+            "left": 85,
+            "top": 759,
+            "right": 133,
+            "bottom": 768,
+            "width": 48,
+            "height": 9
+          }
+        },
+        "5": {
+          "text": "The   Journal   of",
+          "rect": {
+            "left": 140,
+            "top": 759,
+            "right": 200,
+            "bottom": 768,
+            "width": 59,
+            "height": 9
+          }
+        },
+        "6": {
+          "text": "Automation in Construction",
+          "rect": {
+            "left": 85,
+            "top": 769,
+            "right": 182,
+            "bottom": 779,
+            "width": 97,
+            "height": 9
+          }
+        },
+        "7": {
+          "text": "Vol 7",
+          "rect": {
+            "left": 182,
+            "top": 769,
+            "right": 200,
+            "bottom": 778,
+            "width": 18,
+            "height": 9
+          }
+        },
+        "8": {
+          "text": "Nos 2–3 (1998) pp 111–121",
+          "rect": {
+            "left": 85,
+            "top": 780,
+            "right": 186,
+            "bottom": 789,
+            "width": 100,
+            "height": 9
+          }
+        }
+      },
+      "text": {
+        "TEXT": "1\nValkenburg,   A   C ‘Shared\nunderstanding as a condition for\nteam   design’\nThe   Journal   of\nAutomation in Construction\nVol 7\nNos 2–3 (1998) pp 111–121"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

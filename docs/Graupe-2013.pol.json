@@ -1,0 +1,724 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12kbktQiXG",
+      "guid": "12kbktQiXG",
+      "created": "2020-09-29T23:13:17.132Z",
+      "lastUpdated": "2020-09-29T23:13:29.734Z",
+      "rects": {
+        "0": {
+          "left": 9.72972972972973,
+          "top": 4.976303317535545,
+          "width": 86.30630630630631,
+          "height": 94.31279620853081
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12GS5u1LcmetV5UhzE4n",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12GS5u1LcmetV5UhzE4n.png"
+        },
+        "width": 479,
+        "height": 796,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 58,
+        "y": 45,
+        "width": 520,
+        "height": 865
+      }
+    },
+    {
+      "id": "1fKXfhkH1o",
+      "guid": "12aLu9RuWV",
+      "created": "2020-09-29T23:13:35.785Z",
+      "lastUpdated": "2020-09-29T23:13:40.744Z",
+      "rects": {
+        "0": {
+          "left": 219,
+          "top": 201,
+          "right": 414,
+          "bottom": 230,
+          "width": 195,
+          "height": 29
+        },
+        "1": {
+          "left": 190,
+          "top": 229,
+          "right": 434,
+          "bottom": 258,
+          "width": 244,
+          "height": 29
+        },
+        "2": {
+          "left": 242,
+          "top": 258,
+          "right": 376,
+          "bottom": 294,
+          "width": 134,
+          "height": 36
+        },
+        "3": {
+          "left": 276,
+          "top": 294,
+          "right": 343,
+          "bottom": 311,
+          "width": 67,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "PRINCIPLES OF  ",
+          "rect": {
+            "left": 219,
+            "top": 201,
+            "right": 414,
+            "bottom": 230,
+            "width": 194,
+            "height": 29
+          }
+        },
+        "1": {
+          "text": "ARTIFICIAL NEURAL ",
+          "rect": {
+            "left": 190,
+            "top": 229,
+            "right": 434,
+            "bottom": 258,
+            "width": 243,
+            "height": 29
+          }
+        },
+        "2": {
+          "text": "NETWOR",
+          "rect": {
+            "left": 242,
+            "top": 258,
+            "right": 344,
+            "bottom": 288,
+            "width": 101,
+            "height": 29
+          }
+        },
+        "3": {
+          "text": "K",
+          "rect": {
+            "left": 345,
+            "top": 258,
+            "right": 364,
+            "bottom": 288,
+            "width": 18,
+            "height": 29
+          }
+        },
+        "4": {
+          "text": "S",
+          "rect": {
+            "left": 363,
+            "top": 258,
+            "right": 376,
+            "bottom": 288,
+            "width": 13,
+            "height": 29
+          }
+        },
+        "5": {
+          "text": "3rd Edition",
+          "rect": {
+            "left": 276,
+            "top": 294,
+            "right": 343,
+            "bottom": 311,
+            "width": 67,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "PRINCIPLES OF  \nARTIFICIAL NEURAL \nNETWOR KS\n3rd Edition"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>PRINCIPLES OF  \nARTIFICIAL NEURAL \nNETWOR KS\n3rd Edition</h1>"
+      }
+    },
+    {
+      "id": "12Cuuat6SA",
+      "guid": "16KJDoBLhm",
+      "created": "2020-09-29T23:13:55.130Z",
+      "lastUpdated": "2020-09-29T23:16:07.962Z",
+      "rects": {
+        "0": {
+          "left": 311,
+          "top": 503,
+          "right": 402,
+          "bottom": 534,
+          "width": 91,
+          "height": 31
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Graupe",
+          "rect": {
+            "left": 311,
+            "top": 503,
+            "right": 402,
+            "bottom": 534,
+            "width": 91,
+            "height": 30
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Graupe"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>Graupe, Ph.D</b></p><p><br></p><p>Citer: (Graupe, 2013)</p><p>FTag: Graupe-2013</p><p>\n\n</p><p>APA7: Graupe, D. (2013). <em>Principles of artificial neural networks</em> (3rd edition). World Scientific.</p>"
+      }
+    },
+    {
+      "id": "19mYFi4bfA",
+      "guid": "19mYFi4bfA",
+      "created": "2020-09-29T23:14:01.786Z",
+      "lastUpdated": "2020-09-29T23:14:01.786Z",
+      "rects": {
+        "0": {
+          "left": 221,
+          "top": 540,
+          "right": 406,
+          "bottom": 555,
+          "width": 185,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "University of Illinois, Chicago, USA",
+          "rect": {
+            "left": 221,
+            "top": 540,
+            "right": 406,
+            "bottom": 555,
+            "width": 184,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "University of Illinois, Chicago, USA"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1xmifMsDws",
+      "guid": "1xmifMsDws",
+      "created": "2020-09-29T23:16:21.852Z",
+      "lastUpdated": "2020-09-29T23:16:21.852Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 178,
+          "right": 443,
+          "bottom": 206,
+          "width": 281,
+          "height": 28
+        },
+        "1": {
+          "left": 152,
+          "top": 206,
+          "right": 452,
+          "bottom": 232,
+          "width": 300,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Introduction and Role of",
+          "rect": {
+            "left": 162,
+            "top": 178,
+            "right": 443,
+            "bottom": 204,
+            "width": 281,
+            "height": 26
+          }
+        },
+        "1": {
+          "text": "Artificial Neural Networks",
+          "rect": {
+            "left": 152,
+            "top": 206,
+            "right": 452,
+            "bottom": 232,
+            "width": 300,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Introduction and Role of\nArtificial Neural Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1EfMsUWUNq",
+      "guid": "1EfMsUWUNq",
+      "created": "2020-09-29T23:16:37.998Z",
+      "lastUpdated": "2020-09-29T23:16:37.998Z",
+      "rects": {
+        "0": {
+          "left": 178,
+          "top": 582,
+          "right": 422,
+          "bottom": 597,
+          "width": 244,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "he Perceptron’s Input-Output Princi",
+          "rect": {
+            "left": 178,
+            "top": 582,
+            "right": 422,
+            "bottom": 597,
+            "width": 243,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "he Perceptron’s Input-Output Princi"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12dC7oBRV9",
+      "guid": "1Xbah7ff8T",
+      "created": "2020-09-29T23:16:44.655Z",
+      "lastUpdated": "2020-09-29T23:16:58.902Z",
+      "rects": {
+        "0": {
+          "left": 273,
+          "top": 582,
+          "right": 422,
+          "bottom": 597,
+          "width": 149,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "’s Input-Output Princi",
+          "rect": {
+            "left": 273,
+            "top": 582,
+            "right": 422,
+            "bottom": 597,
+            "width": 148,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "’s Input-Output Princi"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h1>Input-Output Principles</h1>"
+      }
+    },
+    {
+      "id": "1Bd6c12677",
+      "guid": "1Bd6c12677",
+      "created": "2020-09-29T23:17:09.645Z",
+      "lastUpdated": "2020-09-29T23:17:09.645Z",
+      "rects": {
+        "0": {
+          "left": 309,
+          "top": 111,
+          "right": 424,
+          "bottom": 126,
+          "width": 115,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "n Learning Proce",
+          "rect": {
+            "left": 309,
+            "top": 111,
+            "right": 424,
+            "bottom": 126,
+            "width": 114,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "n Learning Proce"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12XTPynp4R",
+      "guid": "12XTPynp4R",
+      "created": "2020-09-29T23:17:42.293Z",
+      "lastUpdated": "2020-09-29T23:17:42.293Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 266,
+          "right": 486,
+          "bottom": 283,
+          "width": 319,
+          "height": 17
+        },
+        "1": {
+          "left": 175,
+          "top": 283,
+          "right": 341,
+          "bottom": 298,
+          "width": 166,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Predicting Price Movemen",
+          "rect": {
+            "left": 167,
+            "top": 266,
+            "right": 329,
+            "bottom": 281,
+            "width": 161,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "t in Market Microstructure",
+          "rect": {
+            "left": 329,
+            "top": 266,
+            "right": 486,
+            "bottom": 281,
+            "width": 157,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "viaLAMSTAR",
+          "rect": {
+            "left": 175,
+            "top": 283,
+            "right": 341,
+            "bottom": 298,
+            "width": 166,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Predicting Price Movement in Market Microstructure\nviaLAMSTAR"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "1YLq4ms3rq",
+      "guid": "12rua4Viep",
+      "created": "2020-09-29T23:37:10.592Z",
+      "lastUpdated": "2020-09-29T23:37:41.020Z",
+      "rects": {
+        "0": {
+          "left": 168,
+          "top": 526,
+          "right": 542,
+          "bottom": 541,
+          "width": 374,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ognitron and the Neocognitron",
+          "rect": {
+            "left": 168,
+            "top": 526,
+            "right": 353,
+            "bottom": 541,
+            "width": 185,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "305",
+          "rect": {
+            "left": 522,
+            "top": 526,
+            "right": 542,
+            "bottom": 541,
+            "width": 20,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "ognitron and the Neocognitron 305"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Cognitron and the Neocognitron p.305</h1><p><br></p><h2><b>What is it ?</b></h2><p><br></p><p><br></p>"
+      }
+    },
+    {
+      "id": "12pGb5CB6Y",
+      "guid": "12pGb5CB6Y",
+      "created": "2020-09-29T23:38:22.433Z",
+      "lastUpdated": "2020-09-29T23:38:22.433Z",
+      "rects": {
+        "0": {
+          "left": 248,
+          "top": 330,
+          "right": 542,
+          "bottom": 348,
+          "width": 294,
+          "height": 18
+        },
+        "1": {
+          "left": 62,
+          "top": 348,
+          "right": 274,
+          "bottom": 363,
+          "width": 212,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "he cognitron network employs both",
+          "rect": {
+            "left": 248,
+            "top": 330,
+            "right": 456,
+            "bottom": 345,
+            "width": 207,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "inhibitory",
+          "rect": {
+            "left": 459,
+            "top": 330,
+            "right": 515,
+            "bottom": 345,
+            "width": 55,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "and",
+          "rect": {
+            "left": 520,
+            "top": 330,
+            "right": 542,
+            "bottom": 345,
+            "width": 21,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "excitory",
+          "rect": {
+            "left": 62,
+            "top": 348,
+            "right": 107,
+            "bottom": 363,
+            "width": 45,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "neurons in its various layers",
+          "rect": {
+            "left": 113,
+            "top": 348,
+            "right": 274,
+            "bottom": 363,
+            "width": 161,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "he cognitron network employs both inhibitory and\nexcitory neurons in its various layers"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12WxUvyCGi",
+      "guid": "12BTfYu1uC",
+      "created": "2020-09-29T23:38:53.435Z",
+      "lastUpdated": "2020-09-29T23:39:20.785Z",
+      "rects": {
+        "0": {
+          "left": 282,
+          "top": 313,
+          "right": 542,
+          "bottom": 330,
+          "width": 260,
+          "height": 17
+        },
+        "1": {
+          "left": 62,
+          "top": 330,
+          "right": 176,
+          "bottom": 345,
+          "width": 114,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "is a network designed mainly with recognition",
+          "rect": {
+            "left": 282,
+            "top": 313,
+            "right": 542,
+            "bottom": 328,
+            "width": 259,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "of patterns in mind.",
+          "rect": {
+            "left": 62,
+            "top": 330,
+            "right": 176,
+            "bottom": 345,
+            "width": 113,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "is a network designed mainly with recognition\nof patterns in mind."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>Cognition&nbsp;</b>is a network designed mainly with <b>recognition\nof patterns</b> in mind.</p><p><br></p><p>#cognitron</p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

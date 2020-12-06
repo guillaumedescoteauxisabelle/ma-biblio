@@ -1,0 +1,4372 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1uvSC74b7j",
+      "guid": "12JHbKvwaH",
+      "created": "2020-09-08T15:49:46.335Z",
+      "lastUpdated": "2020-09-21T18:05:35.361Z",
+      "rects": {
+        "0": {
+          "left": 207,
+          "top": 159,
+          "right": 692,
+          "bottom": 200,
+          "width": 485,
+          "height": 41
+        },
+        "1": {
+          "left": 267,
+          "top": 200,
+          "right": 618,
+          "bottom": 228,
+          "width": 351,
+          "height": 28
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Les ",
+          "rect": {
+            "left": 207,
+            "top": 159,
+            "right": 249,
+            "bottom": 186,
+            "width": 42,
+            "height": 27
+          }
+        },
+        "1": {
+          "text": "casual",
+          "rect": {
+            "left": 249,
+            "top": 159,
+            "right": 315,
+            "bottom": 186,
+            "width": 66,
+            "height": 27
+          }
+        },
+        "2": {
+          "text": "game",
+          "rect": {
+            "left": 320,
+            "top": 159,
+            "right": 373,
+            "bottom": 186,
+            "width": 53,
+            "height": 27
+          }
+        },
+        "3": {
+          "text": "s",
+          "rect": {
+            "left": 373,
+            "top": 159,
+            "right": 385,
+            "bottom": 186,
+            "width": 12,
+            "height": 27
+          }
+        },
+        "4": {
+          "text": ": définition à l’aide du savoir ",
+          "rect": {
+            "left": 388,
+            "top": 159,
+            "right": 692,
+            "bottom": 186,
+            "width": 303,
+            "height": 27
+          }
+        },
+        "5": {
+          "text": "professionnel des designers de jeu",
+          "rect": {
+            "left": 267,
+            "top": 200,
+            "right": 618,
+            "bottom": 228,
+            "width": 351,
+            "height": 27
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Les casual games : définition à l’aide du savoir \nprofessionnel des designers de jeu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "Les casual games : définition à l’aide du savoir \nprofessionnel des designers de jeu"
+      }
+    },
+    {
+      "id": "12wYGTMW7r",
+      "guid": "12wYGTMW7r",
+      "created": "2020-09-08T15:50:06.946Z",
+      "lastUpdated": "2020-09-08T15:50:06.946Z",
+      "rects": {
+        "0": {
+          "left": 372,
+          "top": 76,
+          "right": 524,
+          "bottom": 94,
+          "width": 152,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Université de Montréal",
+          "rect": {
+            "left": 372,
+            "top": 76,
+            "right": 524,
+            "bottom": 94,
+            "width": 152,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Université de Montréal"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1ke3kKXAQX",
+      "guid": "1ke3kKXAQX",
+      "created": "2020-09-21T18:04:11.577Z",
+      "lastUpdated": "2020-09-21T18:04:11.577Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 281,
+          "right": 669,
+          "bottom": 308,
+          "width": 546,
+          "height": 27
+        },
+        "1": {
+          "left": 75,
+          "top": 308,
+          "right": 668,
+          "bottom": 336,
+          "width": 593,
+          "height": 28
+        },
+        "2": {
+          "left": 75,
+          "top": 336,
+          "right": 298,
+          "bottom": 355,
+          "width": 223,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The ",
+          "rect": {
+            "left": 123,
+            "top": 281,
+            "right": 151,
+            "bottom": 300,
+            "width": 28,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "objective  of  this  study  is  to  use  Donald",
+          "rect": {
+            "left": 157,
+            "top": 281,
+            "right": 445,
+            "bottom": 300,
+            "width": 288,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "Schön's",
+          "rect": {
+            "left": 450,
+            "top": 281,
+            "right": 499,
+            "bottom": 300,
+            "width": 49,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": "model  of  the  reflective ",
+          "rect": {
+            "left": 502,
+            "top": 281,
+            "right": 669,
+            "bottom": 300,
+            "width": 166,
+            "height": 18
+          }
+        },
+        "4": {
+          "text": "practitioner  to  shed  a  new  light  on  casual  games  through  the  collection  of  professional ",
+          "rect": {
+            "left": 75,
+            "top": 308,
+            "right": 668,
+            "bottom": 327,
+            "width": 593,
+            "height": 18
+          }
+        },
+        "5": {
+          "text": "knowledge   of   game   designers",
+          "rect": {
+            "left": 75,
+            "top": 336,
+            "right": 294,
+            "bottom": 355,
+            "width": 218,
+            "height": 18
+          }
+        },
+        "6": {
+          "text": ".",
+          "rect": {
+            "left": 294,
+            "top": 336,
+            "right": 298,
+            "bottom": 355,
+            "width": 4,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The  objective  of  this  study  is  to  use  Donald Schön's model  of  the  reflective \npractitioner  to  shed  a  new  light  on  casual  games  through  the  collection  of  professional \nknowledge   of   game   designers."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1nNEbTKEHF",
+      "guid": "1nNEbTKEHF",
+      "created": "2020-09-21T18:18:33.574Z",
+      "lastUpdated": "2020-09-21T18:18:33.574Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 458,
+          "right": 219,
+          "bottom": 483,
+          "width": 144,
+          "height": 25
+        },
+        "1": {
+          "left": 193,
+          "top": -6,
+          "right": 287,
+          "bottom": 19,
+          "width": 94,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.1",
+          "rect": {
+            "left": 75,
+            "top": 458,
+            "right": 102,
+            "bottom": 483,
+            "width": 26,
+            "height": 24
+          }
+        },
+        "1": {
+          "text": "Approche ",
+          "rect": {
+            "left": 124,
+            "top": 458,
+            "right": 219,
+            "bottom": 483,
+            "width": 95,
+            "height": 24
+          }
+        },
+        "2": {
+          "text": "qualitative",
+          "rect": {
+            "left": 193,
+            "top": -6,
+            "right": 287,
+            "bottom": 19,
+            "width": 93,
+            "height": 24
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.1 Approche qualitative"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1dBhnNVtv6",
+      "guid": "1dBhnNVtv6",
+      "created": "2020-09-21T18:42:13.449Z",
+      "lastUpdated": "2020-09-21T18:42:13.449Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 130,
+          "right": 311,
+          "bottom": 151,
+          "width": 236,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.2.4",
+          "rect": {
+            "left": 75,
+            "top": 130,
+            "right": 112,
+            "bottom": 151,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Protocole des entrevues",
+          "rect": {
+            "left": 124,
+            "top": 130,
+            "right": 311,
+            "bottom": 151,
+            "width": 187,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.2.4 Protocole des entrevues"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1weSwkLRyd",
+      "guid": "12Q6r7V6UJ",
+      "created": "2020-09-21T18:42:57.330Z",
+      "lastUpdated": "2020-09-22T21:13:04.642Z",
+      "rects": {
+        "0": {
+          "left": 124,
+          "top": 166,
+          "right": 669,
+          "bottom": 193,
+          "width": 545,
+          "height": 27
+        },
+        "1": {
+          "left": 75,
+          "top": 193,
+          "right": 546,
+          "bottom": 211,
+          "width": 471,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L",
+          "rect": {
+            "left": 124,
+            "top": 166,
+            "right": 132,
+            "bottom": 184,
+            "width": 8,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "’entrevue  semi",
+          "rect": {
+            "left": 133,
+            "top": 166,
+            "right": 230,
+            "bottom": 184,
+            "width": 96,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "-",
+          "rect": {
+            "left": 229,
+            "top": 166,
+            "right": 235,
+            "bottom": 184,
+            "width": 5,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": "dirigée  est  un  mode  de  collecte  de  données  qui  permet  d’accéder ",
+          "rect": {
+            "left": 235,
+            "top": 166,
+            "right": 669,
+            "bottom": 184,
+            "width": 433,
+            "height": 18
+          }
+        },
+        "4": {
+          "text": "au savoir professionnel des designers tout en étant",
+          "rect": {
+            "left": 75,
+            "top": 193,
+            "right": 399,
+            "bottom": 211,
+            "width": 323,
+            "height": 18
+          }
+        },
+        "5": {
+          "text": "aisé à mettre en œuvr",
+          "rect": {
+            "left": 403,
+            "top": 193,
+            "right": 546,
+            "bottom": 211,
+            "width": 142,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L ’entrevue  semi-dirigée  est  un  mode  de  collecte  de  données  qui  permet  d’accéder \nau savoir professionnel des designers tout en étant aisé à mettre en œuvr"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "L ’entrevue  semi-dirigée  est  un  mode  de  collecte  de  données  qui  permet  d’accéder \nau savoir professionnel des designers tout en étant aisé à mettre en œuvre."
+      }
+    },
+    {
+      "id": "1P5gUMJZHi",
+      "guid": "1P5gUMJZHi",
+      "created": "2020-09-21T19:07:11.011Z",
+      "lastUpdated": "2020-09-21T19:07:11.011Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 517,
+          "right": 577,
+          "bottom": 535,
+          "width": 454,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’échantillonnage  a  été  réalisé  en  fonction  du  but  de  notre  recherche",
+          "rect": {
+            "left": 123,
+            "top": 517,
+            "right": 577,
+            "bottom": 535,
+            "width": 453,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L’échantillonnage  a  été  réalisé  en  fonction  du  but  de  notre  recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12uHmQCSmE",
+      "guid": "12uHmQCSmE",
+      "created": "2020-09-21T19:08:37.772Z",
+      "lastUpdated": "2020-09-21T19:08:37.772Z",
+      "rects": {
+        "0": {
+          "left": 254,
+          "top": 460,
+          "right": 618,
+          "bottom": 479,
+          "width": 364,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "nous  avons  invité  neufs  participants,  et  six  ont  répondu.",
+          "rect": {
+            "left": 254,
+            "top": 460,
+            "right": 618,
+            "bottom": 479,
+            "width": 363,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "nous  avons  invité  neufs  participants,  et  six  ont  répondu."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1uH1TZiJn5",
+      "guid": "15thFnVyYu",
+      "created": "2020-09-21T19:15:11.466Z",
+      "lastUpdated": "2020-09-21T19:31:38.233Z",
+      "rects": {
+        "0": {
+          "left": 652,
+          "top": 756,
+          "right": 744,
+          "bottom": 783,
+          "width": 92,
+          "height": 27
+        },
+        "1": {
+          "left": 151,
+          "top": 783,
+          "right": 239,
+          "bottom": 801,
+          "width": 88,
+          "height": 18
+        },
+        "2": {
+          "left": 190,
+          "top": -6,
+          "right": 350,
+          "bottom": 13,
+          "width": 160,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "demandé  aux ",
+          "rect": {
+            "left": 652,
+            "top": 756,
+            "right": 744,
+            "bottom": 774,
+            "width": 91,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "designers de ",
+          "rect": {
+            "left": 151,
+            "top": 783,
+            "right": 239,
+            "bottom": 801,
+            "width": 88,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "réfléchir à leur pratique",
+          "rect": {
+            "left": 190,
+            "top": -6,
+            "right": 350,
+            "bottom": 13,
+            "width": 160,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "demandé  aux \ndesigners de réfléchir à leur pratique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>demandé  aux \ndesigners de réfléchir à leur pratique</p><p><br></p><p>[Pratique réflective]</p><p>Les designers ont réfléchient à leur pratique</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12NbYfd1Gu",
+      "guid": "12NbYfd1Gu",
+      "created": "2020-09-21T19:49:51.525Z",
+      "lastUpdated": "2020-09-21T19:49:51.525Z",
+      "rects": {
+        "0": {
+          "left": 245,
+          "top": 584,
+          "right": 712,
+          "bottom": 601,
+          "width": 467,
+          "height": 17
+        },
+        "1": {
+          "left": 198,
+          "top": 601,
+          "right": 712,
+          "bottom": 619,
+          "width": 514,
+          "height": 18
+        },
+        "2": {
+          "left": 198,
+          "top": 618,
+          "right": 508,
+          "bottom": 635,
+          "width": 310,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In  the  sensitizing  phase,  participants  perform  a  series  of  small  exercises ",
+          "rect": {
+            "left": 245,
+            "top": 584,
+            "right": 712,
+            "bottom": 601,
+            "width": 466,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "designed   to   let   them   think   about   past   experience,   and ",
+          "rect": {
+            "left": 198,
+            "top": 601,
+            "right": 561,
+            "bottom": 619,
+            "width": 362,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "make   them   ‘reflective ",
+          "rect": {
+            "left": 567,
+            "top": 601,
+            "right": 712,
+            "bottom": 619,
+            "width": 145,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "practitioners",
+          "rect": {
+            "left": 198,
+            "top": 618,
+            "right": 275,
+            "bottom": 635,
+            "width": 76,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "’",
+          "rect": {
+            "left": 274,
+            "top": 618,
+            "right": 278,
+            "bottom": 635,
+            "width": 3,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "(F.S. Visser et al., 2005; Schön, 1983)",
+          "rect": {
+            "left": 280,
+            "top": 618,
+            "right": 504,
+            "bottom": 635,
+            "width": 224,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": ".",
+          "rect": {
+            "left": 504,
+            "top": 618,
+            "right": 508,
+            "bottom": 635,
+            "width": 4,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "In  the  sensitizing  phase,  participants  perform  a  series  of  small  exercises \ndesigned   to   let   them   think   about   past   experience,   and  make   them   ‘reflective \npractitioners’ (F.S. Visser et al., 2005; Schön, 1983)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12CRL4ABG6",
+      "guid": "1FjpCpnP7K",
+      "created": "2020-09-21T19:51:58.974Z",
+      "lastUpdated": "2020-09-21T19:54:35.925Z",
+      "rects": {
+        "0": {
+          "left": 151,
+          "top": 158,
+          "right": 232,
+          "bottom": 185,
+          "width": 81,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Résumé",
+          "rect": {
+            "left": 151,
+            "top": 158,
+            "right": 232,
+            "bottom": 185,
+            "width": 81,
+            "height": 27
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Résumé"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>-------------</b></p><p><b>Résumé</b></p><p><b>--------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12Wev29QJS",
+      "guid": "1RiFucSXz7",
+      "created": "2020-09-21T19:54:23.297Z",
+      "lastUpdated": "2020-09-21T19:55:16.370Z",
+      "rects": {
+        "0": {
+          "left": 484,
+          "top": 198,
+          "right": 630,
+          "bottom": 217,
+          "width": 146,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "l’industrie vidéoludique",
+          "rect": {
+            "left": 484,
+            "top": 198,
+            "right": 630,
+            "bottom": 217,
+            "width": 146,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "l’industrie vidéoludique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>CONTEXTE</b> : l’industrie vidéoludique</p><p><br></p><p>Dans&nbsp;&nbsp;l’industrie vidéoludique, le causual game est peu étudié et ...</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "128C9H3q19",
+      "guid": "128C9H3q19",
+      "created": "2020-09-21T19:55:27.148Z",
+      "lastUpdated": "2020-09-21T19:55:27.148Z",
+      "rects": {
+        "0": {
+          "left": 334,
+          "top": 226,
+          "right": 744,
+          "bottom": 253,
+          "width": 410,
+          "height": 27
+        },
+        "1": {
+          "left": 151,
+          "top": 253,
+          "right": 310,
+          "bottom": 272,
+          "width": 159,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Les quelques définitions scientifiques recensées présentent des ",
+          "rect": {
+            "left": 334,
+            "top": 226,
+            "right": 744,
+            "bottom": 244,
+            "width": 410,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "divergences  importantes,",
+          "rect": {
+            "left": 151,
+            "top": 253,
+            "right": 310,
+            "bottom": 272,
+            "width": 158,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Les quelques définitions scientifiques recensées présentent des \ndivergences  importantes,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1r8DY3gJqH",
+      "guid": "1dqG8iBTk7",
+      "created": "2020-09-21T20:02:23.714Z",
+      "lastUpdated": "2020-09-21T20:02:35.787Z",
+      "rects": {
+        "0": {
+          "left": 151,
+          "top": 778,
+          "right": 668,
+          "bottom": 806,
+          "width": 517,
+          "height": 28
+        },
+        "1": {
+          "left": 151,
+          "top": 806,
+          "right": 307,
+          "bottom": 824,
+          "width": 156,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Mots",
+          "rect": {
+            "left": 151,
+            "top": 778,
+            "right": 186,
+            "bottom": 797,
+            "width": 34,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "-",
+          "rect": {
+            "left": 185,
+            "top": 778,
+            "right": 191,
+            "bottom": 797,
+            "width": 5,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "clés",
+          "rect": {
+            "left": 191,
+            "top": 778,
+            "right": 215,
+            "bottom": 797,
+            "width": 24,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": ":",
+          "rect": {
+            "left": 219,
+            "top": 778,
+            "right": 224,
+            "bottom": 797,
+            "width": 4,
+            "height": 18
+          }
+        },
+        "4": {
+          "text": "Design de jeux,",
+          "rect": {
+            "left": 228,
+            "top": 778,
+            "right": 328,
+            "bottom": 797,
+            "width": 99,
+            "height": 18
+          }
+        },
+        "5": {
+          "text": "jeu ",
+          "rect": {
+            "left": 332,
+            "top": 778,
+            "right": 356,
+            "bottom": 797,
+            "width": 23,
+            "height": 18
+          }
+        },
+        "6": {
+          "text": "casual",
+          "rect": {
+            "left": 355,
+            "top": 778,
+            "right": 397,
+            "bottom": 797,
+            "width": 41,
+            "height": 18
+          }
+        },
+        "7": {
+          "text": ", designer de jeu, praticien réflexif, savoir ",
+          "rect": {
+            "left": 397,
+            "top": 778,
+            "right": 668,
+            "bottom": 797,
+            "width": 271,
+            "height": 18
+          }
+        },
+        "8": {
+          "text": "professionnel, challenge",
+          "rect": {
+            "left": 151,
+            "top": 806,
+            "right": 307,
+            "bottom": 824,
+            "width": 155,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Mots-clés : Design de jeux, jeu casual, designer de jeu, praticien réflexif, savoir \nprofessionnel, challenge"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<b>Mots-clés </b>: Design de jeux, jeu casual, designer de jeu, praticien réflexif, savoir \nprofessionnel, challenge"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1mg84uXwKf",
+      "guid": "12mF68U6a2",
+      "created": "2020-09-21T20:04:47.068Z",
+      "lastUpdated": "2020-09-21T20:07:02.426Z",
+      "rects": {
+        "0": {
+          "left": 235,
+          "top": 612,
+          "right": 669,
+          "bottom": 640,
+          "width": 434,
+          "height": 28
+        },
+        "1": {
+          "left": 75,
+          "top": 640,
+          "right": 668,
+          "bottom": 667,
+          "width": 593,
+          "height": 27
+        },
+        "2": {
+          "left": 75,
+          "top": 667,
+          "right": 164,
+          "bottom": 686,
+          "width": 89,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "his  study  provides  insight  into  the  role ",
+          "rect": {
+            "left": 235,
+            "top": 612,
+            "right": 499,
+            "bottom": 631,
+            "width": 264,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "of  casual  game  designers ",
+          "rect": {
+            "left": 500,
+            "top": 612,
+            "right": 669,
+            "bottom": 631,
+            "width": 168,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "and  the  context  of  their  work,  which  can  help  explain  the  often  negative  perception  of ",
+          "rect": {
+            "left": 75,
+            "top": 640,
+            "right": 668,
+            "bottom": 658,
+            "width": 593,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": "casual games.",
+          "rect": {
+            "left": 75,
+            "top": 667,
+            "right": 164,
+            "bottom": 686,
+            "width": 88,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "his  study  provides  insight  into  the  role  of  casual  game  designers \nand  the  context  of  their  work,  which  can  help  explain  the  often  negative  perception  of \ncasual games."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<b>Objectives ?<br></b><br>This  study  provides  insight  into  the  role  of  casual  game  designers \nand  the  context  of  their  work,  which  can  help  explain  the  often  negative  perception  of \ncasual games."
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "14huyM7Y7w",
+      "guid": "14huyM7Y7w",
+      "created": "2020-09-21T20:06:26.090Z",
+      "lastUpdated": "2020-09-21T20:06:26.090Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 844,
+          "right": 351,
+          "bottom": 868,
+          "width": 276,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "1.4",
+          "rect": {
+            "left": 75,
+            "top": 844,
+            "right": 102,
+            "bottom": 868,
+            "width": 26,
+            "height": 24
+          }
+        },
+        "1": {
+          "text": "Objectifs de la recherche",
+          "rect": {
+            "left": 124,
+            "top": 844,
+            "right": 351,
+            "bottom": 868,
+            "width": 227,
+            "height": 24
+          }
+        }
+      },
+      "text": {
+        "TEXT": "1.4 Objectifs de la recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1qCD8eRQ2o",
+      "guid": "1qCD8eRQ2o",
+      "created": "2020-09-21T20:07:26.043Z",
+      "lastUpdated": "2020-09-21T20:07:26.043Z",
+      "rects": {
+        "0": {
+          "left": 300,
+          "top": 148,
+          "right": 479,
+          "bottom": 166,
+          "width": 179,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "dépasser la ",
+          "rect": {
+            "left": 300,
+            "top": 148,
+            "right": 378,
+            "bottom": 166,
+            "width": 77,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "vision ",
+          "rect": {
+            "left": 379,
+            "top": 148,
+            "right": 423,
+            "bottom": 166,
+            "width": 43,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "étriqué",
+          "rect": {
+            "left": 423,
+            "top": 148,
+            "right": 468,
+            "bottom": 166,
+            "width": 44,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": "e ",
+          "rect": {
+            "left": 467,
+            "top": 148,
+            "right": 479,
+            "bottom": 166,
+            "width": 11,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "dépasser la vision étriquée "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12DPVN8pWM",
+      "guid": "12vSPG9Jn7",
+      "created": "2020-09-21T20:11:46.533Z",
+      "lastUpdated": "2020-09-22T21:14:07.365Z",
+      "rects": {
+        "0": {
+          "left": 660,
+          "top": 176,
+          "right": 744,
+          "bottom": 204,
+          "width": 84,
+          "height": 28
+        },
+        "1": {
+          "left": 151,
+          "top": 204,
+          "right": 369,
+          "bottom": 222,
+          "width": 218,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Dépasser la ",
+          "rect": {
+            "left": 660,
+            "top": 176,
+            "right": 744,
+            "bottom": 195,
+            "width": 83,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "dimension",
+          "rect": {
+            "left": 151,
+            "top": 204,
+            "right": 218,
+            "bottom": 222,
+            "width": 66,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "purement  économiqu",
+          "rect": {
+            "left": 227,
+            "top": 204,
+            "right": 369,
+            "bottom": 222,
+            "width": 142,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Dépasser la \ndimension purement  économiqu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "Dépasser la \ndimension purement  économique"
+      }
+    },
+    {
+      "id": "12XWdkBU8t",
+      "guid": "12XWdkBU8t",
+      "created": "2020-09-21T20:12:01.159Z",
+      "lastUpdated": "2020-09-21T20:12:01.159Z",
+      "rects": {
+        "0": {
+          "left": 543,
+          "top": 204,
+          "right": 743,
+          "bottom": 231,
+          "width": 200,
+          "height": 27
+        },
+        "1": {
+          "left": 151,
+          "top": 231,
+          "right": 362,
+          "bottom": 250,
+          "width": 211,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "enrayer  certain",
+          "rect": {
+            "left": 543,
+            "top": 204,
+            "right": 644,
+            "bottom": 222,
+            "width": 100,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "s",
+          "rect": {
+            "left": 644,
+            "top": 204,
+            "right": 653,
+            "bottom": 222,
+            "width": 8,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "phénomène",
+          "rect": {
+            "left": 660,
+            "top": 204,
+            "right": 733,
+            "bottom": 222,
+            "width": 73,
+            "height": 18
+          }
+        },
+        "3": {
+          "text": "s",
+          "rect": {
+            "left": 734,
+            "top": 204,
+            "right": 743,
+            "bottom": 222,
+            "width": 8,
+            "height": 18
+          }
+        },
+        "4": {
+          "text": "néfas",
+          "rect": {
+            "left": 151,
+            "top": 231,
+            "right": 185,
+            "bottom": 250,
+            "width": 33,
+            "height": 18
+          }
+        },
+        "5": {
+          "text": "te",
+          "rect": {
+            "left": 184,
+            "top": 231,
+            "right": 196,
+            "bottom": 250,
+            "width": 11,
+            "height": 18
+          }
+        },
+        "6": {
+          "text": "s",
+          "rect": {
+            "left": 196,
+            "top": 231,
+            "right": 205,
+            "bottom": 250,
+            "width": 8,
+            "height": 18
+          }
+        },
+        "7": {
+          "text": "comme celui du clonage",
+          "rect": {
+            "left": 206,
+            "top": 231,
+            "right": 362,
+            "bottom": 250,
+            "width": 156,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "enrayer  certains phénomènes\nnéfastes comme celui du clonage"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "128bpEWAHYt7hGhA1XkX",
+      "guid": "128bpEWAHYt7hGhA1XkX",
+      "created": "2020-09-21T20:15:14.517Z",
+      "lastUpdated": "2020-09-21T20:15:14.517Z",
+      "content": {
+        "HTML": "<p>Dépasser la vision étriquée</p><p>Dépasser la dimension purement économique</p><p>Enrayer les phénomènes néfastes (comme le clonage de jeu)</p><p>Proposer une vision qualitative afin de valoriser le casual game</p><p>Encourager les designers à faire preuve de créativité</p><p>Enrichir le champs des études vidéoludiques<br>Faire avances les connaissances dans le domaine</p><p>Proposer de nouveaux éléments de définition</p><p><br></p>"
+      },
+      "ref": "text-highlight:14huyM7Y7w",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "121mcFQMsq",
+      "guid": "121mcFQMsq",
+      "created": "2020-09-21T20:16:55.309Z",
+      "lastUpdated": "2020-09-21T20:16:55.309Z",
+      "rects": {
+        "0": {
+          "left": 151,
+          "top": 259,
+          "right": 311,
+          "bottom": 277,
+          "width": 160,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "valoriser  le ",
+          "rect": {
+            "left": 151,
+            "top": 259,
+            "right": 228,
+            "bottom": 277,
+            "width": 76,
+            "height": 18
+          }
+        },
+        "1": {
+          "text": "casual",
+          "rect": {
+            "left": 229,
+            "top": 259,
+            "right": 271,
+            "bottom": 277,
+            "width": 41,
+            "height": 18
+          }
+        },
+        "2": {
+          "text": "game",
+          "rect": {
+            "left": 276,
+            "top": 259,
+            "right": 311,
+            "bottom": 277,
+            "width": 34,
+            "height": 18
+          }
+        }
+      },
+      "text": {
+        "TEXT": "valoriser  le  casual game"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1XoU7nGS51",
+      "guid": "1XoU7nGS51",
+      "created": "2020-09-21T20:19:19.128Z",
+      "lastUpdated": "2020-09-21T20:19:19.128Z",
+      "rects": {
+        "0": {
+          "left": 40,
+          "top": 107,
+          "right": 615,
+          "bottom": 148,
+          "width": 575,
+          "height": 41
+        },
+        "1": {
+          "left": 40,
+          "top": 148,
+          "right": 324,
+          "bottom": 175,
+          "width": 284,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Annexe 6",
+          "rect": {
+            "left": 40,
+            "top": 107,
+            "right": 135,
+            "bottom": 135,
+            "width": 95,
+            "height": 27
+          }
+        },
+        "1": {
+          "text": ": ",
+          "rect": {
+            "left": 142,
+            "top": 107,
+            "right": 156,
+            "bottom": 135,
+            "width": 13,
+            "height": 27
+          }
+        },
+        "2": {
+          "text": "précisions",
+          "rect": {
+            "left": 155,
+            "top": 107,
+            "right": 258,
+            "bottom": 135,
+            "width": 102,
+            "height": 27
+          }
+        },
+        "3": {
+          "text": "sur le codage avec les éléments du ",
+          "rect": {
+            "left": 264,
+            "top": 107,
+            "right": 615,
+            "bottom": 135,
+            "width": 350,
+            "height": 27
+          }
+        },
+        "4": {
+          "text": "modèle ",
+          "rect": {
+            "left": 40,
+            "top": 148,
+            "right": 119,
+            "bottom": 175,
+            "width": 79,
+            "height": 27
+          }
+        },
+        "5": {
+          "text": "du praticien réflexif",
+          "rect": {
+            "left": 120,
+            "top": 148,
+            "right": 324,
+            "bottom": 175,
+            "width": 203,
+            "height": 27
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Annexe 6 : précisions sur le codage avec les éléments du \nmodèle du praticien réflexif"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12JmrVi2o8",
+      "guid": "1CSEKDeRSe",
+      "created": "2020-09-21T20:19:39.886Z",
+      "lastUpdated": "2020-09-21T20:24:04.192Z",
+      "rects": {
+        "0": {
+          "left": 88,
+          "top": 717,
+          "right": 150,
+          "bottom": 738,
+          "width": 62,
+          "height": 21
+        },
+        "1": {
+          "left": 64,
+          "top": 738,
+          "right": 73,
+          "bottom": 755,
+          "width": 9,
+          "height": 17
+        },
+        "2": {
+          "left": 88,
+          "top": 734,
+          "right": 152,
+          "bottom": 755,
+          "width": 64,
+          "height": 21
+        },
+        "3": {
+          "left": 64,
+          "top": 755,
+          "right": 73,
+          "bottom": 773,
+          "width": 9,
+          "height": 18
+        },
+        "4": {
+          "left": 88,
+          "top": 753,
+          "right": 241,
+          "bottom": 774,
+          "width": 153,
+          "height": 21
+        },
+        "5": {
+          "left": 64,
+          "top": 774,
+          "right": 73,
+          "bottom": 791,
+          "width": 9,
+          "height": 17
+        },
+        "6": {
+          "left": 88,
+          "top": 770,
+          "right": 198,
+          "bottom": 791,
+          "width": 110,
+          "height": 21
+        },
+        "7": {
+          "left": 64,
+          "top": 791,
+          "right": 73,
+          "bottom": 809,
+          "width": 9,
+          "height": 18
+        },
+        "8": {
+          "left": 88,
+          "top": 788,
+          "right": 322,
+          "bottom": 809,
+          "width": 234,
+          "height": 21
+        },
+        "9": {
+          "left": 64,
+          "top": 809,
+          "right": 73,
+          "bottom": 826,
+          "width": 9,
+          "height": 17
+        },
+        "10": {
+          "left": 88,
+          "top": 807,
+          "right": 227,
+          "bottom": 826,
+          "width": 139,
+          "height": 19
+        },
+        "11": {
+          "left": 64,
+          "top": 826,
+          "right": 73,
+          "bottom": 844,
+          "width": 9,
+          "height": 18
+        },
+        "12": {
+          "left": 88,
+          "top": 824,
+          "right": 190,
+          "bottom": 842,
+          "width": 102,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Recadrage",
+          "rect": {
+            "left": 88,
+            "top": 717,
+            "right": 150,
+            "bottom": 734,
+            "width": 61,
+            "height": 17
+          }
+        },
+        "1": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 738,
+            "right": 73,
+            "bottom": 755,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "2": {
+          "text": "Évaluation",
+          "rect": {
+            "left": 88,
+            "top": 734,
+            "right": 152,
+            "bottom": 752,
+            "width": 63,
+            "height": 17
+          }
+        },
+        "3": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 755,
+            "right": 73,
+            "bottom": 773,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "4": {
+          "text": "Moyen d’expérimentation",
+          "rect": {
+            "left": 88,
+            "top": 753,
+            "right": 241,
+            "bottom": 770,
+            "width": 152,
+            "height": 17
+          }
+        },
+        "5": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 774,
+            "right": 73,
+            "bottom": 791,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "6": {
+          "text": "Solution de design",
+          "rect": {
+            "left": 88,
+            "top": 770,
+            "right": 198,
+            "bottom": 788,
+            "width": 109,
+            "height": 17
+          }
+        },
+        "7": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 791,
+            "right": 73,
+            "bottom": 809,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "8": {
+          "text": "Solution de design issue d’un précédent",
+          "rect": {
+            "left": 88,
+            "top": 788,
+            "right": 322,
+            "bottom": 806,
+            "width": 233,
+            "height": 17
+          }
+        },
+        "9": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 809,
+            "right": 73,
+            "bottom": 826,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "10": {
+          "text": "Système d’appréciation",
+          "rect": {
+            "left": 88,
+            "top": 807,
+            "right": 227,
+            "bottom": 824,
+            "width": 138,
+            "height": 17
+          }
+        },
+        "11": {
+          "text": "•",
+          "rect": {
+            "left": 64,
+            "top": 826,
+            "right": 73,
+            "bottom": 844,
+            "width": 8,
+            "height": 17
+          }
+        },
+        "12": {
+          "text": "Rôle du praticien",
+          "rect": {
+            "left": 88,
+            "top": 824,
+            "right": 190,
+            "bottom": 842,
+            "width": 101,
+            "height": 17
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Recadrage\n•\nÉvaluation\n•\nMoyen d’expérimentation\n•\nSolution de design\n•\nSolution de design issue d’un précédent\n•\nSystème d’appréciation\n•\nRôle du praticien"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>Codes / analyze </b></p><p><br></p><p>Recadrage</p><p>Évaluation</p><p>Moyen d’expérimentation</p><p> Solution de design</p><p>Solution de design issue d’un précédent</p><p>Système d’appréciation</p><p>Rôle du praticien</p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12Hwd13XFh",
+      "guid": "12Hwd13XFh",
+      "created": "2020-09-22T15:54:04.603Z",
+      "lastUpdated": "2020-09-22T15:54:04.603Z",
+      "rects": {
+        "0": {
+          "left": 594,
+          "top": 853,
+          "right": 740,
+          "bottom": 881,
+          "width": 146,
+          "height": 28
+        },
+        "1": {
+          "left": 150,
+          "top": 881,
+          "right": 449,
+          "bottom": 900,
+          "width": 299,
+          "height": 19
+        },
+        "2": {
+          "left": -1,
+          "top": -5,
+          "right": 8,
+          "bottom": 881,
+          "width": 9,
+          "height": 886
+        },
+        "3": {
+          "left": 464,
+          "top": 881,
+          "right": 476,
+          "bottom": 900,
+          "width": 12,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "En tentant de répondre",
+          "rect": {
+            "left": 594,
+            "top": 853,
+            "right": 740,
+            "bottom": 872,
+            "width": 145,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "à  la  question  «",
+          "rect": {
+            "left": 150,
+            "top": 881,
+            "right": 259,
+            "bottom": 900,
+            "width": 108,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "qu’est",
+          "rect": {
+            "left": 263,
+            "top": 881,
+            "right": 302,
+            "bottom": 900,
+            "width": 39,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "-",
+          "rect": {
+            "left": 302,
+            "top": 881,
+            "right": 308,
+            "bottom": 900,
+            "width": 5,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "ce  qu’un  j",
+          "rect": {
+            "left": 308,
+            "top": 881,
+            "right": 382,
+            "bottom": 900,
+            "width": 74,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "eu",
+          "rect": {
+            "left": 382,
+            "top": 881,
+            "right": 397,
+            "bottom": 900,
+            "width": 15,
+            "height": 19
+          }
+        },
+        "6": {
+          "text": "casual",
+          "rect": {
+            "left": 407,
+            "top": 881,
+            "right": 449,
+            "bottom": 900,
+            "width": 41,
+            "height": 19
+          }
+        },
+        "7": {
+          "text": "?",
+          "rect": {
+            "left": -1,
+            "top": -5,
+            "right": 8,
+            "bottom": 14,
+            "width": 9,
+            "height": 19
+          }
+        },
+        "8": {
+          "text": "»",
+          "rect": {
+            "left": 464,
+            "top": 881,
+            "right": 473,
+            "bottom": 900,
+            "width": 9,
+            "height": 19
+          }
+        },
+        "9": {
+          "text": ",",
+          "rect": {
+            "left": 471,
+            "top": 881,
+            "right": 476,
+            "bottom": 900,
+            "width": 4,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "En tentant de répondre\nà  la  question  « qu’est-ce  qu’un  jeu casual ? »,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12ApVj3yTN",
+      "guid": "12ApVj3yTN",
+      "created": "2020-09-22T16:50:06.308Z",
+      "lastUpdated": "2020-09-23T22:47:36.465Z",
+      "rects": {
+        "0": {
+          "left": 150,
+          "top": 200,
+          "right": 546,
+          "bottom": 221,
+          "width": 396,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.2.2",
+          "rect": {
+            "left": 150,
+            "top": 200,
+            "right": 188,
+            "bottom": 221,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Comment collecter le savoir professionnel",
+          "rect": {
+            "left": 199,
+            "top": 200,
+            "right": 531,
+            "bottom": 221,
+            "width": 332,
+            "height": 20
+          }
+        },
+        "2": {
+          "text": "?",
+          "rect": {
+            "left": 536,
+            "top": 200,
+            "right": 546,
+            "bottom": 221,
+            "width": 10,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.2.2 Comment collecter le savoir professionnel ?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Schon": {
+          "id": "Schon",
+          "label": "Schon"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1gJz8bvsUL",
+      "guid": "1gJz8bvsUL",
+      "created": "2020-09-22T18:48:14.466Z",
+      "lastUpdated": "2020-09-22T18:48:14.466Z",
+      "rects": {
+        "0": {
+          "left": 70,
+          "top": 616,
+          "right": 403,
+          "bottom": 640,
+          "width": 333,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.2",
+          "rect": {
+            "left": 70,
+            "top": 616,
+            "right": 97,
+            "bottom": 640,
+            "width": 26,
+            "height": 23
+          }
+        },
+        "1": {
+          "text": "Le modèle du praticien réflexif",
+          "rect": {
+            "left": 122,
+            "top": 616,
+            "right": 403,
+            "bottom": 640,
+            "width": 280,
+            "height": 23
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3.2 Le modèle du praticien réflexif"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12KJokAK5c",
+      "guid": "12KJokAK5c",
+      "created": "2020-09-22T18:51:54.028Z",
+      "lastUpdated": "2020-09-22T18:51:54.028Z",
+      "rects": {
+        "0": {
+          "left": 94,
+          "top": 656,
+          "right": 668,
+          "bottom": 683,
+          "width": 574,
+          "height": 27
+        },
+        "1": {
+          "left": 75,
+          "top": 683,
+          "right": 668,
+          "bottom": 711,
+          "width": 593,
+          "height": 28
+        },
+        "2": {
+          "left": 75,
+          "top": 711,
+          "right": 669,
+          "bottom": 739,
+          "width": 594,
+          "height": 28
+        },
+        "3": {
+          "left": 75,
+          "top": 739,
+          "right": 134,
+          "bottom": 758,
+          "width": 59,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le  modèle  du  praticien  réflexif  découle  de  l’épistémologie  de  la  pratique  prônée  par ",
+          "rect": {
+            "left": 94,
+            "top": 656,
+            "right": 668,
+            "bottom": 675,
+            "width": 574,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "Schön",
+          "rect": {
+            "left": 75,
+            "top": 683,
+            "right": 115,
+            "bottom": 702,
+            "width": 39,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": ".  Ce  modèle  est  caractérisé  par",
+          "rect": {
+            "left": 115,
+            "top": 683,
+            "right": 328,
+            "bottom": 702,
+            "width": 213,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "la",
+          "rect": {
+            "left": 336,
+            "top": 683,
+            "right": 347,
+            "bottom": 702,
+            "width": 11,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "réflexion  en  cours  d’action ",
+          "rect": {
+            "left": 355,
+            "top": 683,
+            "right": 542,
+            "bottom": 702,
+            "width": 186,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "qui  comporte  une ",
+          "rect": {
+            "left": 545,
+            "top": 683,
+            "right": 668,
+            "bottom": 702,
+            "width": 123,
+            "height": 19
+          }
+        },
+        "6": {
+          "text": "structure commune à toutes les professions ainsi que des ",
+          "rect": {
+            "left": 75,
+            "top": 711,
+            "right": 450,
+            "bottom": 730,
+            "width": 374,
+            "height": 19
+          }
+        },
+        "7": {
+          "text": "constantes",
+          "rect": {
+            "left": 451,
+            "top": 711,
+            "right": 518,
+            "bottom": 730,
+            "width": 66,
+            "height": 19
+          }
+        },
+        "8": {
+          "text": "particulières à chaque ",
+          "rect": {
+            "left": 523,
+            "top": 711,
+            "right": 669,
+            "bottom": 730,
+            "width": 145,
+            "height": 19
+          }
+        },
+        "9": {
+          "text": "domaine.",
+          "rect": {
+            "left": 75,
+            "top": 739,
+            "right": 134,
+            "bottom": 758,
+            "width": 59,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Le  modèle  du  praticien  réflexif  découle  de  l’épistémologie  de  la  pratique  prônée  par \nSchön.  Ce  modèle  est  caractérisé  par la réflexion  en  cours  d’action  qui  comporte  une \nstructure commune à toutes les professions ainsi que des  constantes particulières à chaque \ndomaine."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1ARVvBLJdo",
+      "guid": "1ARVvBLJdo",
+      "created": "2020-09-22T18:52:32.896Z",
+      "lastUpdated": "2020-09-22T18:52:32.896Z",
+      "rects": {
+        "0": {
+          "left": 74,
+          "top": 782,
+          "right": 449,
+          "bottom": 803,
+          "width": 375,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.2.1",
+          "rect": {
+            "left": 74,
+            "top": 782,
+            "right": 111,
+            "bottom": 803,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Structure du modèle du praticien réflexif",
+          "rect": {
+            "left": 122,
+            "top": 782,
+            "right": 449,
+            "bottom": 803,
+            "width": 327,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3.2.1 Structure du modèle du praticien réflexif"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "123o2T9XZS",
+      "guid": "123o2T9XZS",
+      "created": "2020-09-22T18:54:15.859Z",
+      "lastUpdated": "2020-09-22T18:54:15.859Z",
+      "rects": {
+        "0": {
+          "left": 540,
+          "top": 571,
+          "right": 744,
+          "bottom": 599,
+          "width": 204,
+          "height": 28
+        },
+        "1": {
+          "left": 150,
+          "top": 599,
+          "right": 744,
+          "bottom": 626,
+          "width": 594,
+          "height": 27
+        },
+        "2": {
+          "left": 150,
+          "top": 626,
+          "right": 240,
+          "bottom": 645,
+          "width": 90,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L",
+          "rect": {
+            "left": 540,
+            "top": 571,
+            "right": 550,
+            "bottom": 590,
+            "width": 9,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "a  réflexion  en",
+          "rect": {
+            "left": 550,
+            "top": 571,
+            "right": 648,
+            "bottom": 590,
+            "width": 97,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "cours",
+          "rect": {
+            "left": 657,
+            "top": 571,
+            "right": 691,
+            "bottom": 590,
+            "width": 34,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "action ",
+          "rect": {
+            "left": 700,
+            "top": 571,
+            "right": 744,
+            "bottom": 590,
+            "width": 43,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "comprend   quatre   étapes:   la ",
+          "rect": {
+            "left": 150,
+            "top": 599,
+            "right": 345,
+            "bottom": 618,
+            "width": 194,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "description   de   la   situation,   le   recadrage,   l’action   et ",
+          "rect": {
+            "left": 351,
+            "top": 599,
+            "right": 744,
+            "bottom": 618,
+            "width": 392,
+            "height": 19
+          }
+        },
+        "6": {
+          "text": "l’évaluation",
+          "rect": {
+            "left": 150,
+            "top": 626,
+            "right": 231,
+            "bottom": 645,
+            "width": 80,
+            "height": 19
+          }
+        },
+        "7": {
+          "text": ":",
+          "rect": {
+            "left": 236,
+            "top": 626,
+            "right": 240,
+            "bottom": 645,
+            "width": 4,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "La  réflexion  en cours action \ncomprend   quatre   étapes:   la  description   de   la   situation,   le   recadrage,   l’action   et \nl’évaluation :"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1EZDK9f784",
+      "guid": "12cGVrkTob",
+      "created": "2020-09-22T20:28:43.595Z",
+      "lastUpdated": "2020-09-27T17:08:53.615Z",
+      "rects": {
+        "0": {
+          "left": 150,
+          "top": 292,
+          "right": 299,
+          "bottom": 316,
+          "width": 149,
+          "height": 24
+        },
+        "1": {
+          "left": 195,
+          "top": -5,
+          "right": 372,
+          "bottom": 292,
+          "width": 177,
+          "height": 297
+        },
+        "2": {
+          "left": 483,
+          "top": 292,
+          "right": 553,
+          "bottom": 316,
+          "width": 70,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "6.3",
+          "rect": {
+            "left": 150,
+            "top": 292,
+            "right": 177,
+            "bottom": 316,
+            "width": 26,
+            "height": 23
+          }
+        },
+        "1": {
+          "text": "Limites du ",
+          "rect": {
+            "left": 198,
+            "top": 292,
+            "right": 299,
+            "bottom": 316,
+            "width": 101,
+            "height": 23
+          }
+        },
+        "2": {
+          "text": "modèle du praticien",
+          "rect": {
+            "left": 195,
+            "top": -5,
+            "right": 372,
+            "bottom": 19,
+            "width": 177,
+            "height": 23
+          }
+        },
+        "3": {
+          "text": " réflexif",
+          "rect": {
+            "left": 483,
+            "top": 292,
+            "right": 553,
+            "bottom": 316,
+            "width": 69,
+            "height": 23
+          }
+        }
+      },
+      "text": {
+        "TEXT": "6.3 Limites du modèle du praticien réflexif"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>----------------------------------------------------------</b></p><p><b>6.3 Limites du modèle du praticien réflexif</b></p><p><b><br></b></p><p><b>----------------------------------------------------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1jh7ELKtsW",
+      "guid": "1234Sd7SGZ",
+      "created": "2020-09-22T20:33:49.678Z",
+      "lastUpdated": "2020-09-22T20:34:49.893Z",
+      "rects": {
+        "0": {
+          "left": 150,
+          "top": 130,
+          "right": 415,
+          "bottom": 154,
+          "width": 265,
+          "height": 24
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.4",
+          "rect": {
+            "left": 150,
+            "top": 130,
+            "right": 177,
+            "bottom": 154,
+            "width": 26,
+            "height": 23
+          }
+        },
+        "1": {
+          "text": "Validité de la recherche",
+          "rect": {
+            "left": 199,
+            "top": 130,
+            "right": 415,
+            "bottom": 154,
+            "width": 216,
+            "height": 23
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.4 Validité de la recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>------------------------------------------</b></p><p><b>4.4 Validité de la recherche</b></p><p><b><br></b></p><p><b><br></b></p><p>La véritable question que doit se poser le chercheur concerne la façon dont sa présence et son expérience interfèrentavec l’étude [Creswell, 2007](Chiapello, 2012, p.91)<b><br></b></p><p><b>------------------------------------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12NdR43mcx",
+      "guid": "12NdR43mcx",
+      "created": "2020-09-22T21:09:39.492Z",
+      "lastUpdated": "2020-09-22T21:09:58.876Z",
+      "rects": {
+        "0": {
+          "left": 14.158305462653288,
+          "top": 9.732988802756246,
+          "width": 76.14269788182831,
+          "height": 76.57192075796726
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12KCuQxDWUuJHVuAbgVy",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12KCuQxDWUuJHVuAbgVy.png"
+        },
+        "width": 683,
+        "height": 889,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 115,
+        "y": 102,
+        "width": 620,
+        "height": 808
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1sNVin1qbW",
+      "guid": "1sNVin1qbW",
+      "created": "2020-09-22T21:10:38.734Z",
+      "lastUpdated": "2020-09-22T21:10:46.305Z",
+      "rects": {
+        "0": {
+          "left": 2.787068004459309,
+          "top": 18.001722652885444,
+          "width": 72.35228539576364,
+          "height": 73.04048234280792
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12udM3JyBFSyFWsKNRMD",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12udM3JyBFSyFWsKNRMD.png"
+        },
+        "width": 649,
+        "height": 848,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 22,
+        "y": 190,
+        "width": 589,
+        "height": 770
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12k3sZ1N6c",
+      "guid": "1h2pBe2CLj",
+      "created": "2020-09-22T21:13:32.580Z",
+      "lastUpdated": "2020-09-22T21:13:52.422Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 421,
+          "right": 318,
+          "bottom": 442,
+          "width": 243,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.2.3",
+          "rect": {
+            "left": 75,
+            "top": 421,
+            "right": 112,
+            "bottom": 442,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "L’entrevue semi",
+          "rect": {
+            "left": 123,
+            "top": 421,
+            "right": 252,
+            "bottom": 442,
+            "width": 129,
+            "height": 20
+          }
+        },
+        "2": {
+          "text": "-",
+          "rect": {
+            "left": 252,
+            "top": 421,
+            "right": 259,
+            "bottom": 442,
+            "width": 6,
+            "height": 20
+          }
+        },
+        "3": {
+          "text": "dirigée ",
+          "rect": {
+            "left": 259,
+            "top": 421,
+            "right": 318,
+            "bottom": 442,
+            "width": 59,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.2.3 L’entrevue semi-dirigée "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>-----------------------------------------------</p><p>4.2.3 L’entrevue semi-dirigée</p><p>-----------------------------------------------</p><p> </p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1fWT5SSwZC",
+      "guid": "1fWT5SSwZC",
+      "created": "2020-09-22T21:14:55.775Z",
+      "lastUpdated": "2020-09-22T21:14:55.775Z",
+      "rects": {
+        "0": {
+          "left": 74,
+          "top": 421,
+          "right": 442,
+          "bottom": 442,
+          "width": 368,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.2.3",
+          "rect": {
+            "left": 74,
+            "top": 421,
+            "right": 111,
+            "bottom": 442,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Limites de la réflexion en cours d’action",
+          "rect": {
+            "left": 122,
+            "top": 421,
+            "right": 442,
+            "bottom": 442,
+            "width": 319,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3.2.3 Limites de la réflexion en cours d’action"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FCB900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "13j321ctZS",
+      "guid": "13j321ctZS",
+      "created": "2020-09-22T21:15:10.297Z",
+      "lastUpdated": "2020-09-22T21:15:10.297Z",
+      "rects": {
+        "0": {
+          "left": 222,
+          "top": 303,
+          "right": 669,
+          "bottom": 322,
+          "width": 447,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Table",
+          "rect": {
+            "left": 222,
+            "top": 303,
+            "right": 261,
+            "bottom": 322,
+            "width": 39,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "au",
+          "rect": {
+            "left": 261,
+            "top": 303,
+            "right": 278,
+            "bottom": 322,
+            "width": 16,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "1",
+          "rect": {
+            "left": 282,
+            "top": 303,
+            "right": 291,
+            "bottom": 322,
+            "width": 9,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": ":",
+          "rect": {
+            "left": 294,
+            "top": 303,
+            "right": 299,
+            "bottom": 322,
+            "width": 4,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "r",
+          "rect": {
+            "left": 303,
+            "top": 303,
+            "right": 309,
+            "bottom": 322,
+            "width": 5,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "ésumé des constantes du modèle du praticien réflexif",
+          "rect": {
+            "left": 310,
+            "top": 303,
+            "right": 669,
+            "bottom": 322,
+            "width": 358,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Tableau 1 : r ésumé des constantes du modèle du praticien réflexif"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12g4WqV1ZM",
+      "guid": "12g4WqV1ZM",
+      "created": "2020-09-22T21:15:16.533Z",
+      "lastUpdated": "2020-09-22T21:15:26.020Z",
+      "rects": {
+        "0": {
+          "left": 14.269788182831661,
+          "top": 27.64857881136951,
+          "width": 83.61204013377926,
+          "height": 54.00516795865634
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12HKTU4Hxaf2Hy7TjsmE",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12HKTU4Hxaf2Hy7TjsmE.png"
+        },
+        "width": 750,
+        "height": 627,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 116,
+        "y": 291,
+        "width": 681,
+        "height": 570
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1uvHCiuUPd",
+      "guid": "1XDFyeGHmK",
+      "created": "2020-09-22T22:23:26.710Z",
+      "lastUpdated": "2020-09-22T22:23:45.881Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 144,
+          "right": 95,
+          "bottom": 172,
+          "width": 20,
+          "height": 28
+        },
+        "1": {
+          "left": -1,
+          "top": -7,
+          "right": 94,
+          "bottom": 144,
+          "width": 95,
+          "height": 151
+        },
+        "2": {
+          "left": 211,
+          "top": 144,
+          "right": 263,
+          "bottom": 172,
+          "width": 52,
+          "height": 28
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.",
+          "rect": {
+            "left": 75,
+            "top": 144,
+            "right": 95,
+            "bottom": 172,
+            "width": 20,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "Méthodol",
+          "rect": {
+            "left": -1,
+            "top": -7,
+            "right": 94,
+            "bottom": 21,
+            "width": 95,
+            "height": 28
+          }
+        },
+        "2": {
+          "text": "ogie",
+          "rect": {
+            "left": 211,
+            "top": 144,
+            "right": 263,
+            "bottom": 172,
+            "width": 51,
+            "height": 28
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4. Méthodologie"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>-------------------------------</b></p><p><b>4. Méthodologie</b></p><p><b>--------------------------------</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1XWoroTR3f",
+      "guid": "1XWoroTR3f",
+      "created": "2020-09-22T22:24:09.905Z",
+      "lastUpdated": "2020-09-22T22:24:09.905Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 637,
+          "right": 272,
+          "bottom": 656,
+          "width": 149,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’approche  qualitative  ",
+          "rect": {
+            "left": 123,
+            "top": 637,
+            "right": 272,
+            "bottom": 656,
+            "width": 149,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "L’approche  qualitative  "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12UTqJVeex",
+      "guid": "12UTqJVeex",
+      "created": "2020-09-23T15:52:27.282Z",
+      "lastUpdated": "2020-09-23T15:52:27.282Z",
+      "rects": {
+        "0": {
+          "left": 316,
+          "top": 394,
+          "right": 563,
+          "bottom": 415,
+          "width": 247,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "épistémologie post",
+          "rect": {
+            "left": 316,
+            "top": 394,
+            "right": 466,
+            "bottom": 415,
+            "width": 150,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "-",
+          "rect": {
+            "left": 467,
+            "top": 394,
+            "right": 473,
+            "bottom": 415,
+            "width": 6,
+            "height": 20
+          }
+        },
+        "2": {
+          "text": "rationaliste",
+          "rect": {
+            "left": 473,
+            "top": 394,
+            "right": 563,
+            "bottom": 415,
+            "width": 90,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "épistémologie post-rationaliste"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12tA4GE8vq",
+      "guid": "12Bu5Dh9mM",
+      "created": "2020-09-23T15:58:41.935Z",
+      "lastUpdated": "2020-09-23T16:02:50.146Z",
+      "rects": {
+        "0": {
+          "left": 75,
+          "top": 171,
+          "right": 348,
+          "bottom": 200,
+          "width": 273,
+          "height": 29
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.",
+          "rect": {
+            "left": 75,
+            "top": 171,
+            "right": 95,
+            "bottom": 200,
+            "width": 20,
+            "height": 28
+          }
+        },
+        "1": {
+          "text": "Un ",
+          "rect": {
+            "left": 100,
+            "top": 171,
+            "right": 136,
+            "bottom": 200,
+            "width": 36,
+            "height": 28
+          }
+        },
+        "2": {
+          "text": "modèle du design",
+          "rect": {
+            "left": 136,
+            "top": 171,
+            "right": 348,
+            "bottom": 200,
+            "width": 211,
+            "height": 28
+          }
+        }
+      },
+      "text": {
+        "TEXT": "3. Un modèle du design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>---------------------------</p><p><b>3. Un modèle du design</b></p><p><b>------------------------------------</b></p><p><b><br></b></p><p><b>According to the design model for studying the casual game, Schon model of reflection in action was prefered to one of Technical Rationality which would have not been suited for such qualitative study of this type of epistemology.&nbsp; A reflection on the design action was induced using a booklet to sensitize the designer on their practice.&nbsp;&nbsp;</b></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "17qAhjCgxQ",
+      "guid": "17qAhjCgxQ",
+      "created": "2020-09-23T16:45:16.439Z",
+      "lastUpdated": "2020-09-23T16:45:16.439Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 130,
+          "right": 668,
+          "bottom": 158,
+          "width": 545,
+          "height": 28
+        },
+        "1": {
+          "left": 75,
+          "top": 158,
+          "right": 668,
+          "bottom": 185,
+          "width": 593,
+          "height": 27
+        },
+        "2": {
+          "left": 75,
+          "top": 185,
+          "right": 164,
+          "bottom": 204,
+          "width": 89,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "N",
+          "rect": {
+            "left": 123,
+            "top": 130,
+            "right": 134,
+            "bottom": 149,
+            "width": 10,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "otre guide d’entretien a été soigneusement préparé afin de répondre aux exigences ",
+          "rect": {
+            "left": 134,
+            "top": 130,
+            "right": 668,
+            "bottom": 149,
+            "width": 534,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "d’une  recherche  inspirée  de  la  phénoménologie  tout  en  permettant  la  collecte  du  savoir ",
+          "rect": {
+            "left": 75,
+            "top": 158,
+            "right": 668,
+            "bottom": 177,
+            "width": 593,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "profess",
+          "rect": {
+            "left": 75,
+            "top": 185,
+            "right": 121,
+            "bottom": 204,
+            "width": 46,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "ionnel.",
+          "rect": {
+            "left": 121,
+            "top": 185,
+            "right": 164,
+            "bottom": 204,
+            "width": 42,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Notre guide d’entretien a été soigneusement préparé afin de répondre aux exigences \nd’une  recherche  inspirée  de  la  phénoménologie  tout  en  permettant  la  collecte  du  savoir \nprofessionnel."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12aKWQRYXE",
+      "guid": "1246dD7MAw",
+      "created": "2020-09-23T16:45:26.542Z",
+      "lastUpdated": "2020-09-23T16:45:40.934Z",
+      "rects": {
+        "0": {
+          "left": 150,
+          "top": 173,
+          "right": 407,
+          "bottom": 194,
+          "width": 257,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.2.5",
+          "rect": {
+            "left": 150,
+            "top": 173,
+            "right": 188,
+            "bottom": 194,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Le livret de sensibilisation",
+          "rect": {
+            "left": 199,
+            "top": 173,
+            "right": 407,
+            "bottom": 194,
+            "width": 208,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "4.2.5 Le livret de sensibilisation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>4.2.5 Le livret de sensibilisation</h2><h1></h1>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1CftdAfq5n",
+      "guid": "1BbkjcnCGu",
+      "created": "2020-09-27T17:02:37.959Z",
+      "lastUpdated": "2020-09-27T17:03:03.263Z",
+      "rects": {
+        "0": {
+          "left": 181,
+          "top": 599,
+          "right": 246,
+          "bottom": 618,
+          "width": 65,
+          "height": 19
+        },
+        "1": {
+          "left": -1,
+          "top": -5,
+          "right": 209,
+          "bottom": 599,
+          "width": 210,
+          "height": 604
+        },
+        "2": {
+          "left": 311,
+          "top": 599,
+          "right": 447,
+          "bottom": 618,
+          "width": 136,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "garantir  l’",
+          "rect": {
+            "left": 181,
+            "top": 599,
+            "right": 246,
+            "bottom": 618,
+            "width": 65,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "anonyma",
+          "rect": {
+            "left": 142,
+            "top": -5,
+            "right": 209,
+            "bottom": 14,
+            "width": 66,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "t",
+          "rect": {
+            "left": -1,
+            "top": -5,
+            "right": 3,
+            "bottom": 14,
+            "width": 4,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "  de  nos",
+          "rect": {
+            "left": 311,
+            "top": 599,
+            "right": 363,
+            "bottom": 618,
+            "width": 52,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "participants.",
+          "rect": {
+            "left": 370,
+            "top": 599,
+            "right": 447,
+            "bottom": 618,
+            "width": 76,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "garantir  l’anonymat  de  nos participants."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>garantir  l’anonymat  de  nos participants.</p><p><br></p><p>#ethical</p>"
+      },
+      "tags": {
+        "Ethical": {
+          "id": "Ethical",
+          "label": "Ethical"
+        }
+      }
+    },
+    {
+      "id": "1qCsaAYGDE",
+      "guid": "139dE1pMew",
+      "created": "2020-09-27T17:07:22.127Z",
+      "lastUpdated": "2020-09-27T17:07:48.759Z",
+      "rects": {
+        "0": {
+          "left": 198,
+          "top": 170,
+          "right": 744,
+          "bottom": 198,
+          "width": 546,
+          "height": 28
+        },
+        "1": {
+          "left": 150,
+          "top": 198,
+          "right": 744,
+          "bottom": 225,
+          "width": 594,
+          "height": 27
+        },
+        "2": {
+          "left": 150,
+          "top": 225,
+          "right": 744,
+          "bottom": 252,
+          "width": 594,
+          "height": 27
+        },
+        "3": {
+          "left": 150,
+          "top": 252,
+          "right": 744,
+          "bottom": 280,
+          "width": 594,
+          "height": 28
+        },
+        "4": {
+          "left": 150,
+          "top": 280,
+          "right": 740,
+          "bottom": 308,
+          "width": 590,
+          "height": 28
+        },
+        "5": {
+          "left": 150,
+          "top": 308,
+          "right": 419,
+          "bottom": 327,
+          "width": 269,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Nous  avons  constaté  que  les  participants  ayant  rempli  le  livret  peu  de  temps  avant ",
+          "rect": {
+            "left": 198,
+            "top": 170,
+            "right": 744,
+            "bottom": 189,
+            "width": 545,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "l’entrevue (",
+          "rect": {
+            "left": 150,
+            "top": 198,
+            "right": 225,
+            "bottom": 217,
+            "width": 74,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "quelques",
+          "rect": {
+            "left": 225,
+            "top": 198,
+            "right": 282,
+            "bottom": 217,
+            "width": 56,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "jours) semblaient plus à même de détailler leur pratique, en donnant de ",
+          "rect": {
+            "left": 286,
+            "top": 198,
+            "right": 744,
+            "bottom": 217,
+            "width": 458,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "nombreux ",
+          "rect": {
+            "left": 150,
+            "top": 225,
+            "right": 219,
+            "bottom": 244,
+            "width": 68,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "exemples",
+          "rect": {
+            "left": 222,
+            "top": 225,
+            "right": 283,
+            "bottom": 244,
+            "width": 60,
+            "height": 19
+          }
+        },
+        "6": {
+          "text": "concrets  (qu’ils  avaient ",
+          "rect": {
+            "left": 290,
+            "top": 225,
+            "right": 448,
+            "bottom": 244,
+            "width": 158,
+            "height": 19
+          }
+        },
+        "7": {
+          "text": "notés",
+          "rect": {
+            "left": 450,
+            "top": 225,
+            "right": 484,
+            "bottom": 244,
+            "width": 33,
+            "height": 19
+          }
+        },
+        "8": {
+          "text": "dans  le  livret).  Les  participants  ayant ",
+          "rect": {
+            "left": 490,
+            "top": 225,
+            "right": 744,
+            "bottom": 244,
+            "width": 253,
+            "height": 19
+          }
+        },
+        "9": {
+          "text": "rempli",
+          "rect": {
+            "left": 150,
+            "top": 252,
+            "right": 192,
+            "bottom": 271,
+            "width": 41,
+            "height": 19
+          }
+        },
+        "10": {
+          "text": "le livret plusieurs semaines avant l’entrevue avaient déjà en partie oublié ce qu’il",
+          "rect": {
+            "left": 197,
+            "top": 252,
+            "right": 721,
+            "bottom": 271,
+            "width": 524,
+            "height": 19
+          }
+        },
+        "11": {
+          "text": "s",
+          "rect": {
+            "left": 721,
+            "top": 252,
+            "right": 730,
+            "bottom": 271,
+            "width": 8,
+            "height": 19
+          }
+        },
+        "12": {
+          "text": "y ",
+          "rect": {
+            "left": 732,
+            "top": 252,
+            "right": 744,
+            "bottom": 271,
+            "width": 11,
+            "height": 19
+          }
+        },
+        "13": {
+          "text": "avai",
+          "rect": {
+            "left": 150,
+            "top": 280,
+            "right": 177,
+            "bottom": 300,
+            "width": 26,
+            "height": 19
+          }
+        },
+        "14": {
+          "text": "en",
+          "rect": {
+            "left": 178,
+            "top": 280,
+            "right": 193,
+            "bottom": 300,
+            "width": 15,
+            "height": 19
+          }
+        },
+        "15": {
+          "text": "t  noté  et  mettaient  plus  de  temps  à  rassembler  leurs  souvenirs. ",
+          "rect": {
+            "left": 192,
+            "top": 280,
+            "right": 610,
+            "bottom": 300,
+            "width": 418,
+            "height": 19
+          }
+        },
+        "16": {
+          "text": "Certaines",
+          "rect": {
+            "left": 612,
+            "top": 280,
+            "right": 673,
+            "bottom": 300,
+            "width": 60,
+            "height": 19
+          }
+        },
+        "17": {
+          "text": "entrevues",
+          "rect": {
+            "left": 679,
+            "top": 280,
+            "right": 740,
+            "bottom": 300,
+            "width": 61,
+            "height": 19
+          }
+        },
+        "18": {
+          "text": "ont donc été plus ",
+          "rect": {
+            "left": 150,
+            "top": 308,
+            "right": 263,
+            "bottom": 327,
+            "width": 112,
+            "height": 19
+          }
+        },
+        "19": {
+          "text": "prolifiques",
+          "rect": {
+            "left": 264,
+            "top": 308,
+            "right": 333,
+            "bottom": 327,
+            "width": 69,
+            "height": 19
+          }
+        },
+        "20": {
+          "text": "que d’autres.",
+          "rect": {
+            "left": 337,
+            "top": 308,
+            "right": 419,
+            "bottom": 327,
+            "width": 82,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Nous  avons  constaté  que  les  participants  ayant  rempli  le  livret  peu  de  temps  avant \nl’entrevue (quelques jours) semblaient plus à même de détailler leur pratique, en donnant de \nnombreux  exemples concrets  (qu’ils  avaient  notés dans  le  livret).  Les  participants  ayant \nrempli le livret plusieurs semaines avant l’entrevue avaient déjà en partie oublié ce qu’ils y \navaient  noté  et  mettaient  plus  de  temps  à  rassembler  leurs  souvenirs.  Certaines entrevues\nont donc été plus prolifiques que d’autres."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Nous  avons  constaté  que  les  participants  ayant  rempli  le  livret  peu  de  temps  avant \nl’entrevue (quelques jours) semblaient plus à même de détailler leur pratique, en donnant de \nnombreux  exemples concrets  (qu’ils  avaient  notés dans  le  livret).  Les  participants  ayant \nrempli le livret plusieurs semaines avant l’entrevue avaient déjà en partie oublié ce qu’ils y \navaient  noté  et  mettaient  plus  de  temps  à  rassembler  leurs  souvenirs.  Certaines entrevues\nont donc été plus prolifiques que d’autres.</p><p><br></p><p><b>#metho #sensitizationbooklet</b></p>"
+      }
+    },
+    {
+      "id": "12GkTb8ugn",
+      "guid": "12GkTb8ugn",
+      "created": "2020-09-27T17:10:37.404Z",
+      "lastUpdated": "2020-09-27T17:10:37.404Z",
+      "rects": {
+        "0": {
+          "left": 437,
+          "top": 553,
+          "right": 669,
+          "bottom": 581,
+          "width": 232,
+          "height": 28
+        },
+        "1": {
+          "left": 75,
+          "top": 581,
+          "right": 231,
+          "bottom": 600,
+          "width": 156,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": ", M",
+          "rect": {
+            "left": 437,
+            "top": 553,
+            "right": 458,
+            "bottom": 572,
+            "width": 21,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "axwell identifie",
+          "rect": {
+            "left": 458,
+            "top": 553,
+            "right": 556,
+            "bottom": 572,
+            "width": 97,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "le rôle des biais ",
+          "rect": {
+            "left": 561,
+            "top": 553,
+            "right": 669,
+            "bottom": 572,
+            "width": 107,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "propre",
+          "rect": {
+            "left": 75,
+            "top": 581,
+            "right": 117,
+            "bottom": 600,
+            "width": 41,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "s",
+          "rect": {
+            "left": 117,
+            "top": 581,
+            "right": 125,
+            "bottom": 600,
+            "width": 8,
+            "height": 19
+          }
+        },
+        "5": {
+          "text": "au cherche",
+          "rect": {
+            "left": 128,
+            "top": 581,
+            "right": 199,
+            "bottom": 600,
+            "width": 71,
+            "height": 19
+          }
+        },
+        "6": {
+          "text": "ur. O",
+          "rect": {
+            "left": 199,
+            "top": 581,
+            "right": 231,
+            "bottom": 600,
+            "width": 31,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": ", Maxwell identifie le rôle des biais \npropres au chercheur. O"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12V3E2ZxDa",
+      "guid": "1imCgUHHkB",
+      "created": "2020-09-27T17:11:25.167Z",
+      "lastUpdated": "2020-09-27T17:11:31.312Z",
+      "rects": {
+        "0": {
+          "left": 150,
+          "top": 130,
+          "right": 471,
+          "bottom": 150,
+          "width": 321,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "6.4.1",
+          "rect": {
+            "left": 150,
+            "top": 130,
+            "right": 188,
+            "bottom": 150,
+            "width": 37,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "Limites du livret de sensibilisation",
+          "rect": {
+            "left": 199,
+            "top": 130,
+            "right": 471,
+            "bottom": 150,
+            "width": 272,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "6.4.1 Limites du livret de sensibilisation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>6.4.1 Limites du livret de sensibilisation</h2>"
+      }
+    },
+    {
+      "id": "1zqiLVBMQh",
+      "guid": "1zqiLVBMQh",
+      "created": "2020-09-27T17:12:12.039Z",
+      "lastUpdated": "2020-09-27T17:12:12.039Z",
+      "rects": {
+        "0": {
+          "left": 224,
+          "top": 237,
+          "right": 744,
+          "bottom": 265,
+          "width": 520,
+          "height": 28
+        },
+        "1": {
+          "left": 150,
+          "top": 265,
+          "right": 316,
+          "bottom": 284,
+          "width": 166,
+          "height": 19
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "vér",
+          "rect": {
+            "left": 224,
+            "top": 237,
+            "right": 242,
+            "bottom": 256,
+            "width": 18,
+            "height": 19
+          }
+        },
+        "1": {
+          "text": "ifier  ",
+          "rect": {
+            "left": 242,
+            "top": 237,
+            "right": 271,
+            "bottom": 256,
+            "width": 29,
+            "height": 19
+          }
+        },
+        "2": {
+          "text": "la  validité  de  notre  analyse,  nous  avons  eu  recours  à  une  procédure  de ",
+          "rect": {
+            "left": 271,
+            "top": 237,
+            "right": 744,
+            "bottom": 256,
+            "width": 472,
+            "height": 19
+          }
+        },
+        "3": {
+          "text": "contrôle  par  les  m",
+          "rect": {
+            "left": 150,
+            "top": 265,
+            "right": 270,
+            "bottom": 284,
+            "width": 120,
+            "height": 19
+          }
+        },
+        "4": {
+          "text": "embres",
+          "rect": {
+            "left": 270,
+            "top": 265,
+            "right": 316,
+            "bottom": 284,
+            "width": 45,
+            "height": 19
+          }
+        }
+      },
+      "text": {
+        "TEXT": "vérifier  la  validité  de  notre  analyse,  nous  avons  eu  recours  à  une  procédure  de \ncontrôle  par  les  membres"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

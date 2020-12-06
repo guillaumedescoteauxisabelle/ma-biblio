@@ -1,0 +1,1050 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12Csqi87rS",
+      "guid": "12Csqi87rS",
+      "created": "2020-10-03T05:04:45.314Z",
+      "lastUpdated": "2020-10-03T05:04:56.533Z",
+      "rects": {
+        "0": {
+          "left": 176,
+          "top": 133,
+          "right": 405,
+          "bottom": 160,
+          "width": 229,
+          "height": 27
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Collaborative creativity",
+          "rect": {
+            "left": 176,
+            "top": 133,
+            "right": 405,
+            "bottom": 160,
+            "width": 228,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Collaborative creativity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "sujet": {
+          "id": "sujet",
+          "label": "sujet"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "14FSc4afjv",
+      "guid": "14FSc4afjv",
+      "created": "2020-10-03T05:05:01.707Z",
+      "lastUpdated": "2020-10-03T05:05:07.409Z",
+      "rects": {
+        "0": {
+          "left": 314,
+          "top": 160,
+          "right": 618,
+          "bottom": 186,
+          "width": 304,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Convolutional Neural Networks",
+          "rect": {
+            "left": 314,
+            "top": 160,
+            "right": 618,
+            "bottom": 186,
+            "width": 304,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Convolutional Neural Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "sujet": {
+          "id": "sujet",
+          "label": "sujet"
+        }
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "14iv249g4b",
+      "guid": "1VQk1bCNpq",
+      "created": "2020-10-03T05:05:23.282Z",
+      "lastUpdated": "2020-10-06T02:56:57.035Z",
+      "rects": {
+        "0": {
+          "left": 279,
+          "top": 368,
+          "right": 556,
+          "bottom": 384,
+          "width": 277,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " human-machine collaborative drawing environment i",
+          "rect": {
+            "left": 279,
+            "top": 368,
+            "right": 556,
+            "bottom": 384,
+            "width": 276,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": " human-machine collaborative drawing environment i"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": " human-machine collaborative drawing environment"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "tags": {
+        "AIContext": {
+          "id": "AIContext",
+          "label": "AIContext"
+        }
+      }
+    },
+    {
+      "id": "1yHcA8PJDJ",
+      "guid": "1o5rpAtfwu",
+      "created": "2020-10-03T05:05:27.113Z",
+      "lastUpdated": "2020-10-03T05:05:33.796Z",
+      "rects": {
+        "0": {
+          "left": 192,
+          "top": 383,
+          "right": 289,
+          "bottom": 398,
+          "width": 97,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "autonomous agen",
+          "rect": {
+            "left": 192,
+            "top": 383,
+            "right": 289,
+            "bottom": 398,
+            "width": 97,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "autonomous agen"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "autonomous agent"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1Qy1w2gMSJ",
+      "guid": "1wdnBqYZUV",
+      "created": "2020-10-06T02:55:39.032Z",
+      "lastUpdated": "2020-10-06T02:55:50.435Z",
+      "rects": {
+        "0": {
+          "left": 176,
+          "top": 132,
+          "right": 639,
+          "bottom": 158,
+          "width": 463,
+          "height": 26
+        },
+        "1": {
+          "left": 195,
+          "top": 158,
+          "right": 621,
+          "bottom": 184,
+          "width": 426,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Collaborative creativity with Monte-Carlo Tree",
+          "rect": {
+            "left": 176,
+            "top": 132,
+            "right": 639,
+            "bottom": 158,
+            "width": 463,
+            "height": 26
+          }
+        },
+        "1": {
+          "text": "Search and Convolutional Neural Networks",
+          "rect": {
+            "left": 195,
+            "top": 158,
+            "right": 621,
+            "bottom": 184,
+            "width": 426,
+            "height": 26
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Collaborative creativity with Monte-Carlo Tree\nSearch and Convolutional Neural Networks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Collaborative creativity with Monte-Carlo Tree\nSearch and Convolutional Neural Networks</h1>"
+      }
+    },
+    {
+      "id": "15XG7tNXXr",
+      "guid": "15XG7tNXXr",
+      "created": "2020-10-06T02:56:42.527Z",
+      "lastUpdated": "2020-10-06T02:56:42.527Z",
+      "rects": {
+        "0": {
+          "left": 607,
+          "top": 367,
+          "right": 624,
+          "bottom": 382,
+          "width": 17,
+          "height": 15
+        },
+        "1": {
+          "left": 191,
+          "top": 381,
+          "right": 624,
+          "bottom": 397,
+          "width": 433,
+          "height": 16
+        },
+        "2": {
+          "left": 191,
+          "top": 396,
+          "right": 355,
+          "bottom": 411,
+          "width": 164,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " an",
+          "rect": {
+            "left": 607,
+            "top": 367,
+            "right": 624,
+            "bottom": 382,
+            "width": 16,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "autonomous agent sketches images while optionally allowing a user to directly",
+          "rect": {
+            "left": 191,
+            "top": 381,
+            "right": 624,
+            "bottom": 397,
+            "width": 432,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "influence the agent’s trajectory.",
+          "rect": {
+            "left": 191,
+            "top": 396,
+            "right": 355,
+            "bottom": 411,
+            "width": 164,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": " an\nautonomous agent sketches images while optionally allowing a user to directly\ninfluence the agent’s trajectory."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "17GNpFXfVv",
+      "guid": "1RDV2qDYSv",
+      "created": "2020-10-06T02:57:53.989Z",
+      "lastUpdated": "2020-10-06T02:58:11.394Z",
+      "rects": {
+        "0": {
+          "left": 381,
+          "top": 192,
+          "right": 572,
+          "bottom": 208,
+          "width": 191,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "compu",
+          "rect": {
+            "left": 381,
+            "top": 192,
+            "right": 420,
+            "bottom": 208,
+            "width": 39,
+            "height": 15
+          }
+        },
+        "1": {
+          "text": "tational models of crea",
+          "rect": {
+            "left": 420,
+            "top": 192,
+            "right": 548,
+            "bottom": 208,
+            "width": 127,
+            "height": 15
+          }
+        },
+        "2": {
+          "text": "tivity",
+          "rect": {
+            "left": 548,
+            "top": 192,
+            "right": 572,
+            "bottom": 208,
+            "width": 24,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "computational models of creativity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "AIContext": {
+          "id": "AIContext",
+          "label": "AIContext"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>computational models of creativity</p><p><br></p><p>#context</p>"
+      }
+    },
+    {
+      "id": "12fnn9pTdr",
+      "guid": "12jEpvQxze",
+      "created": "2020-10-06T02:58:57.992Z",
+      "lastUpdated": "2020-10-06T03:01:08.895Z",
+      "rects": {
+        "0": {
+          "left": 513,
+          "top": 223,
+          "right": 671,
+          "bottom": 237,
+          "width": 158,
+          "height": 14
+        },
+        "1": {
+          "left": 143,
+          "top": 237,
+          "right": 672,
+          "bottom": 252,
+          "width": 529,
+          "height": 15
+        },
+        "2": {
+          "left": 143,
+          "top": 252,
+          "right": 674,
+          "bottom": 266,
+          "width": 531,
+          "height": 14
+        },
+        "3": {
+          "left": 143,
+          "top": 266,
+          "right": 414,
+          "bottom": 281,
+          "width": 271,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "investigating the opportunities",
+          "rect": {
+            "left": 513,
+            "top": 223,
+            "right": 671,
+            "bottom": 237,
+            "width": 158,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "provided by Deep artificial Neural Networks (DNNs) — in particular",
+          "rect": {
+            "left": 143,
+            "top": 237,
+            "right": 503,
+            "bottom": 252,
+            "width": 359,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "Convolutional Neural Networks",
+          "rect": {
+            "left": 506,
+            "top": 237,
+            "right": 672,
+            "bottom": 252,
+            "width": 165,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "(CNN)",
+          "rect": {
+            "left": 143,
+            "top": 252,
+            "right": 178,
+            "bottom": 266,
+            "width": 35,
+            "height": 14
+          }
+        },
+        "4": {
+          "text": "— combined with agent-based AI methods — such as",
+          "rect": {
+            "left": 182,
+            "top": 252,
+            "right": 471,
+            "bottom": 266,
+            "width": 289,
+            "height": 14
+          }
+        },
+        "5": {
+          "text": "Monte Carlo Tree Search (MCTS)",
+          "rect": {
+            "left": 475,
+            "top": 252,
+            "right": 657,
+            "bottom": 266,
+            "width": 182,
+            "height": 14
+          }
+        },
+        "6": {
+          "text": "—",
+          "rect": {
+            "left": 661,
+            "top": 252,
+            "right": 674,
+            "bottom": 266,
+            "width": 13,
+            "height": 14
+          }
+        },
+        "7": {
+          "text": "for the task of driving collaborative drawing agents",
+          "rect": {
+            "left": 143,
+            "top": 266,
+            "right": 414,
+            "bottom": 281,
+            "width": 271,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "investigating the opportunities\nprovided by Deep artificial Neural Networks (DNNs) — in particular\nConvolutional Neural Networks\n(CNN)\n— combined with agent-based AI methods — such as\nMonte Carlo Tree Search (MCTS)\n—\nfor the task of driving collaborative drawing agents"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>[...] we focus on investigating the opportunities\nprovided by Deep artificial Neural Networks (DNNs) — in particular\nConvolutional Neural Networks\n(CNN)\n— combined with agent-based AI methods — such as\nMonte Carlo Tree Search (MCTS)\n—\nfor the task of driving collaborative drawing agents</p><p><br></p><p>#goal</p>"
+      },
+      "tags": {
+        "AIInvestigation": {
+          "id": "AIInvestigation",
+          "label": "AIInvestigation"
+        }
+      }
+    },
+    {
+      "id": "16my1VNuj2",
+      "guid": "16my1VNuj2",
+      "created": "2020-10-06T03:00:52.315Z",
+      "lastUpdated": "2020-10-06T03:00:52.315Z",
+      "rects": {
+        "0": {
+          "left": 360,
+          "top": 397,
+          "right": 623,
+          "bottom": 412,
+          "width": 263,
+          "height": 15
+        },
+        "1": {
+          "left": 191,
+          "top": 411,
+          "right": 623,
+          "bottom": 426,
+          "width": 432,
+          "height": 15
+        },
+        "2": {
+          "left": 191,
+          "top": 426,
+          "right": 544,
+          "bottom": 440,
+          "width": 353,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We combine Monte Carlo Tree Search with image",
+          "rect": {
+            "left": 360,
+            "top": 397,
+            "right": 623,
+            "bottom": 412,
+            "width": 263,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "classifiers and test both shallow models (e.g. multinomial logistic regression) and",
+          "rect": {
+            "left": 191,
+            "top": 411,
+            "right": 623,
+            "bottom": 426,
+            "width": 432,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "deep Convolutional Neural Networks (e.g. LeNet, Inception v3). ",
+          "rect": {
+            "left": 191,
+            "top": 426,
+            "right": 544,
+            "bottom": 440,
+            "width": 353,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "We combine Monte Carlo Tree Search with image\nclassifiers and test both shallow models (e.g. multinomial logistic regression) and\ndeep Convolutional Neural Networks (e.g. LeNet, Inception v3). "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1VhmgGJ993",
+      "guid": "1ELEkxSpeS",
+      "created": "2020-10-06T03:01:42.609Z",
+      "lastUpdated": "2020-10-14T19:33:20.554Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 606,
+          "right": 671,
+          "bottom": 620,
+          "width": 528,
+          "height": 14
+        },
+        "1": {
+          "left": 143,
+          "top": 620,
+          "right": 673,
+          "bottom": 635,
+          "width": 530,
+          "height": 15
+        },
+        "2": {
+          "left": 143,
+          "top": 635,
+          "right": 363,
+          "bottom": 649,
+          "width": 220,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The aim of this research is to create an autonomous, collaborative, ‘creative’ agent that can sketch",
+          "rect": {
+            "left": 143,
+            "top": 606,
+            "right": 671,
+            "bottom": 620,
+            "width": 527,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "images in realtime, while optionally allowing a user to intervene and physically influence the agent,",
+          "rect": {
+            "left": 143,
+            "top": 620,
+            "right": 673,
+            "bottom": 635,
+            "width": 529,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "affecting how and what it decides to draw",
+          "rect": {
+            "left": 143,
+            "top": 635,
+            "right": 363,
+            "bottom": 649,
+            "width": 219,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "The aim of this research is to create an autonomous, collaborative, ‘creative’ agent that can sketch\nimages in realtime, while optionally allowing a user to intervene and physically influence the agent,\naffecting how and what it decides to draw"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>The aim of this research is to create an autonomous, collaborative, ‘creative’ agent that can sketch\nimages in realtime, while optionally allowing a user to intervene and physically influence the agent,\naffecting how and what it decides to draw.&nbsp;<span style=\"letter-spacing: 0.12852px; font-size: 1rem;\">[...] our objective is to allow the agent to take random actions, and sketch any path that resembles a predetermined, desired object class .</span></p><p><br></p><p>#goal</p>"
+      },
+      "tags": {
+        "AIAgent": {
+          "id": "AIAgent",
+          "label": "AIAgent"
+        },
+        "AIDrawing": {
+          "id": "AIDrawing",
+          "label": "AIDrawing"
+        }
+      }
+    },
+    {
+      "id": "12ZAtxTSSa",
+      "guid": "12vJLGUzeo",
+      "created": "2020-10-06T03:10:30.777Z",
+      "lastUpdated": "2020-10-06T03:11:03.018Z",
+      "rects": {
+        "0": {
+          "left": 355,
+          "top": 606,
+          "right": 590,
+          "bottom": 620,
+          "width": 235,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " autonomous, collaborative, ‘creative’ agent ",
+          "rect": {
+            "left": 355,
+            "top": 606,
+            "right": 590,
+            "bottom": 620,
+            "width": 234,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": " autonomous, collaborative, ‘creative’ agent "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p> autonomous collaborative creative agent</p><p></p><p>#concept</p><p> </p>"
+      },
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        }
+      }
+    },
+    {
+      "id": "1FHVwt7iod",
+      "guid": "1WZYnHhkTs",
+      "created": "2020-10-06T03:11:30.205Z",
+      "lastUpdated": "2020-10-06T03:11:51.796Z",
+      "rects": {
+        "0": {
+          "left": 475,
+          "top": 252,
+          "right": 619,
+          "bottom": 266,
+          "width": 144,
+          "height": 14
+        },
+        "1": {
+          "left": 297,
+          "top": -3,
+          "right": 332,
+          "bottom": 252,
+          "width": 35,
+          "height": 255
+        },
+        "2": {
+          "left": 653,
+          "top": 252,
+          "right": 657,
+          "bottom": 266,
+          "width": 4,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Monte Carlo Tree Search (",
+          "rect": {
+            "left": 475,
+            "top": 252,
+            "right": 619,
+            "bottom": 266,
+            "width": 144,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "MCTS",
+          "rect": {
+            "left": 297,
+            "top": -3,
+            "right": 332,
+            "bottom": 12,
+            "width": 34,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": ")",
+          "rect": {
+            "left": 653,
+            "top": 252,
+            "right": 657,
+            "bottom": 266,
+            "width": 4,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Monte Carlo Tree Search (MCTS)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "AIConcept": {
+          "id": "AIConcept",
+          "label": "AIConcept"
+        },
+        "AIAgent": {
+          "id": "AIAgent",
+          "label": "AIAgent"
+        }
+      },
+      "revisedText": {
+        "HTML": "<p>Monte Carlo Tree Search (MCTS)</p><p><br></p><p>#concept</p>"
+      }
+    },
+    {
+      "id": "1UTuLfk2VL",
+      "guid": "1UTuLfk2VL",
+      "created": "2020-10-06T03:13:31.180Z",
+      "lastUpdated": "2020-10-06T03:13:31.180Z",
+      "rects": {
+        "0": {
+          "left": 245,
+          "top": 390,
+          "right": 412,
+          "bottom": 405,
+          "width": 167,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "realtime agent based methods.",
+          "rect": {
+            "left": 245,
+            "top": 390,
+            "right": 412,
+            "bottom": 405,
+            "width": 166,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "realtime agent based methods."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1rvtur2gA2",
+      "guid": "12cVF5KSRr",
+      "created": "2020-10-06T03:14:39.432Z",
+      "lastUpdated": "2020-10-06T03:14:49.353Z",
+      "rects": {
+        "0": {
+          "left": 291,
+          "top": 237,
+          "right": 325,
+          "bottom": 252,
+          "width": 34,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ak",
+          "rect": {
+            "left": 291,
+            "top": 237,
+            "right": 307,
+            "bottom": 252,
+            "width": 15,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "ten",
+          "rect": {
+            "left": 307,
+            "top": 237,
+            "right": 325,
+            "bottom": 252,
+            "width": 18,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Akten"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Akten</p><p><br></p><p>Citer:(Akten, 2016)</p><p>FTag: Akten-2016</p><p>\n\n</p><p>APA7: Akten, M. (2016). Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…. <em>Medium</em>. <a href=\"https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0\">https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0</a></p>"
+      }
+    },
+    {
+      "id": "1X7hnLrHk2",
+      "guid": "17vefCRjFo",
+      "created": "2020-10-14T19:32:31.068Z",
+      "lastUpdated": "2020-10-14T19:33:05.254Z",
+      "rects": {
+        "0": {
+          "left": 475,
+          "top": 634,
+          "right": 691,
+          "bottom": 649,
+          "width": 215,
+          "height": 15
+        },
+        "1": {
+          "left": 143,
+          "top": 649,
+          "right": 696,
+          "bottom": 664,
+          "width": 552,
+          "height": 15
+        },
+        "2": {
+          "left": 143,
+          "top": 663,
+          "right": 219,
+          "bottom": 678,
+          "width": 75,
+          "height": 15
+        },
+        "3": {
+          "left": 219,
+          "top": 663,
+          "right": 246,
+          "bottom": 678,
+          "width": 26,
+          "height": 15
+        },
+        "4": {
+          "left": 245,
+          "top": 663,
+          "right": 249,
+          "bottom": 678,
+          "width": 3,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ic, our objective is to allow the agent to"
+        },
+        "1": {
+          "text": "take random actions, and sketch any path (i.e. follow any trajectory) that resembles a predetermined,"
+        },
+        "2": {
+          "text": "desired object"
+        },
+        "3": {
+          "text": "class"
+        },
+        "4": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "ic, our objective is to allow the agent to take random actions, and sketch any path (i.e. follow any trajectory) that resembles a predetermined, desired object class ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "[...] our objective is to allow the agent to take random actions, and sketch any path that resembles a predetermined, desired object class ."
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

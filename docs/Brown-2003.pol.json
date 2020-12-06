@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12SH3otkDP",
+      "guid": "1aLV39SACp",
+      "created": "2020-11-08T23:51:52.639Z",
+      "lastUpdated": "2020-11-28T15:35:06.772Z",
+      "rects": {
+        "0": {
+          "left": 129,
+          "top": 221,
+          "right": 551,
+          "bottom": 247,
+          "width": 422,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Generative computation and the arts"
+        }
+      },
+      "text": {
+        "TEXT": "Generative computation and the arts"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Generative computation and the arts</h1>"
+      }
+    },
+    {
+      "id": "1i2C9UXaog",
+      "guid": "12XViK9Ukn",
+      "created": "2020-11-08T23:52:00.244Z",
+      "lastUpdated": "2020-11-08T23:52:38.984Z",
+      "rects": {
+        "0": {
+          "left": 165,
+          "top": 286,
+          "right": 211,
+          "bottom": 304,
+          "width": 45,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " Brow"
+        }
+      },
+      "text": {
+        "TEXT": "Brow"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Brown, 2003)</p>\n<p>FTag: Brown-2003</p>\n<p>APA7: Brown, P. (2003). Generative computation and the arts. <em>Digital Creativity</em>, <em>14</em>(1), 1–2. <a href=\"https://doi.org/10.1076/digc.14.1.1.8809\">https://doi.org/10.1076/digc.14.1.1.8809</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12nS6cGnNd",
+      "guid": "12nS6cGnNd",
+      "created": "2020-11-28T15:40:04.093Z",
+      "lastUpdated": "2020-11-28T15:40:04.093Z",
+      "rects": {
+        "0": {
+          "left": 233,
+          "top": 619,
+          "right": 240,
+          "bottom": 635,
+          "width": 7,
+          "height": 15
+        },
+        "1": {
+          "left": 239,
+          "top": 619,
+          "right": 413,
+          "bottom": 635,
+          "width": 173,
+          "height": 15
+        },
+        "2": {
+          "left": 195,
+          "top": 635,
+          "right": 420,
+          "bottom": 651,
+          "width": 224,
+          "height": 15
+        },
+        "3": {
+          "left": 195,
+          "top": 651,
+          "right": 416,
+          "bottom": 667,
+          "width": 221,
+          "height": 15
+        },
+        "4": {
+          "left": 195,
+          "top": 667,
+          "right": 431,
+          "bottom": 683,
+          "width": 236,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "F"
+        },
+        "1": {
+          "text": "or those involved in the computer-"
+        },
+        "2": {
+          "text": "mediated arts, postmodernism promoted the"
+        },
+        "3": {
+          "text": "metaphorical aspects of the medium.  Some"
+        },
+        "4": {
+          "text": "theorists even denied there was any alternative!"
+        }
+      },
+      "text": {
+        "TEXT": "F or those involved in the computer- mediated arts, postmodernism promoted the metaphorical aspects of the medium.  Some theorists even denied there was any alternative!"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1GXpJejPSy",
+      "guid": "12EaoeEnZz",
+      "created": "2020-11-28T15:40:21.719Z",
+      "lastUpdated": "2020-11-28T15:40:27.923Z",
+      "rects": {
+        "0": {
+          "left": 301,
+          "top": 731,
+          "right": 403,
+          "bottom": 747,
+          "width": 102,
+          "height": 15
+        },
+        "1": {
+          "left": 195,
+          "top": 747,
+          "right": 432,
+          "bottom": 763,
+          "width": 236,
+          "height": 15
+        },
+        "2": {
+          "left": 195,
+          "top": 763,
+          "right": 336,
+          "bottom": 779,
+          "width": 141,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "he ‘killer apps’ were"
+        },
+        "1": {
+          "text": "marketed on the promise that professionals did"
+        },
+        "2": {
+          "text": "not need to learn new skills."
+        }
+      },
+      "text": {
+        "TEXT": "he ‘killer apps’ were marketed on the promise that professionals did not need to learn new skills."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "The ‘killer apps’ were marketed on the promise that professionals did not need to learn new skills."
+      }
+    },
+    {
+      "id": "1aXguqw7hF",
+      "guid": "1oochbUgSS",
+      "created": "2020-11-28T15:42:06.757Z",
+      "lastUpdated": "2020-11-28T15:42:49.989Z",
+      "rects": {
+        "0": {
+          "left": 301,
+          "top": 731,
+          "right": 403,
+          "bottom": 747,
+          "width": 102,
+          "height": 15
+        },
+        "1": {
+          "left": 195,
+          "top": 747,
+          "right": 432,
+          "bottom": 763,
+          "width": 236,
+          "height": 15
+        },
+        "2": {
+          "left": 195,
+          "top": 763,
+          "right": 336,
+          "bottom": 779,
+          "width": 141,
+          "height": 15
+        },
+        "3": {
+          "left": 336,
+          "top": 763,
+          "right": 427,
+          "bottom": 779,
+          "width": 91,
+          "height": 15
+        },
+        "4": {
+          "left": 195,
+          "top": 779,
+          "right": 428,
+          "bottom": 795,
+          "width": 233,
+          "height": 15
+        },
+        "5": {
+          "left": 195,
+          "top": 795,
+          "right": 407,
+          "bottom": 811,
+          "width": 212,
+          "height": 15
+        },
+        "6": {
+          "left": 195,
+          "top": 811,
+          "right": 407,
+          "bottom": 827,
+          "width": 212,
+          "height": 15
+        },
+        "7": {
+          "left": 195,
+          "top": 827,
+          "right": 258,
+          "bottom": 843,
+          "width": 62,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "he ‘killer apps’ were"
+        },
+        "1": {
+          "text": "marketed on the promise that professionals did"
+        },
+        "2": {
+          "text": "not need to learn new skills."
+        },
+        "3": {
+          "text": "  The applications"
+        },
+        "4": {
+          "text": "had been created as metaphoric analogies that"
+        },
+        "5": {
+          "text": "were intended to look and act just like the"
+        },
+        "6": {
+          "text": "traditional tools that artists and designers"
+        },
+        "7": {
+          "text": "already used"
+        }
+      },
+      "text": {
+        "TEXT": "he ‘killer apps’ were marketed on the promise that professionals did not need to learn new skills. The applications had been created as metaphoric analogies that were intended to look and act just like the traditional tools that artists and designers already used"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "<p>Erreur d'analogie métaphorique</p><p>&gt;The ‘killer apps’ were marketed on the promise that professionals did not need to learn new skills. The applications had been created as metaphoric analogies that were intended to look and act just like the traditional tools that artists and designers already used</p>"
+      },
+      "tags": {
+        "MetaphoreIssue": {
+          "id": "MetaphoreIssue",
+          "label": "MetaphoreIssue"
+        }
+      }
+    }
+  ]
+
+}
+
+
+

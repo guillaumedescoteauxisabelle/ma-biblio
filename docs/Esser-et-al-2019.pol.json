@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12p48SrpdA",
+      "guid": "12NVtSUV1i",
+      "created": "2020-12-03T20:29:55.214Z",
+      "lastUpdated": "2020-12-03T20:29:59.246Z",
+      "rects": {
+        "0": {
+          "left": 240,
+          "top": 141,
+          "right": 563,
+          "bottom": 162,
+          "width": 322,
+          "height": 21
+        },
+        "1": {
+          "left": 222,
+          "top": 165,
+          "right": 584,
+          "bottom": 186,
+          "width": 361,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Unsupervised Robust Disentangling of"
+        },
+        "1": {
+          "text": "Latent Characteristics for Image Synthesis"
+        }
+      },
+      "text": {
+        "TEXT": "Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis</h1>"
+      }
+    },
+    {
+      "id": "1ZqyHR3MGC",
+      "guid": "19Yi6AWdR3",
+      "created": "2020-12-03T20:30:03.065Z",
+      "lastUpdated": "2020-12-03T20:30:18.962Z",
+      "rects": {
+        "0": {
+          "left": 250,
+          "top": 214,
+          "right": 478,
+          "bottom": 232,
+          "width": 227,
+          "height": 18
+        },
+        "1": {
+          "left": 470,
+          "top": 214,
+          "right": 475,
+          "bottom": 232,
+          "width": 5,
+          "height": 18
+        },
+        "2": {
+          "left": 469,
+          "top": 214,
+          "right": 545,
+          "bottom": 232,
+          "width": 76,
+          "height": 18
+        },
+        "3": {
+          "left": 245,
+          "top": 232,
+          "right": 562,
+          "bottom": 251,
+          "width": 317,
+          "height": 18
+        },
+        "4": {
+          "left": 273,
+          "top": 251,
+          "right": 529,
+          "bottom": 269,
+          "width": 256,
+          "height": 18
+        },
+        "5": {
+          "left": 253,
+          "top": 278,
+          "right": 532,
+          "bottom": 290,
+          "width": 278,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Patrick Esser,  Johannes Haux,  Bj"
+        },
+        "1": {
+          "text": " ̈"
+        },
+        "2": {
+          "text": "orn Ommer"
+        },
+        "3": {
+          "text": "Heidelberg Collaboratory for Image Processing"
+        },
+        "4": {
+          "text": "IWR, Heidelberg University, Germany"
+        },
+        "5": {
+          "text": "firstname.lastname@iwr.uni-heidelberg.de"
+        }
+      },
+      "text": {
+        "TEXT": "Patrick Esser,  Johannes Haux,  Bj ̈ orn Ommer Heidelberg Collaboratory for Image Processing IWR, Heidelberg University, Germany firstname.lastname@iwr.uni-heidelberg.de"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer:(Esser et al., 2019)</p>\n<p>FTag: Esser-et-al-2019</p>\n<p>APA7: Esser, P., Haux, J., &amp; Ommer, B. (2019). Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis. <em>ArXiv:1910.10223 [Cs]</em>. <a href=\"http://arxiv.org/abs/1910.10223\">http://arxiv.org/abs/1910.10223</a></p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12VQm7BiYJ",
+      "guid": "1yp1X8adYM",
+      "created": "2020-12-03T20:30:06.355Z",
+      "lastUpdated": "2020-12-03T20:35:47.621Z",
+      "rects": {
+        "0": {
+          "left": 194,
+          "top": 328,
+          "right": 256,
+          "bottom": 346,
+          "width": 61,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Abstract"
+        }
+      },
+      "text": {
+        "TEXT": "Abstract"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Intentions</h1><p>*&nbsp;<span>\n\ndisentanglement ??&nbsp; Interesting term for the separation of content and style.</span></p><p><span>* Possibly to find the optimal NST library</span></p>"
+      },
+      "tags": {
+        "disentanglement": {
+          "id": "disentanglement",
+          "label": "disentanglement"
+        },
+        "ref2012031450": {
+          "id": "ref2012031450",
+          "label": "ref2012031450"
+        }
+      }
+    },
+    {
+      "id": "18Vzm741wE",
+      "guid": "12u9AaPb4j",
+      "created": "2020-12-03T20:32:56.069Z",
+      "lastUpdated": "2020-12-03T20:34:34.565Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 508,
+          "right": 375,
+          "bottom": 522,
+          "width": 207,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 523,
+          "right": 373,
+          "bottom": 538,
+          "width": 306,
+          "height": 14
+        },
+        "2": {
+          "left": 66,
+          "top": 539,
+          "right": 373,
+          "bottom": 554,
+          "width": 306,
+          "height": 14
+        },
+        "3": {
+          "left": 66,
+          "top": 555,
+          "right": 372,
+          "bottom": 570,
+          "width": 305,
+          "height": 14
+        },
+        "4": {
+          "left": 66,
+          "top": 571,
+          "right": 375,
+          "bottom": 586,
+          "width": 309,
+          "height": 14
+        },
+        "5": {
+          "left": 66,
+          "top": 587,
+          "right": 374,
+          "bottom": 602,
+          "width": 307,
+          "height": 14
+        },
+        "6": {
+          "left": 66,
+          "top": 603,
+          "right": 375,
+          "bottom": 618,
+          "width": 308,
+          "height": 14
+        },
+        "7": {
+          "left": 66,
+          "top": 619,
+          "right": 192,
+          "bottom": 634,
+          "width": 125,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We propose an additional classifier that"
+        },
+        "1": {
+          "text": "estimates  the  minimal  amount  of  regularization  required"
+        },
+        "2": {
+          "text": "to enforce disentanglement.  Thus both representations to-"
+        },
+        "3": {
+          "text": "gether can completely explain an image while being inde-"
+        },
+        "4": {
+          "text": "pendent of each other.  Previous methods based on adver-"
+        },
+        "5": {
+          "text": "sarial approaches fail to enforce this independence, while"
+        },
+        "6": {
+          "text": "methods based on variational approaches lead to uninfor-"
+        },
+        "7": {
+          "text": "mative  representations. "
+        }
+      },
+      "text": {
+        "TEXT": "We propose an additional classifier that estimates  the  minimal  amount  of  regularization  required to enforce disentanglement.  Thus both representations to- gether can completely explain an image while being inde- pendent of each other.  Previous methods based on adver- sarial approaches fail to enforce this independence, while methods based on variational approaches lead to uninfor- mative  representations."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "We propose an additional classifier that estimates  the  minimal  amount  of  regularization  required to enforce disentanglement.  Thus both representations to- gether can completely explain an image while being independent of each other.  Previous methods based on adversarial approaches fail to enforce this independence, while methods based on variational approaches lead to uninformative  representations."
+      },
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        },
+        "ref2012031450": {
+          "id": "ref2012031450",
+          "label": "ref2012031450"
+        },
+        "DisentanglementIssue": {
+          "id": "DisentanglementIssue",
+          "label": "DisentanglementIssue"
+        }
+      }
+    }
+  ]
+
+}
+

@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1RwhttaYqe",
+      "guid": "1RwhttaYqe",
+      "created": "2020-05-24T09:34:53.763Z",
+      "lastUpdated": "2020-05-24T09:34:53.763Z",
+      "rects": {
+        "0": {
+          "left": 325,
+          "top": 490,
+          "right": 445,
+          "bottom": 510,
+          "width": 120,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "situer l’essentiel",
+          "rect": {
+            "left": 325,
+            "top": 490,
+            "right": 445,
+            "bottom": 510,
+            "width": 120,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "situer l’essentiel"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "126XbrXbuz",
+      "guid": "126XbrXbuz",
+      "created": "2020-05-24T09:35:06.630Z",
+      "lastUpdated": "2020-05-24T09:35:06.630Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 589,
+          "right": 567,
+          "bottom": 609,
+          "width": 424,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Formuler et présenter par écrit le résultat de ces opérations",
+          "rect": {
+            "left": 143,
+            "top": 589,
+            "right": 567,
+            "bottom": 609,
+            "width": 424,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Formuler et présenter par écrit le résultat de ces opérations"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1u6wqJW1JQ",
+      "guid": "1u6wqJW1JQ",
+      "created": "2020-05-24T09:36:30.385Z",
+      "lastUpdated": "2020-05-24T09:36:30.385Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 377,
+          "right": 266,
+          "bottom": 402,
+          "width": 170,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Lecture raisonnée",
+          "rect": {
+            "left": 96,
+            "top": 377,
+            "right": 266,
+            "bottom": 402,
+            "width": 170,
+            "height": 24
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Lecture raisonnée"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1hLaSkAG4k",
+      "guid": "12A8cwSqu1",
+      "created": "2020-05-24T09:36:38.386Z",
+      "lastUpdated": "2020-05-25T09:49:57.133Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 606,
+          "right": 229,
+          "bottom": 627,
+          "width": 86,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "la structure;",
+          "rect": {
+            "left": 143,
+            "top": 606,
+            "right": 229,
+            "bottom": 627,
+            "width": 85,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "la structure;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "la structure;"
+      }
+    },
+    {
+      "id": "12QtFoA4Va",
+      "guid": "12qJJoFgjr",
+      "created": "2020-05-24T09:36:46.311Z",
+      "lastUpdated": "2020-06-18T16:21:20.737Z",
+      "rects": {
+        "0": {
+          "left": 169,
+          "top": 631,
+          "right": 313,
+          "bottom": 651,
+          "width": 144,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "principaux concepts",
+          "rect": {
+            "left": 169,
+            "top": 631,
+            "right": 313,
+            "bottom": 651,
+            "width": 144,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "principaux concepts"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "principaux concepts"
+      }
+    },
+    {
+      "id": "1kcUh4WDtk",
+      "guid": "12SRrGbNvH",
+      "created": "2020-05-24T09:36:54.233Z",
+      "lastUpdated": "2020-06-18T16:21:17.998Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 657,
+          "right": 261,
+          "bottom": 677,
+          "width": 118,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "l'idée principale ",
+          "rect": {
+            "left": 143,
+            "top": 657,
+            "right": 261,
+            "bottom": 677,
+            "width": 118,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "l'idée principale "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "l'idée principale "
+      }
+    },
+    {
+      "id": "127ggzYk1E",
+      "guid": "1FWWRzfGKZ",
+      "created": "2020-05-24T09:37:03.660Z",
+      "lastUpdated": "2020-06-18T16:21:13.929Z",
+      "rects": {
+        "0": {
+          "left": 304,
+          "top": 657,
+          "right": 430,
+          "bottom": 677,
+          "width": 126,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "idées secondaires",
+          "rect": {
+            "left": 304,
+            "top": 657,
+            "right": 430,
+            "bottom": 677,
+            "width": 126,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "idées secondaires"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      },
+      "revisedText": {
+        "HTML": "idées secondaires"
+      }
+    },
+    {
+      "id": "12fG76HRLt",
+      "guid": "12fG76HRLt",
+      "created": "2020-05-24T09:37:11.163Z",
+      "lastUpdated": "2020-05-24T09:37:11.163Z",
+      "rects": {
+        "0": {
+          "left": 143,
+          "top": 682,
+          "right": 278,
+          "bottom": 702,
+          "width": 135,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "le",
+          "rect": {
+            "left": 143,
+            "top": 682,
+            "right": 157,
+            "bottom": 702,
+            "width": 13,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "s dé",
+          "rect": {
+            "left": 157,
+            "top": 682,
+            "right": 185,
+            "bottom": 702,
+            "width": 28,
+            "height": 20
+          }
+        },
+        "2": {
+          "text": "monstrations",
+          "rect": {
+            "left": 185,
+            "top": 682,
+            "right": 278,
+            "bottom": 702,
+            "width": 92,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "les démonstrations"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12QmienpAU",
+      "guid": "12QmienpAU",
+      "created": "2020-05-24T09:37:13.430Z",
+      "lastUpdated": "2020-05-24T09:37:13.430Z",
+      "rects": {
+        "0": {
+          "left": 286,
+          "top": 682,
+          "right": 376,
+          "bottom": 702,
+          "width": 90,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "conc",
+          "rect": {
+            "left": 286,
+            "top": 682,
+            "right": 320,
+            "bottom": 702,
+            "width": 34,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "lusions ",
+          "rect": {
+            "left": 320,
+            "top": 682,
+            "right": 376,
+            "bottom": 702,
+            "width": 55,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "conclusions "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12LE5Jwjox",
+      "guid": "12LE5Jwjox",
+      "created": "2020-05-24T09:37:18.825Z",
+      "lastUpdated": "2020-05-24T09:37:18.825Z",
+      "rects": {
+        "0": {
+          "left": 393,
+          "top": 682,
+          "right": 498,
+          "bottom": 702,
+          "width": 105,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "inte",
+          "rect": {
+            "left": 393,
+            "top": 682,
+            "right": 421,
+            "bottom": 702,
+            "width": 27,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "rpréta",
+          "rect": {
+            "left": 421,
+            "top": 682,
+            "right": 462,
+            "bottom": 702,
+            "width": 41,
+            "height": 20
+          }
+        },
+        "2": {
+          "text": "tions",
+          "rect": {
+            "left": 462,
+            "top": 682,
+            "right": 498,
+            "bottom": 702,
+            "width": 35,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "interprétations"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#7BDCB5",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12PkyLbNF2",
+      "guid": "12RvdQWcHE",
+      "created": "2020-05-25T09:11:47.596Z",
+      "lastUpdated": "2020-05-25T09:12:02.563Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 311,
+          "right": 236,
+          "bottom": 332,
+          "width": 140,
+          "height": 21
+        },
+        "1": {
+          "left": 257,
+          "top": -4,
+          "right": 304,
+          "bottom": 17,
+          "width": 47,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "l'étude de sources ",
+          "rect": {
+            "left": 96,
+            "top": 311,
+            "right": 236,
+            "bottom": 332,
+            "width": 140,
+            "height": 20
+          }
+        },
+        "1": {
+          "text": "primai",
+          "rect": {
+            "left": 257,
+            "top": -4,
+            "right": 304,
+            "bottom": 17,
+            "width": 47,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "l'étude de sources primai"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "l'étude de sources primaire"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1L987MWqNo",
+      "guid": "1L987MWqNo",
+      "created": "2020-05-25T09:57:15.255Z",
+      "lastUpdated": "2020-05-25T09:57:15.255Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 842,
+          "right": 191,
+          "bottom": 863,
+          "width": 95,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sur l'auteur",
+          "rect": {
+            "left": 96,
+            "top": 842,
+            "right": 191,
+            "bottom": 863,
+            "width": 94,
+            "height": 20
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Sur l'auteur"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12DJvFuWUC",
+      "guid": "1NkDYVTQ4p",
+      "created": "2020-06-10T18:13:10.627Z",
+      "lastUpdated": "2020-06-10T18:13:31.357Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 93,
+          "right": 686,
+          "bottom": 148,
+          "width": 590,
+          "height": 55
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le compte rendu de lecture",
+          "rect": {
+            "left": 96,
+            "top": 93,
+            "right": 686,
+            "bottom": 148,
+            "width": 590,
+            "height": 55
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Le compte rendu de lecture"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Le compte rendu de lecture</p><p><br></p><p><a href=\"https://github.com/jgwill/www.fichiers/blob/master/_dictations/CRL.md\">Voir fichier REPO</a></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

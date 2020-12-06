@@ -1,0 +1,1911 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1NBSePE2Vo",
+      "guid": "12ssBvWc6c",
+      "created": "2020-11-09T22:07:59.021Z",
+      "lastUpdated": "2020-11-13T23:09:21.318Z",
+      "rects": {
+        "0": {
+          "left": 282,
+          "top": 95,
+          "right": 611,
+          "bottom": 131,
+          "width": 328,
+          "height": 35
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "What is generative art?"
+        }
+      },
+      "text": {
+        "TEXT": "What is generative art?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>What is generative art?</h1>"
+      }
+    },
+    {
+      "id": "17ZF3eiU1c",
+      "guid": "147djEpyer",
+      "created": "2020-11-09T22:08:08.793Z",
+      "lastUpdated": "2020-11-13T23:28:01.888Z",
+      "rects": {
+        "0": {
+          "left": 282,
+          "top": 144,
+          "right": 426,
+          "bottom": 162,
+          "width": 143,
+          "height": 18
+        },
+        "1": {
+          "left": 424,
+          "top": 141,
+          "right": 430,
+          "bottom": 153,
+          "width": 6,
+          "height": 12
+        },
+        "2": {
+          "left": 435,
+          "top": 144,
+          "right": 619,
+          "bottom": 162,
+          "width": 183,
+          "height": 18
+        },
+        "3": {
+          "left": 615,
+          "top": 141,
+          "right": 621,
+          "bottom": 153,
+          "width": 6,
+          "height": 12
+        },
+        "4": {
+          "left": 282,
+          "top": 166,
+          "right": 287,
+          "bottom": 177,
+          "width": 5,
+          "height": 10
+        },
+        "5": {
+          "left": 288,
+          "top": 169,
+          "right": 594,
+          "bottom": 184,
+          "width": 306,
+          "height": 15
+        },
+        "6": {
+          "left": 282,
+          "top": 182,
+          "right": 287,
+          "bottom": 193,
+          "width": 5,
+          "height": 10
+        },
+        "7": {
+          "left": 288,
+          "top": 185,
+          "right": 684,
+          "bottom": 200,
+          "width": 395,
+          "height": 15
+        },
+        "8": {
+          "left": 282,
+          "top": 207,
+          "right": 390,
+          "bottom": 221,
+          "width": 108,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Margaret A. Boden"
+        },
+        "1": {
+          "text": "1"
+        },
+        "2": {
+          "text": "and Ernest A. Edmonds"
+        },
+        "3": {
+          "text": "2"
+        },
+        "4": {
+          "text": "1"
+        },
+        "5": {
+          "text": "Centre for Cognitive Science, University of Sussex"
+        },
+        "6": {
+          "text": "2"
+        },
+        "7": {
+          "text": "Creativity & Cognition Studios, University of Technology, Sydney"
+        },
+        "8": {
+          "text": "ernest@it.uts.edu.au"
+        }
+      },
+      "text": {
+        "TEXT": "Margaret A. Boden 1 and Ernest A. Edmonds 2 1 Centre for Cognitive Science, University of Sussex 2 Creativity & Cognition Studios, University of Technology, Sydney ernest@it.uts.edu.au"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n</span></p><p>Citer: (Boden &amp; Edmonds, 2009)</p>\n<p>FTag: Boden-Edmonds-2009</p>\n<p>APA7: Boden, M. A., &amp; Edmonds, E. A. (2009). What is generative art? <em>Digital Creativity</em>, <em>20</em>(1–2), 21–46. <a href=\"https://doi.org/10.1080/14626260902867915\" target=\"_blank\">https://doi.org/10.1080/14626260902867915</a><a href=\"https://doi.org/10.1080/14626260902867915\"></a></p><p><br></p><p><a href=\"https://app.simplenote.com/p/y75fd2\" target=\"_blank\">Ouvrir Fiche SimpleNote</a></p>\n\n<p></p>"
+      }
+    },
+    {
+      "id": "1htxTncLQj",
+      "guid": "1htxTncLQj",
+      "created": "2020-11-09T22:08:44.159Z",
+      "lastUpdated": "2020-11-09T22:08:44.159Z",
+      "rects": {
+        "0": {
+          "left": 194,
+          "top": 392,
+          "right": 399,
+          "bottom": 406,
+          "width": 204,
+          "height": 13
+        },
+        "1": {
+          "left": 201,
+          "top": 406,
+          "right": 398,
+          "bottom": 420,
+          "width": 196,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Keywords: computer art, generative art,"
+        },
+        "1": {
+          "text": "interactive art, computational creativity"
+        }
+      },
+      "text": {
+        "TEXT": "Keywords: computer art, generative art, interactive art, computational creativity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1gShjcrfY9",
+      "guid": "1uA5LrLeQS",
+      "created": "2020-11-09T22:09:53.907Z",
+      "lastUpdated": "2020-11-09T22:10:02.789Z",
+      "rects": {
+        "0": {
+          "left": 224,
+          "top": 414,
+          "right": 227,
+          "bottom": 430,
+          "width": 3,
+          "height": 15
+        },
+        "1": {
+          "left": 101,
+          "top": 430,
+          "right": 309,
+          "bottom": 446,
+          "width": 207,
+          "height": 15
+        },
+        "2": {
+          "left": 83,
+          "top": 446,
+          "right": 312,
+          "bottom": 462,
+          "width": 229,
+          "height": 15
+        },
+        "3": {
+          "left": 83,
+          "top": 462,
+          "right": 319,
+          "bottom": 478,
+          "width": 235,
+          "height": 15
+        },
+        "4": {
+          "left": 83,
+          "top": 478,
+          "right": 309,
+          "bottom": 494,
+          "width": 226,
+          "height": 15
+        },
+        "5": {
+          "left": 83,
+          "top": 494,
+          "right": 303,
+          "bottom": 510,
+          "width": 220,
+          "height": 15
+        },
+        "6": {
+          "left": 83,
+          "top": 510,
+          "right": 329,
+          "bottom": 526,
+          "width": 246,
+          "height": 15
+        },
+        "7": {
+          "left": 83,
+          "top": 526,
+          "right": 318,
+          "bottom": 542,
+          "width": 235,
+          "height": 15
+        },
+        "8": {
+          "left": 83,
+          "top": 542,
+          "right": 305,
+          "bottom": 558,
+          "width": 222,
+          "height": 15
+        },
+        "9": {
+          "left": 83,
+          "top": 558,
+          "right": 328,
+          "bottom": 574,
+          "width": 245,
+          "height": 15
+        },
+        "10": {
+          "left": 83,
+          "top": 574,
+          "right": 328,
+          "bottom": 590,
+          "width": 245,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "."
+        },
+        "1": {
+          "text": "Rules are at the heart of this type of art."
+        },
+        "2": {
+          "text": "But what computer scientists call rule-based"
+        },
+        "3": {
+          "text": "programming (e.g. Kowalski and Levy 1996)"
+        },
+        "4": {
+          "text": "is not necessarily implied. The computer-art"
+        },
+        "5": {
+          "text": "community regards it as important that the"
+        },
+        "6": {
+          "text": "artwork is generated from a set of specified rules,"
+        },
+        "7": {
+          "text": "or constraints, rather than from a step-by-step"
+        },
+        "8": {
+          "text": "algorithm. But the detailed implementation"
+        },
+        "9": {
+          "text": "method (i.e. the specific computer system that’s"
+        },
+        "10": {
+          "text": "being used) is not normally seen to be significant."
+        }
+      },
+      "text": {
+        "TEXT": ". Rules are at the heart of this type of art. But what computer scientists call rule-based programming (e.g. Kowalski and Levy 1996) is not necessarily implied. The computer-art community regards it as important that the artwork is generated from a set of specified rules, or constraints, rather than from a step-by-step algorithm. But the detailed implementation method (i.e. the specific computer system that’s being used) is not normally seen to be significant."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Rules are at the heart of this type of art. But what computer scientists call rule-based programming (e.g. Kowalski and Levy 1996) is not necessarily implied. The computer-art community regards it as important that the artwork is generated from a set of specified rules, or constraints, rather than from a step-by-step algorithm. But the detailed implementation method (i.e. the specific computer system that’s being used) is not normally seen to be significant."
+      }
+    },
+    {
+      "id": "12SCa11CHV",
+      "guid": "12SCa11CHV",
+      "created": "2020-11-09T22:10:09.406Z",
+      "lastUpdated": "2020-11-09T22:10:09.406Z",
+      "rects": {
+        "0": {
+          "left": 368,
+          "top": 654,
+          "right": 593,
+          "bottom": 670,
+          "width": 224,
+          "height": 15
+        },
+        "1": {
+          "left": 349,
+          "top": 670,
+          "right": 593,
+          "bottom": 686,
+          "width": 243,
+          "height": 15
+        },
+        "2": {
+          "left": 349,
+          "top": 686,
+          "right": 594,
+          "bottom": 702,
+          "width": 244,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "In other words, rule-driven systems appear"
+        },
+        "1": {
+          "text": "to have a greater degree of autonomy, relative"
+        },
+        "2": {
+          "text": "to the conscious decisions of the human artist."
+        }
+      },
+      "text": {
+        "TEXT": "In other words, rule-driven systems appear to have a greater degree of autonomy, relative to the conscious decisions of the human artist."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12MBuJi2VU",
+      "guid": "12MBuJi2VU",
+      "created": "2020-11-10T04:27:15.285Z",
+      "lastUpdated": "2020-11-10T04:27:32.475Z",
+      "rects": {
+        "0": {
+          "left": 395,
+          "top": 718,
+          "right": 588,
+          "bottom": 734,
+          "width": 193,
+          "height": 15
+        },
+        "1": {
+          "left": 349,
+          "top": 734,
+          "right": 490,
+          "bottom": 750,
+          "width": 140,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "autonomy is a concept that’s closely"
+        },
+        "1": {
+          "text": "connected with art-making"
+        }
+      },
+      "text": {
+        "TEXT": "autonomy is a concept that’s closely connected with art-making"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "ArtConcept": {
+          "id": "ArtConcept",
+          "label": "ArtConcept"
+        }
+      }
+    },
+    {
+      "id": "17bYmkZH43",
+      "guid": "12bZpyepQJ",
+      "created": "2020-11-10T04:28:18.059Z",
+      "lastUpdated": "2020-11-11T08:54:46.392Z",
+      "rects": {
+        "0": {
+          "left": 456,
+          "top": 750,
+          "right": 587,
+          "bottom": 766,
+          "width": 130,
+          "height": 15
+        },
+        "1": {
+          "left": 349,
+          "top": 766,
+          "right": 576,
+          "bottom": 782,
+          "width": 227,
+          "height": 15
+        },
+        "2": {
+          "left": 349,
+          "top": 782,
+          "right": 587,
+          "bottom": 798,
+          "width": 237,
+          "height": 15
+        },
+        "3": {
+          "left": 349,
+          "top": 798,
+          "right": 595,
+          "bottom": 814,
+          "width": 246,
+          "height": 15
+        },
+        "4": {
+          "left": 349,
+          "top": 814,
+          "right": 423,
+          "bottom": 830,
+          "width": 73,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "omputer artists are more"
+        },
+        "1": {
+          "text": "comfortable in speaking of ‘generative art’"
+        },
+        "2": {
+          "text": "where the system is rule-driven, not algorith-"
+        },
+        "3": {
+          "text": "mic—and why they usually avoid step-by-step"
+        },
+        "4": {
+          "text": "programming."
+        }
+      },
+      "text": {
+        "TEXT": "omputer artists are more comfortable in speaking of ‘generative art’ where the system is rule-driven, not algorith- mic—and why they usually avoid step-by-step programming."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt;[...] computer artists are more comfortable in speaking of ‘generative art’ where the system is rule-driven, not algorithmic - and why they usually avoid step-by-step programming.</p><p>What is a **rule-driven** system?</p><p><br></p>"
+      },
+      "tags": {
+        "GenerativeArt": {
+          "id": "GenerativeArt",
+          "label": "GenerativeArt"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "RuleDriveVSStepByStepProgramming": {
+          "id": "RuleDriveVSStepByStepProgramming",
+          "label": "RuleDriveVSStepByStepProgramming"
+        },
+        "RuleDriven": {
+          "id": "RuleDriven",
+          "label": "RuleDriven"
+        }
+      }
+    },
+    {
+      "id": "12AUTwmV87",
+      "guid": "12Rvq8kPPE",
+      "created": "2020-11-10T04:31:19.435Z",
+      "lastUpdated": "2020-11-10T04:31:49.654Z",
+      "rects": {
+        "0": {
+          "left": 213,
+          "top": 446,
+          "right": 277,
+          "bottom": 462,
+          "width": 63,
+          "height": 15
+        },
+        "1": {
+          "left": 277,
+          "top": 446,
+          "right": 340,
+          "bottom": 462,
+          "width": 62,
+          "height": 15
+        },
+        "2": {
+          "left": 340,
+          "top": 446,
+          "right": 416,
+          "bottom": 462,
+          "width": 76,
+          "height": 15
+        },
+        "3": {
+          "left": 194,
+          "top": 462,
+          "right": 401,
+          "bottom": 478,
+          "width": 206,
+          "height": 15
+        },
+        "4": {
+          "left": 194,
+          "top": 478,
+          "right": 440,
+          "bottom": 494,
+          "width": 245,
+          "height": 15
+        },
+        "5": {
+          "left": 194,
+          "top": 494,
+          "right": 426,
+          "bottom": 510,
+          "width": 231,
+          "height": 15
+        },
+        "6": {
+          "left": 194,
+          "top": 510,
+          "right": 433,
+          "bottom": 526,
+          "width": 238,
+          "height": 15
+        },
+        "7": {
+          "left": 194,
+          "top": 526,
+          "right": 408,
+          "bottom": 542,
+          "width": 214,
+          "height": 15
+        },
+        "8": {
+          "left": 194,
+          "top": 542,
+          "right": 331,
+          "bottom": 558,
+          "width": 136,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Yet another "
+        },
+        "1": {
+          "text": "problematic"
+        },
+        "2": {
+          "text": " area concerns"
+        },
+        "3": {
+          "text": "aesthetic evaluation. Are entirely novel"
+        },
+        "4": {
+          "text": "aesthetic considerations relevant for CG-art in"
+        },
+        "5": {
+          "text": "general, or for some subclass of it? And are"
+        },
+        "6": {
+          "text": "some aesthetic criteria, normally regarded as"
+        },
+        "7": {
+          "text": "essential, utterly out of place in CG-art:"
+        },
+        "8": {
+          "text": "authenticity, for instance?"
+        }
+      },
+      "text": {
+        "TEXT": "Yet another problematic area concerns aesthetic evaluation. Are entirely novel aesthetic considerations relevant for CG-art in general, or for some subclass of it? And are some aesthetic criteria, normally regarded as essential, utterly out of place in CG-art: authenticity, for instance?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "Yet another problematic area concerns aesthetic evaluation. Are entirely novel aesthetic considerations relevant for CG-art in general, or for some subclass of it? And are some aesthetic criteria, normally regarded as essential, utterly out of place in CG-art: authenticity, for instance?&nbsp;"
+      },
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "1kYmGEk4or",
+      "guid": "12UuGegouY",
+      "created": "2020-11-10T04:33:44.065Z",
+      "lastUpdated": "2020-11-10T04:34:18.142Z",
+      "rects": {
+        "0": {
+          "left": 315,
+          "top": 398,
+          "right": 392,
+          "bottom": 414,
+          "width": 76,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 414,
+          "right": 422,
+          "bottom": 430,
+          "width": 228,
+          "height": 15
+        },
+        "2": {
+          "left": 194,
+          "top": 430,
+          "right": 436,
+          "bottom": 446,
+          "width": 241,
+          "height": 15
+        },
+        "3": {
+          "left": 194,
+          "top": 446,
+          "right": 408,
+          "bottom": 462,
+          "width": 213,
+          "height": 15
+        },
+        "4": {
+          "left": 194,
+          "top": 462,
+          "right": 257,
+          "bottom": 478,
+          "width": 62,
+          "height": 15
+        },
+        "5": {
+          "left": 257,
+          "top": 462,
+          "right": 431,
+          "bottom": 478,
+          "width": 174,
+          "height": 15
+        },
+        "6": {
+          "left": 194,
+          "top": 478,
+          "right": 243,
+          "bottom": 494,
+          "width": 48,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " We’ll see that"
+        },
+        "1": {
+          "text": "judgements concerning creativity, authorial"
+        },
+        "2": {
+          "text": "responsibility, agency, autonomy, authenticity"
+        },
+        "3": {
+          "text": "and (sometimes) ontology are even more"
+        },
+        "4": {
+          "text": "problematic"
+        },
+        "5": {
+          "text": " outside the precious bubble than"
+        },
+        "6": {
+          "text": "inside it. "
+        }
+      },
+      "text": {
+        "TEXT": "We’ll see that judgements concerning creativity, authorial responsibility, agency, autonomy, authenticity and (sometimes) ontology are even more problematic outside the precious bubble than inside it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "We’ll see that judgements concerning creativity, authorial responsibility, agency, autonomy, authenticity and (sometimes) ontology are even more problematic outside the precious bubble than inside it."
+      },
+      "tags": {
+        "AIProblematic": {
+          "id": "AIProblematic",
+          "label": "AIProblematic"
+        },
+        "ArtProblematic": {
+          "id": "ArtProblematic",
+          "label": "ArtProblematic"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "1hYub41vbz",
+      "guid": "1hYub41vbz",
+      "created": "2020-11-10T04:35:22.718Z",
+      "lastUpdated": "2020-11-11T08:55:22.000Z",
+      "rects": {
+        "0": {
+          "left": 412,
+          "top": 814,
+          "right": 597,
+          "bottom": 830,
+          "width": 184,
+          "height": 15
+        },
+        "1": {
+          "left": 349,
+          "top": 830,
+          "right": 594,
+          "bottom": 846,
+          "width": 244,
+          "height": 15
+        },
+        "2": {
+          "left": 349,
+          "top": 846,
+          "right": 598,
+          "bottom": 862,
+          "width": 249,
+          "height": 15
+        },
+        "3": {
+          "left": 349,
+          "top": 862,
+          "right": 592,
+          "bottom": 878,
+          "width": 242,
+          "height": 15
+        },
+        "4": {
+          "left": 349,
+          "top": 878,
+          "right": 595,
+          "bottom": 894,
+          "width": 245,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Generative art enables the artist to"
+        },
+        "1": {
+          "text": "concentrate on the underlying rules themselves:"
+        },
+        "2": {
+          "text": "the structures that define the artwork, as against"
+        },
+        "3": {
+          "text": "the surface. (This is a position clearly associ-"
+        },
+        "4": {
+          "text": "ated with distaste for decoration and ornament.)"
+        }
+      },
+      "text": {
+        "TEXT": "Generative art enables the artist to concentrate on the underlying rules themselves: the structures that define the artwork, as against the surface. (This is a position clearly associ- ated with distaste for decoration and ornament.)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "GAConcept": {
+          "id": "GAConcept",
+          "label": "GAConcept"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "GenerativeArt": {
+          "id": "GenerativeArt",
+          "label": "GenerativeArt"
+        }
+      }
+    },
+    {
+      "id": "12tuCQu78M",
+      "guid": "1fsJtjArFq",
+      "created": "2020-11-10T04:36:29.452Z",
+      "lastUpdated": "2020-11-10T04:36:37.844Z",
+      "rects": {
+        "0": {
+          "left": 498,
+          "top": 361,
+          "right": 704,
+          "bottom": 378,
+          "width": 205,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " taxonomy of generative art"
+        }
+      },
+      "text": {
+        "TEXT": "taxonomy of generative art"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>A taxonomy of generative art</h1>"
+      }
+    },
+    {
+      "id": "12VxxFzZ56",
+      "guid": "1jb7mPaEfJ",
+      "created": "2020-11-10T04:37:07.133Z",
+      "lastUpdated": "2020-11-10T04:37:35.108Z",
+      "rects": {
+        "0": {
+          "left": 461,
+          "top": 382,
+          "right": 693,
+          "bottom": 398,
+          "width": 232,
+          "height": 15
+        },
+        "1": {
+          "left": 461,
+          "top": 398,
+          "right": 714,
+          "bottom": 414,
+          "width": 253,
+          "height": 15
+        },
+        "2": {
+          "left": 461,
+          "top": 414,
+          "right": 710,
+          "bottom": 430,
+          "width": 248,
+          "height": 15
+        },
+        "3": {
+          "left": 461,
+          "top": 430,
+          "right": 505,
+          "bottom": 446,
+          "width": 44,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Our taxonomy distinguishes eleven types of"
+        },
+        "1": {
+          "text": "art. We call them Ele-art, C-art, D-art, CA-art,"
+        },
+        "2": {
+          "text": "G-art, CG-art, Evo-art, R-art, I-art, CI-art and"
+        },
+        "3": {
+          "text": "VR-art. "
+        }
+      },
+      "text": {
+        "TEXT": "Our taxonomy distinguishes eleven types of art. We call them Ele-art, C-art, D-art, CA-art, G-art, CG-art, Evo-art, R-art, I-art, CI-art and VR-art."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Our taxonomy distinguishes eleven types of art. We call them Ele-art, C-art, D-art, CA-art, G-art, CG-art, Evo-art, R-art, I-art, CI-art and VR-art."
+      },
+      "tags": {
+        "GATaxonomy": {
+          "id": "GATaxonomy",
+          "label": "GATaxonomy"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        }
+      }
+    },
+    {
+      "id": "1q13xm96Xo",
+      "guid": "19AC4xgMGn",
+      "created": "2020-11-13T16:42:58.717Z",
+      "lastUpdated": "2020-11-13T18:12:57.794Z",
+      "rects": {
+        "0": {
+          "left": 488,
+          "top": 590,
+          "right": 712,
+          "bottom": 606,
+          "width": 223,
+          "height": 15
+        },
+        "1": {
+          "left": 484,
+          "top": 606,
+          "right": 682,
+          "bottom": 622,
+          "width": 197,
+          "height": 15
+        },
+        "2": {
+          "left": 484,
+          "top": 622,
+          "right": 598,
+          "bottom": 638,
+          "width": 114,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "-art works are generated, at least in part,"
+        },
+        "1": {
+          "text": "by some process that is not under the"
+        },
+        "2": {
+          "text": "artist’s direct control."
+        }
+      },
+      "text": {
+        "TEXT": "-art works are generated, at least in part, by some process that is not under the artist’s direct control."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "G-art works are generated, at least in part, by some process that is not under the artist’s direct control."
+      }
+    },
+    {
+      "id": "1wYiF52Red",
+      "guid": "1QQNg9V2dy",
+      "created": "2020-11-13T16:44:36.952Z",
+      "lastUpdated": "2020-11-13T23:33:13.173Z",
+      "rects": {
+        "0": {
+          "left": 110,
+          "top": 782,
+          "right": 325,
+          "bottom": 798,
+          "width": 215,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "symbolic and connectionist computation,"
+        }
+      },
+      "text": {
+        "TEXT": "symbolic and connectionist computation,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>symbolic and connectionist computation</h2><p><span>\n\n<h2 style=\"font-weight:400;letter-spacing:0.12852px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\">What is symbolic computation ?</h2><p style=\"font-weight:400;letter-spacing:0.12852px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\"><span>\n\nSee: [[Ezratty-2018]]&nbsp; [[SymbolicComputation]]</span><br></p><h2 style=\"font-weight:400;letter-spacing:0.12852px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\">What is connectionnist computation ?</h2>\n\n</span></p><p><span>\n\nSee: [[Ezratty-2018]]&nbsp; [[ConnectionnistComputation]]</span><span><br></span><br></p>"
+      },
+      "tags": {
+        "AIType": {
+          "id": "AIType",
+          "label": "AIType"
+        },
+        "ConnectionnistComputation": {
+          "id": "ConnectionnistComputation",
+          "label": "ConnectionnistComputation"
+        },
+        "SymbolicComputation": {
+          "id": "SymbolicComputation",
+          "label": "SymbolicComputation"
+        }
+      }
+    },
+    {
+      "id": "12B1zPgWbw",
+      "guid": "12B1zPgWbw",
+      "created": "2020-11-13T16:45:06.646Z",
+      "lastUpdated": "2020-11-13T16:45:06.646Z",
+      "rects": {
+        "0": {
+          "left": 101,
+          "top": 734,
+          "right": 325,
+          "bottom": 750,
+          "width": 223,
+          "height": 15
+        },
+        "1": {
+          "left": 83,
+          "top": 750,
+          "right": 327,
+          "bottom": 766,
+          "width": 244,
+          "height": 15
+        },
+        "2": {
+          "left": 83,
+          "top": 766,
+          "right": 96,
+          "bottom": 782,
+          "width": 13,
+          "height": 15
+        },
+        "3": {
+          "left": 97,
+          "top": 767,
+          "right": 105,
+          "bottom": 781,
+          "width": 8,
+          "height": 14
+        },
+        "4": {
+          "left": 103,
+          "top": 766,
+          "right": 321,
+          "bottom": 782,
+          "width": 217,
+          "height": 15
+        },
+        "5": {
+          "left": 83,
+          "top": 782,
+          "right": 110,
+          "bottom": 798,
+          "width": 26,
+          "height": 15
+        },
+        "6": {
+          "left": 110,
+          "top": 782,
+          "right": 325,
+          "bottom": 798,
+          "width": 215,
+          "height": 15
+        },
+        "7": {
+          "left": 83,
+          "top": 798,
+          "right": 313,
+          "bottom": 814,
+          "width": 230,
+          "height": 15
+        },
+        "8": {
+          "left": 83,
+          "top": 814,
+          "right": 315,
+          "bottom": 830,
+          "width": 232,
+          "height": 15
+        },
+        "9": {
+          "left": 83,
+          "top": 830,
+          "right": 332,
+          "bottom": 846,
+          "width": 249,
+          "height": 15
+        },
+        "10": {
+          "left": 83,
+          "top": 846,
+          "right": 313,
+          "bottom": 862,
+          "width": 230,
+          "height": 15
+        },
+        "11": {
+          "left": 83,
+          "top": 862,
+          "right": 307,
+          "bottom": 878,
+          "width": 224,
+          "height": 15
+        },
+        "12": {
+          "left": 83,
+          "top": 878,
+          "right": 326,
+          "bottom": 894,
+          "width": 243,
+          "height": 15
+        },
+        "13": {
+          "left": 83,
+          "top": 894,
+          "right": 329,
+          "bottom": 910,
+          "width": 246,
+          "height": 15
+        },
+        "14": {
+          "left": 83,
+          "top": 910,
+          "right": 332,
+          "bottom": 926,
+          "width": 249,
+          "height": 15
+        },
+        "15": {
+          "left": 83,
+          "top": 926,
+          "right": 247,
+          "bottom": 942,
+          "width": 164,
+          "height": 15
+        },
+        "16": {
+          "left": 247,
+          "top": 926,
+          "right": 257,
+          "bottom": 942,
+          "width": 9,
+          "height": 15
+        },
+        "17": {
+          "left": 257,
+          "top": 926,
+          "right": 315,
+          "bottom": 942,
+          "width": 57,
+          "height": 15
+        },
+        "18": {
+          "left": 83,
+          "top": 942,
+          "right": 247,
+          "bottom": 958,
+          "width": 164,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Most of them rely heavily on digital com-"
+        },
+        "1": {
+          "text": "puting and in particular on methods drawn from"
+        },
+        "2": {
+          "text": "AI"
+        },
+        "3": {
+          "text": "/"
+        },
+        "4": {
+          "text": "A-Life. Specifically, they have employed"
+        },
+        "5": {
+          "text": "both "
+        },
+        "6": {
+          "text": "symbolic and connectionist computation,"
+        },
+        "7": {
+          "text": "and—more recently—cellular automata, L-"
+        },
+        "8": {
+          "text": "systems and evolutionary programming too."
+        },
+        "9": {
+          "text": "This is an ascending spiral, not a linear ascent,"
+        },
+        "10": {
+          "text": "because two of those ‘recent’ methods were"
+        },
+        "11": {
+          "text": "foreseen (by John von Neumann) in 1950s"
+        },
+        "12": {
+          "text": "cybernetics, and all three had been mathemat-"
+        },
+        "13": {
+          "text": "ically defined by the 1960s—but none could be"
+        },
+        "14": {
+          "text": "fruitfully explored, by artists or scientists, until"
+        },
+        "15": {
+          "text": "powerful computers became av"
+        },
+        "16": {
+          "text": "ai"
+        },
+        "17": {
+          "text": "lable much"
+        },
+        "18": {
+          "text": "later (Boden 2006, p. 15.v-vi)."
+        }
+      },
+      "text": {
+        "TEXT": "Most of them rely heavily on digital com- puting and in particular on methods drawn from AI / A-Life. Specifically, they have employed both symbolic and connectionist computation, and—more recently—cellular automata, L- systems and evolutionary programming too. This is an ascending spiral, not a linear ascent, because two of those ‘recent’ methods were foreseen (by John von Neumann) in 1950s cybernetics, and all three had been mathemat- ically defined by the 1960s—but none could be fruitfully explored, by artists or scientists, until powerful computers became av ai lable much later (Boden 2006, p. 15.v-vi)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1GWSQbeWRX",
+      "guid": "1BNUVazdHB",
+      "created": "2020-11-13T16:47:48.280Z",
+      "lastUpdated": "2020-11-13T23:30:15.134Z",
+      "rects": {
+        "0": {
+          "left": 188,
+          "top": 52,
+          "right": 197,
+          "bottom": 74,
+          "width": 9,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "g"
+        }
+      },
+      "text": {
+        "TEXT": "g"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Intentions</h1><p>Utilisation de cet article pour taxonomiser la pratique des artistes.</p><h2>Fiche de lecture avec une certaine orientation (utilisé dans l'article)</h2><p><span><b>\n\n</b></span></p><p><span><b>CE QUE JE LIS ET AMASSE, ANNOTE, DOIT RÉSOUDRE CE QUI EST CI-BAS:&nbsp;</b></span></p><p><span><b>Cet article est une étude de cas emblématique des pratiques artistiques de Memo Akten en collaboration avec intelligence artificielle.&nbsp; Après avoir exposé une taxonomie de l’art génératif, cet article fera une étude de cas des œuvres de Akten en relation à la technologie des réseaux neuronaux convolutifs (RNC).&nbsp; On examinera dans ce contexte ce que produisent les RNCs dans sa production artistique.\n</b></span></p><p><span><b>\n<br></b></span><a href=\"https://docs.google.com/document/d/1JEWJFFEM7HIb4k7bhwjPgWVemnpp5zLqdGLDjtfoUpc/edit#\" target=\"_blank\"><b>[OUVRIR DOC]</b></a></p>"
+      },
+      "tags": {
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        },
+        "ref2011081831": {
+          "id": "ref2011081831",
+          "label": "ref2011081831"
+        },
+        "Taxonomiser": {
+          "id": "Taxonomiser",
+          "label": "Taxonomiser"
+        },
+        "ref2011141130": {
+          "id": "ref2011141130",
+          "label": "ref2011141130"
+        }
+      }
+    },
+    {
+      "id": "127gMvhM6S",
+      "guid": "1Cbt8HGayG",
+      "created": "2020-11-13T23:15:07.837Z",
+      "lastUpdated": "2020-11-13T23:15:24.455Z",
+      "rects": {
+        "0": {
+          "left": 544,
+          "top": 414,
+          "right": 656,
+          "bottom": 430,
+          "width": 111,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "eleven definitions are"
+        }
+      },
+      "text": {
+        "TEXT": "eleven definitions are"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>11 definitions:&nbsp;</h2>"
+      }
+    },
+    {
+      "id": "12L6648zHu",
+      "guid": "12GK84WmfM",
+      "created": "2020-11-13T23:15:56.188Z",
+      "lastUpdated": "2020-11-14T00:20:24.236Z",
+      "rects": {
+        "0": {
+          "left": 461,
+          "top": 446,
+          "right": 686,
+          "bottom": 462,
+          "width": 225,
+          "height": 15
+        },
+        "1": {
+          "left": 484,
+          "top": 462,
+          "right": 502,
+          "bottom": 478,
+          "width": 18,
+          "height": 15
+        },
+        "2": {
+          "left": 503,
+          "top": 463,
+          "right": 511,
+          "bottom": 477,
+          "width": 8,
+          "height": 14
+        },
+        "3": {
+          "left": 510,
+          "top": 462,
+          "right": 639,
+          "bottom": 478,
+          "width": 129,
+          "height": 15
+        },
+        "4": {
+          "left": 461,
+          "top": 478,
+          "right": 695,
+          "bottom": 494,
+          "width": 233,
+          "height": 15
+        },
+        "5": {
+          "left": 484,
+          "top": 494,
+          "right": 569,
+          "bottom": 510,
+          "width": 85,
+          "height": 15
+        },
+        "6": {
+          "left": 461,
+          "top": 510,
+          "right": 709,
+          "bottom": 526,
+          "width": 248,
+          "height": 15
+        },
+        "7": {
+          "left": 484,
+          "top": 526,
+          "right": 538,
+          "bottom": 542,
+          "width": 54,
+          "height": 15
+        },
+        "8": {
+          "left": 461,
+          "top": 542,
+          "right": 656,
+          "bottom": 558,
+          "width": 195,
+          "height": 15
+        },
+        "9": {
+          "left": 656,
+          "top": 542,
+          "right": 666,
+          "bottom": 558,
+          "width": 10,
+          "height": 15
+        },
+        "10": {
+          "left": 666,
+          "top": 542,
+          "right": 691,
+          "bottom": 558,
+          "width": 25,
+          "height": 15
+        },
+        "11": {
+          "left": 484,
+          "top": 558,
+          "right": 705,
+          "bottom": 574,
+          "width": 220,
+          "height": 15
+        },
+        "12": {
+          "left": 484,
+          "top": 574,
+          "right": 526,
+          "bottom": 590,
+          "width": 42,
+          "height": 15
+        },
+        "13": {
+          "left": 461,
+          "top": 590,
+          "right": 712,
+          "bottom": 606,
+          "width": 251,
+          "height": 15
+        },
+        "14": {
+          "left": 484,
+          "top": 606,
+          "right": 682,
+          "bottom": 622,
+          "width": 197,
+          "height": 15
+        },
+        "15": {
+          "left": 484,
+          "top": 622,
+          "right": 598,
+          "bottom": 638,
+          "width": 114,
+          "height": 15
+        },
+        "16": {
+          "left": 461,
+          "top": 638,
+          "right": 709,
+          "bottom": 654,
+          "width": 248,
+          "height": 15
+        },
+        "17": {
+          "left": 484,
+          "top": 654,
+          "right": 703,
+          "bottom": 670,
+          "width": 219,
+          "height": 15
+        },
+        "18": {
+          "left": 484,
+          "top": 670,
+          "right": 686,
+          "bottom": 686,
+          "width": 201,
+          "height": 15
+        },
+        "19": {
+          "left": 491,
+          "top": 686,
+          "right": 581,
+          "bottom": 702,
+          "width": 89,
+          "height": 15
+        },
+        "20": {
+          "left": 585,
+          "top": 686,
+          "right": 614,
+          "bottom": 702,
+          "width": 29,
+          "height": 15
+        },
+        "21": {
+          "left": 618,
+          "top": 686,
+          "right": 676,
+          "bottom": 702,
+          "width": 58,
+          "height": 15
+        },
+        "22": {
+          "left": 491,
+          "top": 702,
+          "right": 700,
+          "bottom": 718,
+          "width": 209,
+          "height": 15
+        },
+        "23": {
+          "left": 491,
+          "top": 718,
+          "right": 696,
+          "bottom": 734,
+          "width": 204,
+          "height": 15
+        },
+        "24": {
+          "left": 491,
+          "top": 734,
+          "right": 680,
+          "bottom": 750,
+          "width": 188,
+          "height": 15
+        },
+        "25": {
+          "left": 461,
+          "top": 750,
+          "right": 706,
+          "bottom": 766,
+          "width": 245,
+          "height": 15
+        },
+        "26": {
+          "left": 484,
+          "top": 766,
+          "right": 697,
+          "bottom": 782,
+          "width": 212,
+          "height": 15
+        },
+        "27": {
+          "left": 484,
+          "top": 782,
+          "right": 693,
+          "bottom": 798,
+          "width": 208,
+          "height": 15
+        },
+        "28": {
+          "left": 461,
+          "top": 798,
+          "right": 683,
+          "bottom": 814,
+          "width": 222,
+          "height": 15
+        },
+        "29": {
+          "left": 484,
+          "top": 814,
+          "right": 709,
+          "bottom": 830,
+          "width": 224,
+          "height": 15
+        },
+        "30": {
+          "left": 484,
+          "top": 830,
+          "right": 694,
+          "bottom": 846,
+          "width": 210,
+          "height": 15
+        },
+        "31": {
+          "left": 484,
+          "top": 846,
+          "right": 532,
+          "bottom": 862,
+          "width": 48,
+          "height": 15
+        },
+        "32": {
+          "left": 534,
+          "top": 847,
+          "right": 542,
+          "bottom": 861,
+          "width": 8,
+          "height": 14
+        },
+        "33": {
+          "left": 540,
+          "top": 846,
+          "right": 638,
+          "bottom": 862,
+          "width": 98,
+          "height": 15
+        },
+        "34": {
+          "left": 461,
+          "top": 862,
+          "right": 572,
+          "bottom": 878,
+          "width": 111,
+          "height": 15
+        },
+        "35": {
+          "left": 573,
+          "top": 863,
+          "right": 581,
+          "bottom": 877,
+          "width": 8,
+          "height": 14
+        },
+        "36": {
+          "left": 580,
+          "top": 862,
+          "right": 708,
+          "bottom": 878,
+          "width": 128,
+          "height": 15
+        },
+        "37": {
+          "left": 484,
+          "top": 878,
+          "right": 701,
+          "bottom": 894,
+          "width": 217,
+          "height": 15
+        },
+        "38": {
+          "left": 484,
+          "top": 894,
+          "right": 553,
+          "bottom": 910,
+          "width": 69,
+          "height": 15
+        },
+        "39": {
+          "left": 461,
+          "top": 910,
+          "right": 590,
+          "bottom": 926,
+          "width": 129,
+          "height": 15
+        },
+        "40": {
+          "left": 590,
+          "top": 911,
+          "right": 598,
+          "bottom": 925,
+          "width": 8,
+          "height": 14
+        },
+        "41": {
+          "left": 597,
+          "top": 910,
+          "right": 680,
+          "bottom": 926,
+          "width": 83,
+          "height": 15
+        },
+        "42": {
+          "left": 491,
+          "top": 926,
+          "right": 699,
+          "bottom": 942,
+          "width": 208,
+          "height": 15
+        },
+        "43": {
+          "left": 491,
+          "top": 942,
+          "right": 649,
+          "bottom": 958,
+          "width": 158,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "1.  Ele-art involves electrical engineering"
+        },
+        "1": {
+          "text": "and"
+        },
+        "2": {
+          "text": "/"
+        },
+        "3": {
+          "text": "or electronic technology."
+        },
+        "4": {
+          "text": "2.  C-art uses computers as part of the art-"
+        },
+        "5": {
+          "text": "making process."
+        },
+        "6": {
+          "text": "3.  D-art uses digital electronic technology of"
+        },
+        "7": {
+          "text": "some sort."
+        },
+        "8": {
+          "text": "4.  CA-art uses the computer as an "
+        },
+        "9": {
+          "text": "ai"
+        },
+        "10": {
+          "text": "d (in"
+        },
+        "11": {
+          "text": "principle, non-essential) in the art-making"
+        },
+        "12": {
+          "text": "process."
+        },
+        "13": {
+          "text": "5.  G-art works are generated, at least in part,"
+        },
+        "14": {
+          "text": "by some process that is not under the"
+        },
+        "15": {
+          "text": "artist’s direct control."
+        },
+        "16": {
+          "text": "6.  CG-art is produced by leaving a computer"
+        },
+        "17": {
+          "text": "program to run by itself, with minimal or"
+        },
+        "18": {
+          "text": "zero interference from a human being."
+        },
+        "19": {
+          "text": "NB: We chose to"
+        },
+        "20": {
+          "text": "reject"
+        },
+        "21": {
+          "text": "the stricter"
+        },
+        "22": {
+          "text": "definition of CG-art (art produced by a"
+        },
+        "23": {
+          "text": "program left to run by itself, with zero"
+        },
+        "24": {
+          "text": "interference from the human artist)."
+        },
+        "25": {
+          "text": "7.  Evo-art is evolved by processes of random"
+        },
+        "26": {
+          "text": "variation and selective reproduction that"
+        },
+        "27": {
+          "text": "affect the art-generating program itself."
+        },
+        "28": {
+          "text": "8.  R-art is the construction of robots for"
+        },
+        "29": {
+          "text": "artistic purposes, where robots are physical"
+        },
+        "30": {
+          "text": "machines capable of autonomous move-"
+        },
+        "31": {
+          "text": "ment and"
+        },
+        "32": {
+          "text": "/"
+        },
+        "33": {
+          "text": "or communication."
+        },
+        "34": {
+          "text": "9.  In I-art, the form"
+        },
+        "35": {
+          "text": "/"
+        },
+        "36": {
+          "text": "content of the artwork is"
+        },
+        "37": {
+          "text": "significantly affected by the behaviour of"
+        },
+        "38": {
+          "text": "the audience."
+        },
+        "39": {
+          "text": "10.  In CI-art, the form"
+        },
+        "40": {
+          "text": "/"
+        },
+        "41": {
+          "text": "content of some"
+        },
+        "42": {
+          "text": "CG-artwork is significantly affected by"
+        },
+        "43": {
+          "text": "the behaviour of the audience."
+        }
+      },
+      "text": {
+        "TEXT": "1.  Ele-art involves electrical engineering and / or electronic technology. 2.  C-art uses computers as part of the art- making process. 3.  D-art uses digital electronic technology of some sort. 4.  CA-art uses the computer as an ai d (in principle, non-essential) in the art-making process. 5.  G-art works are generated, at least in part, by some process that is not under the artist’s direct control. 6.  CG-art is produced by leaving a computer program to run by itself, with minimal or zero interference from a human being. NB: We chose to reject the stricter definition of CG-art (art produced by a program left to run by itself, with zero interference from the human artist). 7.  Evo-art is evolved by processes of random variation and selective reproduction that affect the art-generating program itself. 8.  R-art is the construction of robots for artistic purposes, where robots are physical machines capable of autonomous move- ment and / or communication. 9.  In I-art, the form / content of the artwork is significantly affected by the behaviour of the audience. 10.  In CI-art, the form / content of some CG-artwork is significantly affected by the behaviour of the audience."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p><span>\n\n</span></p><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div><br></div><div>## Table</div><div><br></div><div><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div>|&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Acronym&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Definition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Artists&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Ele-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;involves&nbsp;electrical&nbsp;engineering&nbsp;and&nbsp;/&nbsp;or&nbsp;electronic&nbsp;technology.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;uses&nbsp;computers&nbsp;as&nbsp;part&nbsp;of&nbsp;the&nbsp;art-&nbsp;making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;D-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;D-art&nbsp;&nbsp;uses&nbsp;digital&nbsp;electronic&nbsp;technology&nbsp;of&nbsp;some&nbsp;sort.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;uses&nbsp;the&nbsp;computer&nbsp;as&nbsp;an&nbsp;aid&nbsp;(in&nbsp;principle,&nbsp;non-essential)&nbsp;in&nbsp;the&nbsp;art-making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;G-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;works&nbsp;are&nbsp;generated,&nbsp;at&nbsp;least&nbsp;in&nbsp;part,&nbsp;by&nbsp;some&nbsp;process&nbsp;that&nbsp;is&nbsp;not&nbsp;under&nbsp;the&nbsp;artist’s&nbsp;direct&nbsp;control.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CG-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CG-art&nbsp;&nbsp;is&nbsp;produced&nbsp;by&nbsp;leaving&nbsp;a&nbsp;computer&nbsp;program&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;minimal&nbsp;or&nbsp;zero&nbsp;interference&nbsp;from&nbsp;a&nbsp;human&nbsp;being.&nbsp;NB:&nbsp;We&nbsp;chose&nbsp;to&nbsp;reject&nbsp;the&nbsp;stricter&nbsp;definition&nbsp;of&nbsp;CG-art&nbsp;(art&nbsp;produced&nbsp;by&nbsp;a&nbsp;program&nbsp;left&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;zero&nbsp;interference&nbsp;from&nbsp;the&nbsp;human&nbsp;artist).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;is&nbsp;evolved&nbsp;by&nbsp;processes&nbsp;of&nbsp;random&nbsp;variation&nbsp;and&nbsp;selective&nbsp;reproduction&nbsp;that&nbsp;affect&nbsp;the&nbsp;art-generating&nbsp;program&nbsp;itself.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;R-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;R-art&nbsp;&nbsp;is&nbsp;the&nbsp;construction&nbsp;of&nbsp;robots&nbsp;for&nbsp;artistic&nbsp;purposes,&nbsp;where&nbsp;robots&nbsp;are&nbsp;physical&nbsp;machines&nbsp;capable&nbsp;of&nbsp;autonomous&nbsp;move-&nbsp;ment&nbsp;and&nbsp;/&nbsp;or&nbsp;communication.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;I-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;I-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;the&nbsp;artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CI-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;CI-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;some&nbsp;CG-artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;11.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;VR-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;VR-art,&nbsp;the&nbsp;observer&nbsp;is&nbsp;immersed&nbsp;in&nbsp;a&nbsp;computer-generated&nbsp;virtual&nbsp;world,&nbsp;experiencing&nbsp;it&nbsp;and&nbsp;responding&nbsp;to&nbsp;it&nbsp;as&nbsp;if&nbsp;it&nbsp;were&nbsp;real.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><br><br></div></span></div></span></div></div>\n\n<p></p>"
+      },
+      "tags": {
+        "GATaxonomy": {
+          "id": "GATaxonomy",
+          "label": "GATaxonomy"
+        },
+        "Taxonomy": {
+          "id": "Taxonomy",
+          "label": "Taxonomy"
+        },
+        "ref2011141130": {
+          "id": "ref2011141130",
+          "label": "ref2011141130"
+        }
+      }
+    },
+    {
+      "id": "17NjeWJ9BHujeSa7tjiz",
+      "guid": "17NjeWJ9BHujeSa7tjiz",
+      "created": "2020-11-13T23:31:23.477Z",
+      "lastUpdated": "2020-11-13T23:31:23.477Z",
+      "content": {
+        "HTML": "<p>What is symbolic computation ?</p><p><br></p><p>What is connectionnist computation ?</p>"
+      },
+      "ref": "text-highlight:1XtRrhREFY"
+    }
+  ]
+
+}
+
+
+
+
+
+

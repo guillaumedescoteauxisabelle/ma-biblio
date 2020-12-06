@@ -1,0 +1,538 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12jE2We24o",
+      "guid": "123HrXCux5",
+      "created": "2020-10-13T20:26:06.433Z",
+      "lastUpdated": "2020-10-13T20:26:44.997Z",
+      "rects": {
+        "0": {
+          "left": 80,
+          "top": 90,
+          "right": 350,
+          "bottom": 148,
+          "width": 270,
+          "height": 58
+        },
+        "1": {
+          "left": 80,
+          "top": 148,
+          "right": 299,
+          "bottom": 162,
+          "width": 219,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "FRAME INNOVATION",
+          "rect": {
+            "left": 80,
+            "top": 90,
+            "right": 350,
+            "bottom": 117,
+            "width": 270,
+            "height": 27
+          }
+        },
+        "1": {
+          "text": "CREATE ",
+          "rect": {
+            "left": 80,
+            "top": 148,
+            "right": 132,
+            "bottom": 162,
+            "width": 52,
+            "height": 13
+          }
+        },
+        "2": {
+          "text": "NEW THINKING",
+          "rect": {
+            "left": 132,
+            "top": 148,
+            "right": 227,
+            "bottom": 162,
+            "width": 95,
+            "height": 13
+          }
+        },
+        "3": {
+          "text": " BY DESIGN",
+          "rect": {
+            "left": 228,
+            "top": 148,
+            "right": 299,
+            "bottom": 162,
+            "width": 71,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "FRAME INNOVATION\nCREATE NEW THINKING BY DESIGN"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>FRAME INNOVATION&nbsp;: CREATE NEW THINKING BY DESIGN</h1>"
+      }
+    },
+    {
+      "id": "12qTJ7LV7m",
+      "guid": "124JGECfCt",
+      "created": "2020-10-13T20:26:20.425Z",
+      "lastUpdated": "2020-10-13T20:26:35.364Z",
+      "rects": {
+        "0": {
+          "left": 112,
+          "top": 284,
+          "right": 158,
+          "bottom": 298,
+          "width": 46,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " DORST",
+          "rect": {
+            "left": 112,
+            "top": 284,
+            "right": 158,
+            "bottom": 298,
+            "width": 46,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": " DORST"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p> DORST</p><p><br></p><p>Citer: (Dorst, 2015)</p><p>FTag: Dorst-2015</p><p>\n\n</p><p>APA7: Dorst, K. (2015). <em>Frame innovation: Create new thinking by design</em> (Vol. 32). The MIT Press. <a href=\"https://doi.org/10.1016/j.destud.2011.07.006\">https://doi.org/10.1016/j.destud.2011.07.006</a></p>"
+      }
+    },
+    {
+      "id": "12pXTbi9Qi",
+      "guid": "12pXTbi9Qi",
+      "created": "2020-10-13T20:28:23.855Z",
+      "lastUpdated": "2020-10-13T20:28:23.855Z",
+      "rects": {
+        "0": {
+          "left": 409,
+          "top": 204,
+          "right": 514,
+          "bottom": 223,
+          "width": 105,
+          "height": 19
+        },
+        "1": {
+          "left": 80,
+          "top": 223,
+          "right": 384,
+          "bottom": 236,
+          "width": 304,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "y work on framing ",
+          "rect": {
+            "left": 409,
+            "top": 204,
+            "right": 514,
+            "bottom": 218,
+            "width": 104,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "the project in terms of both problem and solution spaces",
+          "rect": {
+            "left": 80,
+            "top": 223,
+            "right": 384,
+            "bottom": 236,
+            "width": 304,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "y work on framing \nthe project in terms of both problem and solution spaces"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12ENjMLcoK",
+      "guid": "12YfyuNpar",
+      "created": "2020-10-13T20:28:35.429Z",
+      "lastUpdated": "2020-10-13T20:40:58.265Z",
+      "rects": {
+        "0": {
+          "left": 324,
+          "top": 241,
+          "right": 514,
+          "bottom": 260,
+          "width": 190,
+          "height": 19
+        },
+        "1": {
+          "left": 80,
+          "top": 260,
+          "right": 451,
+          "bottom": 274,
+          "width": 371,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "designers  use  abstraction,  or  an  ",
+          "rect": {
+            "left": 324,
+            "top": 241,
+            "right": 514,
+            "bottom": 255,
+            "width": 189,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "emphasis  on  the  future  context  in  which  the  design  has  to  function",
+          "rect": {
+            "left": 80,
+            "top": 260,
+            "right": 451,
+            "bottom": 274,
+            "width": 371,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "designers  use  abstraction,  or  an  \nemphasis  on  the  future  context  in  which  the  design  has  to  function"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "[...] designers  use  abstraction,  or  an  \nemphasis  on  the  future  context  in  which  the  design  has  to  function [...]&nbsp;from  a  problem-solving  approach  to  one  that  allows  for  the  negotiation  of  new  frames [Hekkert  and  van  Dijk  2011]&nbsp; [...] an exploration of deeper situational values. (Dorst, 2015, p. 61)"
+      },
+      "tags": {
+        "CreativeOrientation": {
+          "id": "CreativeOrientation",
+          "label": "CreativeOrientation"
+        },
+        "CreativeProcess": {
+          "id": "CreativeProcess",
+          "label": "CreativeProcess"
+        },
+        "CreativeFraming": {
+          "id": "CreativeFraming",
+          "label": "CreativeFraming"
+        }
+      }
+    },
+    {
+      "id": "1nVp9oM2rc",
+      "guid": "1nVp9oM2rc",
+      "created": "2020-10-13T20:30:50.733Z",
+      "lastUpdated": "2020-10-13T20:30:50.733Z",
+      "rects": {
+        "0": {
+          "left": 317,
+          "top": 241,
+          "right": 514,
+          "bottom": 260,
+          "width": 197,
+          "height": 19
+        },
+        "1": {
+          "left": 80,
+          "top": 260,
+          "right": 509,
+          "bottom": 279,
+          "width": 429,
+          "height": 19
+        },
+        "2": {
+          "left": 80,
+          "top": 279,
+          "right": 508,
+          "bottom": 298,
+          "width": 428,
+          "height": 19
+        },
+        "3": {
+          "left": 80,
+          "top": 298,
+          "right": 347,
+          "bottom": 311,
+          "width": 267,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  designers  use  abstraction,  or  an  ",
+          "rect": {
+            "left": 317,
+            "top": 241,
+            "right": 514,
+            "bottom": 255,
+            "width": 196,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "emphasis  on  the  future  context  in  which  the  design  has  to  function,  to  sway  ",
+          "rect": {
+            "left": 80,
+            "top": 260,
+            "right": 509,
+            "bottom": 274,
+            "width": 428,
+            "height": 13
+          }
+        },
+        "2": {
+          "text": "clients  from  a  problem-solving  approach  to  one  that  allows  for  the  negotia-",
+          "rect": {
+            "left": 80,
+            "top": 279,
+            "right": 508,
+            "bottom": 293,
+            "width": 427,
+            "height": 13
+          }
+        },
+        "3": {
+          "text": "tion  of  new  frames  (Hekkert  and  van  Dijk  2011)",
+          "rect": {
+            "left": 80,
+            "top": 298,
+            "right": 347,
+            "bottom": 311,
+            "width": 266,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "  designers  use  abstraction,  or  an  \nemphasis  on  the  future  context  in  which  the  design  has  to  function,  to  sway  \nclients  from  a  problem-solving  approach  to  one  that  allows  for  the  negotia-\ntion  of  new  frames  (Hekkert  and  van  Dijk  2011)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1BSBvskmnv",
+      "guid": "1J75y62D5y",
+      "created": "2020-10-13T20:31:23.457Z",
+      "lastUpdated": "2020-10-13T20:51:38.636Z",
+      "rects": {
+        "0": {
+          "left": 415,
+          "top": 316,
+          "right": 503,
+          "bottom": 335,
+          "width": 88,
+          "height": 19
+        },
+        "1": {
+          "left": 80,
+          "top": 335,
+          "right": 228,
+          "bottom": 348,
+          "width": 148,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "o a",
+          "rect": {
+            "left": 415,
+            "top": 316,
+            "right": 432,
+            "bottom": 330,
+            "width": 16,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "n exp",
+          "rect": {
+            "left": 431,
+            "top": 316,
+            "right": 461,
+            "bottom": 330,
+            "width": 29,
+            "height": 13
+          }
+        },
+        "2": {
+          "text": "loration",
+          "rect": {
+            "left": 461,
+            "top": 316,
+            "right": 503,
+            "bottom": 330,
+            "width": 42,
+            "height": 13
+          }
+        },
+        "3": {
+          "text": "of deeper situational value",
+          "rect": {
+            "left": 80,
+            "top": 335,
+            "right": 228,
+            "bottom": 348,
+            "width": 147,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": "o an exploration\nof deeper situational value"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "[...]&nbsp; an exploration\nof deeper situational value"
+      }
+    },
+    {
+      "id": "1TqjcRgs1n",
+      "guid": "1z7M54pKRL",
+      "created": "2020-10-13T20:31:54.952Z",
+      "lastUpdated": "2020-10-13T20:32:26.833Z",
+      "rects": {
+        "0": {
+          "left": 237,
+          "top": 335,
+          "right": 517,
+          "bottom": 353,
+          "width": 280,
+          "height": 18
+        },
+        "1": {
+          "left": 80,
+          "top": 353,
+          "right": 514,
+          "bottom": 372,
+          "width": 434,
+          "height": 19
+        },
+        "2": {
+          "left": 80,
+          "top": 372,
+          "right": 230,
+          "bottom": 386,
+          "width": 150,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " Designers use metaphor, contextual engagement, ",
+          "rect": {
+            "left": 237,
+            "top": 335,
+            "right": 517,
+            "bottom": 348,
+            "width": 279,
+            "height": 13
+          }
+        },
+        "1": {
+          "text": "and conjecture to “destructure” the problem situation along with their clients ",
+          "rect": {
+            "left": 80,
+            "top": 353,
+            "right": 514,
+            "bottom": 367,
+            "width": 433,
+            "height": 13
+          }
+        },
+        "2": {
+          "text": "to allow reframing to occur.",
+          "rect": {
+            "left": 80,
+            "top": 372,
+            "right": 230,
+            "bottom": 386,
+            "width": 149,
+            "height": 13
+          }
+        }
+      },
+      "text": {
+        "TEXT": " Designers use metaphor, contextual engagement, \nand conjecture to “destructure” the problem situation along with their clients \nto allow reframing to occur."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": " Designers use metaphor, contextual engagement, \nand conjecture to “destructure” [...] situation [...]&nbsp;to allow reframing to occur."
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

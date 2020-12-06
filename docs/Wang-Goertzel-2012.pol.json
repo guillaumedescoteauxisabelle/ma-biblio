@@ -1,0 +1,1038 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1u4KHQenwH",
+      "guid": "1u4KHQenwH",
+      "created": "2020-09-26T17:41:08.905Z",
+      "lastUpdated": "2020-09-26T17:41:08.905Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 570,
+          "right": 321,
+          "bottom": 585,
+          "width": 159,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "1.",
+          "rect": {
+            "left": 162,
+            "top": 570,
+            "right": 172,
+            "bottom": 585,
+            "width": 10,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "What is meant by “AGI” ",
+          "rect": {
+            "left": 176,
+            "top": 570,
+            "right": 321,
+            "bottom": 585,
+            "width": 145,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "1. What is meant by “AGI” "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12wTSm8tu9",
+      "guid": "12wTSm8tu9",
+      "created": "2020-09-26T17:41:40.747Z",
+      "lastUpdated": "2020-09-26T17:41:40.747Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 548,
+          "right": 428,
+          "bottom": 560,
+          "width": 266,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[4] B. Goertzel.  The Structure of",
+          "rect": {
+            "left": 162,
+            "top": 548,
+            "right": 304,
+            "bottom": 560,
+            "width": 142,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": " Intelligence,   Springer, 1993",
+          "rect": {
+            "left": 302,
+            "top": 548,
+            "right": 428,
+            "bottom": 560,
+            "width": 126,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[4] B. Goertzel.  The Structure of Intelligence,   Springer, 1993"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1Qo8qRRyCY",
+      "guid": "1Qo8qRRyCY",
+      "created": "2020-09-26T17:41:47.486Z",
+      "lastUpdated": "2020-09-26T17:41:47.486Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 560,
+          "right": 548,
+          "bottom": 573,
+          "width": 386,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[5] B. Goertzel and",
+          "rect": {
+            "left": 162,
+            "top": 560,
+            "right": 244,
+            "bottom": 573,
+            "width": 82,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": " C. Pennachin (editors), Artificial General Intelligence, Springer, 2",
+          "rect": {
+            "left": 244,
+            "top": 560,
+            "right": 528,
+            "bottom": 573,
+            "width": 284,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "007.",
+          "rect": {
+            "left": 530,
+            "top": 560,
+            "right": 548,
+            "bottom": 573,
+            "width": 18,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[5] B. Goertzel and C. Pennachin (editors), Artificial General Intelligence, Springer, 2007."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12wihvaAPy",
+      "guid": "12wihvaAPy",
+      "created": "2020-09-26T17:41:59.299Z",
+      "lastUpdated": "2020-09-26T17:41:59.299Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 622,
+          "right": 634,
+          "bottom": 634,
+          "width": 472,
+          "height": 12
+        },
+        "1": {
+          "left": 186,
+          "top": 634,
+          "right": 213,
+          "bottom": 646,
+          "width": 27,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[10]",
+          "rect": {
+            "left": 162,
+            "top": 622,
+            "right": 180,
+            "bottom": 634,
+            "width": 17,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "  P.  Langl  ey,  Cognitive ",
+          "rect": {
+            "left": 180,
+            "top": 622,
+            "right": 287,
+            "bottom": 634,
+            "width": 106,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "Architectures",
+          "rect": {
+            "left": 282,
+            "top": 622,
+            "right": 339,
+            "bottom": 634,
+            "width": 57,
+            "height": 12
+          }
+        },
+        "3": {
+          "text": "  and    General  Intellige  nt  Systems,  AI",
+          "rect": {
+            "left": 339,
+            "top": 622,
+            "right": 508,
+            "bottom": 634,
+            "width": 169,
+            "height": 12
+          }
+        },
+        "4": {
+          "text": " Magazine 27",
+          "rect": {
+            "left": 498,
+            "top": 622,
+            "right": 558,
+            "bottom": 634,
+            "width": 59,
+            "height": 12
+          }
+        },
+        "5": {
+          "text": "(2006),  Summ",
+          "rect": {
+            "left": 558,
+            "top": 622,
+            "right": 620,
+            "bottom": 634,
+            "width": 62,
+            "height": 12
+          }
+        },
+        "6": {
+          "text": "er, ",
+          "rect": {
+            "left": 620,
+            "top": 622,
+            "right": 634,
+            "bottom": 634,
+            "width": 14,
+            "height": 12
+          }
+        },
+        "7": {
+          "text": "33",
+          "rect": {
+            "left": 186,
+            "top": 634,
+            "right": 197,
+            "bottom": 646,
+            "width": 10,
+            "height": 12
+          }
+        },
+        "8": {
+          "text": "-44.",
+          "rect": {
+            "left": 196,
+            "top": 634,
+            "right": 213,
+            "bottom": 646,
+            "width": 16,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[10]  P.  Langl  ey,  Cognitive Architectures  and    General  Intellige  nt  Systems,  AI Magazine 27(2006),  Summer, \n33-44."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1pz2LPNFg4",
+      "guid": "1pz2LPNFg4",
+      "created": "2020-09-26T17:42:11.491Z",
+      "lastUpdated": "2020-09-26T17:42:11.491Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 683,
+          "right": 503,
+          "bottom": 696,
+          "width": 341,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[13]",
+          "rect": {
+            "left": 162,
+            "top": 683,
+            "right": 180,
+            "bottom": 696,
+            "width": 17,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": " A. Newe",
+          "rect": {
+            "left": 180,
+            "top": 683,
+            "right": 220,
+            "bottom": 696,
+            "width": 39,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "ll, Unified Theor",
+          "rect": {
+            "left": 220,
+            "top": 683,
+            "right": 292,
+            "bottom": 696,
+            "width": 72,
+            "height": 12
+          }
+        },
+        "3": {
+          "text": "ies of ",
+          "rect": {
+            "left": 293,
+            "top": 683,
+            "right": 319,
+            "bottom": 696,
+            "width": 26,
+            "height": 12
+          }
+        },
+        "4": {
+          "text": "Cognition, Harvard Univer",
+          "rect": {
+            "left": 319,
+            "top": 683,
+            "right": 434,
+            "bottom": 696,
+            "width": 115,
+            "height": 12
+          }
+        },
+        "5": {
+          "text": "sity Pre",
+          "rect": {
+            "left": 434,
+            "top": 683,
+            "right": 466,
+            "bottom": 696,
+            "width": 32,
+            "height": 12
+          }
+        },
+        "6": {
+          "text": "ss, 1990.",
+          "rect": {
+            "left": 466,
+            "top": 683,
+            "right": 503,
+            "bottom": 696,
+            "width": 37,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[13] A. Newell, Unified Theories of Cognition, Harvard University Press, 1990."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12J6gU1M8S",
+      "guid": "12J6gU1M8S",
+      "created": "2020-09-26T17:42:25.763Z",
+      "lastUpdated": "2020-09-26T17:42:25.763Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 720,
+          "right": 625,
+          "bottom": 733,
+          "width": 463,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[15]",
+          "rect": {
+            "left": 162,
+            "top": 720,
+            "right": 180,
+            "bottom": 733,
+            "width": 17,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": " N. ",
+          "rect": {
+            "left": 180,
+            "top": 720,
+            "right": 196,
+            "bottom": 733,
+            "width": 15,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "J. Nilss  on, Human-Level Arti ficial Intelligence? ",
+          "rect": {
+            "left": 196,
+            "top": 720,
+            "right": 411,
+            "bottom": 733,
+            "width": 215,
+            "height": 12
+          }
+        },
+        "3": {
+          "text": "Be Ser",
+          "rect": {
+            "left": 405,
+            "top": 720,
+            "right": 433,
+            "bottom": 733,
+            "width": 28,
+            "height": 12
+          }
+        },
+        "4": {
+          "text": "ious! AI",
+          "rect": {
+            "left": 433,
+            "top": 720,
+            "right": 468,
+            "bottom": 733,
+            "width": 34,
+            "height": 12
+          }
+        },
+        "5": {
+          "text": " Magazine, 26(20",
+          "rect": {
+            "left": 468,
+            "top": 720,
+            "right": 543,
+            "bottom": 733,
+            "width": 75,
+            "height": 12
+          }
+        },
+        "6": {
+          "text": "05",
+          "rect": {
+            "left": 543,
+            "top": 720,
+            "right": 554,
+            "bottom": 733,
+            "width": 10,
+            "height": 12
+          }
+        },
+        "7": {
+          "text": "), Winter,",
+          "rect": {
+            "left": 554,
+            "top": 720,
+            "right": 595,
+            "bottom": 733,
+            "width": 40,
+            "height": 12
+          }
+        },
+        "8": {
+          "text": " 68–75",
+          "rect": {
+            "left": 596,
+            "top": 720,
+            "right": 625,
+            "bottom": 733,
+            "width": 28,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[15] N. J. Nilss  on, Human-Level Arti ficial Intelligence? Be Serious! AI Magazine, 26(2005), Winter, 68–75"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12SL7dMfpd",
+      "guid": "12SL7dMfpd",
+      "created": "2020-09-26T17:42:37.506Z",
+      "lastUpdated": "2020-09-26T17:42:37.506Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 769,
+          "right": 457,
+          "bottom": 781,
+          "width": 295,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[19  ] H.L. Dreyfus, What Computers Sti ll Can’t Do, MIT Press  , 19",
+          "rect": {
+            "left": 162,
+            "top": 769,
+            "right": 457,
+            "bottom": 781,
+            "width": 295,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[19  ] H.L. Dreyfus, What Computers Sti ll Can’t Do, MIT Press  , 19"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1BSEUFxehe",
+      "guid": "1BSEUFxehe",
+      "created": "2020-09-26T17:42:45.445Z",
+      "lastUpdated": "2020-09-26T17:42:45.445Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 781,
+          "right": 633,
+          "bottom": 793,
+          "width": 471,
+          "height": 12
+        },
+        "1": {
+          "left": 186,
+          "top": 793,
+          "right": 286,
+          "bottom": 806,
+          "width": 100,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[20  ] R. ",
+          "rect": {
+            "left": 162,
+            "top": 781,
+            "right": 201,
+            "bottom": 793,
+            "width": 38,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "Penrose, The Emperor's New Mind: Concerning",
+          "rect": {
+            "left": 196,
+            "top": 781,
+            "right": 403,
+            "bottom": 793,
+            "width": 206,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": " Computers, Minds, and ",
+          "rect": {
+            "left": 403,
+            "top": 781,
+            "right": 508,
+            "bottom": 793,
+            "width": 105,
+            "height": 12
+          }
+        },
+        "3": {
+          "text": "the",
+          "rect": {
+            "left": 508,
+            "top": 781,
+            "right": 521,
+            "bottom": 793,
+            "width": 13,
+            "height": 12
+          }
+        },
+        "4": {
+          "text": " Laws of Physics, Oxford ",
+          "rect": {
+            "left": 521,
+            "top": 781,
+            "right": 633,
+            "bottom": 793,
+            "width": 112,
+            "height": 12
+          }
+        },
+        "5": {
+          "text": "University Press, ",
+          "rect": {
+            "left": 186,
+            "top": 793,
+            "right": 261,
+            "bottom": 806,
+            "width": 75,
+            "height": 12
+          }
+        },
+        "6": {
+          "text": "1989.",
+          "rect": {
+            "left": 262,
+            "top": 793,
+            "right": 286,
+            "bottom": 806,
+            "width": 23,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[20  ] R. Penrose, The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics, Oxford \nUniversity Press, 1989."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "18WrHm9Gqa",
+      "guid": "18WrHm9Gqa",
+      "created": "2020-09-26T17:43:08.080Z",
+      "lastUpdated": "2020-09-26T17:43:08.080Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 879,
+          "right": 634,
+          "bottom": 892,
+          "width": 472,
+          "height": 13
+        },
+        "1": {
+          "left": 186,
+          "top": 892,
+          "right": 409,
+          "bottom": 904,
+          "width": 223,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[24]  D.  Kahneman,  P.  Slovic,  &  A.  Tversky  (editors),  Judgment  under  Uncertainty:  Heuristics  and  Biases.  ",
+          "rect": {
+            "left": 162,
+            "top": 879,
+            "right": 634,
+            "bottom": 892,
+            "width": 471,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "Cambrid",
+          "rect": {
+            "left": 186,
+            "top": 892,
+            "right": 222,
+            "bottom": 904,
+            "width": 36,
+            "height": 12
+          }
+        },
+        "2": {
+          "text": "ge, UK: Cambridge University Press, 1982.",
+          "rect": {
+            "left": 222,
+            "top": 892,
+            "right": 409,
+            "bottom": 904,
+            "width": 186,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[24]  D.  Kahneman,  P.  Slovic,  &  A.  Tversky  (editors),  Judgment  under  Uncertainty:  Heuristics  and  Biases.  \nCambridge, UK: Cambridge University Press, 1982."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FCB900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1yUGWQUQGB",
+      "guid": "1yUGWQUQGB",
+      "created": "2020-09-26T17:43:18.205Z",
+      "lastUpdated": "2020-09-26T17:43:18.205Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 904,
+          "right": 634,
+          "bottom": 916,
+          "width": 472,
+          "height": 12
+        },
+        "1": {
+          "left": 186,
+          "top": 916,
+          "right": 452,
+          "bottom": 929,
+          "width": 266,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "[25]  T.  Gilovich,,  D.  Griffin  &  D.  Kahneman  (editors),  Heuristics  and  biases:  The  psychology  of  intuitive  ",
+          "rect": {
+            "left": 162,
+            "top": 904,
+            "right": 634,
+            "bottom": 916,
+            "width": 472,
+            "height": 12
+          }
+        },
+        "1": {
+          "text": "judgment. Cambridge, UK: Cambridge University Press, 2002",
+          "rect": {
+            "left": 186,
+            "top": 916,
+            "right": 452,
+            "bottom": 929,
+            "width": 265,
+            "height": 12
+          }
+        }
+      },
+      "text": {
+        "TEXT": "[25]  T.  Gilovich,,  D.  Griffin  &  D.  Kahneman  (editors),  Heuristics  and  biases:  The  psychology  of  intuitive  \njudgment. Cambridge, UK: Cambridge University Press, 2002"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#EB144C",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1WHELrGx1c",
+      "guid": "12hZag2tBZ",
+      "created": "2020-09-26T17:54:20.276Z",
+      "lastUpdated": "2020-09-26T17:56:22.991Z",
+      "rects": {
+        "0": {
+          "left": 171,
+          "top": 239,
+          "right": 620,
+          "bottom": 270,
+          "width": 449,
+          "height": 31
+        },
+        "1": {
+          "left": 333,
+          "top": 270,
+          "right": 465,
+          "bottom": 300,
+          "width": 132,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Introduction: Aspects of Artificial General ",
+          "rect": {
+            "left": 171,
+            "top": 239,
+            "right": 620,
+            "bottom": 269,
+            "width": 449,
+            "height": 29
+          }
+        },
+        "1": {
+          "text": "Intelligence ",
+          "rect": {
+            "left": 333,
+            "top": 270,
+            "right": 465,
+            "bottom": 300,
+            "width": 131,
+            "height": 29
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Introduction: Aspects of Artificial General \nIntelligence "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Introduction: Aspects of Artificial General \nIntelligence</p><p><b>#AIType</b></p><p><b><br></b></p><p><b>------------------------------------------------------</b></p><h1 style=\"line-height:1.38;margin-top:18pt;margin-bottom:6pt;\"><span style=\"font-size: 16pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>@Dans ma recherche</b></span></h1><p><span id=\"docs-internal-guid-865eb467-7fff-9c8f-0ce7-d8e1bb350568\"></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Définir plus en détail les types d’intelligence artificielle.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">--------------------------------------------------------------</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><br></p><p> </p>"
+      }
+    },
+    {
+      "id": "12Xhd3DHAc",
+      "guid": "1GrMyr23VR",
+      "created": "2020-09-26T17:54:25.778Z",
+      "lastUpdated": "2020-09-26T17:56:51.169Z",
+      "rects": {
+        "0": {
+          "left": 306,
+          "top": 322,
+          "right": 489,
+          "bottom": 337,
+          "width": 183,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Pei WANG and Ben GOERTZE",
+          "rect": {
+            "left": 306,
+            "top": 322,
+            "right": 489,
+            "bottom": 337,
+            "width": 182,
+            "height": 15
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Pei WANG and Ben GOERTZE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><b>Pei WANG and Ben GOERTZE</b></p><p><b></b></p><p>-------------------------------------------------</p><p>Citer: (Wang &amp; Goertzel, 2012)</p><p>FTag: Wang-Goertzel-2012</p><p>\n\n</p><p>APA7 : Wang, P., &amp; Goertzel, B. (2012). <em>Introduction: Aspects of Artificial General Intelligence</em>. 17.</p><p>-----------------------------------------------------------------------------------------</p><p></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12pTGUCNdX",
+      "guid": "12pTGUCNdX",
+      "created": "2020-11-04T23:33:35.737Z",
+      "lastUpdated": "2020-11-04T23:33:35.737Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 263,
+          "right": 382,
+          "bottom": 281,
+          "width": 214,
+          "height": 18
+        },
+        "1": {
+          "left": 376,
+          "top": 263,
+          "right": 561,
+          "bottom": 281,
+          "width": 184,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’observation en situation : en"
+        },
+        "1": {
+          "text": "jeux, possibilités et limites "
+        }
+      },
+      "text": {
+        "TEXT": "L’observation en situation : en jeux, possibilités et limites"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1a15gLnrBm",
+      "guid": "12eqMkFvYx",
+      "created": "2020-11-06T17:07:46.000Z",
+      "lastUpdated": "2020-11-06T17:09:13.017Z",
+      "rects": {
+        "0": {
+          "left": 233,
+          "top": 337,
+          "right": 305,
+          "bottom": 355,
+          "width": 72,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Martineau "
+        }
+      },
+      "text": {
+        "TEXT": "Martineau"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n\n<p>Martineau, 2005</p>\n</span><span>\n\n<p>Martineau-2005</p><p><br>\n</p>\n</span></p><p><br></p>"
+      }
+    },
+    {
+      "id": "12pApQTML8",
+      "guid": "12pApQTML8",
+      "created": "2020-11-06T17:08:07.256Z",
+      "lastUpdated": "2020-11-06T17:08:07.256Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 155,
+          "right": 176,
+          "bottom": 172,
+          "width": 8,
+          "height": 16
+        },
+        "1": {
+          "left": 177,
+          "top": 157,
+          "right": 412,
+          "bottom": 171,
+          "width": 235,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "T"
+        },
+        "1": {
+          "text": "ROIS POSITIONS ÉPISTÉMOLOGIQUE"
+        }
+      },
+      "text": {
+        "TEXT": "T ROIS POSITIONS ÉPISTÉMOLOGIQUE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Zhh9sNxbt",
+      "guid": "1rbpYSbCTY",
+      "created": "2020-11-06T17:08:24.733Z",
+      "lastUpdated": "2020-11-06T17:08:41.083Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 188,
+          "right": 411,
+          "bottom": 205,
+          "width": 243,
+          "height": 16
+        },
+        "1": {
+          "left": 409,
+          "top": 188,
+          "right": 644,
+          "bottom": 205,
+          "width": 234,
+          "height": 16
+        },
+        "2": {
+          "left": 167,
+          "top": 205,
+          "right": 402,
+          "bottom": 222,
+          "width": 234,
+          "height": 16
+        },
+        "3": {
+          "left": 399,
+          "top": 205,
+          "right": 640,
+          "bottom": 222,
+          "width": 240,
+          "height": 16
+        },
+        "4": {
+          "left": 167,
+          "top": 222,
+          "right": 258,
+          "bottom": 239,
+          "width": 90,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’observation  en  situation,  comme  n’im"
+        },
+        "1": {
+          "text": "porte  lequel  outil  méthodologique,  va  "
+        },
+        "2": {
+          "text": "être coloré par la position épistémologi"
+        },
+        "3": {
+          "text": "que adoptée par le chercheur (Laville et "
+        },
+        "4": {
+          "text": "Dionne, 1996)."
+        }
+      },
+      "text": {
+        "TEXT": "L’observation  en  situation,  comme  n’im porte  lequel  outil  méthodologique,  va être coloré par la position épistémologi que adoptée par le chercheur (Laville et Dionne, 1996)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "L’observation  en  situation,  comme  n’im porte  lequel  outil  méthodologique,  va être coloré par la position épistémologique adoptée par le chercheur (Laville et Dionne, 1996)."
+      },
+      "tags": {
+        "Metho": {
+          "id": "Metho",
+          "label": "Metho"
+        }
+      }
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

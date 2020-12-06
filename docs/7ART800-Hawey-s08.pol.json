@@ -1,0 +1,1011 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1E6zMr5PP5",
+      "guid": "1E6zMr5PP5",
+      "created": "2020-11-04T22:50:15.676Z",
+      "lastUpdated": "2020-11-04T22:50:15.676Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 185,
+          "right": 200,
+          "bottom": 215,
+          "width": 131,
+          "height": 29
+        },
+        "1": {
+          "left": 198,
+          "top": 185,
+          "right": 632,
+          "bottom": 215,
+          "width": 433,
+          "height": 29
+        },
+        "2": {
+          "left": 627,
+          "top": 185,
+          "right": 742,
+          "bottom": 215,
+          "width": 115,
+          "height": 29
+        },
+        "3": {
+          "left": 93,
+          "top": 210,
+          "right": 101,
+          "bottom": 237,
+          "width": 8,
+          "height": 26
+        },
+        "4": {
+          "left": 117,
+          "top": 214,
+          "right": 205,
+          "bottom": 240,
+          "width": 87,
+          "height": 26
+        },
+        "5": {
+          "left": 205,
+          "top": 214,
+          "right": 749,
+          "bottom": 240,
+          "width": 544,
+          "height": 26
+        },
+        "6": {
+          "left": 117,
+          "top": 234,
+          "right": 746,
+          "bottom": 259,
+          "width": 629,
+          "height": 25
+        },
+        "7": {
+          "left": 117,
+          "top": 252,
+          "right": 746,
+          "bottom": 278,
+          "width": 629,
+          "height": 25
+        },
+        "8": {
+          "left": 117,
+          "top": 271,
+          "right": 533,
+          "bottom": 298,
+          "width": 415,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Séance 09 : "
+        },
+        "1": {
+          "text": "La cueillette des données de recherche "
+        },
+        "2": {
+          "text": "qualitative"
+        },
+        "3": {
+          "text": "•"
+        },
+        "4": {
+          "text": "L’objectif "
+        },
+        "5": {
+          "text": "de cette séance est de se familiariser avec les instruments "
+        },
+        "6": {
+          "text": "(méthodes) servant à recueillir des données à partir de propos et/ou "
+        },
+        "7": {
+          "text": "d’observations auprès de participants et sur le terrain d’une pratique "
+        },
+        "8": {
+          "text": "vécue de conception, création ou réception. "
+        }
+      },
+      "text": {
+        "TEXT": "Séance 09 : La cueillette des données de recherche qualitative • L’objectif de cette séance est de se familiariser avec les instruments (méthodes) servant à recueillir des données à partir de propos et/ou d’observations auprès de participants et sur le terrain d’une pratique vécue de conception, création ou réception."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12ex2TXbb5",
+      "guid": "12ex2TXbb5",
+      "created": "2020-11-04T22:50:19.534Z",
+      "lastUpdated": "2020-11-04T22:50:19.534Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 339,
+          "right": 153,
+          "bottom": 369,
+          "width": 83,
+          "height": 29
+        },
+        "1": {
+          "left": 152,
+          "top": 339,
+          "right": 199,
+          "bottom": 369,
+          "width": 46,
+          "height": 29
+        },
+        "2": {
+          "left": 198,
+          "top": 339,
+          "right": 646,
+          "bottom": 369,
+          "width": 447,
+          "height": 29
+        },
+        "3": {
+          "left": 642,
+          "top": 339,
+          "right": 768,
+          "bottom": 369,
+          "width": 125,
+          "height": 29
+        },
+        "4": {
+          "left": 93,
+          "top": 365,
+          "right": 101,
+          "bottom": 391,
+          "width": 8,
+          "height": 25
+        },
+        "5": {
+          "left": 117,
+          "top": 369,
+          "right": 740,
+          "bottom": 395,
+          "width": 622,
+          "height": 25
+        },
+        "6": {
+          "left": 117,
+          "top": 388,
+          "right": 777,
+          "bottom": 413,
+          "width": 659,
+          "height": 25
+        },
+        "7": {
+          "left": 117,
+          "top": 407,
+          "right": 221,
+          "bottom": 433,
+          "width": 103,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Séance "
+        },
+        "1": {
+          "text": "10 : "
+        },
+        "2": {
+          "text": "L’analyse et l’interprétation des données "
+        },
+        "3": {
+          "text": "qualitatives"
+        },
+        "4": {
+          "text": "•"
+        },
+        "5": {
+          "text": "L’objectif de cette séance est de se familiariser avec les instruments "
+        },
+        "6": {
+          "text": "(méthodes) servant à analyser et à interpréter des données qualitatives "
+        },
+        "7": {
+          "text": "recueillies. "
+        }
+      },
+      "text": {
+        "TEXT": "Séance 10 : L’analyse et l’interprétation des données qualitatives • L’objectif de cette séance est de se familiariser avec les instruments (méthodes) servant à analyser et à interpréter des données qualitatives recueillies."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1ZeuMRAnte",
+      "guid": "1ZeuMRAnte",
+      "created": "2020-11-04T22:50:23.425Z",
+      "lastUpdated": "2020-11-04T22:50:23.425Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 475,
+          "right": 153,
+          "bottom": 504,
+          "width": 83,
+          "height": 29
+        },
+        "1": {
+          "left": 152,
+          "top": 475,
+          "right": 199,
+          "bottom": 504,
+          "width": 46,
+          "height": 29
+        },
+        "2": {
+          "left": 198,
+          "top": 475,
+          "right": 299,
+          "bottom": 504,
+          "width": 100,
+          "height": 29
+        },
+        "3": {
+          "left": 299,
+          "top": 475,
+          "right": 694,
+          "bottom": 504,
+          "width": 395,
+          "height": 29
+        },
+        "4": {
+          "left": 69,
+          "top": 497,
+          "right": 185,
+          "bottom": 527,
+          "width": 115,
+          "height": 29
+        },
+        "5": {
+          "left": 184,
+          "top": 497,
+          "right": 300,
+          "bottom": 527,
+          "width": 115,
+          "height": 29
+        },
+        "6": {
+          "left": 93,
+          "top": 523,
+          "right": 101,
+          "bottom": 549,
+          "width": 8,
+          "height": 25
+        },
+        "7": {
+          "left": 117,
+          "top": 526,
+          "right": 716,
+          "bottom": 552,
+          "width": 598,
+          "height": 25
+        },
+        "8": {
+          "left": 117,
+          "top": 545,
+          "right": 659,
+          "bottom": 572,
+          "width": 542,
+          "height": 26
+        },
+        "9": {
+          "left": 93,
+          "top": 568,
+          "right": 101,
+          "bottom": 593,
+          "width": 8,
+          "height": 25
+        },
+        "10": {
+          "left": 117,
+          "top": 571,
+          "right": 642,
+          "bottom": 597,
+          "width": 524,
+          "height": 25
+        },
+        "11": {
+          "left": 644,
+          "top": 571,
+          "right": 736,
+          "bottom": 597,
+          "width": 92,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Séance "
+        },
+        "1": {
+          "text": "11 : "
+        },
+        "2": {
+          "text": "Validité s"
+        },
+        "3": {
+          "text": "cientifique, qualité et éthique d’une "
+        },
+        "4": {
+          "text": "recherche "
+        },
+        "5": {
+          "text": "qualitative"
+        },
+        "6": {
+          "text": "•"
+        },
+        "7": {
+          "text": "Le premier objectif de cette séance est de se familiariser avec les "
+        },
+        "8": {
+          "text": "questions de valeurs et de qualité en recherche qualitative"
+        },
+        "9": {
+          "text": "•"
+        },
+        "10": {
+          "text": "Le second objectif est de se familiariser avec l’éthique en "
+        },
+        "11": {
+          "text": "recherche"
+        }
+      },
+      "text": {
+        "TEXT": "Séance 11 : Validité s cientifique, qualité et éthique d’une recherche qualitative • Le premier objectif de cette séance est de se familiariser avec les questions de valeurs et de qualité en recherche qualitative • Le second objectif est de se familiariser avec l’éthique en recherche"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "161Jrby7VM",
+      "guid": "1pRhmxYUiH",
+      "created": "2020-11-06T13:55:11.703Z",
+      "lastUpdated": "2020-11-06T13:55:47.383Z",
+      "rects": {
+        "0": {
+          "left": 247,
+          "top": 319,
+          "right": 680,
+          "bottom": 346,
+          "width": 433,
+          "height": 26
+        },
+        "1": {
+          "left": 684,
+          "top": 319,
+          "right": 799,
+          "bottom": 346,
+          "width": 115,
+          "height": 26
+        },
+        "2": {
+          "left": 804,
+          "top": 319,
+          "right": 859,
+          "bottom": 346,
+          "width": 55,
+          "height": 26
+        },
+        "3": {
+          "left": 865,
+          "top": 319,
+          "right": 944,
+          "bottom": 346,
+          "width": 78,
+          "height": 26
+        },
+        "4": {
+          "left": 949,
+          "top": 319,
+          "right": 1015,
+          "bottom": 346,
+          "width": 66,
+          "height": 26
+        },
+        "5": {
+          "left": 1016,
+          "top": 319,
+          "right": 1024,
+          "bottom": 346,
+          "width": 8,
+          "height": 26
+        },
+        "6": {
+          "left": 1024,
+          "top": 319,
+          "right": 1037,
+          "bottom": 346,
+          "width": 13,
+          "height": 26
+        },
+        "7": {
+          "left": 1035,
+          "top": 319,
+          "right": 1043,
+          "bottom": 346,
+          "width": 8,
+          "height": 26
+        },
+        "8": {
+          "left": 1042,
+          "top": 319,
+          "right": 1152,
+          "bottom": 346,
+          "width": 109,
+          "height": 26
+        },
+        "9": {
+          "left": 247,
+          "top": 348,
+          "right": 1048,
+          "bottom": 375,
+          "width": 801,
+          "height": 26
+        },
+        "10": {
+          "left": 1058,
+          "top": 348,
+          "right": 1220,
+          "bottom": 375,
+          "width": 161,
+          "height": 26
+        },
+        "11": {
+          "left": 247,
+          "top": 377,
+          "right": 1179,
+          "bottom": 403,
+          "width": 932,
+          "height": 26
+        },
+        "12": {
+          "left": 247,
+          "top": 406,
+          "right": 818,
+          "bottom": 433,
+          "width": 571,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "La position épistémologique positiviste est «"
+        },
+        "1": {
+          "text": "objectiviste"
+        },
+        "2": {
+          "text": "» et «"
+        },
+        "3": {
+          "text": "dualiste"
+        },
+        "4": {
+          "text": "», c’est"
+        },
+        "5": {
+          "text": "-"
+        },
+        "6": {
+          "text": "à"
+        },
+        "7": {
+          "text": "-"
+        },
+        "8": {
+          "text": "dire que le "
+        },
+        "9": {
+          "text": "chercheur se garde d’interférer avec le phénomène naturel augurant sous ses yeux"
+        },
+        "10": {
+          "text": "; le chercheur et "
+        },
+        "11": {
+          "text": "son objet de recherche sont deux entités séparées. Le chercheur souhaite éviter que ses biais et "
+        },
+        "12": {
+          "text": "valeurs influencent sur les résultats finaux de sa recherche."
+        }
+      },
+      "text": {
+        "TEXT": "La position épistémologique positiviste est « objectiviste » et « dualiste », c’est - à - dire que le chercheur se garde d’interférer avec le phénomène naturel augurant sous ses yeux ; le chercheur et son objet de recherche sont deux entités séparées. Le chercheur souhaite éviter que ses biais et valeurs influencent sur les résultats finaux de sa recherche."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "La position épistémologique positiviste est « objectiviste » et « dualiste », c’est-à-dire que le chercheur se garde d’interférer avec le phénomène naturel augurant sous ses yeux ; le chercheur et son objet de recherche sont deux entités séparées. Le chercheur souhaite éviter que ses biais et valeurs influencent sur les résultats finaux de sa recherche."
+      },
+      "tags": {
+        "Positivisme": {
+          "id": "Positivisme",
+          "label": "Positivisme"
+        }
+      }
+    },
+    {
+      "id": "12jQG1naLH",
+      "guid": "122dkjm8zx",
+      "created": "2020-11-06T13:56:54.421Z",
+      "lastUpdated": "2020-11-06T13:57:33.998Z",
+      "rects": {
+        "0": {
+          "left": 247,
+          "top": 102,
+          "right": 681,
+          "bottom": 129,
+          "width": 434,
+          "height": 26
+        },
+        "1": {
+          "left": 687,
+          "top": 102,
+          "right": 762,
+          "bottom": 129,
+          "width": 74,
+          "height": 26
+        },
+        "2": {
+          "left": 766,
+          "top": 102,
+          "right": 1225,
+          "bottom": 129,
+          "width": 458,
+          "height": 26
+        },
+        "3": {
+          "left": 247,
+          "top": 131,
+          "right": 1232,
+          "bottom": 158,
+          "width": 985,
+          "height": 26
+        },
+        "4": {
+          "left": 247,
+          "top": 160,
+          "right": 282,
+          "bottom": 186,
+          "width": 35,
+          "height": 26
+        },
+        "5": {
+          "left": 287,
+          "top": 160,
+          "right": 336,
+          "bottom": 186,
+          "width": 48,
+          "height": 26
+        },
+        "6": {
+          "left": 340,
+          "top": 160,
+          "right": 837,
+          "bottom": 186,
+          "width": 496,
+          "height": 26
+        },
+        "7": {
+          "left": 843,
+          "top": 160,
+          "right": 981,
+          "bottom": 186,
+          "width": 138,
+          "height": 26
+        },
+        "8": {
+          "left": 986,
+          "top": 160,
+          "right": 999,
+          "bottom": 186,
+          "width": 13,
+          "height": 26
+        },
+        "9": {
+          "left": 1003,
+          "top": 160,
+          "right": 1232,
+          "bottom": 186,
+          "width": 228,
+          "height": 26
+        },
+        "10": {
+          "left": 247,
+          "top": 188,
+          "right": 1152,
+          "bottom": 215,
+          "width": 905,
+          "height": 26
+        },
+        "11": {
+          "left": 247,
+          "top": 217,
+          "right": 1236,
+          "bottom": 244,
+          "width": 988,
+          "height": 26
+        },
+        "12": {
+          "left": 247,
+          "top": 246,
+          "right": 562,
+          "bottom": 273,
+          "width": 315,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "La position ontologique des positivistes est «"
+        },
+        "1": {
+          "text": "réaliste"
+        },
+        "2": {
+          "text": "», au sens qu’il n’existerait qu’une seule réalité "
+        },
+        "3": {
+          "text": "découlant de lois immuables naturelles. Selon cette conception, le rôle de la science est de découvrir "
+        },
+        "4": {
+          "text": "la «"
+        },
+        "5": {
+          "text": "vraie"
+        },
+        "6": {
+          "text": "» nature de la réalité et comment elle fonctionne «"
+        },
+        "7": {
+          "text": "véritablement"
+        },
+        "8": {
+          "text": "»"
+        },
+        "9": {
+          "text": "; ultimement, le but de "
+        },
+        "10": {
+          "text": "la science devient de contrôler et de prédire les phénomènes naturels. Pour un positiviste, la "
+        },
+        "11": {
+          "text": "connaissance visée renvoie à des généralisations intemporelles et décontextualisées prenant souvent "
+        },
+        "12": {
+          "text": "la forme de lois de cause à effet."
+        }
+      },
+      "text": {
+        "TEXT": "La position ontologique des positivistes est « réaliste », au sens qu’il n’existerait qu’une seule réalité découlant de lois immuables naturelles. Selon cette conception, le rôle de la science est de découvrir la « vraie » nature de la réalité et comment elle fonctionne « véritablement » ; ultimement, le but de la science devient de contrôler et de prédire les phénomènes naturels. Pour un positiviste, la connaissance visée renvoie à des généralisations intemporelles et décontextualisées prenant souvent la forme de lois de cause à effet."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>La position ontologique des positivistes est « réaliste », au sens qu’il n’existerait qu’une seule réalité découlant de lois immuables naturelles. Selon cette conception, le rôle de la science est de découvrir la « vraie » nature de la réalité et comment elle fonctionne « véritablement » ; ultimement, le but de la science devient de contrôler et de prédire les phénomènes naturels. Pour un positiviste, la connaissance visée renvoie à des généralisations intemporelles et décontextualisées prenant souvent la forme de lois de cause à effet.</p><p><br></p>"
+      },
+      "tags": {
+        "Positivisme": {
+          "id": "Positivisme",
+          "label": "Positivisme"
+        },
+        "Ontologique": {
+          "id": "Ontologique",
+          "label": "Ontologique"
+        }
+      }
+    },
+    {
+      "id": "12E5gbvJ24",
+      "guid": "12E5gbvJ24",
+      "created": "2020-11-06T13:57:50.426Z",
+      "lastUpdated": "2020-11-06T13:57:55.564Z",
+      "rects": {
+        "0": {
+          "left": 247,
+          "top": 475,
+          "right": 864,
+          "bottom": 502,
+          "width": 617,
+          "height": 26
+        },
+        "1": {
+          "left": 868,
+          "top": 475,
+          "right": 1008,
+          "bottom": 502,
+          "width": 140,
+          "height": 26
+        },
+        "2": {
+          "left": 1012,
+          "top": 475,
+          "right": 1157,
+          "bottom": 502,
+          "width": 145,
+          "height": 26
+        },
+        "3": {
+          "left": 247,
+          "top": 504,
+          "right": 1222,
+          "bottom": 531,
+          "width": 975,
+          "height": 26
+        },
+        "4": {
+          "left": 247,
+          "top": 533,
+          "right": 531,
+          "bottom": 560,
+          "width": 284,
+          "height": 26
+        },
+        "5": {
+          "left": 532,
+          "top": 533,
+          "right": 732,
+          "bottom": 560,
+          "width": 200,
+          "height": 26
+        },
+        "6": {
+          "left": 731,
+          "top": 533,
+          "right": 1095,
+          "bottom": 560,
+          "width": 363,
+          "height": 26
+        },
+        "7": {
+          "left": 247,
+          "top": 561,
+          "right": 1137,
+          "bottom": 588,
+          "width": 890,
+          "height": 26
+        },
+        "8": {
+          "left": 247,
+          "top": 590,
+          "right": 504,
+          "bottom": 617,
+          "width": 257,
+          "height": 26
+        },
+        "9": {
+          "left": 505,
+          "top": 590,
+          "right": 577,
+          "bottom": 617,
+          "width": 72,
+          "height": 26
+        },
+        "10": {
+          "left": 582,
+          "top": 590,
+          "right": 767,
+          "bottom": 617,
+          "width": 185,
+          "height": 26
+        },
+        "11": {
+          "left": 767,
+          "top": 590,
+          "right": 845,
+          "bottom": 617,
+          "width": 78,
+          "height": 26
+        },
+        "12": {
+          "left": 848,
+          "top": 590,
+          "right": 1024,
+          "bottom": 617,
+          "width": 175,
+          "height": 26
+        },
+        "13": {
+          "left": 1025,
+          "top": 590,
+          "right": 1100,
+          "bottom": 617,
+          "width": 75,
+          "height": 26
+        },
+        "14": {
+          "left": 1104,
+          "top": 590,
+          "right": 1142,
+          "bottom": 617,
+          "width": 38,
+          "height": 26
+        },
+        "15": {
+          "left": 247,
+          "top": 619,
+          "right": 933,
+          "bottom": 646,
+          "width": 685,
+          "height": 26
+        },
+        "16": {
+          "left": 942,
+          "top": 619,
+          "right": 991,
+          "bottom": 646,
+          "width": 48,
+          "height": 26
+        },
+        "17": {
+          "left": 995,
+          "top": 619,
+          "right": 1134,
+          "bottom": 646,
+          "width": 139,
+          "height": 26
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Pour rester en retrait du phénomène, le chercheur élabore une "
+        },
+        "1": {
+          "text": "méthodologie"
+        },
+        "2": {
+          "text": "et un outillage "
+        },
+        "3": {
+          "text": "appropriés afin de mener ces expérimentations empiriques. La position méthodologique positiviste "
+        },
+        "4": {
+          "text": "procède par l’énonciation de "
+        },
+        "5": {
+          "text": "proposition logique "
+        },
+        "6": {
+          "text": "(question/hypothèse) préalablement "
+        },
+        "7": {
+          "text": "l’expérimentation, et par la vérification empirique de cette proposition sous des conditions "
+        },
+        "8": {
+          "text": "contrôlées. Finalement, la "
+        },
+        "9": {
+          "text": "rigueur"
+        },
+        "10": {
+          "text": "de la démarche, la "
+        },
+        "11": {
+          "text": "fiabilité"
+        },
+        "12": {
+          "text": "des données et la "
+        },
+        "13": {
+          "text": "validité"
+        },
+        "14": {
+          "text": "des "
+        },
+        "15": {
+          "text": "conclusions deviennent les outils garants d’accéder à la connaissance «"
+        },
+        "16": {
+          "text": "vraie"
+        },
+        "17": {
+          "text": "» de la réalité."
+        }
+      },
+      "text": {
+        "TEXT": "Pour rester en retrait du phénomène, le chercheur élabore une méthodologie et un outillage appropriés afin de mener ces expérimentations empiriques. La position méthodologique positiviste procède par l’énonciation de proposition logique (question/hypothèse) préalablement l’expérimentation, et par la vérification empirique de cette proposition sous des conditions contrôlées. Finalement, la rigueur de la démarche, la fiabilité des données et la validité des conclusions deviennent les outils garants d’accéder à la connaissance « vraie » de la réalité."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Positivisme": {
+          "id": "Positivisme",
+          "label": "Positivisme"
+        }
+      }
+    },
+    {
+      "id": "1RR7d4xz59",
+      "guid": "1RR7d4xz59",
+      "created": "2020-11-06T17:00:25.892Z",
+      "lastUpdated": "2020-11-06T17:00:25.892Z",
+      "rects": {
+        "0": {
+          "left": 481,
+          "top": 411,
+          "right": 584,
+          "bottom": 447,
+          "width": 103,
+          "height": 36
+        },
+        "1": {
+          "left": 581,
+          "top": 411,
+          "right": 806,
+          "bottom": 447,
+          "width": 225,
+          "height": 36
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Séance "
+        },
+        "1": {
+          "text": "08 (Dave Hawey)"
+        }
+      },
+      "text": {
+        "TEXT": "Séance 08 (Dave Hawey)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

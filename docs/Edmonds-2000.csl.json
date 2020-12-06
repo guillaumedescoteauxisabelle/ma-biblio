@@ -1,0 +1,42 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/GVNNWUB5",
+		"type": "article-journal",
+		"abstract": "Computers can be very helpful to us by performing tasks on our behalf. For example, they are very good at performing calculations, storing information and producing visualisations of objects that do not yet exist as a made artifact. Increasingly, however, a different role is being found for the computer. It is the role of a catalyst, or a stimulant, to our own creative thinking. In such cases the computer is not primarily performing a task for us and generating an answer within itself, rather it is helping us to generate answers within ourselves. The computer helps us think creatively. This role for the computer can be illustrated in the context of computer support to creative design. In order to design computer systems that support the creative process, it is important to understand that process well enough to predict what might help, rather than hinder. Given such research, we may begin to define the characteristics of what the computer must do in order to augment creative thinking. The paper explores a particular application of intelligent user interfaces —the augmentation of creative thought in artists.",
+		"container-title": "Digital Creativity",
+		"DOI": "10.1076/digc.11.4.193.8875",
+		"ISSN": "1462-6268, 1744-3806",
+		"issue": "4",
+		"journalAbbreviation": "Digital Creativity",
+		"language": "en",
+		"note": "ZSCC: 0000018",
+		"page": "193-204",
+		"source": "DOI.org (Crossref)",
+		"title": "Art practice augmented by digital agents",
+		"URL": "https://www.tandfonline.com/doi/full/10.1076/digc.11.4.193.8875",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Edmonds",
+				"given": "Ernest"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					12
+				]
+			]
+		}
+	}
+]

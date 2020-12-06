@@ -1,0 +1,46 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/W5KKZ2ZP",
+		"type": "paper-conference",
+		"abstract": "The creative process requires experimentation, the exploration of variations, and the continual evaluation of one’s progress. While these processes are frequently non-linear and iterative, modern user interfaces do not explicitly support these practices, and instead impose a linear progression through tasks that is a poor fit for creative pursuits. In this paper we use data from three case studies, and draw upon Schön’s theory of reflection-in-action to illustrate specific deficiencies in current user interfaces when used in creative endeavors. We then develop a set of guidelines for user interface design and demonstrate their application in three designs intended to support tasks in the domain of image manipulation.",
+		"container-title": "Proceedings of the fourth conference on Creativity & cognition  - C&C '02",
+		"DOI": "10.1145/581710.581718",
+		"event": "the fourth conference",
+		"event-place": "Loughborough, UK",
+		"ISBN": "978-1-58113-465-0",
+		"language": "en",
+		"note": "ZSCC: 0000136",
+		"page": "38-44",
+		"publisher": "ACM Press",
+		"publisher-place": "Loughborough, UK",
+		"source": "DOI.org (Crossref)",
+		"title": "Recognizing creative needs in user interface design",
+		"URL": "http://portal.acm.org/citation.cfm?doid=581710.581718",
+		"author": [
+			{
+				"family": "Terry",
+				"given": "Michael"
+			},
+			{
+				"family": "Mynatt",
+				"given": "Elizabeth D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	}
+]

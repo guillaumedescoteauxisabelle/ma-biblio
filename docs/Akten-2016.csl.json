@@ -1,0 +1,33 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/K9QEANRA",
+		"type": "article-journal",
+		"abstract": "This is the first of a series of articles [1, 2, 3], on research I’ve done over the past few years that I’m only just getting round to…",
+		"container-title": "Medium",
+		"language": "en",
+		"title": "Collaborative creativity with Monte­ Carlo Tree Search and Convolutional Neural Networks (and other…",
+		"URL": "https://medium.com/@memoakten/collaborative-creativity-with-monte-carlo-tree-search-and-convolutional-neural-networks-and-other-69d7107385a0",
+		"author": [
+			{
+				"family": "Akten",
+				"given": "Memo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]

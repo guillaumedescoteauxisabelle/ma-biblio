@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12ohiWy5bX",
+      "guid": "12ohiWy5bX",
+      "created": "2020-11-21T14:56:42.823Z",
+      "lastUpdated": "2020-11-21T14:56:42.823Z",
+      "rects": {
+        "0": {
+          "left": 268,
+          "top": 146,
+          "right": 550,
+          "bottom": 172,
+          "width": 282,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Generative Adversarial Nets"
+        }
+      },
+      "text": {
+        "TEXT": "Generative Adversarial Nets"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12gsD44ADT",
+      "guid": "125fAo5VgN",
+      "created": "2020-11-21T14:56:50.217Z",
+      "lastUpdated": "2020-11-21T15:01:01.511Z",
+      "rects": {
+        "0": {
+          "left": 160,
+          "top": 223,
+          "right": 258,
+          "bottom": 238,
+          "width": 97,
+          "height": 14
+        },
+        "1": {
+          "left": 261,
+          "top": 221,
+          "right": 266,
+          "bottom": 232,
+          "width": 5,
+          "height": 10
+        },
+        "2": {
+          "left": 261,
+          "top": 223,
+          "right": 385,
+          "bottom": 238,
+          "width": 124,
+          "height": 14
+        },
+        "3": {
+          "left": 388,
+          "top": 221,
+          "right": 393,
+          "bottom": 232,
+          "width": 5,
+          "height": 10
+        },
+        "4": {
+          "left": 388,
+          "top": 223,
+          "right": 654,
+          "bottom": 238,
+          "width": 266,
+          "height": 14
+        },
+        "5": {
+          "left": 272,
+          "top": 239,
+          "right": 345,
+          "bottom": 254,
+          "width": 72,
+          "height": 14
+        },
+        "6": {
+          "left": 347,
+          "top": 237,
+          "right": 352,
+          "bottom": 247,
+          "width": 5,
+          "height": 10
+        },
+        "7": {
+          "left": 347,
+          "top": 239,
+          "right": 538,
+          "bottom": 254,
+          "width": 191,
+          "height": 14
+        },
+        "8": {
+          "left": 543,
+          "top": 237,
+          "right": 548,
+          "bottom": 247,
+          "width": 5,
+          "height": 10
+        },
+        "9": {
+          "left": 250,
+          "top": 254,
+          "right": 260,
+          "bottom": 269,
+          "width": 9,
+          "height": 14
+        },
+        "10": {
+          "left": 261,
+          "top": 254,
+          "right": 265,
+          "bottom": 269,
+          "width": 4,
+          "height": 14
+        },
+        "11": {
+          "left": 260,
+          "top": 254,
+          "right": 497,
+          "bottom": 269,
+          "width": 236,
+          "height": 14
+        },
+        "12": {
+          "left": 503,
+          "top": 254,
+          "right": 507,
+          "bottom": 269,
+          "width": 4,
+          "height": 14
+        },
+        "13": {
+          "left": 502,
+          "top": 254,
+          "right": 563,
+          "bottom": 269,
+          "width": 61,
+          "height": 14
+        },
+        "14": {
+          "left": 346,
+          "top": 269,
+          "right": 396,
+          "bottom": 283,
+          "width": 49,
+          "height": 14
+        },
+        "15": {
+          "left": 396,
+          "top": 268,
+          "right": 400,
+          "bottom": 283,
+          "width": 4,
+          "height": 14
+        },
+        "16": {
+          "left": 395,
+          "top": 269,
+          "right": 452,
+          "bottom": 283,
+          "width": 57,
+          "height": 14
+        },
+        "17": {
+          "left": 454,
+          "top": 268,
+          "right": 458,
+          "bottom": 283,
+          "width": 4,
+          "height": 14
+        },
+        "18": {
+          "left": 453,
+          "top": 269,
+          "right": 469,
+          "bottom": 283,
+          "width": 15,
+          "height": 14
+        },
+        "19": {
+          "left": 346,
+          "top": 283,
+          "right": 379,
+          "bottom": 298,
+          "width": 33,
+          "height": 14
+        },
+        "20": {
+          "left": 379,
+          "top": 283,
+          "right": 384,
+          "bottom": 298,
+          "width": 4,
+          "height": 14
+        },
+        "21": {
+          "left": 379,
+          "top": 283,
+          "right": 469,
+          "bottom": 298,
+          "width": 89,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ian J. Goodfellow"
+        },
+        "1": {
+          "text": "∗"
+        },
+        "2": {
+          "text": ",  Jean Pouget-Abadie"
+        },
+        "3": {
+          "text": "†"
+        },
+        "4": {
+          "text": ", Mehdi Mirza, Bing Xu, David Warde-Farley,"
+        },
+        "5": {
+          "text": "Sherjil Ozair"
+        },
+        "6": {
+          "text": "‡"
+        },
+        "7": {
+          "text": ", Aaron Courville, Yoshua Bengio"
+        },
+        "8": {
+          "text": "§"
+        },
+        "9": {
+          "text": "D"
+        },
+        "10": {
+          "text": " ́"
+        },
+        "11": {
+          "text": "epartement d’informatique et de recherche op"
+        },
+        "12": {
+          "text": " ́"
+        },
+        "13": {
+          "text": "erationnelle"
+        },
+        "14": {
+          "text": "Universit"
+        },
+        "15": {
+          "text": " ́"
+        },
+        "16": {
+          "text": "e de Montr"
+        },
+        "17": {
+          "text": " ́"
+        },
+        "18": {
+          "text": "eal"
+        },
+        "19": {
+          "text": "Montr"
+        },
+        "20": {
+          "text": " ́"
+        },
+        "21": {
+          "text": "eal, QC H3C 3J7"
+        }
+      },
+      "text": {
+        "TEXT": "Ian J. Goodfellow ∗ ,  Jean Pouget-Abadie † , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair ‡ , Aaron Courville, Yoshua Bengio § D ́ epartement d’informatique et de recherche op ́ erationnelle Universit ́ e de Montr ́ eal Montr ́ eal, QC H3C 3J7"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Goodfellow et al., 2014)</p>\n<p>FTag: Goodfellow-et-al-2014</p>\n<p>APA7: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., &amp; Bengio, Y. (2014). Generative Adversarial Nets. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, &amp; K. Q. Weinberger (Eds.), <em>Advances in Neural Information Processing Systems 27</em> (pp. 2672–2680). Curran Associates, Inc. <a href=\"http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf\">http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf</a></p>\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+
+
+
+

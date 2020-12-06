@@ -1,0 +1,41 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/JJSY2JZT",
+		"type": "article-journal",
+		"abstract": "This paper describes the application of artificial intelligence to the\ncreation of digital art. AI is a computational paradigm that codifies\nintelligence into machines. There are generally three types of artificial\nintelligence and these are machine learning, evolutionary programming and soft\ncomputing. Machine learning is the statistical approach to building intelligent\nsystems. Evolutionary programming is the use of natural evolutionary systems to\ndesign intelligent machines. Some of the evolutionary programming systems\ninclude genetic algorithm which is inspired by the principles of evolution and\nswarm optimization which is inspired by the swarming of birds, fish, ants etc.\nSoft computing includes techniques such as agent based modelling and fuzzy\nlogic. Opportunities on the applications of these to digital art are explored.",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s0]",
+		"source": "arxiv.org",
+		"title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
+		"title-short": "Creativity and Artificial Intelligence",
+		"URL": "https://arxiv.org/abs/1807.08195v1",
+		"author": [
+			{
+				"family": "Xing",
+				"given": "Bo"
+			},
+			{
+				"family": "Marwala",
+				"given": "Tshilidzi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					21
+				]
+			]
+		}
+	}
+]
