@@ -7,6 +7,15 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 
+![](12ThqJdPFUtdEdxaQqTfspT2bNy9SAxCoDKrpaTt.png)
+![](c1a8f229-aa7a-4d92-bead-8c637183013c)
+
+
+
+----
+
+----
+
 
 
 # Technical Images and Visual Art in the Era of Artificial Intelligence: From GOFAI to GANs

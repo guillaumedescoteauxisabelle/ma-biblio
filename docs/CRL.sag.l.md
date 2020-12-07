@@ -10,10 +10,12 @@
 
 
 
-Qu'est-ce que la connaissance directe?  
-              
-              
-              
+<!--- o:1.2.1 -->  
+<!--- y:txt -->  
+  
+>"Un bon compte rendu de lecture permet de comprendre l'essentiel d'un texte, forme et fond, sans avoir à le lire soi-même en entier" (p. 1)  
+
+
 
 ----
 
@@ -28,12 +30,10 @@ Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce document
 
 
 
-<!--- o:1.2.1 -->  
-<!--- y:txt -->  
-  
->"Un bon compte rendu de lecture permet de comprendre l'essentiel d'un texte, forme et fond, sans avoir à le lire soi-même en entier" (p. 1)  
-
-
+Qu'est-ce que la connaissance directe?  
+              
+              
+              
 
 ----
 
@@ -150,8 +150,8 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
-  
-            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
+Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
+              
               
               
 
@@ -159,8 +159,8 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
-Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
-              
+  
+            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
               
               
 
@@ -239,6 +239,15 @@ Situer l'essentiel d'une étude publiée
 
 
 
+Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.  
+              
+              
+              
+
+----
+
+
+
 Quels-sont ces actions ?  
               
               
@@ -257,8 +266,8 @@ Lire (raisonné)
 
 
 
-Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.  
-              
+  
+            Prendre connaissance du contenu  
               
               
 
@@ -277,15 +286,6 @@ Il y a des actions qui sont effectuées et, le produit compte-rendu est où est 
 
 Analyser  
               
-              
-              
-
-----
-
-
-
-  
-            Prendre connaissance du contenu  
               
               
 
@@ -857,6 +857,17 @@ Qui est l'audience? À qui s'adresse le message? Qui est en mesure de recevoir l
 
 
 
+<!--- o:3.1.15.1 -->  
+<!--- y:txt -->  
+  
+>"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
+
+
+
+----
+
+
+
 Contenu de la section Introduction  
               
               
@@ -879,17 +890,6 @@ Et en conclusion il y a beaucoup de questions à se poser mais un truc particuli
               
               
               
-
-----
-
-
-
-<!--- o:3.1.15.1 -->  
-<!--- y:txt -->  
-  
->"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
-
-
 
 ----
 
@@ -1393,30 +1393,19 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 
+Quels termes nécessites d'etre expliqué ?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.2.1.20.1 -->  
 <!--- y:txt -->  
   
 >"À cette fin, il faut se reporter non pas à un dictionnaire linguistique courant, mais à des instruments mieux adaptés aux besoins de l’analyse historienne: lexiques historiques, encyclopédies et dictionnaires spécialisés en histoire et en sciences sociales" (p. 3.2.1)  
-
-
-
-----
-
-
-
-Objectif de l'auteur  
-              
-              
-              
-
-----
-
-
-
-<!--- o:3.2.1.23.1 -->  
-<!--- y:txt -->  
-  
->"Cette formulation mettra en évidence ce que fait l’auteur : ce qu’il veut étudier, prouver, ce qu’elle cherche, analyse, explique, démontre, etc" (p. 3.2.1)  
 
 
 
@@ -1444,7 +1433,7 @@ Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels 
 
 
 
-Qu'est-ce qui est mis en évidence dans cette étape? Ce qui est étudié, à prouver, analyser, explication, démonstration  
+Objectif de l'auteur  
               
               
               
@@ -1453,7 +1442,18 @@ Qu'est-ce qui est mis en évidence dans cette étape? Ce qui est étudié, à pr
 
 
 
-Quels termes nécessites d'etre expliqué ?  
+<!--- o:3.2.1.23.1 -->  
+<!--- y:txt -->  
+  
+>"Cette formulation mettra en évidence ce que fait l’auteur : ce qu’il veut étudier, prouver, ce qu’elle cherche, analyse, explique, démontre, etc" (p. 3.2.1)  
+
+
+
+----
+
+
+
+Qu'est-ce qui est mis en évidence dans cette étape? Ce qui est étudié, à prouver, analyser, explication, démonstration  
               
               
               

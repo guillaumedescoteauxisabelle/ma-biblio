@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1yH82yyXqW",
+      "guid": "18h6fBUzrh",
+      "created": "2020-12-07T00:08:10.441Z",
+      "lastUpdated": "2020-12-07T00:08:24.739Z",
+      "rects": {
+        "0": {
+          "left": 157,
+          "top": 275,
+          "right": 171,
+          "bottom": 293,
+          "width": 13,
+          "height": 17
+        },
+        "1": {
+          "left": 172,
+          "top": 275,
+          "right": 469,
+          "bottom": 293,
+          "width": 296,
+          "height": 17
+        },
+        "2": {
+          "left": 472,
+          "top": 275,
+          "right": 480,
+          "bottom": 293,
+          "width": 8,
+          "height": 17
+        },
+        "3": {
+          "left": 479,
+          "top": 275,
+          "right": 608,
+          "bottom": 293,
+          "width": 129,
+          "height": 17
+        },
+        "4": {
+          "left": 609,
+          "top": 275,
+          "right": 634,
+          "bottom": 293,
+          "width": 25,
+          "height": 17
+        },
+        "5": {
+          "left": 637,
+          "top": 275,
+          "right": 701,
+          "bottom": 293,
+          "width": 63,
+          "height": 17
+        },
+        "6": {
+          "left": 403,
+          "top": 293,
+          "right": 452,
+          "bottom": 311,
+          "width": 49,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "M"
+        },
+        "1": {
+          "text": "étaphores génératives dans un processus de "
+        },
+        "2": {
+          "text": "c"
+        },
+        "3": {
+          "text": "réation de mondes "
+        },
+        "4": {
+          "text": "aux"
+        },
+        "5": {
+          "text": "religions "
+        },
+        "6": {
+          "text": "fictives"
+        }
+      },
+      "text": {
+        "TEXT": "M étaphores génératives dans un processus de c réation de mondes aux religions fictives"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Métaphores génératives dans un processus de création de mondes aux religions fictives</h1>"
+      }
+    },
+    {
+      "id": "1xxG1SGV9V",
+      "guid": "1DMRqAwGWy",
+      "created": "2020-12-07T00:08:33.707Z",
+      "lastUpdated": "2020-12-07T00:08:40.979Z",
+      "rects": {
+        "0": {
+          "left": 403,
+          "top": 293,
+          "right": 452,
+          "bottom": 311,
+          "width": 49,
+          "height": 17
+        },
+        "1": {
+          "left": 368,
+          "top": 373,
+          "right": 490,
+          "bottom": 388,
+          "width": 122,
+          "height": 15
+        },
+        "2": {
+          "left": 164,
+          "top": 526,
+          "right": 230,
+          "bottom": 542,
+          "width": 66,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "fictives"
+        },
+        "1": {
+          "text": "par Stéphane Meury"
+        },
+        "2": {
+          "text": "Proposition"
+        }
+      },
+      "text": {
+        "TEXT": "fictives par Stéphane Meury Proposition"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Stéphane Meury&nbsp;"
+      }
+    },
+    {
+      "id": "1FTGGzVmFy",
+      "guid": "1uHbMBm1sQ",
+      "created": "2020-12-07T04:43:46.743Z",
+      "lastUpdated": "2020-12-07T04:49:35.731Z",
+      "rects": {
+        "0": {
+          "left": 157,
+          "top": 679,
+          "right": 328,
+          "bottom": 697,
+          "width": 171,
+          "height": 17
+        },
+        "1": {
+          "left": 329,
+          "top": 679,
+          "right": 444,
+          "bottom": 697,
+          "width": 114,
+          "height": 17
+        },
+        "2": {
+          "left": 444,
+          "top": 679,
+          "right": 723,
+          "bottom": 697,
+          "width": 278,
+          "height": 17
+        },
+        "3": {
+          "left": 96,
+          "top": 697,
+          "right": 720,
+          "bottom": 715,
+          "width": 624,
+          "height": 17
+        },
+        "4": {
+          "left": 96,
+          "top": 716,
+          "right": 224,
+          "bottom": 734,
+          "width": 128,
+          "height": 17
+        },
+        "5": {
+          "left": 223,
+          "top": 716,
+          "right": 722,
+          "bottom": 734,
+          "width": 498,
+          "height": 17
+        },
+        "6": {
+          "left": 96,
+          "top": 734,
+          "right": 178,
+          "bottom": 752,
+          "width": 82,
+          "height": 17
+        },
+        "7": {
+          "left": 184,
+          "top": 734,
+          "right": 286,
+          "bottom": 752,
+          "width": 102,
+          "height": 17
+        },
+        "8": {
+          "left": 291,
+          "top": 734,
+          "right": 490,
+          "bottom": 752,
+          "width": 199,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Adam, Ellis et Jones dans "
+        },
+        "1": {
+          "text": "Autoethnographie"
+        },
+        "2": {
+          "text": ", parle d’un processus itératif dans lequel à "
+        },
+        "3": {
+          "text": "chaque  passage  de  relecture,  les  données  sont  réécrites  afin  de  faire  ressortir  une  meilleure "
+        },
+        "4": {
+          "text": "narration de l’expér"
+        },
+        "5": {
+          "text": "ience, cette phase est importante afin de mieux se souvenir et analyser ce qui "
+        },
+        "6": {
+          "text": "s’est passé, «"
+        },
+        "7": {
+          "text": "what’s going on"
+        },
+        "8": {
+          "text": "» (Adams, Ellis, Jones, 2015,). "
+        }
+      },
+      "text": {
+        "TEXT": "Adam, Ellis et Jones dans Autoethnographie , parle d’un processus itératif dans lequel à chaque  passage  de  relecture,  les  données  sont  réécrites  afin  de  faire  ressortir  une  meilleure narration de l’expér ience, cette phase est importante afin de mieux se souvenir et analyser ce qui s’est passé, « what’s going on » (Adams, Ellis, Jones, 2015,)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "JournalDeBord": {
+          "id": "JournalDeBord",
+          "label": "JournalDeBord"
+        },
+        "MethodeRecherche": {
+          "id": "MethodeRecherche",
+          "label": "MethodeRecherche"
+        },
+        "MethoIterative": {
+          "id": "MethoIterative",
+          "label": "MethoIterative"
+        },
+        "Metho": {
+          "id": "Metho",
+          "label": "Metho"
+        }
+      },
+      "revisedText": {
+        "HTML": "Adam, Ellis et Jones dans Autoethnographie , parle d’un processus itératif dans lequel à chaque  passage  de  relecture,  les  données  sont  réécrites  afin  de  faire  ressortir  une  meilleure narration de l’expérience, cette phase est importante afin de mieux se souvenir et analyser ce qui s’est passé, « what’s going on » (Adams, Ellis, Jones, 2015,)."
+      }
+    }
+  ]
+
+}
+
+
+
