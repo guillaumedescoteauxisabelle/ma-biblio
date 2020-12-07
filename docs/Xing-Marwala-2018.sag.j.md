@@ -20,11 +20,11 @@ ______
 
 # 2. Pourquoi l'art numérique?  
 
+
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
 
 
 ______
-
 # 3.0 Créativité et intelligence artificielle
 
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
@@ -52,40 +52,40 @@ ______
 
 
 
-# Partie 4 - Perspective
-#### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 ______
-
+#### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
+# Partie 4 - Perspective
 
 ## Questions
 
 ###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
-
 ### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
+
  
 ### 4.5.3  | clarification | Qu'est-ce que teaching-learning-based optimization ?
 
 ### 4.8.3  | clarication | Qu'est-ce que le Narrow AI 
-
 # 5.0 Actions
+
 
 # --@STCGoal  Une **Vision Artistique** claire pour ma thèse
 
 Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
-## --@STCGoal Ma definition de l'IA
 
->Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
+## --@STCGoal Ma definition de l'IA
 >(Shapiro, 2003)
+>Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
+
 
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
-
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
 
+
 # Références
-
 ## evolutionary programming
-
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
+
+

@@ -10,6 +10,15 @@
 
 
 
+Qu'est-ce que la connaissance directe?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:1.2.1 -->  
 <!--- y:txt -->  
   
@@ -24,15 +33,6 @@
 Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
               
               Une compression de la source.
-              
-
-----
-
-
-
-Qu'est-ce que la connaissance directe?  
-              
-              
               
 
 ----
@@ -1393,15 +1393,6 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 
-Quels termes nécessites d'etre expliqué ?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.1.20.1 -->  
 <!--- y:txt -->  
   
@@ -1414,6 +1405,15 @@ Quels termes nécessites d'etre expliqué ?
 
 
 Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels sont les outils nécessaires pour faire l'analyse du texte d'un compte rendu?  
+              
+              
+              
+
+----
+
+
+
+Quels termes nécessites d'etre expliqué ?  
               
               
               

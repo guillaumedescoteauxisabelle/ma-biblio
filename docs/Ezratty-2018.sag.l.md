@@ -10,6 +10,15 @@
 
 
 
+Titre  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.2.1 -->  
 <!--- y:txt -->  
   
@@ -22,15 +31,6 @@
 
 
 Peut-on appeler cela de  programmation implicite ?  
-              
-              
-              
-
-----
-
-
-
-Titre  
               
               
               
@@ -239,21 +239,21 @@ L'adaptabilité
 
 
 
+La récréation permet quoi exactement?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.19.1 -->  
 <!--- y:txt -->  
   
 >"L’apprentissage supervisé avec la classification qui permet de labelliser des objets comme des images et la régression qui permet de réaliser des prévisions sur des valeurs numériques" (p. 42.1)  
 
 
-
-----
-
-
-
-La récréation permet quoi exactement?  
-              
-              
-              
 
 ----
 

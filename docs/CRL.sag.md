@@ -1,7 +1,7 @@
 # SAGrid output
 
-| no | qt | q | r | n|
 | -- |---|--------|--------| ---- |
+| no | qt | q | r | n|
 | 1.1.1 |  txt |    |   "La notion de compte rendu critique en histoire    « Rendre compte » d'un événement, d'un film ou d'un texte d'historien, c'est le décrire et expliquer son fonctionnement à un public qui n'en a pas une connaissance directe" (p. 1)|   |
 | 1.1.2|  dic |     Qu'est-ce que la connaissance directe?   |   |   |
 | 1.2.1 |  txt |    |   "Un bon compte rendu de lecture permet de comprendre l'essentiel d'un texte, forme et fond, sans avoir à le lire soi-même en entier" (p. 1)|   |
@@ -19,8 +19,8 @@
 | 1.14.1 |  txt |    |   "Le terme critique dans le titre de cette première section ne renvoie pas à l'idée qu'il faut chercher à dire du mal à tout prix des textes à lire! Il signifie qu'il faut plus simplement prendre du recul, ne pas se contenter des premières impressions de lecture; chercher à voir, derrière les apparences, quelle est la portée d'un message et son mode de fonctionnement; considérer la cohérence de l’argumentation; réfléchir à la solidité et à la nature des éléments de preuve qui soutiennent cette argumentation; comparer les méthodes, interprétations et conclusions du texte avec les conclusions, interprétations et méthodes d’autres travaux dans le domaine, antérieurs et contemporains; estimer les apports du texte et en poser les limites" (p. 1)|   |
 | 1.14.2|  dic |     Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué? |   |   |
 | 1.14.2|  dic |      | mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  |   |
-| 1.15.2|  dic |     J'en retiens que le compte rendu est assez complexe, que je peux le structurer selon mes besoins et que l'objectif de lecture définierait la complexité de sa structure.  Il y a place à la créativité et à fabriquer son propre processus de compte rendu.   |   |   |
 | 1.15.1 |  txt |    |  |   |
+| 1.15.2|  dic |     J'en retiens que le compte rendu est assez complexe, que je peux le structurer selon mes besoins et que l'objectif de lecture définierait la complexité de sa structure.  Il y a place à la créativité et à fabriquer son propre processus de compte rendu.   |   |   |
 | 2.1.1 |  txt |    |   "Objectifs spécifiques    1" (p. 2)|   |
 | 2.1.2|  dic |     Titre   |   |   |
 | 2.2.1 |  txt |    |   "Comprendre, restituer et situer l’essentiel d’une étude publiée par un historien contemporain;  2" (p. 2)|   |
@@ -38,8 +38,8 @@
 | 2.4.2|  dic |     Je trouve que les objectifs pourrait être plus complet que cela pour mon propre méthode de compte rendu.   |   |   |
 | 3.0.1.1 |  txt |    |   "Étapes de la démarche" (p. 3)|   |
 | 3.0.1.2|  dic |     Quels sont les étapes?   |   |   |
-| 3.0.2.1 |  txt |    |   "Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)|   |
 | 3.0.2.2|  dic |     Existe-t-il quatre compétences à développer qui sont complémentaires?   |   |   |
+| 3.0.2.1 |  txt |    |   "Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)|   |
 | 3.0.3.1 |  txt |    |   "une lecture raisonnée du texte;" (p. 3)|   |
 | 3.0.3.2|  dic |     Qu'est-ce que de lire de façon résonner?   |   |   |
 | 3.0.4.1 |  txt |    |   "son analyse;" (p. 3)|   |
@@ -138,9 +138,9 @@
 | 3.2.1.15.2|  dic |     Résolution de questionnement   |   |   |
 | 3.2.1.16.1 |  txt |    |   "Quelle hypothèse entreprend-elle de vérifier?" (p. 3.2.1)|   |
 | 3.2.1.16.2|  clarification |     Hypothèse. Clarifier la définition d'une hypothèse? Qu'est-ce qu'une hypothèse dans un cadre conceptuel artistique? Pour un artiste, qu'est-ce que c'est une hypothèse?   |   |   |
+| 3.2.1.18.1 |  txt |    |   "N’oubliez pas que, pour arriver à cerner correctement l'intention de l'auteur, il s'avère souvent nécessaire de clarifier l'identification de noms de personne ou de lieu, la définition de termes spécifiques à l'histoire de la période ou de la thématique concernées" (p. 3.2.1)|   |
 | 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.17.2|  dic |     Autre.   |   |   |
-| 3.2.1.18.1 |  txt |    |   "N’oubliez pas que, pour arriver à cerner correctement l'intention de l'auteur, il s'avère souvent nécessaire de clarifier l'identification de noms de personne ou de lieu, la définition de termes spécifiques à l'histoire de la période ou de la thématique concernées" (p. 3.2.1)|   |
 | 3.2.1.18.2|  dic |     La définition des termes spécifiques est une des actions de cette étape. Il peut y avoir aussi d'autres clarification à effectuer.   |   |   |
 | 3.2.1.19.1 |  txt |    |   "Vous devez également comprendre les termes de vocabulaire inconnus ou ambigus, ainsi que les concepts et notions employées par l’auteure pour comprendre ou expliquer les phénomènes observés" (p. 3.2.1)|   |
 | 3.2.1.19.2|  dic |     S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de les expliquer.   |   |   |

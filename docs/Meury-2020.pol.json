@@ -290,10 +290,1020 @@
       "revisedText": {
         "HTML": "Adam, Ellis et Jones dans Autoethnographie , parle d’un processus itératif dans lequel à chaque  passage  de  relecture,  les  données  sont  réécrites  afin  de  faire  ressortir  une  meilleure narration de l’expérience, cette phase est importante afin de mieux se souvenir et analyser ce qui s’est passé, « what’s going on » (Adams, Ellis, Jones, 2015,)."
       }
+    },
+    {
+      "id": "1peSPCe5pW",
+      "guid": "1gqoF6LTmR",
+      "created": "2020-12-07T07:48:12.058Z",
+      "lastUpdated": "2020-12-07T07:49:41.093Z",
+      "rects": {
+        "0": {
+          "left": 420,
+          "top": 95,
+          "right": 585,
+          "bottom": 113,
+          "width": 165,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "BIBLIOGRAPHIQUES"
+        }
+      },
+      "text": {
+        "TEXT": "BIBLIOGRAPHIQUES"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>BIBLIOGRAPHIQUES</h1>"
+      }
+    },
+    {
+      "id": "122t4Rd33D",
+      "guid": "122t4Rd33D",
+      "created": "2020-12-07T07:49:47.148Z",
+      "lastUpdated": "2020-12-07T07:49:57.616Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 268,
+          "right": 409,
+          "bottom": 285,
+          "width": 313,
+          "height": 16
+        },
+        "1": {
+          "left": 407,
+          "top": 268,
+          "right": 727,
+          "bottom": 285,
+          "width": 320,
+          "height": 16
+        },
+        "2": {
+          "left": 96,
+          "top": 285,
+          "right": 358,
+          "bottom": 302,
+          "width": 262,
+          "height": 16
+        },
+        "3": {
+          "left": 358,
+          "top": 285,
+          "right": 573,
+          "bottom": 302,
+          "width": 214,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Bruneau, M., Villeneuve, A., & Burns, S. L. (2007). "
+        },
+        "1": {
+          "text": "Traiter de Recherche Création en Art: Entre la quête "
+        },
+        "2": {
+          "text": "d'un territoire et la singularité des parcours"
+        },
+        "3": {
+          "text": ": Presses de l’Université du Québec."
+        }
+      },
+      "text": {
+        "TEXT": "Bruneau, M., Villeneuve, A., & Burns, S. L. (2007). Traiter de Recherche Création en Art: Entre la quête d'un territoire et la singularité des parcours : Presses de l’Université du Québec."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        }
+      }
+    },
+    {
+      "id": "1GzLUGrdMa",
+      "guid": "1GzLUGrdMa",
+      "created": "2020-12-07T07:50:08.938Z",
+      "lastUpdated": "2020-12-07T07:50:29.695Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 487,
+          "right": 730,
+          "bottom": 504,
+          "width": 634,
+          "height": 16
+        },
+        "1": {
+          "left": 96,
+          "top": 504,
+          "right": 218,
+          "bottom": 521,
+          "width": 122,
+          "height": 16
+        },
+        "2": {
+          "left": 217,
+          "top": 504,
+          "right": 493,
+          "bottom": 521,
+          "width": 276,
+          "height": 16
+        },
+        "3": {
+          "left": 490,
+          "top": 504,
+          "right": 495,
+          "bottom": 521,
+          "width": 5,
+          "height": 16
+        },
+        "4": {
+          "left": 495,
+          "top": 504,
+          "right": 517,
+          "bottom": 521,
+          "width": 22,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Blais,  M.,  &  Martineau,  S.  (2006).  L'analyse  inductive  générale  :  description  d'une  démarche  visant  à "
+        },
+        "1": {
+          "text": "donner sens à des do"
+        },
+        "2": {
+          "text": "nnées brutes. Recherches qualitatives, 26(2), 1"
+        },
+        "3": {
+          "text": "-"
+        },
+        "4": {
+          "text": "18. "
+        }
+      },
+      "text": {
+        "TEXT": "Blais,  M.,  &  Martineau,  S.  (2006).  L'analyse  inductive  générale  :  description  d'une  démarche  visant  à donner sens à des do nnées brutes. Recherches qualitatives, 26(2), 1 - 18."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        }
+      }
+    },
+    {
+      "id": "123WQG81md",
+      "guid": "123WQG81md",
+      "created": "2020-12-07T07:50:19.863Z",
+      "lastUpdated": "2020-12-07T07:50:34.901Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 538,
+          "right": 339,
+          "bottom": 555,
+          "width": 243,
+          "height": 16
+        },
+        "1": {
+          "left": 339,
+          "top": 538,
+          "right": 729,
+          "bottom": 555,
+          "width": 390,
+          "height": 16
+        },
+        "2": {
+          "left": 96,
+          "top": 555,
+          "right": 336,
+          "bottom": 572,
+          "width": 240,
+          "height": 16
+        },
+        "3": {
+          "left": 333,
+          "top": 555,
+          "right": 591,
+          "bottom": 572,
+          "width": 257,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Bruneau,  M.,  &  Villeneuve,  A.  (2007). "
+        },
+        "1": {
+          "text": "Traiter  de  recherche  création  en  art.  Entre  la  singularité  d'un "
+        },
+        "2": {
+          "text": "territoire et la singularité des parcours. "
+        },
+        "3": {
+          "text": "Québec: Presses de l'Université du Québec."
+        }
+      },
+      "text": {
+        "TEXT": "Bruneau,  M.,  &  Villeneuve,  A.  (2007). Traiter  de  recherche  création  en  art.  Entre  la  singularité  d'un territoire et la singularité des parcours. Québec: Presses de l'Université du Québec."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        }
+      }
+    },
+    {
+      "id": "12asKb6XSn",
+      "guid": "12asKb6XSn",
+      "created": "2020-12-07T07:50:42.170Z",
+      "lastUpdated": "2020-12-07T07:50:48.006Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 639,
+          "right": 225,
+          "bottom": 656,
+          "width": 129,
+          "height": 16
+        },
+        "1": {
+          "left": 223,
+          "top": 639,
+          "right": 579,
+          "bottom": 656,
+          "width": 356,
+          "height": 16
+        },
+        "2": {
+          "left": 585,
+          "top": 639,
+          "right": 594,
+          "bottom": 656,
+          "width": 8,
+          "height": 16
+        },
+        "3": {
+          "left": 96,
+          "top": 656,
+          "right": 390,
+          "bottom": 673,
+          "width": 294,
+          "height": 16
+        },
+        "4": {
+          "left": 390,
+          "top": 656,
+          "right": 726,
+          "bottom": 673,
+          "width": 335,
+          "height": 16
+        },
+        "5": {
+          "left": 96,
+          "top": 673,
+          "right": 233,
+          "bottom": 690,
+          "width": 137,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Chiapello, L. (2019). "
+        },
+        "1": {
+          "text": "Le pragmatisme comme épistémologie pour le design de jeux"
+        },
+        "2": {
+          "text": ": "
+        },
+        "3": {
+          "text": "Enquête sur la créativité et le processus de design."
+        },
+        "4": {
+          "text": "Thèse de Doctorat, Faculté de l’aménagement Université "
+        },
+        "5": {
+          "text": "de Montréal, Montréal."
+        }
+      },
+      "text": {
+        "TEXT": "Chiapello, L. (2019). Le pragmatisme comme épistémologie pour le design de jeux : Enquête sur la créativité et le processus de design. Thèse de Doctorat, Faculté de l’aménagement Université de Montréal, Montréal."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        }
+      }
+    },
+    {
+      "id": "12FmkUtBjD",
+      "guid": "12FmkUtBjD",
+      "created": "2020-12-07T07:50:59.186Z",
+      "lastUpdated": "2020-12-07T07:51:03.616Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 859,
+          "right": 224,
+          "bottom": 876,
+          "width": 128,
+          "height": 16
+        },
+        "1": {
+          "left": 224,
+          "top": 859,
+          "right": 632,
+          "bottom": 876,
+          "width": 407,
+          "height": 16
+        },
+        "2": {
+          "left": 636,
+          "top": 859,
+          "right": 725,
+          "bottom": 876,
+          "width": 88,
+          "height": 16
+        },
+        "3": {
+          "left": 96,
+          "top": 875,
+          "right": 306,
+          "bottom": 892,
+          "width": 210,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Gauthier,  B.  (1986). "
+        },
+        "1": {
+          "text": "Recherche  sociale:  de  la  problématique  à  la  collecte  des  données."
+        },
+        "2": {
+          "text": "Québec,  QC  : "
+        },
+        "3": {
+          "text": "Presses de l’Université du Québec. "
+        }
+      },
+      "text": {
+        "TEXT": "Gauthier,  B.  (1986). Recherche  sociale:  de  la  problématique  à  la  collecte  des  données. Québec,  QC  : Presses de l’Université du Québec."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        }
+      }
+    },
+    {
+      "id": "1esyR3rp4H",
+      "guid": "1esyR3rp4H",
+      "created": "2020-12-07T07:51:23.992Z",
+      "lastUpdated": "2020-12-07T07:52:33.513Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 314,
+          "right": 180,
+          "bottom": 331,
+          "width": 84,
+          "height": 16
+        },
+        "1": {
+          "left": 180,
+          "top": 314,
+          "right": 210,
+          "bottom": 331,
+          "width": 29,
+          "height": 16
+        },
+        "2": {
+          "left": 210,
+          "top": 314,
+          "right": 222,
+          "bottom": 331,
+          "width": 12,
+          "height": 16
+        },
+        "3": {
+          "left": 222,
+          "top": 314,
+          "right": 301,
+          "bottom": 331,
+          "width": 79,
+          "height": 16
+        },
+        "4": {
+          "left": 306,
+          "top": 314,
+          "right": 376,
+          "bottom": 331,
+          "width": 69,
+          "height": 16
+        },
+        "5": {
+          "left": 379,
+          "top": 314,
+          "right": 729,
+          "bottom": 331,
+          "width": 349,
+          "height": 16
+        },
+        "6": {
+          "left": 96,
+          "top": 331,
+          "right": 177,
+          "bottom": 348,
+          "width": 81,
+          "height": 16
+        },
+        "7": {
+          "left": 177,
+          "top": 331,
+          "right": 223,
+          "bottom": 348,
+          "width": 46,
+          "height": 16
+        },
+        "8": {
+          "left": 222,
+          "top": 331,
+          "right": 230,
+          "bottom": 348,
+          "width": 8,
+          "height": 16
+        },
+        "9": {
+          "left": 230,
+          "top": 331,
+          "right": 291,
+          "bottom": 348,
+          "width": 61,
+          "height": 16
+        },
+        "10": {
+          "left": 290,
+          "top": 331,
+          "right": 294,
+          "bottom": 348,
+          "width": 4,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Schön, D. A. ("
+        },
+        "1": {
+          "text": "1963"
+        },
+        "2": {
+          "text": "). "
+        },
+        "3": {
+          "text": "Displacement"
+        },
+        "4": {
+          "text": "of Concepts"
+        },
+        "5": {
+          "text": "(The International Behavioral and Social Science Library: "
+        },
+        "6": {
+          "text": "Psychology). "
+        },
+        "7": {
+          "text": "London"
+        },
+        "8": {
+          "text": ": "
+        },
+        "9": {
+          "text": "Routledge"
+        },
+        "10": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "Schön, D. A. ( 1963 ). Displacement of Concepts (The International Behavioral and Social Science Library: Psychology). London : Routledge ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        },
+        "Schon.biblio": {
+          "id": "Schon.biblio",
+          "label": "Schon.biblio"
+        }
+      }
+    },
+    {
+      "id": "12XsRHUduw",
+      "guid": "12XsRHUduw",
+      "created": "2020-12-07T07:51:40.293Z",
+      "lastUpdated": "2020-12-07T07:52:25.033Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 365,
+          "right": 205,
+          "bottom": 382,
+          "width": 109,
+          "height": 16
+        },
+        "1": {
+          "left": 204,
+          "top": 365,
+          "right": 490,
+          "bottom": 382,
+          "width": 285,
+          "height": 16
+        },
+        "2": {
+          "left": 488,
+          "top": 365,
+          "right": 493,
+          "bottom": 382,
+          "width": 5,
+          "height": 16
+        },
+        "3": {
+          "left": 493,
+          "top": 365,
+          "right": 626,
+          "bottom": 382,
+          "width": 133,
+          "height": 16
+        },
+        "4": {
+          "left": 625,
+          "top": 365,
+          "right": 713,
+          "bottom": 382,
+          "width": 87,
+          "height": 16
+        },
+        "5": {
+          "left": 96,
+          "top": 382,
+          "right": 130,
+          "bottom": 399,
+          "width": 34,
+          "height": 16
+        },
+        "6": {
+          "left": 133,
+          "top": 382,
+          "right": 191,
+          "bottom": 399,
+          "width": 58,
+          "height": 16
+        },
+        "7": {
+          "left": 194,
+          "top": 382,
+          "right": 217,
+          "bottom": 399,
+          "width": 22,
+          "height": 16
+        },
+        "8": {
+          "left": 220,
+          "top": 382,
+          "right": 270,
+          "bottom": 399,
+          "width": 50,
+          "height": 16
+        },
+        "9": {
+          "left": 273,
+          "top": 382,
+          "right": 322,
+          "bottom": 399,
+          "width": 49,
+          "height": 16
+        },
+        "10": {
+          "left": 322,
+          "top": 382,
+          "right": 327,
+          "bottom": 399,
+          "width": 5,
+          "height": 16
+        },
+        "11": {
+          "left": 326,
+          "top": 382,
+          "right": 608,
+          "bottom": 399,
+          "width": 281,
+          "height": 16
+        },
+        "12": {
+          "left": 96,
+          "top": 398,
+          "right": 324,
+          "bottom": 415,
+          "width": 228,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Schön, D. (1993). "
+        },
+        "1": {
+          "text": "Generative metaphor: A perspective on problem"
+        },
+        "2": {
+          "text": "-"
+        },
+        "3": {
+          "text": "setting in social policy"
+        },
+        "4": {
+          "text": ". In A. Ortony "
+        },
+        "5": {
+          "text": "(Ed.),"
+        },
+        "6": {
+          "text": "Metaphor"
+        },
+        "7": {
+          "text": "and"
+        },
+        "8": {
+          "text": "Thought"
+        },
+        "9": {
+          "text": "(pp. 137"
+        },
+        "10": {
+          "text": "-"
+        },
+        "11": {
+          "text": "163). Cambridge: Cambridge University Press. "
+        },
+        "12": {
+          "text": "doi:10.1017/CBO9781139173865.011"
+        }
+      },
+      "text": {
+        "TEXT": "Schön, D. (1993). Generative metaphor: A perspective on problem - setting in social policy . In A. Ortony (Ed.), Metaphor and Thought (pp. 137 - 163). Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173865.011"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        },
+        "Schon.biblio": {
+          "id": "Schon.biblio",
+          "label": "Schon.biblio"
+        }
+      }
+    },
+    {
+      "id": "1CKaQbTqZW",
+      "guid": "1CKaQbTqZW",
+      "created": "2020-12-07T07:51:59.707Z",
+      "lastUpdated": "2020-12-07T07:52:16.870Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 432,
+          "right": 222,
+          "bottom": 449,
+          "width": 126,
+          "height": 16
+        },
+        "1": {
+          "left": 222,
+          "top": 432,
+          "right": 598,
+          "bottom": 449,
+          "width": 376,
+          "height": 16
+        },
+        "2": {
+          "left": 594,
+          "top": 432,
+          "right": 601,
+          "bottom": 449,
+          "width": 7,
+          "height": 16
+        },
+        "3": {
+          "left": 602,
+          "top": 432,
+          "right": 699,
+          "bottom": 449,
+          "width": 97,
+          "height": 16
+        },
+        "4": {
+          "left": 96,
+          "top": 449,
+          "right": 207,
+          "bottom": 466,
+          "width": 111,
+          "height": 16
+        },
+        "5": {
+          "left": 208,
+          "top": 449,
+          "right": 213,
+          "bottom": 466,
+          "width": 5,
+          "height": 16
+        },
+        "6": {
+          "left": 212,
+          "top": 449,
+          "right": 232,
+          "bottom": 466,
+          "width": 20,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Schön, D. A. (1983). "
+        },
+        "1": {
+          "text": "The Reflexive Practitioner : How Professionals Think in Action"
+        },
+        "2": {
+          "text": ". "
+        },
+        "3": {
+          "text": "New York, NY: "
+        },
+        "4": {
+          "text": "Basic Books. (pp.3"
+        },
+        "5": {
+          "text": "-"
+        },
+        "6": {
+          "text": "69)"
+        }
+      },
+      "text": {
+        "TEXT": "Schön, D. A. (1983). The Reflexive Practitioner : How Professionals Think in Action . New York, NY: Basic Books. (pp.3 - 69)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        },
+        "Schon.biblio": {
+          "id": "Schon.biblio",
+          "label": "Schon.biblio"
+        }
+      }
+    },
+    {
+      "id": "12kyUTpSFr",
+      "guid": "12kyUTpSFr",
+      "created": "2020-12-07T07:52:42.166Z",
+      "lastUpdated": "2020-12-07T07:52:54.651Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 477,
+          "right": 132,
+          "bottom": 494,
+          "width": 36,
+          "height": 16
+        },
+        "1": {
+          "left": 132,
+          "top": 477,
+          "right": 158,
+          "bottom": 494,
+          "width": 25,
+          "height": 16
+        },
+        "2": {
+          "left": 158,
+          "top": 477,
+          "right": 201,
+          "bottom": 494,
+          "width": 43,
+          "height": 16
+        },
+        "3": {
+          "left": 204,
+          "top": 477,
+          "right": 703,
+          "bottom": 494,
+          "width": 498,
+          "height": 16
+        },
+        "4": {
+          "left": 96,
+          "top": 494,
+          "right": 263,
+          "bottom": 510,
+          "width": 167,
+          "height": 16
+        },
+        "5": {
+          "left": 261,
+          "top": 494,
+          "right": 337,
+          "bottom": 510,
+          "width": 75,
+          "height": 16
+        },
+        "6": {
+          "left": 336,
+          "top": 494,
+          "right": 341,
+          "bottom": 510,
+          "width": 5,
+          "height": 16
+        },
+        "7": {
+          "left": 341,
+          "top": 494,
+          "right": 450,
+          "bottom": 510,
+          "width": 109,
+          "height": 16
+        },
+        "8": {
+          "left": 452,
+          "top": 494,
+          "right": 677,
+          "bottom": 510,
+          "width": 224,
+          "height": 16
+        },
+        "9": {
+          "left": 677,
+          "top": 494,
+          "right": 704,
+          "bottom": 510,
+          "width": 27,
+          "height": 16
+        },
+        "10": {
+          "left": 96,
+          "top": 510,
+          "right": 118,
+          "bottom": 527,
+          "width": 22,
+          "height": 16
+        },
+        "11": {
+          "left": 118,
+          "top": 510,
+          "right": 123,
+          "bottom": 527,
+          "width": 5,
+          "height": 16
+        },
+        "12": {
+          "left": 122,
+          "top": 510,
+          "right": 346,
+          "bottom": 527,
+          "width": 223,
+          "height": 16
+        },
+        "13": {
+          "left": 344,
+          "top": 510,
+          "right": 716,
+          "bottom": 527,
+          "width": 371,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Schön"
+        },
+        "1": {
+          "text": ", D. "
+        },
+        "2": {
+          "text": "(2011)."
+        },
+        "3": {
+          "text": "A la recherche d'une nouvelle épistémologie de la pratique et de ce qu'elle implique "
+        },
+        "4": {
+          "text": "pour l'éducation des adultes"
+        },
+        "5": {
+          "text": ". Dans : Jean"
+        },
+        "6": {
+          "text": "-"
+        },
+        "7": {
+          "text": "Marie Barbier éd.,"
+        },
+        "8": {
+          "text": "Savoirs théoriques et savoirs d'action"
+        },
+        "9": {
+          "text": "(pp. "
+        },
+        "10": {
+          "text": "201"
+        },
+        "11": {
+          "text": "-"
+        },
+        "12": {
+          "text": "222). Paris cedex 14, France: Presses "
+        },
+        "13": {
+          "text": "Universitaires de France. doi:10.3917/puf.barbi.2011.01.0201."
+        }
+      },
+      "text": {
+        "TEXT": "Schön , D. (2011). A la recherche d'une nouvelle épistémologie de la pratique et de ce qu'elle implique pour l'éducation des adultes . Dans : Jean - Marie Barbier éd., Savoirs théoriques et savoirs d'action (pp. 201 - 222). Paris cedex 14, France: Presses Universitaires de France. doi:10.3917/puf.barbi.2011.01.0201."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Meury.biblio": {
+          "id": "Meury.biblio",
+          "label": "Meury.biblio"
+        },
+        "Schon.biblio": {
+          "id": "Schon.biblio",
+          "label": "Schon.biblio"
+        }
+      }
     }
   ]
 
 }
-
-
 
