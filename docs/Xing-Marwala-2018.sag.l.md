@@ -10,15 +10,6 @@
 
 
 
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
-
-----
-
-
-
 <!--- o:0.2.1 -->  
 <!--- y:txt -->  
   
@@ -31,6 +22,15 @@ l'application de l'IA dans la création d'art numérique
 
 
 La codification de l'intelligence dans une machine  
+              
+              
+              
+
+----
+
+
+
+l'application de l'IA dans la création d'art numérique  
               
               
               
@@ -108,15 +108,6 @@ Dans une autre étape, J'ai observé qu'un vecteur  contient une série de chiff
 
 
 
-La programmation évoluer, qu'est-ce que c'est? Clarifier ce type.  
-              
-              
-              
-
-----
-
-
-
 Qu'est-ce que la programmation évolutive (evolutionary programming) ?  
               
               
@@ -132,6 +123,15 @@ Qu'est-ce que la programmation évolutive (evolutionary programming) ?
 >"Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc" (p. 0)  
 
 
+
+----
+
+
+
+La programmation évoluer, qu'est-ce que c'est? Clarifier ce type.  
+              
+              
+              
 
 ----
 
@@ -186,21 +186,21 @@ L'article explore des opportunités possibles d'application
 
 
 
+Je m'attendrais à comprendre mieux les trois types d'intelligence artificielle après avoir lu cet article. Il s'agirais de trois abstraction primaire desquelles dériveraient des  applications AI  
+              
+              
+              
+
+----
+
+
+
 <!--- o:0.9.1 -->  
 <!--- y:txt -->  
   
 >"" (p. 0)  
 
 
-
-----
-
-
-
-Je m'attendrais à comprendre mieux les trois types d'intelligence artificielle après avoir lu cet article. Il s'agirais de trois abstraction primaire desquelles dériveraient des  applications AI  
-              
-              
-              
 
 ----
 
@@ -277,21 +277,21 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
-Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.5.1 -->  
 <!--- y:txt -->  
   
 >"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
 
 
+
+----
+
+
+
+Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
+              
+              
+              
 
 ----
 
@@ -397,21 +397,21 @@ Un bénéfice mutuel entre l'intelligence artificielle et créativité existe.
 
 
 
-Pourquoi l'art numérique?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:2.2.1 -->  
 <!--- y:txt -->  
   
 >"Technological development or revolution has a long history of influencing creativity" (p. 2)  
 
 
+
+----
+
+
+
+Pourquoi l'art numérique?  
+              
+              
+              
 
 ----
 
@@ -657,7 +657,7 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
-Time Frame  
+Trois mouvements  
               
               
               
@@ -677,7 +677,7 @@ Time Frame
 
 
 
-Trois mouvements  
+Time Frame  
               
               
               
@@ -1135,15 +1135,6 @@ Quels sont les algorithmes d'inspiration musical ?
 
 
 
-  
-            -  
-              
-              
-
-----
-
-
-
 Qu'est-ce que teaching-learning-based optimization ?  
               
               
@@ -1168,6 +1159,15 @@ Qu'est-ce que teaching-learning-based optimization ?
 >"A notable case goes to military operations inspired AI algorithms (Sun et al, 2016; Yang et al, 2018) which in turn can help us with modelling militarized conflict ( and Lagazio, 2011)" (p. 4)  
 
 
+
+----
+
+
+
+  
+            -  
+              
+              
 
 ----
 
@@ -1211,21 +1211,21 @@ En quoi la modélisation du conflit militaire aide t'il à résoudre vers la pai
 
 
 
-Une grande découverte scientifique issue des noeuds Tibétain.  
-              
-              
-              
-
-----
-
-
-
 <!--- o:4.8.1 -->  
 <!--- y:txt -->  
   
 >"The domain of AI is rapidly evolving: narrow AI is good at pre-determined tasks; with AGI, we are targeting at solving any problem in general; while for conscious AI, a true or self-aware version of AI is envisioned" (p. 4)  
 
 
+
+----
+
+
+
+Une grande découverte scientifique issue des noeuds Tibétain.  
+              
+              
+              
 
 ----
 

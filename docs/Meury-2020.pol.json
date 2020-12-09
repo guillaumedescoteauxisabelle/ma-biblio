@@ -100,10 +100,10 @@
       }
     },
     {
-      "id": "1xxG1SGV9V",
+      "id": "1o9XxpunxF",
       "guid": "1DMRqAwGWy",
       "created": "2020-12-07T00:08:33.707Z",
-      "lastUpdated": "2020-12-07T00:08:40.979Z",
+      "lastUpdated": "2020-12-08T05:57:55.844Z",
       "rects": {
         "0": {
           "left": 403,
@@ -150,7 +150,7 @@
       "flashcards": {},
       "color": "yellow",
       "revisedText": {
-        "HTML": "Stéphane Meury&nbsp;"
+        "HTML": "<p>Stéphane Meury&nbsp;</p><p><span>\n<p>Citer: (Meury, 2020)</p>\n<p>FTag: Meury-2020</p>\n<p>APA7: Meury, S. (2020). <em>Métaphores génératives dans un processus de création de mondes auxreligions fictives—Proposition de sujet de recherche</em>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n</span><br></p><h3><a href=\"https://github.com/guillaumedescoteauxisabelle/ma-biblio/wiki/Meury-2020\" target=\"_blank\">ma-biblio/wiki/Meury-2020</a></h3>"
       }
     },
     {
@@ -1301,6 +1301,411 @@
           "id": "Schon.biblio",
           "label": "Schon.biblio"
         }
+      }
+    },
+    {
+      "id": "12ZPie1Jic",
+      "guid": "1Ui8MDvdeT",
+      "created": "2020-12-08T06:25:16.336Z",
+      "lastUpdated": "2020-12-08T06:25:23.119Z",
+      "rects": {
+        "0": {
+          "left": 373,
+          "top": 95,
+          "right": 442,
+          "bottom": 113,
+          "width": 68,
+          "height": 17
+        },
+        "1": {
+          "left": 96,
+          "top": 141,
+          "right": 116,
+          "bottom": 159,
+          "width": 20,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "RÉSUMÉ"
+        },
+        "1": {
+          "text": "Le "
+        }
+      },
+      "text": {
+        "TEXT": "RÉSUMÉ Le"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>RÉSUMÉ</h1>"
+      }
+    },
+    {
+      "id": "12A7EU6rYh",
+      "guid": "1Y55qbk7yo",
+      "created": "2020-12-08T06:25:28.659Z",
+      "lastUpdated": "2020-12-08T06:25:40.701Z",
+      "rects": {
+        "0": {
+          "left": 96,
+          "top": 141,
+          "right": 116,
+          "bottom": 159,
+          "width": 20,
+          "height": 17
+        },
+        "1": {
+          "left": 116,
+          "top": 141,
+          "right": 125,
+          "bottom": 159,
+          "width": 8,
+          "height": 17
+        },
+        "2": {
+          "left": 128,
+          "top": 141,
+          "right": 140,
+          "bottom": 159,
+          "width": 11,
+          "height": 17
+        },
+        "3": {
+          "left": 139,
+          "top": 141,
+          "right": 221,
+          "bottom": 159,
+          "width": 81,
+          "height": 17
+        },
+        "4": {
+          "left": 223,
+          "top": 141,
+          "right": 232,
+          "bottom": 159,
+          "width": 8,
+          "height": 17
+        },
+        "5": {
+          "left": 235,
+          "top": 141,
+          "right": 443,
+          "bottom": 159,
+          "width": 207,
+          "height": 17
+        },
+        "6": {
+          "left": 444,
+          "top": 141,
+          "right": 503,
+          "bottom": 159,
+          "width": 58,
+          "height": 17
+        },
+        "7": {
+          "left": 506,
+          "top": 141,
+          "right": 537,
+          "bottom": 159,
+          "width": 30,
+          "height": 17
+        },
+        "8": {
+          "left": 537,
+          "top": 141,
+          "right": 577,
+          "bottom": 159,
+          "width": 40,
+          "height": 17
+        },
+        "9": {
+          "left": 577,
+          "top": 141,
+          "right": 590,
+          "bottom": 159,
+          "width": 12,
+          "height": 17
+        },
+        "10": {
+          "left": 590,
+          "top": 141,
+          "right": 668,
+          "bottom": 159,
+          "width": 77,
+          "height": 17
+        },
+        "11": {
+          "left": 671,
+          "top": 141,
+          "right": 709,
+          "bottom": 159,
+          "width": 38,
+          "height": 17
+        },
+        "12": {
+          "left": 709,
+          "top": 141,
+          "right": 717,
+          "bottom": 159,
+          "width": 7,
+          "height": 17
+        },
+        "13": {
+          "left": 96,
+          "top": 159,
+          "right": 128,
+          "bottom": 177,
+          "width": 32,
+          "height": 17
+        },
+        "14": {
+          "left": 128,
+          "top": 159,
+          "right": 157,
+          "bottom": 177,
+          "width": 29,
+          "height": 17
+        },
+        "15": {
+          "left": 157,
+          "top": 159,
+          "right": 233,
+          "bottom": 177,
+          "width": 75,
+          "height": 17
+        },
+        "16": {
+          "left": 237,
+          "top": 159,
+          "right": 294,
+          "bottom": 177,
+          "width": 56,
+          "height": 17
+        },
+        "17": {
+          "left": 293,
+          "top": 159,
+          "right": 333,
+          "bottom": 177,
+          "width": 39,
+          "height": 17
+        },
+        "18": {
+          "left": 333,
+          "top": 159,
+          "right": 367,
+          "bottom": 177,
+          "width": 34,
+          "height": 17
+        },
+        "19": {
+          "left": 368,
+          "top": 159,
+          "right": 432,
+          "bottom": 177,
+          "width": 64,
+          "height": 17
+        },
+        "20": {
+          "left": 432,
+          "top": 159,
+          "right": 494,
+          "bottom": 177,
+          "width": 62,
+          "height": 17
+        },
+        "21": {
+          "left": 493,
+          "top": 159,
+          "right": 522,
+          "bottom": 177,
+          "width": 29,
+          "height": 17
+        },
+        "22": {
+          "left": 523,
+          "top": 159,
+          "right": 578,
+          "bottom": 177,
+          "width": 55,
+          "height": 17
+        },
+        "23": {
+          "left": 582,
+          "top": 159,
+          "right": 591,
+          "bottom": 177,
+          "width": 8,
+          "height": 17
+        },
+        "24": {
+          "left": 594,
+          "top": 159,
+          "right": 662,
+          "bottom": 177,
+          "width": 67,
+          "height": 17
+        },
+        "25": {
+          "left": 96,
+          "top": 178,
+          "right": 157,
+          "bottom": 196,
+          "width": 61,
+          "height": 17
+        },
+        "26": {
+          "left": 161,
+          "top": 178,
+          "right": 170,
+          "bottom": 196,
+          "width": 8,
+          "height": 17
+        },
+        "27": {
+          "left": 169,
+          "top": 178,
+          "right": 716,
+          "bottom": 196,
+          "width": 546,
+          "height": 17
+        },
+        "28": {
+          "left": 96,
+          "top": 196,
+          "right": 357,
+          "bottom": 214,
+          "width": 261,
+          "height": 17
+        },
+        "29": {
+          "left": 359,
+          "top": 196,
+          "right": 364,
+          "bottom": 214,
+          "width": 5,
+          "height": 17
+        },
+        "30": {
+          "left": 364,
+          "top": 196,
+          "right": 654,
+          "bottom": 214,
+          "width": 289,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Le "
+        },
+        "1": {
+          "text": "«"
+        },
+        "2": {
+          "text": "w"
+        },
+        "3": {
+          "text": "orldbuilding"
+        },
+        "4": {
+          "text": "»"
+        },
+        "5": {
+          "text": "est l’action de créer des mondes "
+        },
+        "6": {
+          "text": "possibles"
+        },
+        "7": {
+          "text": "(Eco"
+        },
+        "8": {
+          "text": ", 1978"
+        },
+        "9": {
+          "text": "), "
+        },
+        "10": {
+          "text": "imaginaires"
+        },
+        "11": {
+          "text": "(Wolf"
+        },
+        "12": {
+          "text": ", "
+        },
+        "13": {
+          "text": "2012"
+        },
+        "14": {
+          "text": ") ou "
+        },
+        "15": {
+          "text": "secondaires"
+        },
+        "16": {
+          "text": "(Tolkien"
+        },
+        "17": {
+          "text": ", 1947"
+        },
+        "18": {
+          "text": "). Ce "
+        },
+        "19": {
+          "text": "travail de "
+        },
+        "20": {
+          "text": "mémoire "
+        },
+        "21": {
+          "text": "sera "
+        },
+        "22": {
+          "text": "consacré"
+        },
+        "23": {
+          "text": "à"
+        },
+        "24": {
+          "text": "l’étude du "
+        },
+        "25": {
+          "text": "processus"
+        },
+        "26": {
+          "text": "d"
+        },
+        "27": {
+          "text": "’élaboration de l’encyclopédie d’un monde fictif, de ses religions et de ses mythes. Il "
+        },
+        "28": {
+          "text": "s’inscrit dans une démarche de recherche"
+        },
+        "29": {
+          "text": "-"
+        },
+        "30": {
+          "text": "création en Art (Bruneau, Villeneuve, 2015). "
+        }
+      },
+      "text": {
+        "TEXT": "Le « w orldbuilding » est l’action de créer des mondes possibles (Eco , 1978 ), imaginaires (Wolf , 2012 ) ou secondaires (Tolkien , 1947 ). Ce travail de mémoire sera consacré à l’étude du processus d ’élaboration de l’encyclopédie d’un monde fictif, de ses religions et de ses mythes. Il s’inscrit dans une démarche de recherche - création en Art (Bruneau, Villeneuve, 2015)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Le « worldbuilding » est l’action de créer des mondes possibles (Eco , 1978 ), imaginaires (Wolf , 2012 ) ou secondaires (Tolkien , 1947 ). Ce travail de mémoire sera consacré à l’étude du processus d ’élaboration de l’encyclopédie d’un monde fictif, de ses religions et de ses mythes. Il s’inscrit dans une démarche de recherche - création en Art (Bruneau, Villeneuve, 2015)."
       }
     }
   ]

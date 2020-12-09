@@ -1,0 +1,49 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/MB4XBYTU",
+		"type": "article-journal",
+		"abstract": "This article presents a novel data analytic approach to collect detailed information from visual artworks. This new method provides researchers with a framework to compare, analyze, and review in a systematic way large quantities of data from visual productions. Drawing on principles of art historical criticism, our research team devised a comprehensive coding scheme that captures both technical and content attributes. The coding scheme is configured to record specific, fundamental features for each artwork, providing an instrument for collecting data and cross-examining codes to reveal content in a unique and unbiased manner. For example, detailed data collected through individual codes can reveal clear patterns in the artistic treatment of composition and medium, providing evidence that the method could be adapted and applied for use in a variety of settings. To illustrate the method, this article presents examples from an empirical research study that was conducted at Harvard University's Project Zero. In this study, the coding scheme was applied to 414 pieces of artwork published in a teen art and literary magazine between 1990 and 2011. The coding scheme is defined and applied to 2 sample artworks, allowing readers to understand how this method can be used to record nuanced information about each work. Applying this analytic approach to visual art created in museums and informal learning settings can yield insights into artworks, their creators, and nuanced changes in creative production over time.",
+		"container-title": "Visitor Studies",
+		"DOI": "10.1080/10645578.2015.1016370",
+		"ISSN": "1064-5578",
+		"issue": "1",
+		"note": "ZSCC: 0000001 \npublisher: Routledge\n_eprint: https://doi.org/10.1080/10645578.2015.1016370",
+		"page": "103-120",
+		"source": "Taylor and Francis+NEJM",
+		"title": "A New Method for Analyzing Data From Visual Artwork",
+		"URL": "https://doi.org/10.1080/10645578.2015.1016370",
+		"volume": "18",
+		"author": [
+			{
+				"family": "DiBartolomeo",
+				"given": "Donna J."
+			},
+			{
+				"family": "Clark",
+				"given": "Zachary"
+			},
+			{
+				"family": "Davis",
+				"given": "Katie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					2
+				]
+			]
+		}
+	}
+]

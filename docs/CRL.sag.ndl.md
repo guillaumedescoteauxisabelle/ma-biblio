@@ -323,7 +323,7 @@ Qu'est-ce que la structure d'un texte? Existe-t'il des exemples de structure de 
 
 
 
-Qu'est-ce qu'une idée?  
+Qu'est-ce qu'un concept? Comment discerner un concepteur principal d'un concept de secondaire?  
               
               
               
@@ -332,7 +332,7 @@ Qu'est-ce qu'une idée?
 
 
 
-Qu'est-ce qu'un concept? Comment discerner un concepteur principal d'un concept de secondaire?  
+Qu'est-ce qu'une idée?  
               
               
               

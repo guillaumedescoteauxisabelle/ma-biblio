@@ -89,6 +89,22 @@
 
 ----
 
+# Beck-Chiapello-2018
+
+
+## [Beck-Chiapello-2018.all.html](Beck-Chiapello-2018.all.html)
+## [Beck-Chiapello-2018.ht.all.html](Beck-Chiapello-2018.ht.all.html)
+## [Beck-Chiapello-2018.pol.fc.html](Beck-Chiapello-2018.pol.fc.html)
+## [Beck-Chiapello-2018.pol.r.html](Beck-Chiapello-2018.pol.r.html)
+## [Beck-Chiapello-2018.sag.html](Beck-Chiapello-2018.sag.html)
+## [Beck-Chiapello-2018.sag.j.html](Beck-Chiapello-2018.sag.j.html)
+## [Beck-Chiapello-2018.sag.l.html](Beck-Chiapello-2018.sag.l.html)
+## [Beck-Chiapello-2018.sag.ndl.html](Beck-Chiapello-2018.sag.ndl.html)
+## [Beck-Chiapello-2018.sag.q.html](Beck-Chiapello-2018.sag.q.html)
+## [Beck-Chiapello-2018.sag.r.html](Beck-Chiapello-2018.sag.r.html)
+
+----
+
 # Boden-Edmonds-2009
 
 
@@ -220,6 +236,22 @@
 ## [CRL.sag.ndl.html](CRL.sag.ndl.html)
 ## [CRL.sag.q.html](CRL.sag.q.html)
 ## [CRL.sag.r.html](CRL.sag.r.html)
+
+----
+
+# DiBartolomeo-et-al-2015
+
+
+## [DiBartolomeo-et-al-2015.all.html](DiBartolomeo-et-al-2015.all.html)
+## [DiBartolomeo-et-al-2015.ht.all.html](DiBartolomeo-et-al-2015.ht.all.html)
+## [DiBartolomeo-et-al-2015.pol.fc.html](DiBartolomeo-et-al-2015.pol.fc.html)
+## [DiBartolomeo-et-al-2015.pol.r.html](DiBartolomeo-et-al-2015.pol.r.html)
+## [DiBartolomeo-et-al-2015.sag.html](DiBartolomeo-et-al-2015.sag.html)
+## [DiBartolomeo-et-al-2015.sag.j.html](DiBartolomeo-et-al-2015.sag.j.html)
+## [DiBartolomeo-et-al-2015.sag.l.html](DiBartolomeo-et-al-2015.sag.l.html)
+## [DiBartolomeo-et-al-2015.sag.ndl.html](DiBartolomeo-et-al-2015.sag.ndl.html)
+## [DiBartolomeo-et-al-2015.sag.q.html](DiBartolomeo-et-al-2015.sag.q.html)
+## [DiBartolomeo-et-al-2015.sag.r.html](DiBartolomeo-et-al-2015.sag.r.html)
 
 ----
 

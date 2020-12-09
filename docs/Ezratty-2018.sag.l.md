@@ -230,7 +230,7 @@ Les données sont importantes
 
 
 
-L'adaptabilité  
+La récréation permet quoi exactement?  
               
               
               
@@ -239,7 +239,18 @@ L'adaptabilité
 
 
 
-La récréation permet quoi exactement?  
+<!--- o:42.1.20.1 -->  
+<!--- y:txt -->  
+  
+>" L’apprentissage est supervisé car il exploite des bases de données d’entraînement qui contiennent des labels ou des données contenant les réponses aux questions que l’on se pose" (p. 42.1)  
+
+
+
+----
+
+
+
+L'adaptabilité  
               
               
               
@@ -252,17 +263,6 @@ La récréation permet quoi exactement?
 <!--- y:txt -->  
   
 >"L’apprentissage supervisé avec la classification qui permet de labelliser des objets comme des images et la régression qui permet de réaliser des prévisions sur des valeurs numériques" (p. 42.1)  
-
-
-
-----
-
-
-
-<!--- o:42.1.20.1 -->  
-<!--- y:txt -->  
-  
->" L’apprentissage est supervisé car il exploite des bases de données d’entraînement qui contiennent des labels ou des données contenant les réponses aux questions que l’on se pose" (p. 42.1)  
 
 
 

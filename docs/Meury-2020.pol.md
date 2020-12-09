@@ -76,3 +76,15 @@ type: text-highlight
 created: 2020-12-07T07:52:42.166Z
 color: yellow
 Schön , D. (2011). A la recherche d'une nouvelle épistémologie de la pratique et de ce qu'elle implique pour l'éducation des adultes . Dans : Jean - Marie Barbier éd., Savoirs théoriques et savoirs d'action (pp. 201 - 222). Paris cedex 14, France: Presses Universitaires de France. doi:10.3917/puf.barbi.2011.01.0201.
+---
+page: 4
+type: text-highlight
+created: 2020-12-08T06:25:16.336Z
+color: yellow
+RÉSUMÉ Le
+---
+page: 4
+type: text-highlight
+created: 2020-12-08T06:25:28.659Z
+color: yellow
+Le « w orldbuilding » est l’action de créer des mondes possibles (Eco , 1978 ), imaginaires (Wolf , 2012 ) ou secondaires (Tolkien , 1947 ). Ce travail de mémoire sera consacré à l’étude du processus d ’élaboration de l’encyclopédie d’un monde fictif, de ses religions et de ses mythes. Il s’inscrit dans une démarche de recherche - création en Art (Bruneau, Villeneuve, 2015).

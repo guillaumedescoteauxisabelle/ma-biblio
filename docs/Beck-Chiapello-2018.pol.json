@@ -1,0 +1,858 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12iPHBdqJ5",
+      "guid": "12iPHBdqJ5",
+      "created": "2020-09-21T17:24:21.276Z",
+      "lastUpdated": "2020-09-21T17:24:21.276Z",
+      "rects": {
+        "0": {
+          "left": 280,
+          "top": 296,
+          "right": 483,
+          "bottom": 314,
+          "width": 203,
+          "height": 18
+        },
+        "1": {
+          "left": 83,
+          "top": 314,
+          "right": 303,
+          "bottom": 328,
+          "width": 220,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "present a content analysis of 120 texts",
+          "rect": {
+            "left": 280,
+            "top": 296,
+            "right": 483,
+            "bottom": 310,
+            "width": 202,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "published at the last four DRS conferences",
+          "rect": {
+            "left": 83,
+            "top": 314,
+            "right": 303,
+            "bottom": 328,
+            "width": 220,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "present a content analysis of 120 texts\npublished at the last four DRS conferences"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1PREFTAzBi",
+      "guid": "1PREFTAzBi",
+      "created": "2020-09-21T17:24:29.476Z",
+      "lastUpdated": "2020-09-21T17:24:29.476Z",
+      "rects": {
+        "0": {
+          "left": 309,
+          "top": 314,
+          "right": 499,
+          "bottom": 331,
+          "width": 190,
+          "height": 17
+        },
+        "1": {
+          "left": 83,
+          "top": 331,
+          "right": 166,
+          "bottom": 345,
+          "width": 83,
+          "height": 14
+        },
+        "2": {
+          "left": 166,
+          "top": 327,
+          "right": 173,
+          "bottom": 341,
+          "width": 7,
+          "height": 14
+        },
+        "3": {
+          "left": 166,
+          "top": 331,
+          "right": 220,
+          "bottom": 345,
+          "width": 54,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "n order to understand the function of",
+          "rect": {
+            "left": 309,
+            "top": 314,
+            "right": 499,
+            "bottom": 328,
+            "width": 189,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "citations of Sch",
+          "rect": {
+            "left": 83,
+            "top": 331,
+            "right": 166,
+            "bottom": 345,
+            "width": 82,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "€",
+          "rect": {
+            "left": 166,
+            "top": 327,
+            "right": 173,
+            "bottom": 341,
+            "width": 7,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "on’s work",
+          "rect": {
+            "left": 166,
+            "top": 331,
+            "right": 220,
+            "bottom": 345,
+            "width": 54,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "n order to understand the function of\ncitations of Sch\n€\non’s work"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1qdNDCncML",
+      "guid": "12nKmWncFG",
+      "created": "2020-09-21T17:24:46.636Z",
+      "lastUpdated": "2020-09-21T17:25:15.768Z",
+      "rects": {
+        "0": {
+          "left": 83,
+          "top": 400,
+          "right": 292,
+          "bottom": 414,
+          "width": 209,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "deeper understanding of citation functio",
+          "rect": {
+            "left": 83,
+            "top": 400,
+            "right": 292,
+            "bottom": 414,
+            "width": 208,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "deeper understanding of citation functio"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "deeper understanding of citation function"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1xq4FiaKAt",
+      "guid": "12nmNJVYdM",
+      "created": "2020-09-21T17:25:34.875Z",
+      "lastUpdated": "2020-09-21T21:36:56.873Z",
+      "rects": {
+        "0": {
+          "left": 122,
+          "top": 141,
+          "right": 150,
+          "bottom": 155,
+          "width": 28,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Bec",
+          "rect": {
+            "left": 122,
+            "top": 141,
+            "right": 143,
+            "bottom": 155,
+            "width": 20,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "k",
+          "rect": {
+            "left": 143,
+            "top": 141,
+            "right": 150,
+            "bottom": 155,
+            "width": 6,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "Beck"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Beck</p><p><br></p><p>Citer: (Beck &amp; Chiapello, 2018)</p><p>FTag: Beck-Chiapello-2018</p><p>\n\n</p><p>APA7: Beck, J., &amp; Chiapello, L. (2018). Schön’s intellectual legacy: A citation analysis of DRS publications (2010–2016). <em>Design Studies</em>, <em>56</em>, 205–224. <a href=\"https://doi.org/10.1016/j.destud.2017.10.005\">https://doi.org/10.1016/j.destud.2017.10.005</a><a href=\"https://doi.org/10.1016/j.destud.2017.10.005\"></a></p><p><b><br></b></p><p><a href=\"https://www-sciencedirect-com.sbiproxy.uqac.ca/science/article/pii/S0142694X17300741\" target=\"_blank\"><b>Texte intégrale</b> :&nbsp;</a><a href=\"https://www-sciencedirect-com.sbiproxy.uqac.ca/science/article/pii/S0142694X17300741\">https://www-sciencedirect-com.sbiproxy.uqac.ca/science/article/pii/S0142694X17300741</a></p><p></p>"
+      },
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "1f3XNDXJcT",
+      "guid": "1f3XNDXJcT",
+      "created": "2020-09-21T17:26:42.708Z",
+      "lastUpdated": "2020-09-21T17:26:42.708Z",
+      "rects": {
+        "0": {
+          "left": 273,
+          "top": 366,
+          "right": 494,
+          "bottom": 383,
+          "width": 221,
+          "height": 17
+        },
+        "1": {
+          "left": 83,
+          "top": 383,
+          "right": 216,
+          "bottom": 397,
+          "width": 133,
+          "height": 14
+        },
+        "2": {
+          "left": 216,
+          "top": 379,
+          "right": 224,
+          "bottom": 393,
+          "width": 8,
+          "height": 14
+        },
+        "3": {
+          "left": 216,
+          "top": 383,
+          "right": 339,
+          "bottom": 397,
+          "width": 123,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We observe few instances of citations that",
+          "rect": {
+            "left": 273,
+            "top": 366,
+            "right": 494,
+            "bottom": 380,
+            "width": 221,
+            "height": 14
+          }
+        },
+        "1": {
+          "text": "engage critically with Sch",
+          "rect": {
+            "left": 83,
+            "top": 383,
+            "right": 216,
+            "bottom": 397,
+            "width": 133,
+            "height": 14
+          }
+        },
+        "2": {
+          "text": "€",
+          "rect": {
+            "left": 216,
+            "top": 379,
+            "right": 224,
+            "bottom": 393,
+            "width": 7,
+            "height": 14
+          }
+        },
+        "3": {
+          "text": "on or build on his ideas.",
+          "rect": {
+            "left": 216,
+            "top": 383,
+            "right": 339,
+            "bottom": 397,
+            "width": 122,
+            "height": 14
+          }
+        }
+      },
+      "text": {
+        "TEXT": "We observe few instances of citations that\nengage critically with Sch\n€\non or build on his ideas."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "author": {
+        "name": "Jean Guillaume Isabelle",
+        "profileID": "12JZPmPXHWqYFGKnrGWx",
+        "image": {
+          "src": "https://lh5.googleusercontent.com/-tua9W86GTg4/AAAAAAAAAAI/AAAAAAAABYE/O6z8pKL4Dac/photo.jpg"
+        },
+        "guest": false
+      }
+    },
+    {
+      "id": "12GSo1f5Fz",
+      "guid": "1EzsCkyVic",
+      "created": "2020-09-21T20:54:32.029Z",
+      "lastUpdated": "2020-09-21T20:54:45.364Z",
+      "rects": {
+        "0": {
+          "left": 428,
+          "top": 589,
+          "right": 642,
+          "bottom": 607,
+          "width": 214,
+          "height": 18
+        },
+        "1": {
+          "left": 226,
+          "top": 607,
+          "right": 264,
+          "bottom": 623,
+          "width": 38,
+          "height": 16
+        },
+        "2": {
+          "left": 71,
+          "top": -6,
+          "right": 157,
+          "bottom": 607,
+          "width": 86,
+          "height": 613
+        },
+        "3": {
+          "left": 354,
+          "top": 607,
+          "right": 466,
+          "bottom": 623,
+          "width": 112,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "citatio",
+          "rect": {
+            "left": 428,
+            "top": 589,
+            "right": 461,
+            "bottom": 606,
+            "width": 33,
+            "height": 16
+          }
+        },
+        "1": {
+          "text": "n ontology, which [would be] use-",
+          "rect": {
+            "left": 461,
+            "top": 589,
+            "right": 642,
+            "bottom": 606,
+            "width": 180,
+            "height": 16
+          }
+        },
+        "2": {
+          "text": "ful for ",
+          "rect": {
+            "left": 226,
+            "top": 607,
+            "right": 264,
+            "bottom": 623,
+            "width": 37,
+            "height": 16
+          }
+        },
+        "3": {
+          "text": "machine learning",
+          "rect": {
+            "left": 71,
+            "top": -6,
+            "right": 157,
+            "bottom": 10,
+            "width": 86,
+            "height": 16
+          }
+        },
+        "4": {
+          "text": " tasks’ (",
+          "rect": {
+            "left": 354,
+            "top": 607,
+            "right": 397,
+            "bottom": 623,
+            "width": 43,
+            "height": 16
+          }
+        },
+        "5": {
+          "text": "2008",
+          "rect": {
+            "left": 398,
+            "top": 607,
+            "right": 424,
+            "bottom": 623,
+            "width": 25,
+            "height": 16
+          }
+        },
+        "6": {
+          "text": ": p. 31).",
+          "rect": {
+            "left": 424,
+            "top": 607,
+            "right": 466,
+            "bottom": 623,
+            "width": 42,
+            "height": 16
+          }
+        }
+      },
+      "text": {
+        "TEXT": "citation ontology, which [would be] use-\nful for machine learning tasks’ ( 2008: p. 31)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "[...] citation ontology, which [would be] use-\nful for <b>machine learning</b> tasks’ ( 2008: p. 31)."
+      }
+    },
+    {
+      "id": "1KLvC6X6vu",
+      "guid": "1KLvC6X6vu",
+      "created": "2020-09-21T20:55:05.817Z",
+      "lastUpdated": "2020-09-21T20:55:05.817Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>Why would we create a <b>citation ontology</b>&nbsp;?</p>"
+        },
+        "back": {
+          "HTML": "[...] citation ontology, which [would be] use-\nful for <b>machine learning</b> tasks’ ( 2008: p. 31)."
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:12GSo1f5Fz"
+    },
+    {
+      "id": "1DVGgLrfba",
+      "guid": "1DVGgLrfba",
+      "created": "2020-12-07T18:12:32.763Z",
+      "lastUpdated": "2020-12-07T18:12:32.763Z",
+      "rects": {
+        "0": {
+          "left": 227,
+          "top": 733,
+          "right": 329,
+          "bottom": 747,
+          "width": 102,
+          "height": 14
+        },
+        "1": {
+          "left": 329,
+          "top": 732,
+          "right": 640,
+          "bottom": 746,
+          "width": 310,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "2. SUPPORTING"
+        },
+        "1": {
+          "text": "citations help authors justify (i) the topic of their resear"
+        }
+      },
+      "text": {
+        "TEXT": "2. SUPPORTING citations help authors justify (i) the topic of their resear"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12Gs21g2pP",
+      "guid": "12Gs21g2pP",
+      "created": "2020-12-07T18:12:38.493Z",
+      "lastUpdated": "2020-12-07T18:12:38.493Z",
+      "rects": {
+        "0": {
+          "left": 227,
+          "top": 749,
+          "right": 659,
+          "bottom": 764,
+          "width": 432,
+          "height": 14
+        },
+        "1": {
+          "left": 227,
+          "top": 766,
+          "right": 263,
+          "bottom": 781,
+          "width": 36,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "(ii) the method and/or methodology employed; and/or (iii) the authors’"
+        },
+        "1": {
+          "text": "claims"
+        }
+      },
+      "text": {
+        "TEXT": "(ii) the method and/or methodology employed; and/or (iii) the authors’ claims"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "12DkcXU39T",
+      "guid": "12r8ghbyoy",
+      "created": "2020-12-07T18:13:13.785Z",
+      "lastUpdated": "2020-12-08T06:06:20.879Z",
+      "rects": {
+        "0": {
+          "left": 218,
+          "top": 328,
+          "right": 305,
+          "bottom": 343,
+          "width": 87,
+          "height": 14
+        },
+        "1": {
+          "left": 305,
+          "top": 328,
+          "right": 652,
+          "bottom": 342,
+          "width": 346,
+          "height": 14
+        },
+        "2": {
+          "left": 218,
+          "top": 345,
+          "right": 263,
+          "bottom": 359,
+          "width": 44,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "5. ENGAGING"
+        },
+        "1": {
+          "text": "citations appear when authors are in critical dialog with their"
+        },
+        "2": {
+          "text": "sources."
+        }
+      },
+      "text": {
+        "TEXT": "5. ENGAGING citations appear when authors are in critical dialog with their sources."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2><span style=\"font-weight: normal;\">Attention de ne pas trop innover mais plutôt utiliser la citation </span>d'engagement <span style=\"font-weight: normal;\">ou de </span>support.</h2><h2>&gt;5. ENGAGING citations appear when authors are in critical dialog with their sources.</h2><p><br></p>"
+      },
+      "tags": {
+        "ref2012071310": {
+          "id": "ref2012071310",
+          "label": "ref2012071310"
+        }
+      }
+    },
+    {
+      "id": "1c6gbrvpFb",
+      "guid": "1c6gbrvpFb",
+      "created": "2020-12-07T18:13:55.664Z",
+      "lastUpdated": "2020-12-08T06:06:27.791Z",
+      "rects": {
+        "0": {
+          "left": 218,
+          "top": 363,
+          "right": 302,
+          "bottom": 377,
+          "width": 83,
+          "height": 14
+        },
+        "1": {
+          "left": 305,
+          "top": 362,
+          "right": 646,
+          "bottom": 377,
+          "width": 340,
+          "height": 14
+        },
+        "2": {
+          "left": 218,
+          "top": 380,
+          "right": 521,
+          "bottom": 394,
+          "width": 302,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "6. BUILDING"
+        },
+        "1": {
+          "text": "citations are found when authors use sources’ methods or"
+        },
+        "2": {
+          "text": "ideas as foundations, which they then develop furthe"
+        }
+      },
+      "text": {
+        "TEXT": "6. BUILDING citations are found when authors use sources’ methods or ideas as foundations, which they then develop furthe"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "tags": {
+        "ref2012071310": {
+          "id": "ref2012071310",
+          "label": "ref2012071310"
+        }
+      }
+    },
+    {
+      "id": "12JmAYE8fZG8qHzVpGLJ",
+      "guid": "12JmAYE8fZG8qHzVpGLJ",
+      "created": "2020-12-07T18:17:27.502Z",
+      "lastUpdated": "2020-12-07T18:17:27.502Z",
+      "content": {
+        "HTML": "<h2>Ce sont des aliés!!</h2>"
+      },
+      "ref": "text-highlight:1DVGgLrfba"
+    },
+    {
+      "id": "1kt6CmTvH9",
+      "guid": "1s3mJMUjYu",
+      "created": "2020-12-07T18:17:56.125Z",
+      "lastUpdated": "2020-12-08T06:07:08.409Z",
+      "rects": {
+        "0": {
+          "left": 218,
+          "top": 484,
+          "right": 286,
+          "bottom": 498,
+          "width": 68,
+          "height": 14
+        },
+        "1": {
+          "left": 289,
+          "top": 483,
+          "right": 559,
+          "bottom": 498,
+          "width": 269,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "9. FUTURE"
+        },
+        "1": {
+          "text": "citations served to establish future research pla"
+        }
+      },
+      "text": {
+        "TEXT": "9. FUTURE citations served to establish future research pla"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "ref2012071310": {
+          "id": "ref2012071310",
+          "label": "ref2012071310"
+        },
+        "ResearchPlanning": {
+          "id": "ResearchPlanning",
+          "label": "ResearchPlanning"
+        },
+        "CitationFunctions": {
+          "id": "CitationFunctions",
+          "label": "CitationFunctions"
+        }
+      },
+      "revisedText": {
+        "HTML": "9. FUTURE citations served to establish future research plans."
+      }
+    },
+    {
+      "id": "1FxAEkTrba",
+      "guid": "1FxAEkTrba",
+      "created": "2020-12-07T18:18:11.548Z",
+      "lastUpdated": "2020-12-08T06:07:26.053Z",
+      "rects": {
+        "0": {
+          "left": 218,
+          "top": 501,
+          "right": 332,
+          "bottom": 515,
+          "width": 114,
+          "height": 14
+        },
+        "1": {
+          "left": 333,
+          "top": 500,
+          "right": 649,
+          "bottom": 515,
+          "width": 315,
+          "height": 14
+        },
+        "2": {
+          "left": 218,
+          "top": 518,
+          "right": 623,
+          "bottom": 532,
+          "width": 404,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "10. COMPETENCE"
+        },
+        "1": {
+          "text": "citations helped underscore writers’ expertise by display-"
+        },
+        "2": {
+          "text": "ing (i) knowledge of their field; and (ii) their ability to conduct researc"
+        }
+      },
+      "text": {
+        "TEXT": "10. COMPETENCE citations helped underscore writers’ expertise by display- ing (i) knowledge of their field; and (ii) their ability to conduct researc"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "tags": {
+        "ref2012071310": {
+          "id": "ref2012071310",
+          "label": "ref2012071310"
+        },
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        },
+        "CitationFunctions": {
+          "id": "CitationFunctions",
+          "label": "CitationFunctions"
+        }
+      }
+    }
+  ]
+
+}
+

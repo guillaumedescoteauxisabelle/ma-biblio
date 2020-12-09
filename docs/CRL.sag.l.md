@@ -70,21 +70,21 @@ Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce document
 
 
 
-Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.6.1 -->  
 <!--- y:txt -->  
   
 >"La préparation de comptes rendus simples dès le début des études universitaires présente le grand avantage de faire voir qu'un texte n'est jamais tout à fait neutre, même quand il est présenté comme tel : la personne qui l'a rédigé a certainement été influencée par ses valeurs et ses intérêts de recherche, pour le choix de son objet d'étude, dans la sélection des éléments rassemblés dans son étude et en ce qui concerne l'interprétation qu'elle en a faite et les liens qu'elle a établis entre eux" (p. 1)  
 
 
+
+----
+
+
+
+Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.  
+              
+              
+              
 
 ----
 
@@ -139,21 +139,21 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
+Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:1.14.1 -->  
 <!--- y:txt -->  
   
 >"Le terme critique dans le titre de cette première section ne renvoie pas à l'idée qu'il faut chercher à dire du mal à tout prix des textes à lire! Il signifie qu'il faut plus simplement prendre du recul, ne pas se contenter des premières impressions de lecture; chercher à voir, derrière les apparences, quelle est la portée d'un message et son mode de fonctionnement; considérer la cohérence de l’argumentation; réfléchir à la solidité et à la nature des éléments de preuve qui soutiennent cette argumentation; comparer les méthodes, interprétations et conclusions du texte avec les conclusions, interprétations et méthodes d’autres travaux dans le domaine, antérieurs et contemporains; estimer les apports du texte et en poser les limites" (p. 1)  
 
 
-
-----
-
-
-
-Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
-              
-              
-              
 
 ----
 
@@ -248,7 +248,7 @@ Il y a des actions qui sont effectuées et, le produit compte-rendu est où est 
 
 
 
-Quels-sont ces actions ?  
+Lire (raisonné)  
               
               
               
@@ -257,7 +257,7 @@ Quels-sont ces actions ?
 
 
 
-Lire (raisonné)  
+Quels-sont ces actions ?  
               
               
               
@@ -342,21 +342,21 @@ Je trouve que les objectifs pourrait être plus complet que cela pour mon propre
 
 
 
-Quels sont les étapes?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.2.1 -->  
 <!--- y:txt -->  
   
 >"Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)  
 
 
+
+----
+
+
+
+Quels sont les étapes?  
+              
+              
+              
 
 ----
 
@@ -1393,6 +1393,15 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 
+Quels termes nécessites d'etre expliqué ?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.2.1.20.1 -->  
 <!--- y:txt -->  
   
@@ -1405,15 +1414,6 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels sont les outils nécessaires pour faire l'analyse du texte d'un compte rendu?  
-              
-              
-              
-
-----
-
-
-
-Quels termes nécessites d'etre expliqué ?  
               
               
               

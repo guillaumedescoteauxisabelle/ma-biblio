@@ -47,7 +47,17 @@ Métaphores génératives dans un processus de création de mondes aux religions
 
 
 
-Stéphane Meury
+Stéphane Meury 
+
+Citer: (Meury, 2020)
+
+FTag: Meury-2020
+
+APA7: Meury, S. (2020). _Métaphores génératives dans un processus de création de mondes auxreligions fictives—Proposition de sujet de recherche_.
+
+  
+
+### [ma-biblio/wiki/Meury-2020](https://github.com/guillaumedescoteauxisabelle/ma-biblio/wiki/Meury-2020)
 
 
 
@@ -123,6 +133,15 @@ Schön , D. (2011). A la recherche d'une nouvelle épistémologie de la pratique
 [[Meury.biblio]] | [[Schon.biblio]] 
 
 
+
+
+
+RÉSUMÉ
+======
+
+
+
+Le « worldbuilding » est l’action de créer des mondes possibles (Eco , 1978 ), imaginaires (Wolf , 2012 ) ou secondaires (Tolkien , 1947 ). Ce travail de mémoire sera consacré à l’étude du processus d ’élaboration de l’encyclopédie d’un monde fictif, de ses religions et de ses mythes. Il s’inscrit dans une démarche de recherche - création en Art (Bruneau, Villeneuve, 2015).
 
 
 

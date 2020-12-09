@@ -1,0 +1,1092 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12QgudN3Uo",
+      "guid": "12QgudN3Uo",
+      "created": "2020-12-09T07:24:16.353Z",
+      "lastUpdated": "2020-12-09T07:24:16.353Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 123,
+          "right": 468,
+          "bottom": 148,
+          "width": 372,
+          "height": 25
+        },
+        "1": {
+          "left": 95,
+          "top": 157,
+          "right": 233,
+          "bottom": 183,
+          "width": 137,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A New Method for Analyzing Data From"
+        },
+        "1": {
+          "text": "Visual Artwork"
+        }
+      },
+      "text": {
+        "TEXT": "A New Method for Analyzing Data From Visual Artwork"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1cQ18XzfQ7",
+      "guid": "12QBjMSwqD",
+      "created": "2020-12-09T07:24:23.012Z",
+      "lastUpdated": "2020-12-09T07:24:54.087Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 197,
+          "right": 335,
+          "bottom": 221,
+          "width": 239,
+          "height": 24
+        },
+        "1": {
+          "left": 330,
+          "top": 195,
+          "right": 346,
+          "bottom": 210,
+          "width": 15,
+          "height": 14
+        },
+        "2": {
+          "left": 351,
+          "top": 197,
+          "right": 483,
+          "bottom": 221,
+          "width": 131,
+          "height": 24
+        },
+        "3": {
+          "left": 481,
+          "top": 195,
+          "right": 497,
+          "bottom": 210,
+          "width": 15,
+          "height": 14
+        },
+        "4": {
+          "left": 95,
+          "top": 220,
+          "right": 238,
+          "bottom": 245,
+          "width": 142,
+          "height": 24
+        },
+        "5": {
+          "left": 233,
+          "top": 219,
+          "right": 249,
+          "bottom": 234,
+          "width": 15,
+          "height": 14
+        },
+        "6": {
+          "left": 95,
+          "top": 271,
+          "right": 100,
+          "bottom": 283,
+          "width": 5,
+          "height": 11
+        },
+        "7": {
+          "left": 100,
+          "top": 273,
+          "right": 309,
+          "bottom": 290,
+          "width": 208,
+          "height": 16
+        },
+        "8": {
+          "left": 95,
+          "top": 289,
+          "right": 100,
+          "bottom": 300,
+          "width": 5,
+          "height": 11
+        },
+        "9": {
+          "left": 100,
+          "top": 291,
+          "right": 335,
+          "bottom": 307,
+          "width": 234,
+          "height": 16
+        },
+        "10": {
+          "left": 95,
+          "top": 306,
+          "right": 100,
+          "bottom": 317,
+          "width": 5,
+          "height": 11
+        },
+        "11": {
+          "left": 100,
+          "top": 308,
+          "right": 403,
+          "bottom": 324,
+          "width": 303,
+          "height": 16
+        },
+        "12": {
+          "left": 95,
+          "top": 323,
+          "right": 100,
+          "bottom": 335,
+          "width": 5,
+          "height": 11
+        },
+        "13": {
+          "left": 100,
+          "top": 325,
+          "right": 412,
+          "bottom": 342,
+          "width": 312,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "by Donna J. DiBartolomeo,"
+        },
+        "1": {
+          "text": "1,4"
+        },
+        "2": {
+          "text": "Zachary Clark,"
+        },
+        "3": {
+          "text": "2,4"
+        },
+        "4": {
+          "text": "and Katie Davis"
+        },
+        "5": {
+          "text": "3,4"
+        },
+        "6": {
+          "text": "1"
+        },
+        "7": {
+          "text": "Sciencenter, Ithaca, New York, USA"
+        },
+        "8": {
+          "text": "2"
+        },
+        "9": {
+          "text": "Sitar Arts Center, Washington, DC, USA"
+        },
+        "10": {
+          "text": "3"
+        },
+        "11": {
+          "text": "University of Washington, Seattle, Washington, USA"
+        },
+        "12": {
+          "text": "4"
+        },
+        "13": {
+          "text": "Harvard University, Cambridge, Massachusetts, USA"
+        }
+      },
+      "text": {
+        "TEXT": "by Donna J. DiBartolomeo, 1,4 Zachary Clark, 2,4 and Katie Davis 3,4 1 Sciencenter, Ithaca, New York, USA 2 Sitar Arts Center, Washington, DC, USA 3 University of Washington, Seattle, Washington, USA 4 Harvard University, Cambridge, Massachusetts, USA"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (DiBartolomeo et al., 2015)</p>\n<p>FTag: DiBartolomeo-et-al-2015</p>\n<div style=\"line-height:2;text-indent:-2em\">\n<div>DiBartolomeo, D. J., Clark, Z., &amp; Davis, K. (2015). A New Method for Analyzing Data From Visual Artwork. <em>Visitor Studies</em>, <em>18 </em>(1), 103–120. <a href=\"https://doi.org/10.1080/10645578.2015.1016370\">https://doi.org/10.1080/10645578.2015.1016370</a></div>\n</div>\n\n</span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "12gh6zPUXu",
+      "guid": "12gh6zPUXu",
+      "created": "2020-12-09T07:24:31.052Z",
+      "lastUpdated": "2020-12-09T07:24:31.052Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 392,
+          "right": 161,
+          "bottom": 409,
+          "width": 65,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ABSTRACT"
+        }
+      },
+      "text": {
+        "TEXT": "ABSTRACT"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1BWPkaFZgE",
+      "guid": "1BWPkaFZgE",
+      "created": "2020-12-09T10:07:50.524Z",
+      "lastUpdated": "2020-12-09T10:07:50.524Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 479,
+          "right": 335,
+          "bottom": 496,
+          "width": 189,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "a comprehensive coding schem"
+        }
+      },
+      "text": {
+        "TEXT": "a comprehensive coding schem"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "1XZTkDiYjy",
+      "guid": "1XZTkDiYjy",
+      "created": "2020-12-09T10:08:01.090Z",
+      "lastUpdated": "2020-12-09T13:05:56.859Z",
+      "rects": {
+        "0": {
+          "left": 201,
+          "top": 514,
+          "right": 589,
+          "bottom": 530,
+          "width": 387,
+          "height": 16
+        },
+        "1": {
+          "left": 95,
+          "top": 531,
+          "right": 433,
+          "bottom": 548,
+          "width": 337,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "providing an instrument for collecting data and cross-examining"
+        },
+        "1": {
+          "text": "codes to reveal content in a unique and unbiased manner. "
+        }
+      },
+      "text": {
+        "TEXT": "providing an instrument for collecting data and cross-examining codes to reveal content in a unique and unbiased manner."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "MethodeAnalyse": {
+          "id": "MethodeAnalyse",
+          "label": "MethodeAnalyse"
+        },
+        "ref2012080219": {
+          "id": "ref2012080219",
+          "label": "ref2012080219"
+        }
+      }
+    },
+    {
+      "id": "1PAsUjupqk",
+      "guid": "1PAsUjupqk",
+      "created": "2020-12-09T10:08:12.289Z",
+      "lastUpdated": "2020-12-09T13:05:50.374Z",
+      "rects": {
+        "0": {
+          "left": 327,
+          "top": 548,
+          "right": 593,
+          "bottom": 565,
+          "width": 266,
+          "height": 16
+        },
+        "1": {
+          "left": 95,
+          "top": 565,
+          "right": 266,
+          "bottom": 582,
+          "width": 171,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " reveal clear patterns in the artistic treatment"
+        },
+        "1": {
+          "text": "of composition and medium,"
+        }
+      },
+      "text": {
+        "TEXT": "reveal clear patterns in the artistic treatment of composition and medium,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "tags": {
+        "Approach": {
+          "id": "Approach",
+          "label": "Approach"
+        },
+        "CollectingData": {
+          "id": "CollectingData",
+          "label": "CollectingData"
+        },
+        "ref2012080219": {
+          "id": "ref2012080219",
+          "label": "ref2012080219"
+        }
+      }
+    },
+    {
+      "id": "1T3Q8pKndw",
+      "guid": "1T3Q8pKndw",
+      "created": "2020-12-09T10:08:46.562Z",
+      "lastUpdated": "2020-12-09T13:05:43.618Z",
+      "rects": {
+        "0": {
+          "left": 111,
+          "top": 786,
+          "right": 591,
+          "bottom": 802,
+          "width": 479,
+          "height": 16
+        },
+        "1": {
+          "left": 95,
+          "top": 803,
+          "right": 420,
+          "bottom": 820,
+          "width": 325,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The purpose of this article is to introduce an innovative approach designed to"
+        },
+        "1": {
+          "text": "collect, record, and analyze data about visual artwork"
+        }
+      },
+      "text": {
+        "TEXT": "The purpose of this article is to introduce an innovative approach designed to collect, record, and analyze data about visual artwork"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "tags": {
+        "ref2012080219": {
+          "id": "ref2012080219",
+          "label": "ref2012080219"
+        }
+      }
+    },
+    {
+      "id": "12JqqZDxBJ",
+      "guid": "12JqqZDxBJ",
+      "created": "2020-12-09T10:09:05.754Z",
+      "lastUpdated": "2020-12-09T10:09:05.754Z",
+      "rects": {
+        "0": {
+          "left": 98,
+          "top": 404,
+          "right": 575,
+          "bottom": 421,
+          "width": 477,
+          "height": 16
+        },
+        "1": {
+          "left": 82,
+          "top": 422,
+          "right": 577,
+          "bottom": 438,
+          "width": 495,
+          "height": 16
+        },
+        "2": {
+          "left": 82,
+          "top": 439,
+          "right": 201,
+          "bottom": 456,
+          "width": 119,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We developed our coding scheme after reviewing existing methods of image-based"
+        },
+        "1": {
+          "text": "research (Prosser, 1998) and interpretive tools applied to visual works (Goodenough,"
+        },
+        "2": {
+          "text": "1926; Harris, 1963)."
+        }
+      },
+      "text": {
+        "TEXT": "We developed our coding scheme after reviewing existing methods of image-based research (Prosser, 1998) and interpretive tools applied to visual works (Goodenough, 1926; Harris, 1963)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1LBDB4sacu",
+      "guid": "1LBDB4sacu",
+      "created": "2020-12-09T10:09:23.926Z",
+      "lastUpdated": "2020-12-09T10:09:23.926Z",
+      "rects": {
+        "0": {
+          "left": 205,
+          "top": 546,
+          "right": 579,
+          "bottom": 562,
+          "width": 373,
+          "height": 16
+        },
+        "1": {
+          "left": 82,
+          "top": 563,
+          "right": 381,
+          "bottom": 580,
+          "width": 299,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "ew coding scheme is introduced that identifies, isolates, and"
+        },
+        "1": {
+          "text": "analyzes distinct characteristics (Summers, 1982)"
+        }
+      },
+      "text": {
+        "TEXT": "ew coding scheme is introduced that identifies, isolates, and analyzes distinct characteristics (Summers, 1982)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12nDWFfWt2",
+      "guid": "12nDWFfWt2",
+      "created": "2020-12-09T10:09:36.551Z",
+      "lastUpdated": "2020-12-09T10:09:36.551Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 598,
+          "right": 217,
+          "bottom": 614,
+          "width": 135,
+          "height": 16
+        },
+        "1": {
+          "left": 222,
+          "top": 598,
+          "right": 248,
+          "bottom": 614,
+          "width": 26,
+          "height": 16
+        },
+        "2": {
+          "left": 253,
+          "top": 598,
+          "right": 273,
+          "bottom": 614,
+          "width": 20,
+          "height": 16
+        },
+        "3": {
+          "left": 279,
+          "top": 598,
+          "right": 313,
+          "bottom": 614,
+          "width": 34,
+          "height": 16
+        },
+        "4": {
+          "left": 318,
+          "top": 598,
+          "right": 443,
+          "bottom": 614,
+          "width": 125,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Characteristics such as"
+        },
+        "1": {
+          "text": "Line"
+        },
+        "2": {
+          "text": "and"
+        },
+        "3": {
+          "text": "Color"
+        },
+        "4": {
+          "text": "are coded separately;"
+        }
+      },
+      "text": {
+        "TEXT": "Characteristics such as Line and Color are coded separately;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12EgD7tX7d",
+      "guid": "12EgD7tX7d",
+      "created": "2020-12-09T10:09:51.765Z",
+      "lastUpdated": "2020-12-09T10:09:51.765Z",
+      "rects": {
+        "0": {
+          "left": 97,
+          "top": 615,
+          "right": 145,
+          "bottom": 632,
+          "width": 47,
+          "height": 16
+        },
+        "1": {
+          "left": 149,
+          "top": 615,
+          "right": 169,
+          "bottom": 632,
+          "width": 20,
+          "height": 16
+        },
+        "2": {
+          "left": 174,
+          "top": 615,
+          "right": 248,
+          "bottom": 632,
+          "width": 74,
+          "height": 16
+        },
+        "3": {
+          "left": 252,
+          "top": 615,
+          "right": 576,
+          "bottom": 632,
+          "width": 323,
+          "height": 16
+        },
+        "4": {
+          "left": 82,
+          "top": 632,
+          "right": 166,
+          "bottom": 649,
+          "width": 84,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Medium"
+        },
+        "1": {
+          "text": "and"
+        },
+        "2": {
+          "text": "Composition"
+        },
+        "3": {
+          "text": "are treated as individual codes (Janson & Janson, 2001;"
+        },
+        "4": {
+          "text": "Krages, 2005)"
+        }
+      },
+      "text": {
+        "TEXT": "Medium and Composition are treated as individual codes (Janson & Janson, 2001; Krages, 2005)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1PifRpyxRw",
+      "guid": "1PifRpyxRw",
+      "created": "2020-12-09T10:10:02.990Z",
+      "lastUpdated": "2020-12-09T10:10:02.990Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": ""
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12AWdsmhYv",
+      "guid": "12AWdsmhYv",
+      "created": "2020-12-09T10:10:09.124Z",
+      "lastUpdated": "2020-12-09T10:10:09.124Z",
+      "rects": {
+        "0": {
+          "left": 155,
+          "top": 649,
+          "right": 222,
+          "bottom": 666,
+          "width": 67,
+          "height": 16
+        },
+        "1": {
+          "left": 226,
+          "top": 649,
+          "right": 369,
+          "bottom": 666,
+          "width": 143,
+          "height": 16
+        },
+        "2": {
+          "left": 375,
+          "top": 649,
+          "right": 449,
+          "bottom": 666,
+          "width": 73,
+          "height": 16
+        },
+        "3": {
+          "left": 448,
+          "top": 649,
+          "right": 452,
+          "bottom": 666,
+          "width": 3,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Perspective"
+        },
+        "1": {
+          "text": "is coded separately from"
+        },
+        "2": {
+          "text": "Use of Light"
+        },
+        "3": {
+          "text": "."
+        }
+      },
+      "text": {
+        "TEXT": "Perspective is coded separately from Use of Light ."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "175FF339sK",
+      "guid": "12VSnN7tSN",
+      "created": "2020-12-09T10:10:30.487Z",
+      "lastUpdated": "2020-12-09T13:06:56.353Z",
+      "rects": {
+        "0": {
+          "left": 455,
+          "top": 649,
+          "right": 577,
+          "bottom": 666,
+          "width": 121,
+          "height": 16
+        },
+        "1": {
+          "left": 82,
+          "top": 667,
+          "right": 578,
+          "bottom": 683,
+          "width": 496,
+          "height": 16
+        },
+        "2": {
+          "left": 82,
+          "top": 684,
+          "right": 576,
+          "bottom": 701,
+          "width": 494,
+          "height": 16
+        },
+        "3": {
+          "left": 82,
+          "top": 701,
+          "right": 339,
+          "bottom": 718,
+          "width": 257,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The deliberate sepa-"
+        },
+        "1": {
+          "text": "ration of individual qualities of the artwork makes it possible to recognize trends and"
+        },
+        "2": {
+          "text": "changes over time in a quantifiable way that would not be possible if each piece were"
+        },
+        "3": {
+          "text": "assessed in an exclusively holistic manner. "
+        }
+      },
+      "text": {
+        "TEXT": "The deliberate sepa- ration of individual qualities of the artwork makes it possible to recognize trends and changes over time in a quantifiable way that would not be possible if each piece were assessed in an exclusively holistic manner."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "The deliberate separation of individual qualities of the artwork makes it possible to recognize trends and changes over time in a quantifiable way that would not be possible if each piece were assessed in an exclusively holistic manner."
+      },
+      "tags": {
+        "QualitativeAnalysis": {
+          "id": "QualitativeAnalysis",
+          "label": "QualitativeAnalysis"
+        },
+        "ref2012080219": {
+          "id": "ref2012080219",
+          "label": "ref2012080219"
+        },
+        "VisualQualityAnalysis": {
+          "id": "VisualQualityAnalysis",
+          "label": "VisualQualityAnalysis"
+        }
+      }
+    },
+    {
+      "id": "1UvDZbfpVj",
+      "guid": "1UvDZbfpVj",
+      "created": "2020-12-09T10:11:14.544Z",
+      "lastUpdated": "2020-12-09T10:11:14.544Z",
+      "rects": {
+        "0": {
+          "left": 111,
+          "top": 304,
+          "right": 586,
+          "bottom": 320,
+          "width": 475,
+          "height": 16
+        },
+        "1": {
+          "left": 95,
+          "top": 321,
+          "right": 593,
+          "bottom": 338,
+          "width": 497,
+          "height": 16
+        },
+        "2": {
+          "left": 95,
+          "top": 338,
+          "right": 268,
+          "bottom": 355,
+          "width": 173,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Existing approaches to analyzing art, especially youth-produced artworks, have"
+        },
+        "1": {
+          "text": "a history of being limited to interpretation with the intent to reveal the perceptions"
+        },
+        "2": {
+          "text": "of the artists (Bowker, 2007)."
+        }
+      },
+      "text": {
+        "TEXT": "Existing approaches to analyzing art, especially youth-produced artworks, have a history of being limited to interpretation with the intent to reveal the perceptions of the artists (Bowker, 2007)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900"
+    },
+    {
+      "id": "163Bh9uC2f",
+      "guid": "163Bh9uC2f",
+      "created": "2020-12-09T10:11:40.209Z",
+      "lastUpdated": "2020-12-09T10:11:40.209Z",
+      "rects": {
+        "0": {
+          "left": 286,
+          "top": 528,
+          "right": 511,
+          "bottom": 545,
+          "width": 225,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "content-specific patterns across works."
+        }
+      },
+      "text": {
+        "TEXT": "content-specific patterns across works."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1MF9adXBH6",
+      "guid": "12HuQrnKPs",
+      "created": "2020-12-09T10:12:26.652Z",
+      "lastUpdated": "2020-12-09T13:07:55.316Z",
+      "rects": {
+        "0": {
+          "left": 98,
+          "top": 241,
+          "right": 574,
+          "bottom": 257,
+          "width": 476,
+          "height": 16
+        },
+        "1": {
+          "left": 82,
+          "top": 258,
+          "right": 574,
+          "bottom": 275,
+          "width": 492,
+          "height": 16
+        },
+        "2": {
+          "left": 82,
+          "top": 275,
+          "right": 576,
+          "bottom": 292,
+          "width": 493,
+          "height": 16
+        },
+        "3": {
+          "left": 82,
+          "top": 293,
+          "right": 448,
+          "bottom": 309,
+          "width": 366,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The Visual Art Coding Scheme (Appendix) was developed iteratively by two re-"
+        },
+        "1": {
+          "text": "search assistants with substantial backgrounds in arts education, art history, and visual"
+        },
+        "2": {
+          "text": "art-making. The language used in the coding scheme needed to describe accurately"
+        },
+        "3": {
+          "text": "the specific, notable attributes of each image (Batey, 2012). "
+        }
+      },
+      "text": {
+        "TEXT": "The Visual Art Coding Scheme (Appendix) was developed iteratively by two re- search assistants with substantial backgrounds in arts education, art history, and visual art-making. The language used in the coding scheme needed to describe accurately the specific, notable attributes of each image (Batey, 2012)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "The Visual Art Coding Scheme (Appendix) was developed iteratively by two research assistants with substantial backgrounds in arts education, art history, and visual art-making. The language used in the coding scheme needed to describe accurately the specific, notable attributes of each image (Batey, 2012)."
+      }
+    },
+    {
+      "id": "1PifRpyxRw",
+      "guid": "1PifRpyxRw",
+      "created": "2020-12-09T13:08:54.469Z",
+      "lastUpdated": "2020-12-09T13:08:54.469Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": ""
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1213wV6j5a",
+      "guid": "12vAcpuXcJ",
+      "created": "2020-12-09T13:09:01.480Z",
+      "lastUpdated": "2020-12-09T13:09:11.024Z",
+      "rects": {
+        "0": {
+          "left": 95,
+          "top": 164,
+          "right": 303,
+          "bottom": 180,
+          "width": 207,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Description of the Coding Scheme"
+        }
+      },
+      "text": {
+        "TEXT": "Description of the Coding Scheme"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Description of the Coding Scheme</h2>"
+      }
+    },
+    {
+      "id": "12kDPc3dPq",
+      "guid": "12kDPc3dPq",
+      "created": "2020-12-09T13:10:59.153Z",
+      "lastUpdated": "2020-12-09T13:10:59.153Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 70,
+          "right": 120,
+          "bottom": 84,
+          "width": 38,
+          "height": 13
+        },
+        "1": {
+          "left": 128,
+          "top": 70,
+          "right": 293,
+          "bottom": 84,
+          "width": 165,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Table 1."
+        },
+        "1": {
+          "text": "Coding memo applied to Figure 2"
+        }
+      },
+      "text": {
+        "TEXT": "Table 1. Coding memo applied to Figure 2"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1Mt1cVcZdK",
+      "guid": "1Mt1cVcZdK",
+      "created": "2020-12-09T13:11:02.199Z",
+      "lastUpdated": "2020-12-09T13:11:14.503Z",
+      "rects": {
+        "0": {
+          "left": 14.304694419840567,
+          "top": 12.108406908302355,
+          "width": 13.286093888396811,
+          "height": 9.293680297397769
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1Fu4TuCB9hP2g1aFpEJU",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1Fu4TuCB9hP2g1aFpEJU.png"
+        },
+        "width": 1900,
+        "height": 1578,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 66,
+        "y": 30,
+        "width": 565,
+        "height": 469
+      }
+    }
+  ]
+
+}
+

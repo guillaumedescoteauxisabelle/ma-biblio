@@ -1,0 +1,47 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/U7UDWC23",
+		"type": "article-journal",
+		"abstract": "Donald Schön was one of the most influential scholars in the design field; his work was and still is among the most highly cited. But how and why do scholars cite Schön's work? In this paper, we present a content analysis of 120 texts published at the last four DRS conferences in order to understand the function of citations of Schön's work. We find scholars primarily cite Schön either to support their research topics, methods or methodologies, and arguments or to credit Schön for concepts or ideas. We observe few instances of citations that engage critically with Schön or build on his ideas. Our conclusions suggest that a deeper understanding of citation function would be an interesting and important project.",
+		"container-title": "Design Studies",
+		"DOI": "10.1016/j.destud.2017.10.005",
+		"ISSN": "0142-694X",
+		"journalAbbreviation": "Design Studies",
+		"language": "en",
+		"note": "ZSCC: 0000013",
+		"page": "205-224",
+		"source": "ScienceDirect",
+		"title": "Schön's intellectual legacy: A citation analysis of DRS publications (2010–2016)",
+		"title-short": "Schön's intellectual legacy",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0142694X17300741",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Beck",
+				"given": "Jordan"
+			},
+			{
+				"family": "Chiapello",
+				"given": "Laureline"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					1
+				]
+			]
+		}
+	}
+]
