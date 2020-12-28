@@ -29,7 +29,6 @@ The exhibition Constructs and Re-Constructions provided a survey of the author's
 ## Annotations
 
 Structure in Art Practice: Technology as an Agent for Concept Development
-=========================================================================
 
 
 
@@ -41,17 +40,19 @@ APA7: Edmonds, E. (2002). Structure in Art Practice: Technology as an Agent for 
 
 
 
-Les ordinateurs nous aide avec la structure sous-jascente.
+Des lois font que nous faisons nos choix en créant.
 
-> [...] computer provides a significant enhancement to our ability to handle and consider the underlying structures of art-works and art systems in the many forms that they may take. (Edmonds, 2002, p.1)  
-[[ref2011081831]] | [[UnderlyingStructure]] | [[CreativeOrientation]] 
-
-
+>Aesthetic understanding, if we put it in these terms, comes not in understanding, for example, the color patches used in a work, but in understanding the underlying laws that led to their selection.  
+[[UnderlyingStructure]] | [[ArticleAgent]] 
 
 
 
->We are able to define an underlying structure in a logic programming language [...]   (Edmonds, 2002, p.68)  
-[[UnderlyingStructure]] | [[Programming]] | [[ref2011081831]] 
+
+
+> [...] the computer provides a significant enhancement to our ability to handle and consider the underlying structures of art-works and art systems in the many forms that they may take.
+
+Habileté à gérer la structure sous-jascente d'un travail artistique est critique et c'est ce que l'ordinateur fourni à l'artiste.  
+[[ArticleAgent]] 
 
 
 

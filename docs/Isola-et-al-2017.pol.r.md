@@ -79,6 +79,27 @@ Je ne comprend pas encore pleinement la chose.
 Figure 2.  
 
 
+L'article enquête sur les réseaux de neurones adverses conditionnels (RNAC) pour faire la translation d'une image en une autre.
+
+  
+
+>We investigate conditional adversarial networks as a general-purpose solution to image-to-image translation problems.  (Isola et al., 2017)  
+[[ref2011271354]] 
+
+
+
+
+
+learn the mapping from input image to output imag
+
+
+
+Les  capacités de "mapper" une image à une autre comprennent la reconstruction des bordures, la colorization.
+
+> [...] image-to-image translation [...]   learn the mapping from input image to output image, [...]   reconstructing objects from edge maps, and colorizing images, among other tasks.
+
+
+
 
 
 

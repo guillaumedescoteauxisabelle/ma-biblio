@@ -1372,10 +1372,10 @@
       }
     },
     {
-      "id": "12L6648zHu",
+      "id": "17HKJ2RkEt",
       "guid": "12GK84WmfM",
       "created": "2020-11-13T23:15:56.188Z",
-      "lastUpdated": "2020-11-14T00:20:24.236Z",
+      "lastUpdated": "2020-11-14T02:33:01.023Z",
       "rects": {
         "0": {
           "left": 461,
@@ -1873,7 +1873,7 @@
       "flashcards": {},
       "color": "#9900EF",
       "revisedText": {
-        "HTML": "<p><span>\n\n</span></p><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div><br></div><div>## Table</div><div><br></div><div><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div>|&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Acronym&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Definition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Artists&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Ele-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;involves&nbsp;electrical&nbsp;engineering&nbsp;and&nbsp;/&nbsp;or&nbsp;electronic&nbsp;technology.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;uses&nbsp;computers&nbsp;as&nbsp;part&nbsp;of&nbsp;the&nbsp;art-&nbsp;making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;D-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;D-art&nbsp;&nbsp;uses&nbsp;digital&nbsp;electronic&nbsp;technology&nbsp;of&nbsp;some&nbsp;sort.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;uses&nbsp;the&nbsp;computer&nbsp;as&nbsp;an&nbsp;aid&nbsp;(in&nbsp;principle,&nbsp;non-essential)&nbsp;in&nbsp;the&nbsp;art-making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;G-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;works&nbsp;are&nbsp;generated,&nbsp;at&nbsp;least&nbsp;in&nbsp;part,&nbsp;by&nbsp;some&nbsp;process&nbsp;that&nbsp;is&nbsp;not&nbsp;under&nbsp;the&nbsp;artist’s&nbsp;direct&nbsp;control.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CG-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CG-art&nbsp;&nbsp;is&nbsp;produced&nbsp;by&nbsp;leaving&nbsp;a&nbsp;computer&nbsp;program&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;minimal&nbsp;or&nbsp;zero&nbsp;interference&nbsp;from&nbsp;a&nbsp;human&nbsp;being.&nbsp;NB:&nbsp;We&nbsp;chose&nbsp;to&nbsp;reject&nbsp;the&nbsp;stricter&nbsp;definition&nbsp;of&nbsp;CG-art&nbsp;(art&nbsp;produced&nbsp;by&nbsp;a&nbsp;program&nbsp;left&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;zero&nbsp;interference&nbsp;from&nbsp;the&nbsp;human&nbsp;artist).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;is&nbsp;evolved&nbsp;by&nbsp;processes&nbsp;of&nbsp;random&nbsp;variation&nbsp;and&nbsp;selective&nbsp;reproduction&nbsp;that&nbsp;affect&nbsp;the&nbsp;art-generating&nbsp;program&nbsp;itself.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;R-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;R-art&nbsp;&nbsp;is&nbsp;the&nbsp;construction&nbsp;of&nbsp;robots&nbsp;for&nbsp;artistic&nbsp;purposes,&nbsp;where&nbsp;robots&nbsp;are&nbsp;physical&nbsp;machines&nbsp;capable&nbsp;of&nbsp;autonomous&nbsp;move-&nbsp;ment&nbsp;and&nbsp;/&nbsp;or&nbsp;communication.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;I-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;I-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;the&nbsp;artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CI-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;CI-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;some&nbsp;CG-artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;11.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;VR-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;VR-art,&nbsp;the&nbsp;observer&nbsp;is&nbsp;immersed&nbsp;in&nbsp;a&nbsp;computer-generated&nbsp;virtual&nbsp;world,&nbsp;experiencing&nbsp;it&nbsp;and&nbsp;responding&nbsp;to&nbsp;it&nbsp;as&nbsp;if&nbsp;it&nbsp;were&nbsp;real.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><br><br></div></span></div></span></div></div>\n\n<p></p>"
+        "HTML": "<p><span>\n\n</span></p><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div><br></div><div>## Table</div><div><br></div><div><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><span><div style=\"font-weight:normal;line-height:24px;white-space:pre\"><div>|&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Acronym&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Definition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Artists&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;&nbsp;---&nbsp;&nbsp;|&nbsp;</div><div>|&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Ele-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;involves&nbsp;electrical&nbsp;engineering&nbsp;and&nbsp;/&nbsp;or&nbsp;electronic&nbsp;technology.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;C-art&nbsp;uses&nbsp;computers&nbsp;as&nbsp;part&nbsp;of&nbsp;the&nbsp;art-&nbsp;making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;D-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;D-art&nbsp;&nbsp;uses&nbsp;digital&nbsp;electronic&nbsp;technology&nbsp;of&nbsp;some&nbsp;sort.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CA-art&nbsp;uses&nbsp;the&nbsp;computer&nbsp;as&nbsp;an&nbsp;aid&nbsp;(in&nbsp;principle,&nbsp;non-essential)&nbsp;in&nbsp;the&nbsp;art-making&nbsp;process.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;G-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;works&nbsp;are&nbsp;generated,&nbsp;at&nbsp;least&nbsp;in&nbsp;part,&nbsp;by&nbsp;some&nbsp;process&nbsp;that&nbsp;is&nbsp;not&nbsp;under&nbsp;the&nbsp;artist’s&nbsp;direct&nbsp;control.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CG-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CG-art&nbsp;&nbsp;is&nbsp;produced&nbsp;by&nbsp;leaving&nbsp;a&nbsp;computer&nbsp;program&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;minimal&nbsp;or&nbsp;zero&nbsp;interference&nbsp;from&nbsp;a&nbsp;human&nbsp;being.&nbsp;NB:&nbsp;We&nbsp;chose&nbsp;to&nbsp;reject&nbsp;the&nbsp;stricter&nbsp;definition&nbsp;of&nbsp;CG-art&nbsp;(art&nbsp;produced&nbsp;by&nbsp;a&nbsp;program&nbsp;left&nbsp;to&nbsp;run&nbsp;by&nbsp;itself,&nbsp;with&nbsp;zero&nbsp;interference&nbsp;from&nbsp;the&nbsp;human&nbsp;artist).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Evo-art&nbsp;&nbsp;is&nbsp;evolved&nbsp;by&nbsp;processes&nbsp;of&nbsp;random&nbsp;variation&nbsp;and&nbsp;selective&nbsp;reproduction&nbsp;that&nbsp;affect&nbsp;the&nbsp;art-generating&nbsp;program&nbsp;itself.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;R-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;R-art&nbsp;&nbsp;is&nbsp;the&nbsp;construction&nbsp;of&nbsp;robots&nbsp;for&nbsp;artistic&nbsp;purposes,&nbsp;where&nbsp;robots&nbsp;are&nbsp;physical&nbsp;machines&nbsp;capable&nbsp;of&nbsp;autonomous&nbsp;move-&nbsp;ment&nbsp;and&nbsp;/&nbsp;or&nbsp;communication.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;I-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;I-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;the&nbsp;artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CI-art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;CI-art,&nbsp;the&nbsp;form&nbsp;/&nbsp;content&nbsp;of&nbsp;some&nbsp;CG-artwork&nbsp;is&nbsp;significantly&nbsp;affected&nbsp;by&nbsp;the&nbsp;behaviour&nbsp;of&nbsp;the&nbsp;audience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><div>|&nbsp;&nbsp;&nbsp;11.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;VR-art&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;In&nbsp;VR-art,&nbsp;the&nbsp;observer&nbsp;is&nbsp;immersed&nbsp;in&nbsp;a&nbsp;computer-generated&nbsp;virtual&nbsp;world,&nbsp;experiencing&nbsp;it&nbsp;and&nbsp;responding&nbsp;to&nbsp;it&nbsp;as&nbsp;if&nbsp;it&nbsp;were&nbsp;real.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</div><br><br></div></span></div></span></div></div>\n\n<p></p>"
       },
       "tags": {
         "GATaxonomy": {
@@ -1899,21 +1899,773 @@
         "HTML": "<p>What is symbolic computation ?</p><p><br></p><p>What is connectionnist computation ?</p>"
       },
       "ref": "text-highlight:1XtRrhREFY"
+    },
+    {
+      "id": "12qozX3e2R",
+      "guid": "12K8sERisM",
+      "created": "2020-11-21T22:46:32.670Z",
+      "lastUpdated": "2020-11-21T22:47:08.128Z",
+      "rects": {
+        "0": {
+          "left": 650,
+          "top": 670,
+          "right": 698,
+          "bottom": 686,
+          "width": 47,
+          "height": 15
+        },
+        "1": {
+          "left": 461,
+          "top": 686,
+          "right": 707,
+          "bottom": 702,
+          "width": 246,
+          "height": 15
+        },
+        "2": {
+          "left": 461,
+          "top": 702,
+          "right": 529,
+          "bottom": 718,
+          "width": 68,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "the C-art"
+        },
+        "1": {
+          "text": "that’s most relevant here is a form of generative"
+        },
+        "2": {
+          "text": "art, or G-art."
+        }
+      },
+      "text": {
+        "TEXT": "the C-art that’s most relevant here is a form of generative art, or G-art."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "&gt;C-art [...] is a form of G-art."
+      }
+    },
+    {
+      "id": "1CczJeYB9c",
+      "guid": "1eAej771A8",
+      "created": "2020-11-21T22:47:26.999Z",
+      "lastUpdated": "2020-11-21T22:49:19.611Z",
+      "rects": {
+        "0": {
+          "left": 494,
+          "top": 718,
+          "right": 526,
+          "bottom": 734,
+          "width": 32,
+          "height": 15
+        },
+        "1": {
+          "left": 531,
+          "top": 718,
+          "right": 708,
+          "bottom": 734,
+          "width": 177,
+          "height": 15
+        },
+        "2": {
+          "left": 461,
+          "top": 734,
+          "right": 686,
+          "bottom": 750,
+          "width": 225,
+          "height": 15
+        },
+        "3": {
+          "left": 461,
+          "top": 750,
+          "right": 631,
+          "bottom": 766,
+          "width": 170,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "G-art,"
+        },
+        "1": {
+          "text": "(df.) the artwork is generated, at"
+        },
+        "2": {
+          "text": "least in part, by some process that is not"
+        },
+        "3": {
+          "text": "under the artist’s direct control."
+        }
+      },
+      "text": {
+        "TEXT": "G-art, (df.) the artwork is generated, at least in part, by some process that is not under the artist’s direct control."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h3>G-art : (df.) the artwork is generated, at least in part, by some process that is not under the artist’s direct control.</h3>"
+      }
+    },
+    {
+      "id": "12PnZF6gjx",
+      "guid": "12SpHSaq5b",
+      "created": "2020-11-21T22:47:55.193Z",
+      "lastUpdated": "2020-11-21T22:49:20.934Z",
+      "rects": {
+        "0": {
+          "left": 369,
+          "top": 702,
+          "right": 411,
+          "bottom": 718,
+          "width": 41,
+          "height": 15
+        },
+        "1": {
+          "left": 194,
+          "top": 718,
+          "right": 235,
+          "bottom": 734,
+          "width": 40,
+          "height": 15
+        },
+        "2": {
+          "left": 241,
+          "top": 718,
+          "right": 245,
+          "bottom": 734,
+          "width": 4,
+          "height": 15
+        },
+        "3": {
+          "left": 245,
+          "top": 718,
+          "right": 260,
+          "bottom": 734,
+          "width": 14,
+          "height": 15
+        },
+        "4": {
+          "left": 260,
+          "top": 718,
+          "right": 430,
+          "bottom": 734,
+          "width": 169,
+          "height": 15
+        },
+        "5": {
+          "left": 194,
+          "top": 734,
+          "right": 436,
+          "bottom": 750,
+          "width": 241,
+          "height": 15
+        },
+        "6": {
+          "left": 194,
+          "top": 750,
+          "right": 237,
+          "bottom": 766,
+          "width": 42,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CA-art,"
+        },
+        "1": {
+          "text": "wherein"
+        },
+        "2": {
+          "text": "("
+        },
+        "3": {
+          "text": "df."
+        },
+        "4": {
+          "text": ") the computer is used as an aid"
+        },
+        "5": {
+          "text": "(in principle, non-essential) in the art-making"
+        },
+        "6": {
+          "text": "process."
+        }
+      },
+      "text": {
+        "TEXT": "CA-art, wherein ( df. ) the computer is used as an aid (in principle, non-essential) in the art-making process."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h3>CA-art:&nbsp; wherein ( df. ) the computer is used as an aid (in principle, non-essential) in the art-making process.</h3>"
+      }
+    },
+    {
+      "id": "12bEcv8Fky",
+      "guid": "12WLDN4Z3W",
+      "created": "2020-11-21T22:48:28.846Z",
+      "lastUpdated": "2020-11-21T22:49:27.695Z",
+      "rects": {
+        "0": {
+          "left": 613,
+          "top": 542,
+          "right": 690,
+          "bottom": 558,
+          "width": 77,
+          "height": 15
+        },
+        "1": {
+          "left": 461,
+          "top": 558,
+          "right": 513,
+          "bottom": 574,
+          "width": 52,
+          "height": 15
+        },
+        "2": {
+          "left": 516,
+          "top": 558,
+          "right": 521,
+          "bottom": 574,
+          "width": 4,
+          "height": 15
+        },
+        "3": {
+          "left": 521,
+          "top": 558,
+          "right": 535,
+          "bottom": 574,
+          "width": 14,
+          "height": 15
+        },
+        "4": {
+          "left": 535,
+          "top": 558,
+          "right": 699,
+          "bottom": 574,
+          "width": 164,
+          "height": 15
+        },
+        "5": {
+          "left": 461,
+          "top": 574,
+          "right": 698,
+          "bottom": 590,
+          "width": 237,
+          "height": 15
+        },
+        "6": {
+          "left": 461,
+          "top": 590,
+          "right": 698,
+          "bottom": 606,
+          "width": 237,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " CG-art would"
+        },
+        "1": {
+          "text": "insist that"
+        },
+        "2": {
+          "text": "("
+        },
+        "3": {
+          "text": "df."
+        },
+        "4": {
+          "text": ") the artwork results from some"
+        },
+        "5": {
+          "text": "computer program being left to run by itself,"
+        },
+        "6": {
+          "text": "with zero interference from the human artist."
+        }
+      },
+      "text": {
+        "TEXT": "CG-art would insist that ( df. ) the artwork results from some computer program being left to run by itself, with zero interference from the human artist."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h3>CG-art : ( df. ) the artwork results from some computer program being left to run by itself, with zero interference from the human artist.</h3>"
+      }
+    },
+    {
+      "id": "12csT69Wnj",
+      "guid": "12PfoUwQcK",
+      "created": "2020-11-28T01:26:16.699Z",
+      "lastUpdated": "2020-12-20T09:39:07.707Z",
+      "rects": {
+        "0": {
+          "left": 286,
+          "top": 222,
+          "right": 308,
+          "bottom": 238,
+          "width": 21,
+          "height": 15
+        },
+        "1": {
+          "left": 308,
+          "top": 222,
+          "right": 326,
+          "bottom": 238,
+          "width": 18,
+          "height": 15
+        },
+        "2": {
+          "left": 83,
+          "top": 238,
+          "right": 217,
+          "bottom": 254,
+          "width": 133,
+          "height": 15
+        },
+        "3": {
+          "left": 223,
+          "top": 238,
+          "right": 313,
+          "bottom": 254,
+          "width": 89,
+          "height": 15
+        },
+        "4": {
+          "left": 83,
+          "top": 254,
+          "right": 311,
+          "bottom": 270,
+          "width": 227,
+          "height": 15
+        },
+        "5": {
+          "left": 83,
+          "top": 270,
+          "right": 139,
+          "bottom": 286,
+          "width": 56,
+          "height": 15
+        },
+        "6": {
+          "left": 140,
+          "top": 271,
+          "right": 149,
+          "bottom": 285,
+          "width": 8,
+          "height": 14
+        },
+        "7": {
+          "left": 147,
+          "top": 270,
+          "right": 277,
+          "bottom": 286,
+          "width": 129,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Ele-"
+        },
+        "1": {
+          "text": "art."
+        },
+        "2": {
+          "text": "This wide concept covers"
+        },
+        "3": {
+          "text": "(df.) any artwork"
+        },
+        "4": {
+          "text": "whose production involves electrical engin-"
+        },
+        "5": {
+          "text": "eering and"
+        },
+        "6": {
+          "text": "/"
+        },
+        "7": {
+          "text": "or electronic technology."
+        }
+      },
+      "text": {
+        "TEXT": "Ele- art. This wide concept covers (df.) any artwork whose production involves electrical engin- eering and / or electronic technology."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Ele-Art&nbsp; (df.) Forme d'art dont la production implique des technologie numérique et d'ingénérie electrique.</p><p>&gt;Ele-art. [...] (df.) any artwork whose production involves electrical engineering and / or electronic technology.</p>"
+      },
+      "tags": {
+        "Ele-Art": {
+          "id": "Ele-Art",
+          "label": "Ele-Art"
+        }
+      }
+    },
+    {
+      "id": "1R52CgqKzu",
+      "guid": "1R52CgqKzu",
+      "created": "2020-12-19T05:33:13.885Z",
+      "lastUpdated": "2020-12-19T05:33:13.885Z",
+      "rects": {
+        "0": {
+          "left": 83,
+          "top": 350,
+          "right": 327,
+          "bottom": 366,
+          "width": 244,
+          "height": 15
+        },
+        "1": {
+          "left": 83,
+          "top": 366,
+          "right": 324,
+          "bottom": 382,
+          "width": 240,
+          "height": 15
+        },
+        "2": {
+          "left": 83,
+          "top": 382,
+          "right": 102,
+          "bottom": 398,
+          "width": 19,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Haydn and Mozart the exact order of the pre-"
+        },
+        "1": {
+          "text": "composed phrases was decided by throwing a"
+        },
+        "2": {
+          "text": "die."
+        }
+      },
+      "text": {
+        "TEXT": "Haydn and Mozart the exact order of the pre- composed phrases was decided by throwing a die."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "146re6BYxK",
+      "guid": "146re6BYxK",
+      "created": "2020-12-19T06:52:45.200Z",
+      "lastUpdated": "2020-12-19T06:52:45.200Z",
+      "rects": {
+        "0": {
+          "left": 122,
+          "top": 798,
+          "right": 331,
+          "bottom": 814,
+          "width": 208,
+          "height": 15
+        },
+        "1": {
+          "left": 83,
+          "top": 814,
+          "right": 143,
+          "bottom": 830,
+          "width": 60,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Computer programs, in contrast, are so"
+        },
+        "1": {
+          "text": "specifiable."
+        }
+      },
+      "text": {
+        "TEXT": "Computer programs, in contrast, are so specifiable."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "1jCk3ECZS4",
+      "guid": "1jCk3ECZS4",
+      "created": "2020-12-19T06:53:03.810Z",
+      "lastUpdated": "2020-12-19T06:53:03.810Z",
+      "rects": {
+        "0": {
+          "left": 126,
+          "top": 846,
+          "right": 330,
+          "bottom": 862,
+          "width": 203,
+          "height": 15
+        },
+        "1": {
+          "left": 83,
+          "top": 862,
+          "right": 142,
+          "bottom": 878,
+          "width": 59,
+          "height": 15
+        },
+        "2": {
+          "left": 142,
+          "top": 862,
+          "right": 173,
+          "bottom": 878,
+          "width": 30,
+          "height": 15
+        },
+        "3": {
+          "left": 173,
+          "top": 862,
+          "right": 310,
+          "bottom": 878,
+          "width": 137,
+          "height": 15
+        },
+        "4": {
+          "left": 83,
+          "top": 878,
+          "right": 329,
+          "bottom": 894,
+          "width": 246,
+          "height": 15
+        },
+        "5": {
+          "left": 83,
+          "top": 894,
+          "right": 285,
+          "bottom": 910,
+          "width": 201,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " CG-art programs are or are not ‘under"
+        },
+        "1": {
+          "text": "the artist’s "
+        },
+        "2": {
+          "text": "direct"
+        },
+        "3": {
+          "text": " control’ and the extent to"
+        },
+        "4": {
+          "text": "which, and the points at which, they are subject"
+        },
+        "5": {
+          "text": "to “interference from a human being”."
+        }
+      },
+      "text": {
+        "TEXT": "CG-art programs are or are not ‘under the artist’s direct control’ and the extent to which, and the points at which, they are subject to “interference from a human being”."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "1txMxBXe9T",
+      "guid": "1JxtSHP5Jo",
+      "created": "2020-12-19T06:54:36.335Z",
+      "lastUpdated": "2020-12-20T09:45:48.702Z",
+      "rects": {
+        "0": {
+          "left": 563,
+          "top": 382,
+          "right": 588,
+          "bottom": 398,
+          "width": 25,
+          "height": 15
+        },
+        "1": {
+          "left": 349,
+          "top": 398,
+          "right": 437,
+          "bottom": 414,
+          "width": 87,
+          "height": 15
+        },
+        "2": {
+          "left": 437,
+          "top": 398,
+          "right": 467,
+          "bottom": 414,
+          "width": 30,
+          "height": 15
+        },
+        "3": {
+          "left": 467,
+          "top": 398,
+          "right": 596,
+          "bottom": 414,
+          "width": 128,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " if in"
+        },
+        "1": {
+          "text": "fact it is no less "
+        },
+        "2": {
+          "text": "direct"
+        },
+        "3": {
+          "text": "ive, no less determinate,"
+        }
+      },
+      "text": {
+        "TEXT": "if in fact it is no less direct ive, no less determinate,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "if in fact it is no less directive, no less determinate,"
+      }
+    },
+    {
+      "id": "1627TGtKEy",
+      "guid": "1627TGtKEy",
+      "created": "2020-12-20T19:21:18.529Z",
+      "lastUpdated": "2020-12-20T19:21:18.529Z",
+      "rects": {
+        "0": {
+          "left": 296,
+          "top": 831,
+          "right": 439,
+          "bottom": 845,
+          "width": 142,
+          "height": 14
+        },
+        "1": {
+          "left": 194,
+          "top": 847,
+          "right": 448,
+          "bottom": 861,
+          "width": 254,
+          "height": 14
+        },
+        "2": {
+          "left": 194,
+          "top": 863,
+          "right": 430,
+          "bottom": 877,
+          "width": 236,
+          "height": 14
+        },
+        "3": {
+          "left": 194,
+          "top": 879,
+          "right": 234,
+          "bottom": 893,
+          "width": 39,
+          "height": 14
+        },
+        "4": {
+          "left": 234,
+          "top": 879,
+          "right": 437,
+          "bottom": 893,
+          "width": 202,
+          "height": 14
+        },
+        "5": {
+          "left": 194,
+          "top": 895,
+          "right": 441,
+          "bottom": 909,
+          "width": 246,
+          "height": 14
+        },
+        "6": {
+          "left": 194,
+          "top": 911,
+          "right": 299,
+          "bottom": 925,
+          "width": 104,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " CI-art it covers voluntary"
+        },
+        "1": {
+          "text": "actions (such as waving, walking and touching"
+        },
+        "2": {
+          "text": "the computer screen), largely automatic yet"
+        },
+        "3": {
+          "text": "control"
+        },
+        "4": {
+          "text": "lable actions (such as the direction of"
+        },
+        "5": {
+          "text": "eye-gaze) and involuntary bodily movements"
+        },
+        "6": {
+          "text": "(such as breathing)"
+        }
+      },
+      "text": {
+        "TEXT": "CI-art it covers voluntary actions (such as waving, walking and touching the computer screen), largely automatic yet control lable actions (such as the direction of eye-gaze) and involuntary bodily movements (such as breathing)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
     }
   ]
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 

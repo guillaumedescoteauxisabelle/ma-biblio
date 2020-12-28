@@ -1,24 +1,24 @@
 ---
-page: 1
+page: 2
 type: text-highlight
-created: 2020-11-11T09:05:53.730Z
+created: 2020-11-08T23:58:15.585Z
 color: yellow
 Structure in Art Practice: Technology as an Agent for Concept Development
 ---
-page: 1
+page: 2
 type: text-highlight
-created: 2020-11-11T09:06:06.078Z
+created: 2020-11-08T23:58:19.274Z
 color: yellow
-Edmond
+Edmonds
 ---
-page: 1
+page: 2
 type: text-highlight
-created: 2020-11-11T09:07:22.610Z
+created: 2020-12-25T05:26:17.003Z
+color: red
+ks. Aesthetic understanding, if we put it in these terms, comes not in understanding, for ex- ample, the color patches used in a work, but in understand- ing the underlying laws that led to their select
+---
+page: 2
+type: text-highlight
+created: 2020-12-25T05:32:51.742Z
 color: yellow
-computer provides a signifi- cant enhancement to our ability to handle and consider the underlying structure s of art- works and art systems in the many forms that they may take
----
-page: 4
-type: text-highlight
-created: 2020-11-11T09:11:51.449Z
-color: #9900EF
-We are able to define an underlying structure  in a logic program- ming language
+the computer provides a signifi- cant enhancement to our ability to handle and consider the  underlying structures of art- works and art systems in the many forms t

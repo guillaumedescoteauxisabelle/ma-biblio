@@ -502,10 +502,10 @@
       }
     },
     {
-      "id": "1ARaTKAKQb",
+      "id": "12AH3ggFxi",
       "guid": "14sqLYgRoL",
       "created": "2020-11-27T19:19:37.119Z",
-      "lastUpdated": "2020-11-27T19:26:45.767Z",
+      "lastUpdated": "2020-11-27T22:22:32.911Z",
       "rects": {
         "0": {
           "left": 427,
@@ -1048,19 +1048,316 @@
         "HTML": "<p>Figure 2.</p>"
       },
       "ref": "area-highlight:128XmJ58qf"
+    },
+    {
+      "id": "1v2DCVwsj5",
+      "guid": "14ybEyKtFa",
+      "created": "2020-11-27T22:26:01.094Z",
+      "lastUpdated": "2020-11-27T22:26:17.101Z",
+      "rects": {
+        "0": {
+          "left": 82,
+          "top": 601,
+          "right": 378,
+          "bottom": 616,
+          "width": 295,
+          "height": 14
+        },
+        "1": {
+          "left": 66,
+          "top": 616,
+          "right": 381,
+          "bottom": 631,
+          "width": 314,
+          "height": 14
+        },
+        "2": {
+          "left": 66,
+          "top": 632,
+          "right": 116,
+          "bottom": 647,
+          "width": 49,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We investigate conditional adversarial networks as a"
+        },
+        "1": {
+          "text": "general-purpose solution to image-to-image translation"
+        },
+        "2": {
+          "text": "problems"
+        }
+      },
+      "text": {
+        "TEXT": "We investigate conditional adversarial networks as a general-purpose solution to image-to-image translation problems"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<div>L'article enquête sur les réseaux de neurones adverses conditionnels (RNAC) pour faire la translation d'une image en une autre.</div><div><br></div><div>&gt;We investigate conditional adversarial networks as a general-purpose solution to image-to-image translation problems.&nbsp; (Isola et al., 2017)</div><div><br></div>"
+      },
+      "tags": {
+        "ref2011271354": {
+          "id": "ref2011271354",
+          "label": "ref2011271354"
+        }
+      }
+    },
+    {
+      "id": "1265sdK3YJ",
+      "guid": "1265sdK3YJ",
+      "created": "2020-12-20T22:50:18.293Z",
+      "lastUpdated": "2020-12-20T22:50:18.293Z",
+      "rects": {
+        "0": {
+          "left": 257,
+          "top": 631,
+          "right": 388,
+          "bottom": 646,
+          "width": 130,
+          "height": 15
+        },
+        "1": {
+          "left": 66,
+          "top": 646,
+          "right": 222,
+          "bottom": 662,
+          "width": 155,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " learn the mapping from"
+        },
+        "1": {
+          "text": "input image to output imag"
+        }
+      },
+      "text": {
+        "TEXT": "learn the mapping from input image to output imag"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12eLKY7vAb",
+      "guid": "1mMdmsCQnW",
+      "created": "2020-12-20T22:52:18.488Z",
+      "lastUpdated": "2020-12-20T22:57:13.378Z",
+      "rects": {
+        "0": {
+          "left": 172,
+          "top": 600,
+          "right": 388,
+          "bottom": 615,
+          "width": 215,
+          "height": 15
+        },
+        "1": {
+          "left": 66,
+          "top": 615,
+          "right": 388,
+          "bottom": 631,
+          "width": 321,
+          "height": 15
+        },
+        "2": {
+          "left": 66,
+          "top": 631,
+          "right": 257,
+          "bottom": 646,
+          "width": 191,
+          "height": 15
+        },
+        "3": {
+          "left": 257,
+          "top": 631,
+          "right": 388,
+          "bottom": 646,
+          "width": 130,
+          "height": 15
+        },
+        "4": {
+          "left": 66,
+          "top": 646,
+          "right": 222,
+          "bottom": 662,
+          "width": 155,
+          "height": 15
+        },
+        "5": {
+          "left": 222,
+          "top": 646,
+          "right": 388,
+          "bottom": 662,
+          "width": 166,
+          "height": 15
+        },
+        "6": {
+          "left": 66,
+          "top": 662,
+          "right": 389,
+          "bottom": 677,
+          "width": 322,
+          "height": 15
+        },
+        "7": {
+          "left": 66,
+          "top": 677,
+          "right": 388,
+          "bottom": 693,
+          "width": 321,
+          "height": 15
+        },
+        "8": {
+          "left": 66,
+          "top": 693,
+          "right": 388,
+          "bottom": 708,
+          "width": 321,
+          "height": 15
+        },
+        "9": {
+          "left": 66,
+          "top": 708,
+          "right": 389,
+          "bottom": 723,
+          "width": 322,
+          "height": 15
+        },
+        "10": {
+          "left": 66,
+          "top": 723,
+          "right": 388,
+          "bottom": 739,
+          "width": 321,
+          "height": 15
+        },
+        "11": {
+          "left": 66,
+          "top": 739,
+          "right": 388,
+          "bottom": 754,
+          "width": 321,
+          "height": 15
+        },
+        "12": {
+          "left": 66,
+          "top": 754,
+          "right": 162,
+          "bottom": 770,
+          "width": 95,
+          "height": 15
+        },
+        "13": {
+          "left": 165,
+          "top": 755,
+          "right": 221,
+          "bottom": 770,
+          "width": 56,
+          "height": 15
+        },
+        "14": {
+          "left": 225,
+          "top": 754,
+          "right": 385,
+          "bottom": 770,
+          "width": 160,
+          "height": 15
+        },
+        "15": {
+          "left": 66,
+          "top": 770,
+          "right": 388,
+          "bottom": 785,
+          "width": 322,
+          "height": 15
+        },
+        "16": {
+          "left": 66,
+          "top": 785,
+          "right": 255,
+          "bottom": 801,
+          "width": 189,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "conditional adversarial networks as a"
+        },
+        "1": {
+          "text": "general-purpose solution to image-to-image translation"
+        },
+        "2": {
+          "text": "problems. These networks not only"
+        },
+        "3": {
+          "text": " learn the mapping from"
+        },
+        "4": {
+          "text": "input image to output imag"
+        },
+        "5": {
+          "text": "e, but also learn a loss func-"
+        },
+        "6": {
+          "text": "tion to train this mapping. This makes it possible to apply"
+        },
+        "7": {
+          "text": "the same generic approach to problems that traditionally"
+        },
+        "8": {
+          "text": "would require very different loss formulations. We demon-"
+        },
+        "9": {
+          "text": "strate that this approach is effective at synthesizing photos"
+        },
+        "10": {
+          "text": "from label maps, reconstructing objects from edge maps,"
+        },
+        "11": {
+          "text": "and colorizing images, among other tasks. Moreover, since"
+        },
+        "12": {
+          "text": "the release of the"
+        },
+        "13": {
+          "text": "pix2pix"
+        },
+        "14": {
+          "text": "software associated with this"
+        },
+        "15": {
+          "text": "paper, hundreds of twitter users have posted their own artis-"
+        },
+        "16": {
+          "text": "tic experiments using our system. "
+        }
+      },
+      "text": {
+        "TEXT": "conditional adversarial networks as a general-purpose solution to image-to-image translation problems. These networks not only learn the mapping from input image to output imag e, but also learn a loss func- tion to train this mapping. This makes it possible to apply the same generic approach to problems that traditionally would require very different loss formulations. We demon- strate that this approach is effective at synthesizing photos from label maps, reconstructing objects from edge maps, and colorizing images, among other tasks. Moreover, since the release of the pix2pix software associated with this paper, hundreds of twitter users have posted their own artis- tic experiments using our system."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<p>Les&nbsp; capacités de \"mapper\" une image à une autre comprennent la reconstruction des bordures, la colorization.</p><p>&gt; [...] image-to-image translation [...]&nbsp; learn the mapping from input image to output image, [...]&nbsp; reconstructing objects from edge maps, and colorizing images, among other tasks. </p><p><br></p>"
+      }
     }
   ]
 
 }
-
-
-
-
-
-
-
-
-
-
-
 

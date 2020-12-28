@@ -105,6 +105,22 @@
 
 ----
 
+# Besold-et-al-2015
+
+
+## [Besold-et-al-2015.all.html](Besold-et-al-2015.all.html)
+## [Besold-et-al-2015.ht.all.html](Besold-et-al-2015.ht.all.html)
+## [Besold-et-al-2015.pol.fc.html](Besold-et-al-2015.pol.fc.html)
+## [Besold-et-al-2015.pol.r.html](Besold-et-al-2015.pol.r.html)
+## [Besold-et-al-2015.sag.html](Besold-et-al-2015.sag.html)
+## [Besold-et-al-2015.sag.j.html](Besold-et-al-2015.sag.j.html)
+## [Besold-et-al-2015.sag.l.html](Besold-et-al-2015.sag.l.html)
+## [Besold-et-al-2015.sag.ndl.html](Besold-et-al-2015.sag.ndl.html)
+## [Besold-et-al-2015.sag.q.html](Besold-et-al-2015.sag.q.html)
+## [Besold-et-al-2015.sag.r.html](Besold-et-al-2015.sag.r.html)
+
+----
+
 # Boden-Edmonds-2009
 
 
@@ -740,6 +756,22 @@
 ## [Sanakoyeu-et-al-2018.sag.ndl.html](Sanakoyeu-et-al-2018.sag.ndl.html)
 ## [Sanakoyeu-et-al-2018.sag.q.html](Sanakoyeu-et-al-2018.sag.q.html)
 ## [Sanakoyeu-et-al-2018.sag.r.html](Sanakoyeu-et-al-2018.sag.r.html)
+
+----
+
+# Schmidhuber-2015
+
+
+## [Schmidhuber-2015.all.html](Schmidhuber-2015.all.html)
+## [Schmidhuber-2015.ht.all.html](Schmidhuber-2015.ht.all.html)
+## [Schmidhuber-2015.pol.fc.html](Schmidhuber-2015.pol.fc.html)
+## [Schmidhuber-2015.pol.r.html](Schmidhuber-2015.pol.r.html)
+## [Schmidhuber-2015.sag.html](Schmidhuber-2015.sag.html)
+## [Schmidhuber-2015.sag.j.html](Schmidhuber-2015.sag.j.html)
+## [Schmidhuber-2015.sag.l.html](Schmidhuber-2015.sag.l.html)
+## [Schmidhuber-2015.sag.ndl.html](Schmidhuber-2015.sag.ndl.html)
+## [Schmidhuber-2015.sag.q.html](Schmidhuber-2015.sag.q.html)
+## [Schmidhuber-2015.sag.r.html](Schmidhuber-2015.sag.r.html)
 
 ----
 

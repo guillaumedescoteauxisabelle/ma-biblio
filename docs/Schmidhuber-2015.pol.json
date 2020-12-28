@@ -1,0 +1,874 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12owVXqyYW",
+      "guid": "12aYGohWib",
+      "created": "2020-12-16T06:13:18.383Z",
+      "lastUpdated": "2020-12-16T06:38:38.820Z",
+      "rects": {
+        "0": {
+          "left": 56,
+          "top": 235,
+          "right": 478,
+          "bottom": 256,
+          "width": 421,
+          "height": 20
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Deeplearninginneuralnetworks:Anoverview"
+        }
+      },
+      "text": {
+        "TEXT": "Deeplearninginneuralnetworks:Anoverview"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Deep learning in neural networks:An overview</h1>"
+      },
+      "tags": {
+        "ArticleAkten": {
+          "id": "ArticleAkten",
+          "label": "ArticleAkten"
+        }
+      }
+    },
+    {
+      "id": "1PnQpqmTLT",
+      "guid": "1LtNhp7Zdg",
+      "created": "2020-12-16T06:13:46.103Z",
+      "lastUpdated": "2020-12-16T06:36:51.157Z",
+      "rects": {
+        "0": {
+          "left": 103,
+          "top": 267,
+          "right": 194,
+          "bottom": 284,
+          "width": 91,
+          "height": 16
+        },
+        "1": {
+          "left": 57,
+          "top": 289,
+          "right": 653,
+          "bottom": 299,
+          "width": 596,
+          "height": 9
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Schmidhuber"
+        },
+        "1": {
+          "text": "TheSwissAILabIDSIA,IstitutoDalleMollediStudisull’IntelligenzaArtificiale,UniversityofLugano&SUPSI,Galleria2,6928Manno-Lugano,Switzer"
+        }
+      },
+      "text": {
+        "TEXT": "Schmidhuber TheSwissAILabIDSIA,IstitutoDalleMollediStudisull’IntelligenzaArtificiale,UniversityofLugano&SUPSI,Galleria2,6928Manno-Lugano,Switzer"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n</span></p><p>Citer: (Schmidhuber, 2015)</p>\n<p>FTag: Schmidhuber-2015</p>\n<p>APA7: Schmidhuber, J. (2015). Deep learning in neural networks: An overview. <em>Neural Networks</em>, <em>61</em>, 85–117. <a href=\"https://doi.org/10.1016/j.neunet.2014.09.003\">https://doi.org/10.1016/j.neunet.2014.09.003</a></p>\n\n<p></p><p><span>\n\n(<a href=\"https://jgwill.github.io/www.fichiers/Schmidhuber-2015.cache.html\" rel=\"nofollow\" style=\"text-decoration:underline;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\">Cache</a>)\n\n</span></p><p><span><br></span><span><br></span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "12nTQtYS6N",
+      "guid": "1YNH5VR3UD",
+      "created": "2020-12-16T06:39:41.152Z",
+      "lastUpdated": "2020-12-16T06:40:28.133Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 102,
+          "right": 259,
+          "bottom": 114,
+          "width": 190,
+          "height": 12
+        },
+        "1": {
+          "left": 69,
+          "top": 123,
+          "right": 183,
+          "bottom": 135,
+          "width": 113,
+          "height": 12
+        },
+        "2": {
+          "left": 69,
+          "top": 135,
+          "right": 222,
+          "bottom": 148,
+          "width": 153,
+          "height": 12
+        },
+        "3": {
+          "left": 69,
+          "top": 148,
+          "right": 249,
+          "bottom": 160,
+          "width": 179,
+          "height": 12
+        },
+        "4": {
+          "left": 69,
+          "top": 161,
+          "right": 305,
+          "bottom": 173,
+          "width": 235,
+          "height": 12
+        },
+        "5": {
+          "left": 69,
+          "top": 173,
+          "right": 256,
+          "bottom": 186,
+          "width": 186,
+          "height": 12
+        },
+        "6": {
+          "left": 69,
+          "top": 186,
+          "right": 222,
+          "bottom": 198,
+          "width": 153,
+          "height": 12
+        },
+        "7": {
+          "left": 69,
+          "top": 199,
+          "right": 204,
+          "bottom": 211,
+          "width": 134,
+          "height": 12
+        },
+        "8": {
+          "left": 69,
+          "top": 211,
+          "right": 330,
+          "bottom": 224,
+          "width": 260,
+          "height": 12
+        },
+        "9": {
+          "left": 69,
+          "top": 224,
+          "right": 239,
+          "bottom": 236,
+          "width": 170,
+          "height": 12
+        },
+        "10": {
+          "left": 69,
+          "top": 237,
+          "right": 239,
+          "bottom": 249,
+          "width": 170,
+          "height": 12
+        },
+        "11": {
+          "left": 69,
+          "top": 249,
+          "right": 234,
+          "bottom": 262,
+          "width": 164,
+          "height": 12
+        },
+        "12": {
+          "left": 69,
+          "top": 262,
+          "right": 291,
+          "bottom": 274,
+          "width": 221,
+          "height": 12
+        },
+        "13": {
+          "left": 69,
+          "top": 275,
+          "right": 279,
+          "bottom": 287,
+          "width": 209,
+          "height": 12
+        },
+        "14": {
+          "left": 69,
+          "top": 287,
+          "right": 274,
+          "bottom": 300,
+          "width": 204,
+          "height": 12
+        },
+        "15": {
+          "left": 69,
+          "top": 300,
+          "right": 259,
+          "bottom": 312,
+          "width": 190,
+          "height": 12
+        },
+        "16": {
+          "left": 69,
+          "top": 313,
+          "right": 312,
+          "bottom": 325,
+          "width": 242,
+          "height": 12
+        },
+        "17": {
+          "left": 69,
+          "top": 325,
+          "right": 225,
+          "bottom": 338,
+          "width": 155,
+          "height": 12
+        },
+        "18": {
+          "left": 69,
+          "top": 338,
+          "right": 253,
+          "bottom": 350,
+          "width": 183,
+          "height": 12
+        },
+        "19": {
+          "left": 69,
+          "top": 351,
+          "right": 191,
+          "bottom": 363,
+          "width": 122,
+          "height": 12
+        },
+        "20": {
+          "left": 69,
+          "top": 363,
+          "right": 238,
+          "bottom": 376,
+          "width": 169,
+          "height": 12
+        },
+        "21": {
+          "left": 69,
+          "top": 376,
+          "right": 219,
+          "bottom": 388,
+          "width": 150,
+          "height": 12
+        },
+        "22": {
+          "left": 69,
+          "top": 389,
+          "right": 239,
+          "bottom": 401,
+          "width": 170,
+          "height": 12
+        },
+        "23": {
+          "left": 69,
+          "top": 401,
+          "right": 253,
+          "bottom": 413,
+          "width": 184,
+          "height": 12
+        },
+        "24": {
+          "left": 69,
+          "top": 414,
+          "right": 212,
+          "bottom": 426,
+          "width": 142,
+          "height": 12
+        },
+        "25": {
+          "left": 69,
+          "top": 426,
+          "right": 228,
+          "bottom": 439,
+          "width": 159,
+          "height": 12
+        },
+        "26": {
+          "left": 69,
+          "top": 439,
+          "right": 269,
+          "bottom": 451,
+          "width": 200,
+          "height": 12
+        },
+        "27": {
+          "left": 69,
+          "top": 452,
+          "right": 237,
+          "bottom": 464,
+          "width": 167,
+          "height": 12
+        },
+        "28": {
+          "left": 69,
+          "top": 464,
+          "right": 283,
+          "bottom": 477,
+          "width": 214,
+          "height": 12
+        },
+        "29": {
+          "left": 69,
+          "top": 477,
+          "right": 233,
+          "bottom": 489,
+          "width": 164,
+          "height": 12
+        },
+        "30": {
+          "left": 69,
+          "top": 490,
+          "right": 230,
+          "bottom": 502,
+          "width": 160,
+          "height": 12
+        },
+        "31": {
+          "left": 69,
+          "top": 502,
+          "right": 246,
+          "bottom": 515,
+          "width": 176,
+          "height": 12
+        },
+        "32": {
+          "left": 69,
+          "top": 515,
+          "right": 252,
+          "bottom": 527,
+          "width": 182,
+          "height": 12
+        },
+        "33": {
+          "left": 69,
+          "top": 528,
+          "right": 233,
+          "bottom": 540,
+          "width": 164,
+          "height": 12
+        },
+        "34": {
+          "left": 69,
+          "top": 540,
+          "right": 309,
+          "bottom": 553,
+          "width": 240,
+          "height": 12
+        },
+        "35": {
+          "left": 69,
+          "top": 553,
+          "right": 279,
+          "bottom": 565,
+          "width": 210,
+          "height": 12
+        },
+        "36": {
+          "left": 69,
+          "top": 566,
+          "right": 261,
+          "bottom": 578,
+          "width": 191,
+          "height": 12
+        },
+        "37": {
+          "left": 69,
+          "top": 578,
+          "right": 286,
+          "bottom": 591,
+          "width": 217,
+          "height": 12
+        },
+        "38": {
+          "left": 69,
+          "top": 591,
+          "right": 270,
+          "bottom": 603,
+          "width": 201,
+          "height": 12
+        },
+        "39": {
+          "left": 69,
+          "top": 604,
+          "right": 244,
+          "bottom": 616,
+          "width": 174,
+          "height": 12
+        },
+        "40": {
+          "left": 69,
+          "top": 616,
+          "right": 382,
+          "bottom": 629,
+          "width": 312,
+          "height": 12
+        },
+        "41": {
+          "left": 117,
+          "top": 630,
+          "right": 184,
+          "bottom": 642,
+          "width": 67,
+          "height": 12
+        },
+        "42": {
+          "left": 69,
+          "top": 643,
+          "right": 182,
+          "bottom": 655,
+          "width": 113,
+          "height": 12
+        },
+        "43": {
+          "left": 69,
+          "top": 655,
+          "right": 216,
+          "bottom": 667,
+          "width": 147,
+          "height": 12
+        },
+        "44": {
+          "left": 69,
+          "top": 668,
+          "right": 201,
+          "bottom": 680,
+          "width": 132,
+          "height": 12
+        },
+        "45": {
+          "left": 69,
+          "top": 680,
+          "right": 273,
+          "bottom": 693,
+          "width": 204,
+          "height": 12
+        },
+        "46": {
+          "left": 69,
+          "top": 693,
+          "right": 264,
+          "bottom": 705,
+          "width": 194,
+          "height": 12
+        },
+        "47": {
+          "left": 69,
+          "top": 706,
+          "right": 245,
+          "bottom": 718,
+          "width": 175,
+          "height": 12
+        },
+        "48": {
+          "left": 69,
+          "top": 718,
+          "right": 202,
+          "bottom": 731,
+          "width": 132,
+          "height": 12
+        },
+        "49": {
+          "left": 69,
+          "top": 731,
+          "right": 270,
+          "bottom": 743,
+          "width": 201,
+          "height": 12
+        },
+        "50": {
+          "left": 69,
+          "top": 744,
+          "right": 263,
+          "bottom": 756,
+          "width": 193,
+          "height": 12
+        },
+        "51": {
+          "left": 69,
+          "top": 756,
+          "right": 297,
+          "bottom": 769,
+          "width": 228,
+          "height": 12
+        },
+        "52": {
+          "left": 69,
+          "top": 769,
+          "right": 259,
+          "bottom": 781,
+          "width": 189,
+          "height": 12
+        },
+        "53": {
+          "left": 69,
+          "top": 782,
+          "right": 250,
+          "bottom": 794,
+          "width": 180,
+          "height": 12
+        },
+        "54": {
+          "left": 69,
+          "top": 794,
+          "right": 303,
+          "bottom": 807,
+          "width": 234,
+          "height": 12
+        },
+        "55": {
+          "left": 69,
+          "top": 807,
+          "right": 276,
+          "bottom": 819,
+          "width": 207,
+          "height": 12
+        },
+        "56": {
+          "left": 69,
+          "top": 820,
+          "right": 224,
+          "bottom": 832,
+          "width": 155,
+          "height": 12
+        },
+        "57": {
+          "left": 69,
+          "top": 832,
+          "right": 242,
+          "bottom": 845,
+          "width": 172,
+          "height": 12
+        },
+        "58": {
+          "left": 69,
+          "top": 845,
+          "right": 256,
+          "bottom": 857,
+          "width": 187,
+          "height": 12
+        },
+        "59": {
+          "left": 69,
+          "top": 858,
+          "right": 251,
+          "bottom": 870,
+          "width": 182,
+          "height": 12
+        },
+        "60": {
+          "left": 69,
+          "top": 870,
+          "right": 222,
+          "bottom": 883,
+          "width": 152,
+          "height": 12
+        },
+        "61": {
+          "left": 69,
+          "top": 883,
+          "right": 292,
+          "bottom": 895,
+          "width": 222,
+          "height": 12
+        },
+        "62": {
+          "left": 69,
+          "top": 896,
+          "right": 278,
+          "bottom": 908,
+          "width": 209,
+          "height": 12
+        },
+        "63": {
+          "left": 69,
+          "top": 908,
+          "right": 242,
+          "bottom": 921,
+          "width": 172,
+          "height": 12
+        },
+        "64": {
+          "left": 69,
+          "top": 921,
+          "right": 265,
+          "bottom": 933,
+          "width": 196,
+          "height": 12
+        },
+        "65": {
+          "left": 69,
+          "top": 934,
+          "right": 377,
+          "bottom": 946,
+          "width": 308,
+          "height": 12
+        },
+        "66": {
+          "left": 117,
+          "top": 947,
+          "right": 153,
+          "bottom": 959,
+          "width": 36,
+          "height": 12
+        },
+        "67": {
+          "left": 69,
+          "top": 960,
+          "right": 237,
+          "bottom": 972,
+          "width": 167,
+          "height": 12
+        },
+        "68": {
+          "left": 69,
+          "top": 972,
+          "right": 202,
+          "bottom": 985,
+          "width": 132,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Abbreviations in alphabetical order"
+        },
+        "1": {
+          "text": "AE:   Autoencoder"
+        },
+        "2": {
+          "text": "AI:   ArtificialIntelligence"
+        },
+        "3": {
+          "text": "ANN:  ArtificialNeuralNetwork"
+        },
+        "4": {
+          "text": "BFGS:  Broyden–Fletcher–Goldfarb–Shanno"
+        },
+        "5": {
+          "text": "BNN:  BiologicalNeuralNetwork"
+        },
+        "6": {
+          "text": "BM:  BoltzmannMachine"
+        },
+        "7": {
+          "text": "BP:   Backpropagation"
+        },
+        "8": {
+          "text": "BRNN: Bi-directionalRecurrentNeuralNetwork"
+        },
+        "9": {
+          "text": "CAP:  CreditAssignmentPath"
+        },
+        "10": {
+          "text": "CEC:  ConstantErrorCarousel"
+        },
+        "11": {
+          "text": "CFL:  ContextFreeLanguage"
+        },
+        "12": {
+          "text": "CMA-ES: CovarianceMatrixEstimationES"
+        },
+        "13": {
+          "text": "CNN:  ConvolutionalNeuralNetwork"
+        },
+        "14": {
+          "text": "CoSyNE: Co-SynapticNeuro-Evolution"
+        },
+        "15": {
+          "text": "CSL:  ContextSensitiveLanguage"
+        },
+        "16": {
+          "text": "CTC:  ConnectionistTemporalClassification"
+        },
+        "17": {
+          "text": "DBN:  DeepBeliefNetwork"
+        },
+        "18": {
+          "text": "DCT:  DiscreteCosineTransform"
+        },
+        "19": {
+          "text": "DL:   DeepLearning"
+        },
+        "20": {
+          "text": "DP:   DynamicProgramming"
+        },
+        "21": {
+          "text": "DS:   DirectPolicySearch"
+        },
+        "22": {
+          "text": "EA:   EvolutionaryAlgorithm"
+        },
+        "23": {
+          "text": "EM:  ExpectationMaximization"
+        },
+        "24": {
+          "text": "ES:   EvolutionStrategy"
+        },
+        "25": {
+          "text": "FMS:  FlatMinimumSearch"
+        },
+        "26": {
+          "text": "FNN:  FeedforwardNeuralNetwork"
+        },
+        "27": {
+          "text": "FSA:  FiniteStateAutomaton"
+        },
+        "28": {
+          "text": "GMDH: GroupMethodofDataHandling"
+        },
+        "29": {
+          "text": "GOFAI: GoodOld-FashionedAI"
+        },
+        "30": {
+          "text": "GP:   GeneticProgramming"
+        },
+        "31": {
+          "text": "GPU:  GraphicsProcessingUnit"
+        },
+        "32": {
+          "text": "GPU-MPCNN: GPU-BasedMPCNN"
+        },
+        "33": {
+          "text": "HMM: HiddenMarkovModel"
+        },
+        "34": {
+          "text": "HRL:  HierarchicalReinforcementLearning"
+        },
+        "35": {
+          "text": "HTM:  HierarchicalTemporalMemory"
+        },
+        "36": {
+          "text": "HMAX: HierarchicalModel‘‘andX’’"
+        },
+        "37": {
+          "text": "LSTM: LongShort-TermMemory(RNN)"
+        },
+        "38": {
+          "text": "MDL:  MinimumDescriptionLength"
+        },
+        "39": {
+          "text": "MDP:  MarkovDecisionProcess"
+        },
+        "40": {
+          "text": "MNIST: MixedNationalInstituteofStandardsandTechnol-"
+        },
+        "41": {
+          "text": "ogyDatabase"
+        },
+        "42": {
+          "text": "MP:  Max-Pooling"
+        },
+        "43": {
+          "text": "MPCNN: Max-PoolingCNN"
+        },
+        "44": {
+          "text": "NE:   NeuroEvolution"
+        },
+        "45": {
+          "text": "NEAT: NEofAugmentingTopologies"
+        },
+        "46": {
+          "text": "NES:  NaturalEvolutionStrategies"
+        },
+        "47": {
+          "text": "NFQ:  NeuralFittedQ-Learning"
+        },
+        "48": {
+          "text": "NN:   NeuralNetwork"
+        },
+        "49": {
+          "text": "OCR:  OpticalCharacterRecognition"
+        },
+        "50": {
+          "text": "PCC:  PotentialCausalConnection"
+        },
+        "51": {
+          "text": "PDCC: PotentialDirectCausalConnection"
+        },
+        "52": {
+          "text": "PM:  PredictabilityMinimization"
+        },
+        "53": {
+          "text": "POMDP: PartiallyObservableMDP"
+        },
+        "54": {
+          "text": "RAAM: RecursiveAuto-AssociativeMemory"
+        },
+        "55": {
+          "text": "RBM:  RestrictedBoltzmannMachine"
+        },
+        "56": {
+          "text": "ReLU:  RectifiedLinearUnit"
+        },
+        "57": {
+          "text": "RL:   ReinforcementLearning"
+        },
+        "58": {
+          "text": "RNN:  RecurrentNeuralNetwork"
+        },
+        "59": {
+          "text": "R-prop: ResilientBackpropagation"
+        },
+        "60": {
+          "text": "SL:   SupervisedLearning"
+        },
+        "61": {
+          "text": "SLIMNN: Self-DelimitingNeuralNetwork"
+        },
+        "62": {
+          "text": "SOTA:  Self-OrganizingTreeAlgorithm"
+        },
+        "63": {
+          "text": "SVM:  SupportVectorMachine"
+        },
+        "64": {
+          "text": "TDNN: Time-DelayNeuralNetwork"
+        },
+        "65": {
+          "text": "TIMIT: TI/SRI/MIT Acoustic-Phonetic Continuous Speech"
+        },
+        "66": {
+          "text": "Corpus"
+        },
+        "67": {
+          "text": "UL:   UnsupervisedLearning"
+        },
+        "68": {
+          "text": "WTA:  Winner-Take-Al"
+        }
+      },
+      "text": {
+        "TEXT": "Abbreviations in alphabetical order AE:   Autoencoder AI:   ArtificialIntelligence ANN:  ArtificialNeuralNetwork BFGS:  Broyden–Fletcher–Goldfarb–Shanno BNN:  BiologicalNeuralNetwork BM:  BoltzmannMachine BP:   Backpropagation BRNN: Bi-directionalRecurrentNeuralNetwork CAP:  CreditAssignmentPath CEC:  ConstantErrorCarousel CFL:  ContextFreeLanguage CMA-ES: CovarianceMatrixEstimationES CNN:  ConvolutionalNeuralNetwork CoSyNE: Co-SynapticNeuro-Evolution CSL:  ContextSensitiveLanguage CTC:  ConnectionistTemporalClassification DBN:  DeepBeliefNetwork DCT:  DiscreteCosineTransform DL:   DeepLearning DP:   DynamicProgramming DS:   DirectPolicySearch EA:   EvolutionaryAlgorithm EM:  ExpectationMaximization ES:   EvolutionStrategy FMS:  FlatMinimumSearch FNN:  FeedforwardNeuralNetwork FSA:  FiniteStateAutomaton GMDH: GroupMethodofDataHandling GOFAI: GoodOld-FashionedAI GP:   GeneticProgramming GPU:  GraphicsProcessingUnit GPU-MPCNN: GPU-BasedMPCNN HMM: HiddenMarkovModel HRL:  HierarchicalReinforcementLearning HTM:  HierarchicalTemporalMemory HMAX: HierarchicalModel‘‘andX’’ LSTM: LongShort-TermMemory(RNN) MDL:  MinimumDescriptionLength MDP:  MarkovDecisionProcess MNIST: MixedNationalInstituteofStandardsandTechnol- ogyDatabase MP:  Max-Pooling MPCNN: Max-PoolingCNN NE:   NeuroEvolution NEAT: NEofAugmentingTopologies NES:  NaturalEvolutionStrategies NFQ:  NeuralFittedQ-Learning NN:   NeuralNetwork OCR:  OpticalCharacterRecognition PCC:  PotentialCausalConnection PDCC: PotentialDirectCausalConnection PM:  PredictabilityMinimization POMDP: PartiallyObservableMDP RAAM: RecursiveAuto-AssociativeMemory RBM:  RestrictedBoltzmannMachine ReLU:  RectifiedLinearUnit RL:   ReinforcementLearning RNN:  RecurrentNeuralNetwork R-prop: ResilientBackpropagation SL:   SupervisedLearning SLIMNN: Self-DelimitingNeuralNetwork SOTA:  Self-OrganizingTreeAlgorithm SVM:  SupportVectorMachine TDNN: Time-DelayNeuralNetwork TIMIT: TI/SRI/MIT Acoustic-Phonetic Continuous Speech Corpus UL:   UnsupervisedLearning WTA:  Winner-Take-Al"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n\n<h2>Abbreviations in alphabetical order</h2>AE:<p>Autoencoder</p>AI:<p>Artificial Intelligence</p>ANN:<p>Artificial Neural Network</p>BFGS:<p>Broyden–Fletcher–Goldfarb–Shanno</p>BNN:<p>Biological Neural Network</p>BM:<p>Boltzmann Machine</p>BP:<p>Backpropagation</p>BRNN:<p>Bi-directional Recurrent Neural Network</p>CAP:<p>Credit Assignment Path</p>CEC:<p>Constant Error Carousel</p>CFL:<p>Context Free Language</p>CMA-ES:<p>Covariance Matrix Estimation ES</p>CNN:<p>Convolutional Neural Network</p>CoSyNE:<p>Co-Synaptic Neuro-Evolution</p>CSL:<p>Context Sensitive Language</p>CTC:<p>Connectionist Temporal Classification</p>DBN:<p>Deep Belief Network</p>DCT:<p>Discrete Cosine Transform</p>DL:<p>Deep Learning</p>DP:<p>Dynamic Programming</p>DS:<p>Direct Policy Search</p>EA:<p>Evolutionary Algorithm</p>EM:<p>Expectation Maximization</p>ES:<p>Evolution Strategy</p>FMS:<p>Flat Minimum Search</p>FNN:<p>Feedforward Neural Network</p>FSA:<p>Finite State Automaton</p>GMDH:<p>Group Method of Data Handling</p>GOFAI:<p>Good Old-Fashioned AI</p>GP:<p>Genetic Programming</p>GPU:<p>Graphics Processing Unit</p>GPU-MPCNN:<p>GPU-Based MPCNN</p>HMM:<p>Hidden Markov Model</p>HRL:<p>Hierarchical Reinforcement Learning</p>HTM:<p>Hierarchical Temporal Memory</p>HMAX:<p>Hierarchical Model “and X”</p>LSTM:<p>Long Short-Term Memory (RNN)</p>MDL:<p>Minimum Description Length</p>MDP:<p>Markov Decision Process</p>MNIST:<p>Mixed National Institute of Standards and Technology Database</p>MP:<p>Max-Pooling</p>MPCNN:<p>Max-Pooling CNN</p>NE:<p>NeuroEvolution</p>NEAT:<p>NE of Augmenting Topologies</p>NES:<p>Natural Evolution Strategies</p>NFQ:<p>Neural Fitted Q-Learning</p>NN:<p>Neural Network</p>OCR:<p>Optical Character Recognition</p>PCC:<p>Potential Causal Connection</p>PDCC:<p>Potential Direct Causal Connection</p>PM:<p>Predictability Minimization</p>POMDP:<p>Partially Observable MDP</p>RAAM:<p>Recursive Auto-Associative Memory</p>RBM:<p>Restricted Boltzmann Machine</p>ReLU:<p>Rectified Linear Unit</p>RL:<p>Reinforcement Learning</p>RNN:<p>Recurrent Neural Network</p>R-prop:<p>Resilient Backpropagation</p>SL:<p>Supervised Learning</p>SLIM NN:<p>Self-Delimiting Neural Network</p>SOTA:<p>Self-Organizing Tree Algorithm</p>SVM:<p>Support Vector Machine</p>TDNN:<p>Time-Delay Neural Network</p>TIMIT:<p>TI/SRI/MIT Acoustic-Phonetic Continuous Speech Corpus</p>UL:<p>Unsupervised Learning</p>WTA:<p>Winner-Take-All</p>\n\n</span></p>"
+      },
+      "tags": {
+        "AILanguage": {
+          "id": "AILanguage",
+          "label": "AILanguage"
+        }
+      }
+    }
+  ]
+
+}
+

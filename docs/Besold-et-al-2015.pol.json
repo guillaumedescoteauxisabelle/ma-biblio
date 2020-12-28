@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1P5zK6vF2U",
+      "guid": "12KHWDvT4q",
+      "created": "2020-12-25T20:33:13.617Z",
+      "lastUpdated": "2020-12-25T20:33:43.773Z",
+      "rects": {
+        "0": {
+          "left": 71,
+          "top": 217,
+          "right": 455,
+          "bottom": 259,
+          "width": 384,
+          "height": 41
+        },
+        "1": {
+          "left": 71,
+          "top": 257,
+          "right": 360,
+          "bottom": 298,
+          "width": 289,
+          "height": 41
+        },
+        "2": {
+          "left": 71,
+          "top": 297,
+          "right": 354,
+          "bottom": 338,
+          "width": 282,
+          "height": 41
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Computational Creativity"
+        },
+        "1": {
+          "text": "Research: Towards"
+        },
+        "2": {
+          "text": "Creative Machines"
+        }
+      },
+      "text": {
+        "TEXT": "Computational Creativity Research: Towards Creative Machines"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Computational Creativity Research: Towards Creative Machines</h1>"
+      }
+    },
+    {
+      "id": "1C4M1TF4Kw",
+      "guid": "12nAVL8vUf",
+      "created": "2020-12-25T20:33:31.026Z",
+      "lastUpdated": "2020-12-25T20:33:38.396Z",
+      "rects": {
+        "0": {
+          "left": 71,
+          "top": 78,
+          "right": 106,
+          "bottom": 92,
+          "width": 34,
+          "height": 13
+        },
+        "1": {
+          "left": 71,
+          "top": 91,
+          "right": 152,
+          "bottom": 105,
+          "width": 81,
+          "height": 13
+        },
+        "2": {
+          "left": 71,
+          "top": 104,
+          "right": 218,
+          "bottom": 118,
+          "width": 147,
+          "height": 13
+        },
+        "3": {
+          "left": 71,
+          "top": 117,
+          "right": 176,
+          "bottom": 131,
+          "width": 104,
+          "height": 13
+        },
+        "4": {
+          "left": 174,
+          "top": 114,
+          "right": 181,
+          "bottom": 127,
+          "width": 6,
+          "height": 13
+        },
+        "5": {
+          "left": 180,
+          "top": 117,
+          "right": 192,
+          "bottom": 131,
+          "width": 11,
+          "height": 13
+        },
+        "6": {
+          "left": 71,
+          "top": 131,
+          "right": 107,
+          "bottom": 144,
+          "width": 35,
+          "height": 13
+        },
+        "7": {
+          "left": 106,
+          "top": 127,
+          "right": 113,
+          "bottom": 141,
+          "width": 6,
+          "height": 13
+        },
+        "8": {
+          "left": 112,
+          "top": 131,
+          "right": 123,
+          "bottom": 144,
+          "width": 11,
+          "height": 13
+        },
+        "9": {
+          "left": 71,
+          "top": 144,
+          "right": 116,
+          "bottom": 158,
+          "width": 45,
+          "height": 13
+        },
+        "10": {
+          "left": 71,
+          "top": 171,
+          "right": 172,
+          "bottom": 184,
+          "width": 101,
+          "height": 13
+        },
+        "11": {
+          "left": 71,
+          "top": 184,
+          "right": 122,
+          "bottom": 197,
+          "width": 50,
+          "height": 13
+        },
+        "12": {
+          "left": 71,
+          "top": 197,
+          "right": 176,
+          "bottom": 211,
+          "width": 104,
+          "height": 13
+        },
+        "13": {
+          "left": 71,
+          "top": 210,
+          "right": 99,
+          "bottom": 224,
+          "width": 27,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Editors"
+        },
+        "1": {
+          "text": "Tarek R. Besold"
+        },
+        "2": {
+          "text": "Institute of Cognitive Science"
+        },
+        "3": {
+          "text": "University of Osnabr"
+        },
+        "4": {
+          "text": "ü"
+        },
+        "5": {
+          "text": "ck"
+        },
+        "6": {
+          "text": "Osnabr"
+        },
+        "7": {
+          "text": "ü"
+        },
+        "8": {
+          "text": "ck"
+        },
+        "9": {
+          "text": "Germany"
+        },
+        "10": {
+          "text": "Marco Schorlemmer"
+        },
+        "11": {
+          "text": "IIIA-CSIC"
+        },
+        "12": {
+          "text": "Bellaterra, Barcelona"
+        },
+        "13": {
+          "text": "Spain"
+        }
+      },
+      "text": {
+        "TEXT": "Editors Tarek R. Besold Institute of Cognitive Science University of Osnabr ü ck Osnabr ü ck Germany Marco Schorlemmer IIIA-CSIC Bellaterra, Barcelona Spain"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer:&nbsp; (Besold et al., 2015)</p>\n<p>FTag: Besold-et-al-2015</p>\n<p>APA7: Besold, T. R., Schorlemmer, M., &amp; Smaill, A. (Eds.). (2015). <em>Computational Creativity Research: Towards Creative Machines</em> (Vol. 7). Atlantis Press. <a href=\"https://doi.org/10.2991/978-94-6239-085-0\">https://doi.org/10.2991/978-94-6239-085-0</a></p>\n\n</span></p><p><span><br></span></p>"
+      }
+    },
+    {
+      "id": "1FaGny6jFE",
+      "guid": "124eqtcGkP",
+      "created": "2020-12-25T20:34:38.263Z",
+      "lastUpdated": "2020-12-25T20:38:26.934Z",
+      "rects": {
+        "0": {
+          "left": 71,
+          "top": 91,
+          "right": 152,
+          "bottom": 105,
+          "width": 81,
+          "height": 13
+        },
+        "1": {
+          "left": 71,
+          "top": 104,
+          "right": 218,
+          "bottom": 118,
+          "width": 147,
+          "height": 13
+        },
+        "2": {
+          "left": 71,
+          "top": 117,
+          "right": 176,
+          "bottom": 131,
+          "width": 104,
+          "height": 13
+        },
+        "3": {
+          "left": 174,
+          "top": 114,
+          "right": 181,
+          "bottom": 127,
+          "width": 6,
+          "height": 13
+        },
+        "4": {
+          "left": 180,
+          "top": 117,
+          "right": 192,
+          "bottom": 131,
+          "width": 11,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Tarek R. Besold"
+        },
+        "1": {
+          "text": "Institute of Cognitive Science"
+        },
+        "2": {
+          "text": "University of Osnabr"
+        },
+        "3": {
+          "text": "ü"
+        },
+        "4": {
+          "text": "ck"
+        }
+      },
+      "text": {
+        "TEXT": "Tarek R. Besold Institute of Cognitive Science University of Osnabr ü ck"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Is Tarek R. Besold from Institute of Cognitive Science University of Osnabruck has a PhD ?</p><p><span>\n<blockquote>\n<p>Tarek studied mathematics, computer science, and logic in Erlangen, Zaragoza, and Amsterdam, obtained a PhD from the Institute of Cognitive Science in Osnabrück, </p>\n</blockquote>\n<p>&nbsp;</p>\n<div style=\"line-height:2;text-indent:-2em\">\n<div><em>Tarek Besold—Crunchbase Person Profile</em>. (n.d.). Crunchbase. Retrieved December 25, 2020, from <a href=\"https://www.crunchbase.com/person/tarek-richard-besold\">https://www.crunchbase.com/person/tarek-richard-besold</a></div>\n</div>\n\n</span><br></p>"
+      }
+    }
+  ]
+
+}
+

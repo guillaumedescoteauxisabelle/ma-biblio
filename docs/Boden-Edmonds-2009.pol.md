@@ -111,3 +111,63 @@ page: 3
 type: comment
 created: 2020-11-13T23:31:23.477Z
 <p>What is symbolic computation ?</p><p><br></p><p>What is connectionnist computation ?</p>
+---
+page: 10
+type: text-highlight
+created: 2020-11-21T22:46:32.670Z
+color: yellow
+the C-art that’s most relevant here is a form of generative art, or G-art.
+---
+page: 10
+type: text-highlight
+created: 2020-11-21T22:47:26.999Z
+color: green
+G-art, (df.) the artwork is generated, at least in part, by some process that is not under the artist’s direct control.
+---
+page: 10
+type: text-highlight
+created: 2020-11-21T22:47:55.193Z
+color: green
+CA-art, wherein ( df. ) the computer is used as an aid (in principle, non-essential) in the art-making process.
+---
+page: 12
+type: text-highlight
+created: 2020-11-21T22:48:28.846Z
+color: green
+CG-art would insist that ( df. ) the artwork results from some computer program being left to run by itself, with zero interference from the human artist.
+---
+page: 9
+type: text-highlight
+created: 2020-11-28T01:26:16.699Z
+color: yellow
+Ele- art. This wide concept covers (df.) any artwork whose production involves electrical engin- eering and / or electronic technology.
+---
+page: 11
+type: text-highlight
+created: 2020-12-19T05:33:13.885Z
+color: red
+Haydn and Mozart the exact order of the pre- composed phrases was decided by throwing a die.
+---
+page: 19
+type: text-highlight
+created: 2020-12-19T06:52:45.200Z
+color: red
+Computer programs, in contrast, are so specifiable.
+---
+page: 19
+type: text-highlight
+created: 2020-12-19T06:53:03.810Z
+color: red
+CG-art programs are or are not ‘under the artist’s direct control’ and the extent to which, and the points at which, they are subject to “interference from a human being”.
+---
+page: 19
+type: text-highlight
+created: 2020-12-19T06:54:36.335Z
+color: #9900EF
+if in fact it is no less direct ive, no less determinate,
+---
+page: 16
+type: text-highlight
+created: 2020-12-20T19:21:18.529Z
+color: green
+CI-art it covers voluntary actions (such as waving, walking and touching the computer screen), largely automatic yet control lable actions (such as the direction of eye-gaze) and involuntary bodily movements (such as breathing)

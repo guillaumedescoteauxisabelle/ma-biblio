@@ -153,7 +153,8 @@ Fiche de lecture avec une certaine orientation (utilisé dans l'article)
   
 
 |   No    |  Acronym     | Definition      |   Artists    |
-|  ---  |  ---  |  ---  |  ---  |  ---  |
+|  ---  |  ---  |  ---  |  ---  | 
+
 |   1.    |  Ele-art       |  involves electrical engineering and / or electronic technology.     |       |
 |   2.    |  C-art      |  C-art uses computers as part of the art- making process.     |       |
 |   3.    |  D-art     | D-art  uses digital electronic technology of some sort.     |       |
@@ -168,6 +169,51 @@ Fiche de lecture avec une certaine orientation (utilisé dans l'article)
 [[GATaxonomy]] | [[Taxonomy]] | [[ref2011141130]] 
 
 
+
+
+
+>C-art [...] is a form of G-art.
+
+
+
+### G-art : (df.) the artwork is generated, at least in part, by some process that is not under the artist’s direct control.
+
+
+
+### CA-art:  wherein ( df. ) the computer is used as an aid (in principle, non-essential) in the art-making process.
+
+
+
+### CG-art : ( df. ) the artwork results from some computer program being left to run by itself, with zero interference from the human artist.
+
+
+
+Ele-Art  (df.) Forme d'art dont la production implique des technologie numérique et d'ingénérie electrique.
+
+>Ele-art. [...](df.) any artwork whose production involves electrical engineering and / or electronic technology.  
+[[Ele-Art]] 
+
+
+
+
+
+Haydn and Mozart the exact order of the pre- composed phrases was decided by throwing a die.
+
+
+
+Computer programs, in contrast, are so specifiable.
+
+
+
+CG-art programs are or are not ‘under the artist’s direct control’ and the extent to which, and the points at which, they are subject to “interference from a human being”.
+
+
+
+if in fact it is no less directive, no less determinate,
+
+
+
+CI-art it covers voluntary actions (such as waving, walking and touching the computer screen), largely automatic yet control lable actions (such as the direction of eye-gaze) and involuntary bodily movements (such as breathing)
 
 
 

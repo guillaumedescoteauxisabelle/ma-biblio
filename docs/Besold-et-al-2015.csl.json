@@ -1,0 +1,48 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/FTVNDGHB",
+		"type": "book",
+		"collection-title": "Atlantis Thinking Machines",
+		"event-place": "Paris",
+		"ISBN": "978-94-6239-084-3",
+		"language": "en",
+		"note": "ZSCC: 0000047 \nDOI: 10.2991/978-94-6239-085-0",
+		"publisher": "Atlantis Press",
+		"publisher-place": "Paris",
+		"source": "DOI.org (Crossref)",
+		"title": "Computational Creativity Research: Towards Creative Machines",
+		"title-short": "Computational Creativity Research",
+		"URL": "http://link.springer.com/10.2991/978-94-6239-085-0",
+		"volume": "7",
+		"editor": [
+			{
+				"family": "Besold",
+				"given": "Tarek R."
+			},
+			{
+				"family": "Schorlemmer",
+				"given": "Marco"
+			},
+			{
+				"family": "Smaill",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

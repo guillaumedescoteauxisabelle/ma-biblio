@@ -246,9 +246,9 @@ CONCLUSION Deep learning has opened new possibilities for IB-AR to make a gen- e
 
 # NOT SAGrid output
 
+
+
 # Semmo
-
-
 
 # Q
 

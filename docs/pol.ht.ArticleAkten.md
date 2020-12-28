@@ -48,3 +48,11 @@ Avec cette librairie, il est possible de faire la translation d'une image entran
 
 
 
+# ( [[Schmidhuber-2015]])
+
+
+Deep learning in neural networks:An overview
+============================================
+
+
+

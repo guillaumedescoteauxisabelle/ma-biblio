@@ -1,8 +1,8 @@
 # Q
 
+| no | qt | q | r | n|
 | -- |---|--------|--------| ---- |
 | 1.1.2|  dic |     Qu'est-ce que la connaissance directe?   |   |   |
-| no | qt | q | r | n|
 | 1.2.2|  dic |     Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.   |   | Une compression de la source.  |
 | 1.3.2|  dic |     éléments qui le composent   |   |   |
 | 1.5.2|  dic |     Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.   |   |   |
@@ -17,9 +17,9 @@
 | 2.2.2|  dic |     Situer l'essentiel d'une étude publiée   |   |   |
 | 2.3.1|  dic |     Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.   |   |   |
 | 2.3.2|  i |     Quels-sont ces actions ?   |   |   |
+| 2.3.2.1 |  @a |  Lire (raisonné) |   |   |
 | 2.3.2.1 |  @a |    | Prendre connaissance du contenu  |   |
 | 2.3.2.1 |  @a |    | Dégager : Structure; principaux concepts ; idée principale et secondaire ; démonstration, conclusion et interprétation |   |
-| 2.3.2.1 |  @a |  Lire (raisonné) |   |   |
 | 2.3.2.2 |  @a |  Analyser  |   |   |
 | 2.3.2.3 |  @a |   Synthétiser |   |   |
 | 2.3.2.4 |  @a |   Critiquer |   |   |

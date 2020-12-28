@@ -11,7 +11,8 @@ Our taxonomy distinguishes eleven types of art. We call them Ele-art, C-art, D-a
   
 
 |   No    |  Acronym     | Definition      |   Artists    |
-|  ---  |  ---  |  ---  |  ---  |  ---  |
+|  ---  |  ---  |  ---  |  ---  | 
+
 |   1.    |  Ele-art       |  involves electrical engineering and / or electronic technology.     |       |
 |   2.    |  C-art      |  C-art uses computers as part of the art- making process.     |       |
 |   3.    |  D-art     | D-art  uses digital electronic technology of some sort.     |       |
