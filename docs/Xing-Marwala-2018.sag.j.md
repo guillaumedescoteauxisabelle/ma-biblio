@@ -1,29 +1,29 @@
 # NOT SAGrid output
 
 Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A Digital Art Perspective. https://arxiv.org/abs/1807.08195v1
-
-
 ______
+
 # 0. Abstract
+
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
+
 
 
 ______
 # 1. introduction
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
 
 
 
+
 ______
-
-
-#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
 
 # 2. Pourquoi l'art numérique?  
+#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
+
+
 
 ______
-
 
 # 3.0 Créativité et intelligence artificielle
 
@@ -37,11 +37,11 @@ ______
 
 ______
 # Part 3.1 - Les cas du court terme
-#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
 
+#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
 ______
-# Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
+# Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
 
 
 
@@ -51,8 +51,8 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-______
 
+______
 # Partie 4 - Perspective
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 
@@ -72,8 +72,8 @@ ______
 # --@STCGoal  Une **Vision Artistique** claire pour ma thèse
 
 Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
-## --@STCGoal Ma definition de l'IA
 
+## --@STCGoal Ma definition de l'IA
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
 >(Shapiro, 2003)
 
@@ -83,8 +83,8 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
-# Références
 
+# Références
 
 ## evolutionary programming
 

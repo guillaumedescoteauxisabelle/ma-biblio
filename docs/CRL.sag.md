@@ -1,8 +1,8 @@
 # SAGrid output
 
+| no | qt | q | r | n|
 | -- |---|--------|--------| ---- |
 | 1.1.1 |  txt |    |   "La notion de compte rendu critique en histoire    « Rendre compte » d'un événement, d'un film ou d'un texte d'historien, c'est le décrire et expliquer son fonctionnement à un public qui n'en a pas une connaissance directe" (p. 1)|   |
-| no | qt | q | r | n|
 | 1.1.2|  dic |     Qu'est-ce que la connaissance directe?   |   |   |
 | 1.2.1 |  txt |    |   "Un bon compte rendu de lecture permet de comprendre l'essentiel d'un texte, forme et fond, sans avoir à le lire soi-même en entier" (p. 1)|   |
 | 1.2.2|  dic |     Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.   |   | Une compression de la source.  |
@@ -40,8 +40,8 @@
 | 3.0.1.2|  dic |     Quels sont les étapes?   |   |   |
 | 3.0.2.1 |  txt |    |   "Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)|   |
 | 3.0.2.2|  dic |     Existe-t-il quatre compétences à développer qui sont complémentaires?   |   |   |
-| 3.0.3.2|  dic |     Qu'est-ce que de lire de façon résonner?   |   |   |
 | 3.0.3.1 |  txt |    |   "une lecture raisonnée du texte;" (p. 3)|   |
+| 3.0.3.2|  dic |     Qu'est-ce que de lire de façon résonner?   |   |   |
 | 3.0.4.1 |  txt |    |   "son analyse;" (p. 3)|   |
 | 3.0.4.2|  dic |     Qu'est-ce qu'une analyse de texte? De quoi Allaire une analyse de texte?   |   |   |
 | 3.0.5.1 |  txt |    |   "sa synthèse;" (p. 3)|   |
@@ -70,8 +70,8 @@
 | 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
 | 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
 | 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
-| 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
 | 3.1.7.2.2.1|   |      |   |   |
+| 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
 | 3.1.8.2|  dic |     Qu'est-ce qu'une conclusion? Comment arrive-t-on à conclure quelque chose?   |   |   |
 | 3.1.9.1 |  txt |    |   "interprétations" (p. 31)|   |
 | 3.1.9.2.1|  info |     Qu'est-ce qu'une interprétation?   |   |   |
@@ -125,8 +125,8 @@
 | 3.2.1.9.1 |  txt |    |   "De quelle époque s'agit-il? (cadrage temporel)" (p. 3.2.1)|   |
 | 3.2.1.9.2|  dic |     Cadrage temporel   |   |   |
 | 3.2.1.10.1 |  txt |    |   "De quelle zone géographique s'agit-il? (cadrage spatial)" (p. 3.2.1)|   |
-| 3.2.1.10.2|  dic |     Cadrage spatiale   |   |   |
 | 3.2.1.11.1 |  txt |    |   "Quel est le thème central de l'œuvre? (cadrage conceptuel)" (p. 3.2.1)|   |
+| 3.2.1.10.2|  dic |     Cadrage spatiale   |   |   |
 | 3.2.1.11.2|  dic |     Cadrage conceptuel. La thématique centrale d'une œuvre de t'appeler un cadrage conceptuelle. Il y a ici une indication intéressante pour aider à comprendre la structure d'un projet de recherche quant au cadre théorique (appeler aussi cadrage conceptuelle) il s'agit irai de la thématique central de l'étude faite.   |   |   |
 | 3.2.1.12.1 |  txt |    |   "Quel est le projet (explicite ou non) de l'auteure?" (p. 3.2.1)|   |
 | 3.2.1.12.2|  dic |     Le projet   |   |   |
@@ -148,8 +148,8 @@
 | 3.2.1.20.1 |  txt |    |   "À cette fin, il faut se reporter non pas à un dictionnaire linguistique courant, mais à des instruments mieux adaptés aux besoins de l’analyse historienne: lexiques historiques, encyclopédies et dictionnaires spécialisés en histoire et en sciences sociales" (p. 3.2.1)|   |
 | 3.2.1.20.2|  dic |     Outils nécessaires à faire l'étape d'analyse du texte du compte rendu. Quels sont les outils nécessaires pour faire l'analyse du texte d'un compte rendu?   |   |   |
 | 3.2.1.22.1 |  txt |    |   "Au bout de votre réflexion et dans votre travail, vous devrez formuler l'objectif de l’auteure" (p. 3.2.1)|   |
-| 3.2.1.23.1 |  txt |    |   "Cette formulation mettra en évidence ce que fait l’auteur : ce qu’il veut étudier, prouver, ce qu’elle cherche, analyse, explique, démontre, etc" (p. 3.2.1)|   |
 | 3.2.1.22.2|  dic |     Objectif de l'auteur   |   |   |
+| 3.2.1.23.1 |  txt |    |   "Cette formulation mettra en évidence ce que fait l’auteur : ce qu’il veut étudier, prouver, ce qu’elle cherche, analyse, explique, démontre, etc" (p. 3.2.1)|   |
 | 3.2.1.23.2|  dic |     Qu'est-ce qui est mis en évidence dans cette étape? Ce qui est étudié, à prouver, analyser, explication, démonstration   |   |   |
 | 3.2.1.24.1 |  txt |    |   "Ce passage doit comprendre l'identification de la région et de l'époque, ainsi que celle de l'idée principale (thème) du texte et de la difficulté à résoudre" (p. 3.2.1)|   |
 | 3.2.1.24.2|  dic |     En résumé. Ce que ce passages dois comprendre aussi   |   |   |

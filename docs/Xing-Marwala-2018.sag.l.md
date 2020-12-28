@@ -1135,8 +1135,8 @@ Quels sont les algorithmes d'inspiration musical ?
 
 
 
-  
-            -  
+Qu'est-ce que teaching-learning-based optimization ?  
+              
               
               
 
@@ -1144,8 +1144,8 @@ Quels sont les algorithmes d'inspiration musical ?
 
 
 
-Qu'est-ce que teaching-learning-based optimization ?  
-              
+  
+            -  
               
               
 

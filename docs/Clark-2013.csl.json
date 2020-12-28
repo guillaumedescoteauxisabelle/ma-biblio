@@ -1,0 +1,43 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/4HAV9XS6",
+		"type": "article-journal",
+		"abstract": "Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing. Such accounts offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success. The paper critically examines this ‘hierarchical prediction machine’ approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action. Sections 1 and 2 lay out the key elements and implications of the approach. Section 3 explores a variety of pitfalls and challenges, spanning the evidential, the methodological, and the more properly conceptual. The paper ends (sections 4 and 5) by asking how such approaches might impact our more general vision of mind, experience, and agency.",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X12000477",
+		"ISSN": "0140-525X, 1469-1825",
+		"issue": "3",
+		"journalAbbreviation": "Behav Brain Sci",
+		"language": "en",
+		"note": "ZSCC: 0003317",
+		"page": "181-204",
+		"source": "DOI.org (Crossref)",
+		"title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+		"title-short": "Whatever next?",
+		"URL": "https://www.cambridge.org/core/product/identifier/S0140525X12000477/type/journal_article",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Clark",
+				"given": "Andy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6
+				]
+			]
+		}
+	}
+]

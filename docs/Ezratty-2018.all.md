@@ -2480,9 +2480,9 @@ Chaque feature map générée par l’application des filtres sur l’image de d
 # NOT SAGrid output
 
 # Fiche/SAGrid:Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
-
-Citer : (Ezratty, 2018)  
 FTag: Ezratty-2018  
+Citer : (Ezratty, 2018)  
+
 Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.  
 
 
@@ -2495,12 +2495,12 @@ Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
 # Limite de l'IH et complément de l'IA
 
-## Jet : Limite de l'IH et complément de l'IA
 
+## Jet : Limite de l'IH et complément de l'IA
 L'IA deviendrait un complément de rationalité dans notre processus créatif.    
 
-    Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
 
+    Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
 Impact de la délégation de la rationalité à l'IA dans le processus de création 
 numérique.
 
@@ -2513,8 +2513,8 @@ numérique.
 
 ## DRAFTIdug
 
-
 note sur l'intelligence artificielle et ma compréhension de mes lectures actuelle du 19 juin 2020 
+
 >Cette rationalité est habituellement limitée par notre volonté, le poids émotionnel de notre cerveau limbique et notre capacité d’optimisation. (Ezratty, 2018)
 
 Nous avons une limite cognitive en tant qu'êtres humains.
@@ -2541,8 +2541,8 @@ Le poids émotionnelle de notre cerveau limbique limite notre capacité à ratio
 L'intelligence artificielle devient un complément à notre intelligence puisque sa spécialité se trouve dans la reconnaissance des faits et d'en tirer une conclusion rationnel.
 
 
-
 ## Définition paraphaser Ezratty
+
 L'IA est une ensemble de techniques qui permettent de transcender les limites ra 
 tionnelles de l'IH.  Elle s'inspire de la mécanique cognitive humaine en agissant  
 en fonction de faits, de données et d'expériences afin d'atteindre de manière opti
@@ -2567,15 +2567,6 @@ ______
 >"Apprentissage automatique" (p. 42.1)  
 
 
-
-----
-
-
-
-Titre  
-              
-              
-              
 
 ----
 
@@ -2607,6 +2598,15 @@ Peut-on appeler cela de  programmation implicite ?
 >"D’un point de vue pratique, le machine learning vise notamment à identifier des tendances, à faire des prévisions sur des données (régressions linéaires et non linéaires), à découvrir des corrélations entre données et événements (comme pour déterminer si un logiciel est un virus, si un client risque de quitter un service sur abonnement ou au contraire, s’il sera intéressé par telle ou telle offre ou qu’un tableau clinique d’un patient est symptomatique de l’émergence d’une pathologie de longue durée), à segmenter des jeux de données (comme une base clients), à reconnaître des objets (des lettres, des objets dans des images), le tout en exploitant des données d’entraînement" (p. 42.1)  
 
 
+
+----
+
+
+
+Titre  
+              
+              
+              
 
 ----
 

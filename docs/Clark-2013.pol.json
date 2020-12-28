@@ -1,0 +1,1000 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1TBwJZp8w1",
+      "guid": "12e6Ss5k3o",
+      "created": "2020-12-26T08:21:06.154Z",
+      "lastUpdated": "2020-12-26T08:29:11.979Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 393,
+          "right": 706,
+          "bottom": 415,
+          "width": 586,
+          "height": 22
+        },
+        "1": {
+          "left": 119,
+          "top": 417,
+          "right": 224,
+          "bottom": 439,
+          "width": 104,
+          "height": 22
+        },
+        "2": {
+          "left": 227,
+          "top": 417,
+          "right": 295,
+          "bottom": 439,
+          "width": 67,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Whatever  Next?  Predictive  Brains,  Situated  Agents,  and  the  Future "
+        },
+        "1": {
+          "text": "of Cognitive"
+        },
+        "2": {
+          "text": "Science."
+        }
+      },
+      "text": {
+        "TEXT": "Whatever  Next?  Predictive  Brains,  Situated  Agents,  and  the  Future of Cognitive Science."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Whatever  Next?  Predictive  Brains,  Situated  Agents,  and  the  Future of Cognitive Science.</h1>"
+      }
+    },
+    {
+      "id": "1sEGZJWw1q",
+      "guid": "129FmzTTmj",
+      "created": "2020-12-26T08:21:10.496Z",
+      "lastUpdated": "2020-12-26T08:21:38.033Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 459,
+          "right": 195,
+          "bottom": 477,
+          "width": 75,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 478,
+          "right": 494,
+          "bottom": 496,
+          "width": 374,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 497,
+          "right": 278,
+          "bottom": 515,
+          "width": 158,
+          "height": 18
+        },
+        "3": {
+          "left": 119,
+          "top": 516,
+          "right": 189,
+          "bottom": 535,
+          "width": 69,
+          "height": 18
+        },
+        "4": {
+          "left": 119,
+          "top": 535,
+          "right": 206,
+          "bottom": 554,
+          "width": 86,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Andy Clark"
+        },
+        "1": {
+          "text": "School of Philosophy, Psychology, and Language Sciences"
+        },
+        "2": {
+          "text": "University of Edinburgh"
+        },
+        "3": {
+          "text": "EH12 5AY"
+        },
+        "4": {
+          "text": "Scotland, UK"
+        }
+      },
+      "text": {
+        "TEXT": "Andy Clark School of Philosophy, Psychology, and Language Sciences University of Edinburgh EH12 5AY Scotland, UK"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span><p>Citer:(Clark, 2013)</p>\n<p>FTag: Clark-2013</p>\n<p>APA7: Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. <em>Behavioral and Brain Sciences</em>, <em>36</em>(3), 181–204. <a href=\"https://doi.org/10.1017/S0140525X12000477\">https://doi.org/10.1017/S0140525X12000477</a></p></span></p>"
+      }
+    },
+    {
+      "id": "1nuEMLoXdi",
+      "guid": "121VZ3q9HG",
+      "created": "2020-12-26T08:21:44.515Z",
+      "lastUpdated": "2020-12-26T08:34:03.946Z",
+      "rects": {
+        "0": {
+          "left": 562,
+          "top": 612,
+          "right": 593,
+          "bottom": 631,
+          "width": 31,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 651,
+          "right": 178,
+          "bottom": 669,
+          "width": 58,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "html"
+        },
+        "1": {
+          "text": "Abstract"
+        }
+      },
+      "text": {
+        "TEXT": "html Abstract"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Abstract"
+      }
+    },
+    {
+      "id": "12Wm16P38y",
+      "guid": "1dRXQ4MjXM",
+      "created": "2020-12-26T08:22:03.070Z",
+      "lastUpdated": "2020-12-26T08:22:22.405Z",
+      "rects": {
+        "0": {
+          "left": 186,
+          "top": 651,
+          "right": 653,
+          "bottom": 669,
+          "width": 466,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Brains,  it  has  recently  been  argued,  are  essentially  prediction  machine"
+        }
+      },
+      "text": {
+        "TEXT": "Brains,  it  has  recently  been  argued,  are  essentially  prediction  machine"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>Brains,[...],  are  essentially  prediction  machine</h2>"
+      }
+    },
+    {
+      "id": "12GUjRiwYR",
+      "guid": "1aQ4EgrFXn",
+      "created": "2020-12-26T08:23:29.494Z",
+      "lastUpdated": "2020-12-28T13:09:56.094Z",
+      "rects": {
+        "0": {
+          "left": 218,
+          "top": 670,
+          "right": 662,
+          "bottom": 688,
+          "width": 444,
+          "height": 18
+        },
+        "1": {
+          "left": 655,
+          "top": 670,
+          "right": 700,
+          "bottom": 688,
+          "width": 44,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 689,
+          "right": 351,
+          "bottom": 707,
+          "width": 231,
+          "height": 18
+        },
+        "3": {
+          "left": 348,
+          "top": 689,
+          "right": 353,
+          "bottom": 707,
+          "width": 5,
+          "height": 18
+        },
+        "4": {
+          "left": 353,
+          "top": 689,
+          "right": 580,
+          "bottom": 707,
+          "width": 226,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "cells that support perception and action by constantly attempting to "
+        },
+        "1": {
+          "text": "match "
+        },
+        "2": {
+          "text": "incoming  sensory  inputs  with  top"
+        },
+        "3": {
+          "text": "-"
+        },
+        "4": {
+          "text": "down  expectations  or  predictions."
+        }
+      },
+      "text": {
+        "TEXT": "cells that support perception and action by constantly attempting to match incoming  sensory  inputs  with  top - down  expectations  or  predictions."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "&gt;[...] cells that support perception and action by constantly attempting to match incoming  sensory  inputs  with  top - down  expectations  or  predictions."
+      }
+    },
+    {
+      "id": "125Nic3Zwq",
+      "guid": "12Nhrw4gQB",
+      "created": "2020-12-26T08:23:53.259Z",
+      "lastUpdated": "2020-12-28T13:10:16.646Z",
+      "rects": {
+        "0": {
+          "left": 178,
+          "top": 708,
+          "right": 708,
+          "bottom": 727,
+          "width": 529,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 727,
+          "right": 413,
+          "bottom": 746,
+          "width": 293,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "hierarchical  generative  model  that  aims  to  minimize  prediction  error  within  a "
+        },
+        "1": {
+          "text": "bidirectional  cascade  of  cortical  processing."
+        }
+      },
+      "text": {
+        "TEXT": "hierarchical  generative  model  that  aims  to  minimize  prediction  error  within  a bidirectional  cascade  of  cortical  processing."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2><b>The brain is a generative model.</b></h2><p>&gt;hierarchical  generative  model  that  aims  to  minimize  prediction  error  within  a bidirectional  cascade  of  cortical  processing.</p>"
+      }
+    },
+    {
+      "id": "1AwLmmhEgS",
+      "guid": "12YPU3hzJj",
+      "created": "2020-12-26T08:24:19.466Z",
+      "lastUpdated": "2020-12-28T13:14:27.934Z",
+      "rects": {
+        "0": {
+          "left": 587,
+          "top": 727,
+          "right": 665,
+          "bottom": 746,
+          "width": 77,
+          "height": 18
+        },
+        "1": {
+          "left": 657,
+          "top": 727,
+          "right": 700,
+          "bottom": 746,
+          "width": 43,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 747,
+          "right": 707,
+          "bottom": 765,
+          "width": 587,
+          "height": 18
+        },
+        "3": {
+          "left": 119,
+          "top": 766,
+          "right": 568,
+          "bottom": 784,
+          "width": 448,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "unifying  mo"
+        },
+        "1": {
+          "text": "del  of "
+        },
+        "2": {
+          "text": "perception and action, illuminate the functional role of attention, and may neatly capture "
+        },
+        "3": {
+          "text": "the  special  contribution  of  cortical  processing  to  adaptive  success."
+        }
+      },
+      "text": {
+        "TEXT": "unifying  mo del  of perception and action, illuminate the functional role of attention, and may neatly capture the  special  contribution  of  cortical  processing  to  adaptive  success."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt;[...] unifying  model  of perception and action, illuminate the functional role of attention, and may neatly capture the  special  contribution  of  cortical  processing  to  adaptive  success.</p><p>What is <b>adaptive success</b> ?</p>"
+      },
+      "tags": {
+        "RoleOfAttention": {
+          "id": "RoleOfAttention",
+          "label": "RoleOfAttention"
+        },
+        "Perception": {
+          "id": "Perception",
+          "label": "Perception"
+        },
+        "ArticleAgent": {
+          "id": "ArticleAgent",
+          "label": "ArticleAgent"
+        }
+      }
+    },
+    {
+      "id": "1Uwz7Dkb6s",
+      "guid": "1Uwz7Dkb6s",
+      "created": "2020-12-26T08:24:30.056Z",
+      "lastUpdated": "2020-12-26T08:24:30.056Z",
+      "rects": {
+        "0": {
+          "left": 447,
+          "top": 766,
+          "right": 557,
+          "bottom": 784,
+          "width": 110,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " adaptive  succes"
+        }
+      },
+      "text": {
+        "TEXT": "adaptive  succes"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1UiETNpBkK",
+      "guid": "12FnLMbbUt",
+      "created": "2020-12-26T08:24:46.235Z",
+      "lastUpdated": "2020-12-28T13:10:37.846Z",
+      "rects": {
+        "0": {
+          "left": 563,
+          "top": 727,
+          "right": 587,
+          "bottom": 746,
+          "width": 24,
+          "height": 18
+        },
+        "1": {
+          "left": 587,
+          "top": 727,
+          "right": 665,
+          "bottom": 746,
+          "width": 77,
+          "height": 18
+        },
+        "2": {
+          "left": 657,
+          "top": 727,
+          "right": 700,
+          "bottom": 746,
+          "width": 43,
+          "height": 18
+        },
+        "3": {
+          "left": 119,
+          "top": 747,
+          "right": 264,
+          "bottom": 765,
+          "width": 144,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  a  "
+        },
+        "1": {
+          "text": "unifying  mo"
+        },
+        "2": {
+          "text": "del  of "
+        },
+        "3": {
+          "text": "perception and action"
+        }
+      },
+      "text": {
+        "TEXT": "a unifying  mo del  of perception and action"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>a unifying  model  of perception and action</h2>"
+      }
+    },
+    {
+      "id": "12g9TJmmsH",
+      "guid": "12g9TJmmsH",
+      "created": "2020-12-26T08:25:00.244Z",
+      "lastUpdated": "2020-12-26T08:25:00.244Z",
+      "rects": {
+        "0": {
+          "left": 224,
+          "top": 785,
+          "right": 505,
+          "bottom": 803,
+          "width": 280,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "hierarchical  prediction  machine’  approach"
+        }
+      },
+      "text": {
+        "TEXT": "hierarchical  prediction  machine’  approach"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12P9Jb9Gzv",
+      "guid": "12P9Jb9Gzv",
+      "created": "2020-12-26T08:25:06.003Z",
+      "lastUpdated": "2020-12-26T08:25:06.003Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 785,
+          "right": 224,
+          "bottom": 803,
+          "width": 104,
+          "height": 18
+        },
+        "1": {
+          "left": 224,
+          "top": 785,
+          "right": 505,
+          "bottom": 803,
+          "width": 280,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "examines  this  ‘"
+        },
+        "1": {
+          "text": "hierarchical  prediction  machine’  approach"
+        }
+      },
+      "text": {
+        "TEXT": "examines  this  ‘ hierarchical  prediction  machine’  approach"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "1679GoCpkD",
+      "guid": "1679GoCpkD",
+      "created": "2020-12-26T08:25:28.141Z",
+      "lastUpdated": "2020-12-26T08:25:28.141Z",
+      "rects": {
+        "0": {
+          "left": 512,
+          "top": 919,
+          "right": 626,
+          "bottom": 938,
+          "width": 114,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "generative  model"
+        }
+      },
+      "text": {
+        "TEXT": "generative  model"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12iPSzGAXf",
+      "guid": "12wEKYx5wc",
+      "created": "2020-12-26T08:26:37.502Z",
+      "lastUpdated": "2020-12-26T08:27:43.711Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 731,
+          "right": 164,
+          "bottom": 749,
+          "width": 44,
+          "height": 18
+        },
+        "1": {
+          "left": 163,
+          "top": 731,
+          "right": 169,
+          "bottom": 749,
+          "width": 5,
+          "height": 18
+        },
+        "2": {
+          "left": 169,
+          "top": 731,
+          "right": 369,
+          "bottom": 749,
+          "width": 200,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Action"
+        },
+        "1": {
+          "text": "-"
+        },
+        "2": {
+          "text": "oriented  predictive  processing"
+        }
+      },
+      "text": {
+        "TEXT": "Action - oriented  predictive  processing"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "Action - oriented  predictive  processing (Traitement prédictif orienté action)"
+      }
+    },
+    {
+      "id": "1rNeC6Dt1k",
+      "guid": "1rNeC6Dt1k",
+      "created": "2020-12-26T08:27:30.620Z",
+      "lastUpdated": "2020-12-26T08:27:30.620Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "qu'est-ce que <b>le&nbsp;Traitement prédictif orienté action ?</b>"
+        },
+        "back": {
+          "HTML": "Action - oriented  predictive  processing"
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:12wEKYx5wc"
+    },
+    {
+      "id": "1FLebdhvd8",
+      "guid": "1LhFHmMVYu",
+      "created": "2020-12-26T08:32:14.954Z",
+      "lastUpdated": "2020-12-28T13:16:33.924Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 241,
+          "right": 706,
+          "bottom": 259,
+          "width": 538,
+          "height": 18
+        },
+        "1": {
+          "left": 167,
+          "top": 270,
+          "right": 706,
+          "bottom": 288,
+          "width": 538,
+          "height": 18
+        },
+        "2": {
+          "left": 167,
+          "top": 299,
+          "right": 585,
+          "bottom": 317,
+          "width": 417,
+          "height": 18
+        },
+        "3": {
+          "left": 579,
+          "top": 299,
+          "right": 701,
+          "bottom": 317,
+          "width": 121,
+          "height": 18
+        },
+        "4": {
+          "left": 167,
+          "top": 327,
+          "right": 681,
+          "bottom": 346,
+          "width": 513,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "“Perceptual learning and inference is necessary to induce prior expectations about "
+        },
+        "1": {
+          "text": "how the sensorium unfolds. Action is engaged to resample the world to fulfil these "
+        },
+        "2": {
+          "text": "expectations. This places perception and action in intimate rela"
+        },
+        "3": {
+          "text": "tion and accounts "
+        },
+        "4": {
+          "text": "for both with the same principle” (Friston, Daunizeau, and Kiebel (2009) p. 12)"
+        }
+      },
+      "text": {
+        "TEXT": "“Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate rela tion and accounts for both with the same principle” (Friston, Daunizeau, and Kiebel (2009) p. 12)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt;“Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate relation and accounts for both with the same principle” (Friston, Daunizeau, and Kiebel (2009) p. 12)</p><p><br></p><p>La perception de la sensation nécessite un apriori d'inférence permettant un apprentissage nécessaire à l'amélioration de l'atteinte des intentions par l'action.</p><p><br></p>"
+      }
+    },
+    {
+      "id": "1haFVBkSao",
+      "guid": "1qVd94WVUK",
+      "created": "2020-12-26T08:33:30.537Z",
+      "lastUpdated": "2020-12-28T13:16:44.520Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 702,
+          "right": 204,
+          "bottom": 720,
+          "width": 84,
+          "height": 18
+        },
+        "1": {
+          "left": 204,
+          "top": 702,
+          "right": 243,
+          "bottom": 720,
+          "width": 39,
+          "height": 18
+        },
+        "2": {
+          "left": 243,
+          "top": 702,
+          "right": 251,
+          "bottom": 720,
+          "width": 7,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "3.4 Situated "
+        },
+        "1": {
+          "text": "Agent"
+        },
+        "2": {
+          "text": "s"
+        }
+      },
+      "text": {
+        "TEXT": "3.4 Situated Agent s"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>3.4 Situated Agents</h2>"
+      }
+    },
+    {
+      "id": "1cphpRLJ7E",
+      "guid": "1xXaP2FfiP",
+      "created": "2020-12-26T08:35:04.825Z",
+      "lastUpdated": "2020-12-26T08:38:13.849Z",
+      "rects": {
+        "0": {
+          "left": 364,
+          "top": 759,
+          "right": 412,
+          "bottom": 778,
+          "width": 47,
+          "height": 18
+        },
+        "1": {
+          "left": 407,
+          "top": 759,
+          "right": 703,
+          "bottom": 778,
+          "width": 295,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 788,
+          "right": 372,
+          "bottom": 807,
+          "width": 252,
+          "height": 18
+        },
+        "3": {
+          "left": 369,
+          "top": 788,
+          "right": 374,
+          "bottom": 807,
+          "width": 5,
+          "height": 18
+        },
+        "4": {
+          "left": 375,
+          "top": 788,
+          "right": 704,
+          "bottom": 807,
+          "width": 329,
+          "height": 18
+        },
+        "5": {
+          "left": 119,
+          "top": 817,
+          "right": 235,
+          "bottom": 835,
+          "width": 115,
+          "height": 18
+        },
+        "6": {
+          "left": 235,
+          "top": 817,
+          "right": 706,
+          "bottom": 835,
+          "width": 470,
+          "height": 18
+        },
+        "7": {
+          "left": 119,
+          "top": 846,
+          "right": 435,
+          "bottom": 864,
+          "width": 315,
+          "height": 18
+        },
+        "8": {
+          "left": 431,
+          "top": 846,
+          "right": 513,
+          "bottom": 864,
+          "width": 82,
+          "height": 18
+        },
+        "9": {
+          "left": 512,
+          "top": 846,
+          "right": 639,
+          "bottom": 864,
+          "width": 126,
+          "height": 18
+        },
+        "10": {
+          "left": 641,
+          "top": 846,
+          "right": 700,
+          "bottom": 864,
+          "width": 58,
+          "height": 18
+        },
+        "11": {
+          "left": 119,
+          "top": 875,
+          "right": 281,
+          "bottom": 893,
+          "width": 161,
+          "height": 18
+        },
+        "12": {
+          "left": 279,
+          "top": 875,
+          "right": 705,
+          "bottom": 893,
+          "width": 425,
+          "height": 18
+        },
+        "13": {
+          "left": 119,
+          "top": 903,
+          "right": 707,
+          "bottom": 922,
+          "width": 587,
+          "height": 18
+        },
+        "14": {
+          "left": 119,
+          "top": 932,
+          "right": 324,
+          "bottom": 951,
+          "width": 204,
+          "height": 18
+        },
+        "15": {
+          "left": 321,
+          "top": 932,
+          "right": 413,
+          "bottom": 951,
+          "width": 92,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "  the  hi"
+        },
+        "1": {
+          "text": "erarchical  predictive  processing  perspective "
+        },
+        "2": {
+          "text": "suggests   concerning   situated,   world"
+        },
+        "3": {
+          "text": "-"
+        },
+        "4": {
+          "text": "exploiting   agency   (Thelen   and   Smith   (1994), "
+        },
+        "5": {
+          "text": "Hutchins  (1995), "
+        },
+        "6": {
+          "text": "Wilson  (1994)  (2004),  Haugeland  (1998),  Hurley  (1998),  Clark  (1997) "
+        },
+        "7": {
+          "text": "(2008), Clark and Chalmers (1998), Rowlands (1"
+        },
+        "8": {
+          "text": "999) (2006), "
+        },
+        "9": {
+          "text": "Noë (2004), (2009),"
+        },
+        "10": {
+          "text": "Wheeler "
+        },
+        "11": {
+          "text": "(2005), Menary (2007)). "
+        },
+        "12": {
+          "text": "At least on the face of it, the predictive processing story seem to "
+        },
+        "13": {
+          "text": "pursue a rather narrowly neurocentric focus, albeit one that reveals (1.5 above) some truly "
+        },
+        "14": {
+          "text": "intimate links between percepti"
+        },
+        "15": {
+          "text": "on and action."
+        }
+      },
+      "text": {
+        "TEXT": "the  hi erarchical  predictive  processing  perspective suggests   concerning   situated,   world - exploiting   agency   (Thelen   and   Smith   (1994), Hutchins  (1995), Wilson  (1994)  (2004),  Haugeland  (1998),  Hurley  (1998),  Clark  (1997) (2008), Clark and Chalmers (1998), Rowlands (1 999) (2006), Noë (2004), (2009), Wheeler (2005), Menary (2007)). At least on the face of it, the predictive processing story seem to pursue a rather narrowly neurocentric focus, albeit one that reveals (1.5 above) some truly intimate links between percepti on and action."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>&gt; [...] the  hierarchical  predictive  processing  perspective suggests   concerning   situated [...] agency   (Thelen   and   Smith   (1994), Hutchins  (1995), Wilson  (1994)  (2004),  Haugeland  (1998),  Hurley  (1998),  Clark  (1997) (2008), Clark and Chalmers (1998), Rowlands (1 999) (2006), Noë (2004), (2009), Wheeler (2005), Menary (2007)). At least on the face of it, the predictive processing story seem to pursue a rather narrowly neurocentric focus, albeit one that reveals (1.5 above) some truly intimate links between perception and action.</p><p><br></p><p><span>&gt; [...] the hierarchical predictive processing perspective suggests concerning situated [...] agency[...] seem to pursue a rather narrowly neurocentric focus [...] that reveals [...] intimate links between perception and action. (Clark, 2013)</span><br></p>"
+      }
+    }
+  ]
+
+}
+

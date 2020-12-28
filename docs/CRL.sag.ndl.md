@@ -17,7 +17,7 @@ Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce document
 
 
 
-éléments qui le composent  
+Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.  
               
               
               
@@ -26,7 +26,7 @@ Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce document
 
 
 
-Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.  
+éléments qui le composent  
               
               
               
