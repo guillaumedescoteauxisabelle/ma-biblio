@@ -130,3 +130,27 @@ type: text-highlight
 created: 2020-11-11T08:42:44.152Z
 color: yellow
 The computer helps us think creatively.
+---
+page: 2
+type: text-highlight
+created: 2020-12-26T07:34:35.675Z
+color: #9900EF
+fundamental structuring considerations
+---
+page: 2
+type: text-highlight
+created: 2020-12-26T07:35:29.807Z
+color: #9900EF
+easily and quickly see the implications
+---
+page: 3
+type: text-highlight
+created: 2020-12-30T17:03:47.874Z
+color: red
+It is concern ed instead with computer support that stimulates our thinking rather than that saves us work
+---
+page: 3
+type: text-highlight
+created: 2020-12-30T18:42:53.035Z
+color: #9900EF
+The concern is with how to provide support that stimulates us to think in new ways and so helps, in part, our creative lives

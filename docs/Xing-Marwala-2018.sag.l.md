@@ -657,21 +657,21 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
-Time Frame  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
 >NOTES  
 
 
+
+----
+
+
+
+Time Frame  
+              
+              
+              
 
 ----
 
@@ -1135,8 +1135,8 @@ Quels sont les algorithmes d'inspiration musical ?
 
 
 
-Qu'est-ce que teaching-learning-based optimization ?  
-              
+  
+            -  
               
               
 
@@ -1144,8 +1144,8 @@ Qu'est-ce que teaching-learning-based optimization ?
 
 
 
-  
-            -  
+Qu'est-ce que teaching-learning-based optimization ?  
+              
               
               
 

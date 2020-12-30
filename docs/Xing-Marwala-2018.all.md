@@ -239,22 +239,22 @@ Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A
 ______
 
 # 0. Abstract
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
 
 
 
 ______
+
+
 # 1. introduction
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
-
-
 
 
 ______
 
 # 2. Pourquoi l'art numérique?  
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
+
 
 
 
@@ -272,30 +272,30 @@ ______
 
 ______
 # Part 3.1 - Les cas du court terme
-
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
+
 ______
-#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
 # Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
-
+#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
 
 
 
 ______
+
 # Partie 3.3 - Le long terme: une organisation autonome d'art décentralisé (ArtDAO)
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-
 ______
+
 # Partie 4 - Perspective
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 
 
 ## Questions
 
-###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
 
+###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
 ### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
  
 ### 4.5.3  | clarification | Qu'est-ce que teaching-learning-based optimization ?
@@ -308,22 +308,22 @@ ______
 
 Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
 
-## --@STCGoal Ma definition de l'IA
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
 >(Shapiro, 2003)
+## --@STCGoal Ma definition de l'IA
 
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
-
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
+
 
 
 # Références
 
 ## evolutionary programming
-
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
+
 
 <!--- o:0.1.1 -->  
 <!--- y:txt -->  
@@ -983,21 +983,21 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
-Time Frame  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
 >NOTES  
 
 
+
+----
+
+
+
+Time Frame  
+              
+              
+              
 
 ----
 
@@ -1461,8 +1461,8 @@ Quels sont les algorithmes d'inspiration musical ?
 
 
 
-Qu'est-ce que teaching-learning-based optimization ?  
-              
+  
+            -  
               
               
 
@@ -1470,8 +1470,8 @@ Qu'est-ce que teaching-learning-based optimization ?
 
 
 
-  
-            -  
+Qu'est-ce que teaching-learning-based optimization ?  
+              
               
               
 
@@ -2323,8 +2323,8 @@ Note.
 # Q
 
 | no      | qt   | q                                                                                                                                                                                                  | r                                                                                                                                                                                                                  | n |
-| -- |---|--------|--------| ---- |
 | 0.1.2   | dic  | l'application de l'IA dans la création d'art numérique                                                                                                                                             |                                                                                                                                                                                                                    |   |
+| -- |---|--------|--------| ---- |
 | 0.2.2   | dic  | La codification de l'intelligence dans une machine                                                                                                                                                 |                                                                                                                                                                                                                    |   |
 | 0.3.2   | dic  | Trois types d'intelligence artificielle.                                                                                                                                                           |                                                                                                                                                                                                                    |   |
 | 0.4.2   | dic  | L'apprentissage profond dans une relation à la statistique. L'apprentissage profond est relatifs à la statistique. Qu'est-ce qui est statistique dans l'apprentissage profond?                       |                                                                                                                                                                                                                    |   |

@@ -2480,9 +2480,9 @@ Chaque feature map générée par l’application des filtres sur l’image de d
 # NOT SAGrid output
 
 # Fiche/SAGrid:Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
-FTag: Ezratty-2018  
-Citer : (Ezratty, 2018)  
 
+Citer : (Ezratty, 2018)  
+FTag: Ezratty-2018  
 Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.  
 
 
@@ -2495,19 +2495,19 @@ Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
 # Limite de l'IH et complément de l'IA
 
-
 ## Jet : Limite de l'IH et complément de l'IA
+
+
 L'IA deviendrait un complément de rationalité dans notre processus créatif.    
 
-
     Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
-Impact de la délégation de la rationalité à l'IA dans le processus de création 
 numérique.
 
     Exploration de la transcendance des limites de l'IH par la rationalité complémentaire de l'IA.
-
+Impact de la délégation de la rationalité à l'IA dans le processus de création 
  Observer:
 * Capacité d'optimisation s'élèverait
+
 
 [article #28](https://github.com/jgwill/www.fichiers/issues/28)
 
@@ -2548,8 +2548,8 @@ tionnelles de l'IH.  Elle s'inspire de la mécanique cognitive humaine en agissa
 en fonction de faits, de données et d'expériences afin d'atteindre de manière opti
 male un ou plusieurs objectifs. (Ezratty, 2018)
 
-
 @footer autopublished from PDS Draft app 2020-06-19 2020-06-19-14-47-17
+
 
 
 
@@ -2558,8 +2558,8 @@ male un ou plusieurs objectifs. (Ezratty, 2018)
 
 ______
 # Ezratty-2018 Reading Session Jun 24, 2020 at 1:04:27 AM 
-## page 42.1
 
+## page 42.1
 
 <!--- o:42.1.1.1 -->  
 <!--- y:txt -->  
@@ -2567,6 +2567,15 @@ ______
 >"Apprentissage automatique" (p. 42.1)  
 
 
+
+----
+
+
+
+Titre  
+              
+              
+              
 
 ----
 
@@ -2598,15 +2607,6 @@ Peut-on appeler cela de  programmation implicite ?
 >"D’un point de vue pratique, le machine learning vise notamment à identifier des tendances, à faire des prévisions sur des données (régressions linéaires et non linéaires), à découvrir des corrélations entre données et événements (comme pour déterminer si un logiciel est un virus, si un client risque de quitter un service sur abonnement ou au contraire, s’il sera intéressé par telle ou telle offre ou qu’un tableau clinique d’un patient est symptomatique de l’émergence d’une pathologie de longue durée), à segmenter des jeux de données (comme une base clients), à reconnaître des objets (des lettres, des objets dans des images), le tout en exploitant des données d’entraînement" (p. 42.1)  
 
 
-
-----
-
-
-
-Titre  
-              
-              
-              
 
 ----
 
@@ -2652,21 +2652,21 @@ Il est possible d'apprendre aux machines de façon non explicite.
 
 
 
-Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:42.1.8.1 -->  
 <!--- y:txt -->  
   
 >" Le choix des méthodes reste pour l’instant manuel, même si certaines startups essayent d’automatiser ce processus" (p. 42.1)  
 
 
+
+----
+
+
+
+Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
+              
+              
+              
 
 ----
 

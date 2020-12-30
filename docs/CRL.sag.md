@@ -11,16 +11,16 @@
 | 1.5.1 |  txt |    |   "On s'en tient en fait à trois aspects essentiels du travail historien : comprendre un texte (savoir le lire, saisir la démarche scientifique de l'auteure et récupérer tout son sens), le faire comprendre (savoir communiquer par écrit l'essentiel de son contenu et de sa manière d'être) et se situer par rapport à son contenu" (p. 1)|   |
 | 1.5.2|  dic |     Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.   |   |   |
 | 1.6.1 |  txt |    |   "La préparation de comptes rendus simples dès le début des études universitaires présente le grand avantage de faire voir qu'un texte n'est jamais tout à fait neutre, même quand il est présenté comme tel : la personne qui l'a rédigé a certainement été influencée par ses valeurs et ses intérêts de recherche, pour le choix de son objet d'étude, dans la sélection des éléments rassemblés dans son étude et en ce qui concerne l'interprétation qu'elle en a faite et les liens qu'elle a établis entre eux" (p. 1)|   |
-| 1.6.2|  dic |     Notre interprétation sera influencé par nos valeurs et nos intérêts, ce qui donnera comme résultat aucun texte ne sera qualifiable d'être objectif.   |   |   |
 | 1.8.1 |  txt |    |   "Il s’agit donc d’acquérir la capacité de saisir, de restituer et de se situer par rapport aux interprétations variées, et parfois contradictoires, que proposent les spécialistes dont les textes sont consultés et digérés" (p. 1)|   |
+| 1.6.2|  dic |     Notre interprétation sera influencé par nos valeurs et nos intérêts, ce qui donnera comme résultat aucun texte ne sera qualifiable d'être objectif.   |   |   |
 | 1.8.2|  dic |     Compétences à développer   |   |   |
 | 1.9.1 |  txt |    |   "Au cours de ses études en histoire, il est normal que l'étudiant-e rencontre une diversité d'exigences dans les différents cours de son cheminement, y compris sur la manière de préparer des comptes rendus d'études historiques" (p. 1)|   |
 | 1.9.2|  dic |     Dépendamment de la matière étudiée, le compte rendu aura des variations.   |   |   |
 | 1.14.1 |  txt |    |   "Le terme critique dans le titre de cette première section ne renvoie pas à l'idée qu'il faut chercher à dire du mal à tout prix des textes à lire! Il signifie qu'il faut plus simplement prendre du recul, ne pas se contenter des premières impressions de lecture; chercher à voir, derrière les apparences, quelle est la portée d'un message et son mode de fonctionnement; considérer la cohérence de l’argumentation; réfléchir à la solidité et à la nature des éléments de preuve qui soutiennent cette argumentation; comparer les méthodes, interprétations et conclusions du texte avec les conclusions, interprétations et méthodes d’autres travaux dans le domaine, antérieurs et contemporains; estimer les apports du texte et en poser les limites" (p. 1)|   |
 | 1.14.2|  dic |     Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué? |   |   |
 | 1.14.2|  dic |      | mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  |   |
-| 1.15.1 |  txt |    |  |   |
 | 1.15.2|  dic |     J'en retiens que le compte rendu est assez complexe, que je peux le structurer selon mes besoins et que l'objectif de lecture définierait la complexité de sa structure.  Il y a place à la créativité et à fabriquer son propre processus de compte rendu.   |   |   |
+| 1.15.1 |  txt |    |  |   |
 | 2.1.1 |  txt |    |   "Objectifs spécifiques    1" (p. 2)|   |
 | 2.1.2|  dic |     Titre   |   |   |
 | 2.2.1 |  txt |    |   "Comprendre, restituer et situer l’essentiel d’une étude publiée par un historien contemporain;  2" (p. 2)|   |
@@ -125,8 +125,8 @@
 | 3.2.1.9.1 |  txt |    |   "De quelle époque s'agit-il? (cadrage temporel)" (p. 3.2.1)|   |
 | 3.2.1.9.2|  dic |     Cadrage temporel   |   |   |
 | 3.2.1.10.1 |  txt |    |   "De quelle zone géographique s'agit-il? (cadrage spatial)" (p. 3.2.1)|   |
-| 3.2.1.11.1 |  txt |    |   "Quel est le thème central de l'œuvre? (cadrage conceptuel)" (p. 3.2.1)|   |
 | 3.2.1.10.2|  dic |     Cadrage spatiale   |   |   |
+| 3.2.1.11.1 |  txt |    |   "Quel est le thème central de l'œuvre? (cadrage conceptuel)" (p. 3.2.1)|   |
 | 3.2.1.11.2|  dic |     Cadrage conceptuel. La thématique centrale d'une œuvre de t'appeler un cadrage conceptuelle. Il y a ici une indication intéressante pour aider à comprendre la structure d'un projet de recherche quant au cadre théorique (appeler aussi cadrage conceptuelle) il s'agit irai de la thématique central de l'étude faite.   |   |   |
 | 3.2.1.12.1 |  txt |    |   "Quel est le projet (explicite ou non) de l'auteure?" (p. 3.2.1)|   |
 | 3.2.1.12.2|  dic |     Le projet   |   |   |

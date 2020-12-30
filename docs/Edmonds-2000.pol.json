@@ -1318,32 +1318,253 @@
           "label": "ComputerRole"
         }
       }
+    },
+    {
+      "id": "12RTAuFhr3",
+      "guid": "1ay2vmfBth",
+      "created": "2020-12-26T07:34:35.675Z",
+      "lastUpdated": "2020-12-26T07:34:42.991Z",
+      "rects": {
+        "0": {
+          "left": 644,
+          "top": 573,
+          "right": 712,
+          "bottom": 587,
+          "width": 68,
+          "height": 14
+        },
+        "1": {
+          "left": 460,
+          "top": 589,
+          "right": 597,
+          "bottom": 603,
+          "width": 137,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " fundamental"
+        },
+        "1": {
+          "text": "structuring considerations"
+        }
+      },
+      "text": {
+        "TEXT": "fundamental structuring considerations"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h1>fundamental structuring considerations</h1>"
+      }
+    },
+    {
+      "id": "12WWZGFVUH",
+      "guid": "12HKAq9uPE",
+      "created": "2020-12-26T07:35:29.807Z",
+      "lastUpdated": "2020-12-26T07:35:59.705Z",
+      "rects": {
+        "0": {
+          "left": 460,
+          "top": 765,
+          "right": 576,
+          "bottom": 779,
+          "width": 115,
+          "height": 14
+        },
+        "1": {
+          "left": 576,
+          "top": 765,
+          "right": 592,
+          "bottom": 779,
+          "width": 16,
+          "height": 14
+        },
+        "2": {
+          "left": 592,
+          "top": 765,
+          "right": 660,
+          "bottom": 779,
+          "width": 67,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "easily and quickly see "
+        },
+        "1": {
+          "text": "the"
+        },
+        "2": {
+          "text": " implications"
+        }
+      },
+      "text": {
+        "TEXT": "easily and quickly see the implications"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h1>easily and quickly see the implications</h1>"
+      },
+      "tags": {
+        "ArticleAgent": {
+          "id": "ArticleAgent",
+          "label": "ArticleAgent"
+        },
+        "AgentGoal": {
+          "id": "AgentGoal",
+          "label": "AgentGoal"
+        }
+      }
+    },
+    {
+      "id": "12tbzAbFkh",
+      "guid": "12tbzAbFkh",
+      "created": "2020-12-30T17:03:47.874Z",
+      "lastUpdated": "2020-12-30T17:03:47.874Z",
+      "rects": {
+        "0": {
+          "left": 235,
+          "top": 708,
+          "right": 262,
+          "bottom": 723,
+          "width": 26,
+          "height": 14
+        },
+        "1": {
+          "left": 262,
+          "top": 708,
+          "right": 304,
+          "bottom": 723,
+          "width": 42,
+          "height": 14
+        },
+        "2": {
+          "left": 304,
+          "top": 708,
+          "right": 316,
+          "bottom": 723,
+          "width": 12,
+          "height": 14
+        },
+        "3": {
+          "left": 82,
+          "top": 724,
+          "right": 324,
+          "bottom": 739,
+          "width": 241,
+          "height": 14
+        },
+        "4": {
+          "left": 82,
+          "top": 740,
+          "right": 310,
+          "bottom": 755,
+          "width": 227,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " It is "
+        },
+        "1": {
+          "text": "concern"
+        },
+        "2": {
+          "text": "ed"
+        },
+        "3": {
+          "text": "instead with computer support that stimulates"
+        },
+        "4": {
+          "text": "our thinking rather than that saves us work"
+        }
+      },
+      "text": {
+        "TEXT": "It is concern ed instead with computer support that stimulates our thinking rather than that saves us work"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    },
+    {
+      "id": "14uUN8rT6o",
+      "guid": "1fVm3SzKCr",
+      "created": "2020-12-30T18:42:53.035Z",
+      "lastUpdated": "2020-12-30T18:43:26.573Z",
+      "rects": {
+        "0": {
+          "left": 311,
+          "top": 740,
+          "right": 335,
+          "bottom": 755,
+          "width": 23,
+          "height": 14
+        },
+        "1": {
+          "left": 82,
+          "top": 756,
+          "right": 313,
+          "bottom": 771,
+          "width": 230,
+          "height": 14
+        },
+        "2": {
+          "left": 82,
+          "top": 772,
+          "right": 333,
+          "bottom": 787,
+          "width": 250,
+          "height": 14
+        },
+        "3": {
+          "left": 82,
+          "top": 788,
+          "right": 211,
+          "bottom": 803,
+          "width": 128,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " The"
+        },
+        "1": {
+          "text": "concern is with how to provide support that"
+        },
+        "2": {
+          "text": "stimulates us to think in new ways and so helps,"
+        },
+        "3": {
+          "text": "in part, our creative lives"
+        }
+      },
+      "text": {
+        "TEXT": "The concern is with how to provide support that stimulates us to think in new ways and so helps, in part, our creative lives"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>The concern is with how to provide support that stimulates us to think in new ways and so helps, in part, our creative lives</h2>"
+      }
     }
   ]
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

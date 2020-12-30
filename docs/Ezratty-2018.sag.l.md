@@ -10,6 +10,15 @@
 
 
 
+Titre  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.2.1 -->  
 <!--- y:txt -->  
   
@@ -36,15 +45,6 @@ Peut-on appeler cela de  programmation implicite ?
 >"D’un point de vue pratique, le machine learning vise notamment à identifier des tendances, à faire des prévisions sur des données (régressions linéaires et non linéaires), à découvrir des corrélations entre données et événements (comme pour déterminer si un logiciel est un virus, si un client risque de quitter un service sur abonnement ou au contraire, s’il sera intéressé par telle ou telle offre ou qu’un tableau clinique d’un patient est symptomatique de l’émergence d’une pathologie de longue durée), à segmenter des jeux de données (comme une base clients), à reconnaître des objets (des lettres, des objets dans des images), le tout en exploitant des données d’entraînement" (p. 42.1)  
 
 
-
-----
-
-
-
-Titre  
-              
-              
-              
 
 ----
 
@@ -90,21 +90,21 @@ Il est possible d'apprendre aux machines de façon non explicite.
 
 
 
-Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:42.1.8.1 -->  
 <!--- y:txt -->  
   
 >" Le choix des méthodes reste pour l’instant manuel, même si certaines startups essayent d’automatiser ce processus" (p. 42.1)  
 
 
+
+----
+
+
+
+Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
+              
+              
+              
 
 ----
 

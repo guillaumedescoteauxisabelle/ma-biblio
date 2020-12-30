@@ -10,6 +10,15 @@
 
 
 
+Qu'est-ce que la connaissance directe?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:1.2.1 -->  
 <!--- y:txt -->  
   
@@ -24,15 +33,6 @@
 Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.  
               
               Une compression de la source.
-              
-
-----
-
-
-
-Qu'est-ce que la connaissance directe?  
-              
-              
               
 
 ----
@@ -645,8 +645,8 @@ Qu'est-ce qu'une démonstration?
 
 
 
-  
-            L'étude démontre qu'il existe une amélioration de la capacité....  
+Exemple d'une démonstration  
+              
               
               
 
@@ -654,8 +654,8 @@ Qu'est-ce qu'une démonstration?
 
 
 
-Exemple d'une démonstration  
-              
+  
+            L'étude démontre qu'il existe une amélioration de la capacité....  
               
               
 
@@ -1393,21 +1393,21 @@ S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de
 
 
 
+Quels termes nécessites d'etre expliqué ?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.2.1.20.1 -->  
 <!--- y:txt -->  
   
 >"À cette fin, il faut se reporter non pas à un dictionnaire linguistique courant, mais à des instruments mieux adaptés aux besoins de l’analyse historienne: lexiques historiques, encyclopédies et dictionnaires spécialisés en histoire et en sciences sociales" (p. 3.2.1)  
 
 
-
-----
-
-
-
-Quels termes nécessites d'etre expliqué ?  
-              
-              
-              
 
 ----
 

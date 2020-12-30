@@ -184,6 +184,28 @@ intelligent user interfaces may well have a significant role to play in easing t
 
 
 
+fundamental structuring considerations
+======================================
+
+
+
+easily and quickly see the implications
+=======================================  
+[[ArticleAgent]] | [[AgentGoal]] 
+
+
+
+
+
+It is concern ed instead with computer support that stimulates our thinking rather than that saves us work
+
+
+
+The concern is with how to provide support that stimulates us to think in new ways and so helps, in part, our creative lives
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 

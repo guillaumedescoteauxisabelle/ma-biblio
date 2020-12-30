@@ -2,6 +2,7 @@
 [pol.ht.Abduction.def](pol.ht.Abduction.def.md)
 [pol.ht.Abduction](pol.ht.Abduction.md)
 [pol.ht.ActionRationnelle](pol.ht.ActionRationnelle.md)
+[pol.ht.AgentGoal](pol.ht.AgentGoal.md)
 [pol.ht.AIAgent](pol.ht.AIAgent.md)
 [pol.ht.AIConcept](pol.ht.AIConcept.md)
 [pol.ht.AIContact](pol.ht.AIContact.md)
