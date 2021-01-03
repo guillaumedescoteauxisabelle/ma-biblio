@@ -668,10 +668,10 @@
       "ref": "text-highlight:12wEKYx5wc"
     },
     {
-      "id": "1FLebdhvd8",
+      "id": "1VHpJ8mKf9",
       "guid": "1LhFHmMVYu",
       "created": "2020-12-26T08:32:14.954Z",
-      "lastUpdated": "2020-12-28T13:16:33.924Z",
+      "lastUpdated": "2020-12-30T22:40:56.167Z",
       "rects": {
         "0": {
           "left": 167,
@@ -740,7 +740,7 @@
       "flashcards": {},
       "color": "yellow",
       "revisedText": {
-        "HTML": "<p>&gt;“Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate relation and accounts for both with the same principle” (Friston, Daunizeau, and Kiebel (2009) p. 12)</p><p><br></p><p>La perception de la sensation nécessite un apriori d'inférence permettant un apprentissage nécessaire à l'amélioration de l'atteinte des intentions par l'action.</p><p><br></p>"
+        "HTML": "<p>&gt;Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate relation and accounts for both with the same principle (Friston, Daunizeau, and Kiebel (2009) p. 12)</p><p><br></p><p>La perception de la sensation nécessite un apriori d'inférence permettant un apprentissage nécessaire à l'amélioration de l'atteinte des intentions par l'action.</p><p><br></p>"
       }
     },
     {
@@ -993,9 +993,93 @@
       "revisedText": {
         "HTML": "<p>&gt; [...] the  hierarchical  predictive  processing  perspective suggests   concerning   situated [...] agency   (Thelen   and   Smith   (1994), Hutchins  (1995), Wilson  (1994)  (2004),  Haugeland  (1998),  Hurley  (1998),  Clark  (1997) (2008), Clark and Chalmers (1998), Rowlands (1 999) (2006), Noë (2004), (2009), Wheeler (2005), Menary (2007)). At least on the face of it, the predictive processing story seem to pursue a rather narrowly neurocentric focus, albeit one that reveals (1.5 above) some truly intimate links between perception and action.</p><p><br></p><p><span>&gt; [...] the hierarchical predictive processing perspective suggests concerning situated [...] agency[...] seem to pursue a rather narrowly neurocentric focus [...] that reveals [...] intimate links between perception and action. (Clark, 2013)</span><br></p>"
       }
+    },
+    {
+      "id": "12EcPGoZWKNWMP8ZFVGU",
+      "guid": "12EcPGoZWKNWMP8ZFVGU",
+      "created": "2020-12-30T22:42:18.393Z",
+      "lastUpdated": "2020-12-30T22:42:18.393Z",
+      "content": {
+        "HTML": "<p>\"resample the world to fulfil expectations\"</p>"
+      },
+      "ref": "text-highlight:1VHpJ8mKf9"
+    },
+    {
+      "id": "126i4EHAvE2BBnq5ztkK",
+      "guid": "126i4EHAvE2BBnq5ztkK",
+      "created": "2020-12-30T22:46:40.440Z",
+      "lastUpdated": "2020-12-30T22:46:40.440Z",
+      "content": {
+        "HTML": "<p>La structure sous-jacente n'est pas nécessairement des plus perceptible.<br></p>"
+      },
+      "ref": "text-highlight:1cphpRLJ7E"
+    },
+    {
+      "id": "1t5scaTn4f",
+      "guid": "12ie4PfDnb",
+      "created": "2021-01-03T13:25:54.932Z",
+      "lastUpdated": "2021-01-03T13:26:09.841Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 212,
+          "right": 190,
+          "bottom": 230,
+          "width": 44,
+          "height": 18
+        },
+        "1": {
+          "left": 189,
+          "top": 212,
+          "right": 194,
+          "bottom": 230,
+          "width": 5,
+          "height": 18
+        },
+        "2": {
+          "left": 194,
+          "top": 212,
+          "right": 306,
+          "bottom": 230,
+          "width": 111,
+          "height": 18
+        },
+        "3": {
+          "left": 302,
+          "top": 212,
+          "right": 407,
+          "bottom": 230,
+          "width": 105,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Action"
+        },
+        "1": {
+          "text": "-"
+        },
+        "2": {
+          "text": "Oriented Predic"
+        },
+        "3": {
+          "text": "tive Processing"
+        }
+      },
+      "text": {
+        "TEXT": "Action - Oriented Predic tive Processing"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Action - Oriented Predictive Processing</h2>"
+      }
     }
   ]
 
 }
-
 

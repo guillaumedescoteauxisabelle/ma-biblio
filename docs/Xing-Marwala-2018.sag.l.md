@@ -657,21 +657,21 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
+Time Frame  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
 >NOTES  
 
 
-
-----
-
-
-
-Time Frame  
-              
-              
-              
 
 ----
 

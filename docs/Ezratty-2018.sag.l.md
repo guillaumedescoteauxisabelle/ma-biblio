@@ -90,21 +90,21 @@ Il est possible d'apprendre aux machines de façon non explicite.
 
 
 
+Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.8.1 -->  
 <!--- y:txt -->  
   
 >" Le choix des méthodes reste pour l’instant manuel, même si certaines startups essayent d’automatiser ce processus" (p. 42.1)  
 
 
-
-----
-
-
-
-Il y a des opérations manuelles contraignante. Mais quelle direction Montréal fournissent le? Mais quelle direction un réel fourni stable? Mais quelle direction réel fournissent-t-elle?  
-              
-              
-              
 
 ----
 

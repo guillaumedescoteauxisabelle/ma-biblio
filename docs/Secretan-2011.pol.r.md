@@ -18,7 +18,8 @@ Creativity support tools are important to professionals and amateurs alike. Typi
 
 ## Annotations
 
-Semi-Automated Creativity:
+Semi-Automated Creativity:  Software as a Creative Collaborator 
+================================================================
 
 
 
@@ -43,6 +44,14 @@ emerging techniques in data mining, machine learning, and artificial intelligenc
 
 
 **Keywords** : Computer Supported Creativity ; **Artificial Creativity.**
+
+
+
+<font size=-3>Citer: (Secretan, 2011)
+
+FTag: Secretan-2011
+
+APA7: Secretan, J. (2011). Semi-automated creativity: Software as a creative collaborator. _Proceedings of the 8th ACM Conference on Creativity and Cognition_, 447–448. [https://doi.org/10.1145/2069618.2069743](https://doi.org/10.1145/2069618.2069743)</font>
 
 
 

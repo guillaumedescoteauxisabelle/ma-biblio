@@ -117,7 +117,7 @@ Action - oriented predictive processing (Traitement prédictif orienté action)
 
 
 
->“Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate relation and accounts for both with the same principle” (Friston, Daunizeau, and Kiebel (2009) p. 12)
+>Perceptual learning and inference is necessary to induce prior expectations about how the sensorium unfolds. Action is engaged to resample the world to fulfil these expectations. This places perception and action in intimate relation and accounts for both with the same principle (Friston, Daunizeau, and Kiebel (2009) p. 12)
 
   
 
@@ -135,6 +135,11 @@ La perception de la sensation nécessite un apriori d'inférence permettant un a
   
 
 > [...] the hierarchical predictive processing perspective suggests concerning situated [...] agency [...] seem to pursue a rather narrowly neurocentric focus [...] that reveals \ [...\] intimate links between perception and action. (Clark, 2013)
+
+
+
+Action - Oriented Predictive Processing
+---------------------------------------
 
 
 

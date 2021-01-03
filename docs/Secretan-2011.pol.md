@@ -67,3 +67,9 @@ front: <h1>Concept de <b>Créativité Artificielle</b></h1>
 type: flashcard
 created: 2020-09-20T23:39:08.591Z
 back: <b>&gt;Keywords </b>: Computer Supported Creativity ; <b>Artificial Creativity.&nbsp;</b>(Secretan, 2011)
+---
+page: 1
+type: text-highlight
+created: 2020-12-30T21:31:57.370Z
+color: yellow
+Jimmy Secretan Korrelate 215 Celebration Place Suite 150 Celebration, FL 34747 jimmy@korrelate.com

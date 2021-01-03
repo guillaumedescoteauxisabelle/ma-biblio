@@ -1,0 +1,732 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12JqqWKe17",
+      "guid": "1zEp9NJTWL",
+      "created": "2021-01-01T06:39:53.933Z",
+      "lastUpdated": "2021-01-01T06:40:07.633Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 96,
+          "right": 630,
+          "bottom": 121,
+          "width": 561,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Non-Stationary Texture Synthesis by Adversarial Expansio"
+        }
+      },
+      "text": {
+        "TEXT": "Non-Stationary Texture Synthesis by Adversarial Expansio"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Non-Stationary Texture Synthesis by Adversarial Expansio</h1>"
+      },
+      "tags": {
+        "TextureSynthesis": {
+          "id": "TextureSynthesis",
+          "label": "TextureSynthesis"
+        }
+      }
+    },
+    {
+      "id": "16Yv8NuP3j",
+      "guid": "12wa2yrkNu",
+      "created": "2021-01-01T06:40:12.651Z",
+      "lastUpdated": "2021-01-03T13:48:39.616Z",
+      "rects": {
+        "0": {
+          "left": 68,
+          "top": 142,
+          "right": 160,
+          "bottom": 161,
+          "width": 91,
+          "height": 18
+        },
+        "1": {
+          "left": 158,
+          "top": 141,
+          "right": 164,
+          "bottom": 154,
+          "width": 6,
+          "height": 13
+        },
+        "2": {
+          "left": 162,
+          "top": 142,
+          "right": 167,
+          "bottom": 161,
+          "width": 4,
+          "height": 18
+        },
+        "3": {
+          "left": 169,
+          "top": 145,
+          "right": 555,
+          "bottom": 160,
+          "width": 385,
+          "height": 14
+        },
+        "4": {
+          "left": 69,
+          "top": 161,
+          "right": 262,
+          "bottom": 179,
+          "width": 193,
+          "height": 18
+        },
+        "5": {
+          "left": 262,
+          "top": 164,
+          "right": 521,
+          "bottom": 179,
+          "width": 259,
+          "height": 14
+        },
+        "6": {
+          "left": 69,
+          "top": 179,
+          "right": 197,
+          "bottom": 198,
+          "width": 128,
+          "height": 18
+        },
+        "7": {
+          "left": 199,
+          "top": 183,
+          "right": 394,
+          "bottom": 198,
+          "width": 195,
+          "height": 14
+        },
+        "8": {
+          "left": 69,
+          "top": 198,
+          "right": 213,
+          "bottom": 216,
+          "width": 144,
+          "height": 18
+        },
+        "9": {
+          "left": 214,
+          "top": 201,
+          "right": 454,
+          "bottom": 216,
+          "width": 240,
+          "height": 14
+        },
+        "10": {
+          "left": 69,
+          "top": 217,
+          "right": 157,
+          "bottom": 235,
+          "width": 88,
+          "height": 18
+        },
+        "11": {
+          "left": 155,
+          "top": 216,
+          "right": 162,
+          "bottom": 229,
+          "width": 6,
+          "height": 13
+        },
+        "12": {
+          "left": 163,
+          "top": 217,
+          "right": 167,
+          "bottom": 235,
+          "width": 4,
+          "height": 18
+        },
+        "13": {
+          "left": 170,
+          "top": 220,
+          "right": 281,
+          "bottom": 235,
+          "width": 111,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "YANG ZHOU"
+        },
+        "1": {
+          "text": "∗"
+        },
+        "2": {
+          "text": ","
+        },
+        "3": {
+          "text": "Shenzhen University and Huazhong University of Science & Technology"
+        },
+        "4": {
+          "text": "ZHEN ZHU and XIANG BAI,"
+        },
+        "5": {
+          "text": "Huazhong University of Science and Technology"
+        },
+        "6": {
+          "text": "DANI LISCHINSKI,"
+        },
+        "7": {
+          "text": "The Hebrew University of Jerusalem"
+        },
+        "8": {
+          "text": "DANIEL COHEN-OR,"
+        },
+        "9": {
+          "text": "Shenzhen University and Tel Aviv University"
+        },
+        "10": {
+          "text": "HUI HUANG"
+        },
+        "11": {
+          "text": "†"
+        },
+        "12": {
+          "text": ","
+        },
+        "13": {
+          "text": "Shenzhen University"
+        }
+      },
+      "text": {
+        "TEXT": "YANG ZHOU ∗ , Shenzhen University and Huazhong University of Science & Technology ZHEN ZHU and XIANG BAI, Huazhong University of Science and Technology DANI LISCHINSKI, The Hebrew University of Jerusalem DANIEL COHEN-OR, Shenzhen University and Tel Aviv University HUI HUANG † , Shenzhen University"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Zhou et al., 2018)</p>\n<p>FTag: Zhou-et-al.-2018</p>\n<p>APA7: Zhou, Y., Zhu, Z., Bai, X., Lischinski, D., Cohen-Or, D., &amp; Huang, H. (2018). Non-Stationary Texture Synthesis by Adversarial Expansion. <em>ArXiv:1805.04487 [Cs]</em>. <a href=\"http://arxiv.org/abs/1805.04487\">http://arxiv.org/abs/1805.04487</a></p>\n<p><a href=\"https://app.simplenote.com/p/GZW500\">https://app.simplenote.com/p/GZW500</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "12jLcDqwLA",
+      "guid": "1z8j2p9vzm",
+      "created": "2021-01-03T13:50:24.986Z",
+      "lastUpdated": "2021-01-03T13:51:17.472Z",
+      "rects": {
+        "0": {
+          "left": 69,
+          "top": 668,
+          "right": 142,
+          "bottom": 680,
+          "width": 73,
+          "height": 12
+        },
+        "1": {
+          "left": 138,
+          "top": 668,
+          "right": 142,
+          "bottom": 680,
+          "width": 3,
+          "height": 12
+        },
+        "2": {
+          "left": 145,
+          "top": 668,
+          "right": 285,
+          "bottom": 680,
+          "width": 140,
+          "height": 12
+        },
+        "3": {
+          "left": 278,
+          "top": 668,
+          "right": 288,
+          "bottom": 680,
+          "width": 10,
+          "height": 12
+        },
+        "4": {
+          "left": 293,
+          "top": 668,
+          "right": 398,
+          "bottom": 680,
+          "width": 104,
+          "height": 12
+        },
+        "5": {
+          "left": 69,
+          "top": 681,
+          "right": 172,
+          "bottom": 693,
+          "width": 103,
+          "height": 12
+        },
+        "6": {
+          "left": 166,
+          "top": 681,
+          "right": 169,
+          "bottom": 693,
+          "width": 2,
+          "height": 12
+        },
+        "7": {
+          "left": 171,
+          "top": 681,
+          "right": 265,
+          "bottom": 693,
+          "width": 93,
+          "height": 12
+        },
+        "8": {
+          "left": 257,
+          "top": 681,
+          "right": 260,
+          "bottom": 693,
+          "width": 2,
+          "height": 12
+        },
+        "9": {
+          "left": 262,
+          "top": 681,
+          "right": 305,
+          "bottom": 693,
+          "width": 42,
+          "height": 12
+        },
+        "10": {
+          "left": 303,
+          "top": 681,
+          "right": 306,
+          "bottom": 693,
+          "width": 2,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CCS Concepts:"
+        },
+        "1": {
+          "text": "•"
+        },
+        "2": {
+          "text": "Computing methodologies"
+        },
+        "3": {
+          "text": "→"
+        },
+        "4": {
+          "text": "Appearance and tex-"
+        },
+        "5": {
+          "text": "ture representations"
+        },
+        "6": {
+          "text": ";"
+        },
+        "7": {
+          "text": "Image manipulation"
+        },
+        "8": {
+          "text": ";"
+        },
+        "9": {
+          "text": "Texturing"
+        },
+        "10": {
+          "text": ";"
+        }
+      },
+      "text": {
+        "TEXT": "CCS Concepts: • Computing methodologies → Appearance and tex- ture representations ; Image manipulation ; Texturing ;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>CCS Concepts: </h2><p>Computing methodologies --&gt; Appearance and texture representations ; Image manipulation ; Texturing ;</p>"
+      },
+      "tags": {
+        "TexSynt": {
+          "id": "TexSynt",
+          "label": "TexSynt"
+        }
+      }
+    },
+    {
+      "id": "1kEcPuR6uv",
+      "guid": "12rY8CmuyV",
+      "created": "2021-01-03T13:52:06.965Z",
+      "lastUpdated": "2021-01-03T13:54:01.391Z",
+      "rects": {
+        "0": {
+          "left": 377,
+          "top": 528,
+          "right": 398,
+          "bottom": 540,
+          "width": 20,
+          "height": 12
+        },
+        "1": {
+          "left": 69,
+          "top": 541,
+          "right": 399,
+          "bottom": 553,
+          "width": 330,
+          "height": 12
+        },
+        "2": {
+          "left": 69,
+          "top": 554,
+          "right": 401,
+          "bottom": 566,
+          "width": 332,
+          "height": 12
+        },
+        "3": {
+          "left": 69,
+          "top": 567,
+          "right": 399,
+          "bottom": 580,
+          "width": 330,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "r, we"
+        },
+        "1": {
+          "text": "propose a new approach for example-based non-stationary texture synthesis."
+        },
+        "2": {
+          "text": "Our approach uses a generative adversarial network (GAN), trained to double"
+        },
+        "3": {
+          "text": "the spatial extent of texture blocks extracted from a specific texture exemplar."
+        }
+      },
+      "text": {
+        "TEXT": "r, we propose a new approach for example-based non-stationary texture synthesis. Our approach uses a generative adversarial network (GAN), trained to double the spatial extent of texture blocks extracted from a specific texture exemplar."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "we propose a new approach for example-based non-stationary texture synthesis. Our approach uses a generative adversarial network (GAN), trained to double the spatial extent of texture blocks extracted from a specific texture exemplar."
+      }
+    },
+    {
+      "id": "124Z4qUNqZ",
+      "guid": "1h9M3d9vM5",
+      "created": "2021-01-03T13:52:39.000Z",
+      "lastUpdated": "2021-01-03T13:52:47.914Z",
+      "rects": {
+        "0": {
+          "left": 220,
+          "top": 607,
+          "right": 399,
+          "bottom": 619,
+          "width": 178,
+          "height": 12
+        },
+        "1": {
+          "left": 69,
+          "top": 621,
+          "right": 114,
+          "bottom": 633,
+          "width": 44,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "s highly effective for capturing large scale"
+        },
+        "1": {
+          "text": "structures"
+        }
+      },
+      "text": {
+        "TEXT": "s highly effective for capturing large scale structures"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>highly effective for capturing large scale structures</h2>"
+      }
+    },
+    {
+      "id": "126qfdUp2H",
+      "guid": "12FJLH52RX",
+      "created": "2021-01-03T13:53:23.067Z",
+      "lastUpdated": "2021-01-03T13:53:53.643Z",
+      "rects": {
+        "0": {
+          "left": 169,
+          "top": 581,
+          "right": 305,
+          "bottom": 593,
+          "width": 136,
+          "height": 12
+        },
+        "1": {
+          "left": 305,
+          "top": 581,
+          "right": 400,
+          "bottom": 593,
+          "width": 94,
+          "height": 12
+        },
+        "2": {
+          "left": 69,
+          "top": 594,
+          "right": 303,
+          "bottom": 606,
+          "width": 234,
+          "height": 12
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "convolutional generator is able"
+        },
+        "1": {
+          "text": " to expand the size of"
+        },
+        "2": {
+          "text": "the entire exemplar, as well as of any of its sub-blocks"
+        }
+      },
+      "text": {
+        "TEXT": "convolutional generator is able to expand the size of the entire exemplar, as well as of any of its sub-blocks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p>The missing resolution is invented by the network</p><p>&gt;convolutional generator is able to expand the size of the entire exemplar, as well as of any of its sub-blocks</p>"
+      },
+      "tags": {
+        "TexSynt": {
+          "id": "TexSynt",
+          "label": "TexSynt"
+        }
+      }
+    },
+    {
+      "id": "1ZnGcVh1E5",
+      "guid": "12Xcvh1GhL",
+      "created": "2021-01-03T13:54:34.718Z",
+      "lastUpdated": "2021-01-03T13:54:45.147Z",
+      "rects": {
+        "0": {
+          "left": 444,
+          "top": 706,
+          "right": 506,
+          "bottom": 721,
+          "width": 61,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "SUMMARY"
+        }
+      },
+      "text": {
+        "TEXT": "SUMMARY"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>SUMMARY</h1>"
+      }
+    },
+    {
+      "id": "12XNtjNZde",
+      "guid": "1WfBz6Uefm",
+      "created": "2021-01-03T13:54:39.153Z",
+      "lastUpdated": "2021-01-03T13:55:08.461Z",
+      "rects": {
+        "0": {
+          "left": 423,
+          "top": 729,
+          "right": 752,
+          "bottom": 742,
+          "width": 328,
+          "height": 13
+        },
+        "1": {
+          "left": 423,
+          "top": 744,
+          "right": 757,
+          "bottom": 757,
+          "width": 333,
+          "height": 13
+        },
+        "2": {
+          "left": 423,
+          "top": 758,
+          "right": 753,
+          "bottom": 772,
+          "width": 329,
+          "height": 13
+        },
+        "3": {
+          "left": 423,
+          "top": 773,
+          "right": 748,
+          "bottom": 786,
+          "width": 324,
+          "height": 13
+        },
+        "4": {
+          "left": 423,
+          "top": 788,
+          "right": 752,
+          "bottom": 801,
+          "width": 329,
+          "height": 13
+        },
+        "5": {
+          "left": 423,
+          "top": 802,
+          "right": 752,
+          "bottom": 815,
+          "width": 328,
+          "height": 13
+        },
+        "6": {
+          "left": 423,
+          "top": 817,
+          "right": 753,
+          "bottom": 830,
+          "width": 329,
+          "height": 13
+        },
+        "7": {
+          "left": 423,
+          "top": 831,
+          "right": 752,
+          "bottom": 845,
+          "width": 328,
+          "height": 13
+        },
+        "8": {
+          "left": 423,
+          "top": 846,
+          "right": 751,
+          "bottom": 859,
+          "width": 327,
+          "height": 13
+        },
+        "9": {
+          "left": 423,
+          "top": 861,
+          "right": 752,
+          "bottom": 874,
+          "width": 328,
+          "height": 13
+        },
+        "10": {
+          "left": 423,
+          "top": 875,
+          "right": 751,
+          "bottom": 889,
+          "width": 327,
+          "height": 13
+        },
+        "11": {
+          "left": 423,
+          "top": 890,
+          "right": 752,
+          "bottom": 903,
+          "width": 328,
+          "height": 13
+        },
+        "12": {
+          "left": 423,
+          "top": 905,
+          "right": 543,
+          "bottom": 918,
+          "width": 119,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "We have presented an example-based texture synthesis method ca-"
+        },
+        "1": {
+          "text": "pable of expanding an exemplar texture, while faithfully preserving"
+        },
+        "2": {
+          "text": "the global structures therein. This is achieved by training a gener-"
+        },
+        "3": {
+          "text": "ative adversarial network, whose generator learns how to expand"
+        },
+        "4": {
+          "text": "small subwindows of the exemplar to the larger texture windows"
+        },
+        "5": {
+          "text": "containing them. A variety of results demonstrate that, through"
+        },
+        "6": {
+          "text": "such adversarial training, the generator is able to faithfully repro-"
+        },
+        "7": {
+          "text": "duce local patterns, as well as their global arrangements. Although"
+        },
+        "8": {
+          "text": "a dedicated generator must be trained for each exemplar, once it"
+        },
+        "9": {
+          "text": "is trained, synthesis is extremely fast, requiring only a single feed-"
+        },
+        "10": {
+          "text": "forward pass through the generator network. The trained model is"
+        },
+        "11": {
+          "text": "stable enough for repeated application, enabling generating diverse"
+        },
+        "12": {
+          "text": "results of different sizes."
+        }
+      },
+      "text": {
+        "TEXT": "We have presented an example-based texture synthesis method ca- pable of expanding an exemplar texture, while faithfully preserving the global structures therein. This is achieved by training a gener- ative adversarial network, whose generator learns how to expand small subwindows of the exemplar to the larger texture windows containing them. A variety of results demonstrate that, through such adversarial training, the generator is able to faithfully repro- duce local patterns, as well as their global arrangements. Although a dedicated generator must be trained for each exemplar, once it is trained, synthesis is extremely fast, requiring only a single feed- forward pass through the generator network. The trained model is stable enough for repeated application, enabling generating diverse results of different sizes."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "We have presented an example-based texture synthesis method capable of expanding an exemplar texture, while faithfully preserving the global structures therein. This is achieved by training a generative adversarial network, whose generator learns how to expand small sub windows of the exemplar to the larger texture windows containing them. A variety of results demonstrate that, through such adversarial training, the generator is able to faithfully repro-duce local patterns, as well as their global arrangements. Although a dedicated generator must be trained for each exemplar, once it is trained, synthesis is extremely fast, requiring only a single feed-forward pass through the generator network. The trained model is stable enough for repeated application, enabling generating diverse results of different sizes."
+      }
+    }
+  ]
+
+}
+

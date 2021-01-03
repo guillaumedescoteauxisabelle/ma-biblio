@@ -101,3 +101,19 @@ type: text-highlight
 created: 2020-12-26T08:35:04.825Z
 color: yellow
 the  hi erarchical  predictive  processing  perspective suggests   concerning   situated,   world - exploiting   agency   (Thelen   and   Smith   (1994), Hutchins  (1995), Wilson  (1994)  (2004),  Haugeland  (1998),  Hurley  (1998),  Clark  (1997) (2008), Clark and Chalmers (1998), Rowlands (1 999) (2006), Noë (2004), (2009), Wheeler (2005), Menary (2007)). At least on the face of it, the predictive processing story seem to pursue a rather narrowly neurocentric focus, albeit one that reveals (1.5 above) some truly intimate links between percepti on and action.
+---
+page: 17
+type: comment
+created: 2020-12-30T22:42:18.393Z
+<p>"resample the world to fulfil expectations"</p>
+---
+page: 42
+type: comment
+created: 2020-12-30T22:46:40.440Z
+<p>La structure sous-jacente n'est pas nécessairement des plus perceptible.<br></p>
+---
+page: 15
+type: text-highlight
+created: 2021-01-03T13:25:54.932Z
+color: yellow
+Action - Oriented Predic tive Processing

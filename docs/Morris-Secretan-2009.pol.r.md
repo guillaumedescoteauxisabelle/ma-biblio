@@ -18,7 +18,8 @@ The emergence of computers as a core component of creative processes, coupled wi
 
 ## Annotations
 
-Computational Creativity Support
+Computational creativity support using algorithms
+=================================================
 
 
 

@@ -645,8 +645,8 @@ Qu'est-ce qu'une démonstration?
 
 
 
-Exemple d'une démonstration  
-              
+  
+            L'étude démontre qu'il existe une amélioration de la capacité....  
               
               
 
@@ -654,8 +654,8 @@ Exemple d'une démonstration
 
 
 
-  
-            L'étude démontre qu'il existe une amélioration de la capacité....  
+Exemple d'une démonstration  
+              
               
               
 

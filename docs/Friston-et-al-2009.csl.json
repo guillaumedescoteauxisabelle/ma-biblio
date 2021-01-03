@@ -1,0 +1,51 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/BYQP2IGB",
+		"type": "article-journal",
+		"abstract": "This paper questions the need for reinforcement learning or control theory when optimising behaviour. We show that it is fairly simple to teach an agent complicated and adaptive behaviours using a free-energy formulation of perception. In this formulation, agents adjust their internal states and sampling of the environment to minimize their free-energy. Such agents learn causal structure in the environment and sample it in an adaptive and self-supervised fashion. This results in behavioural policies that reproduce those optimised by reinforcement learning and dynamic programming. Critically, we do not need to invoke the notion of reward, value or utility. We illustrate these points by solving a benchmark problem in dynamic programming; namely the mountain-car problem, using active perception or inference under the free-energy principle. The ensuing proof-of-concept may be important because the free-energy formulation furnishes a unified account of both action and perception and may speak to a reappraisal of the role of dopamine in the brain.",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0006421",
+		"ISSN": "1932-6203",
+		"issue": "7",
+		"journalAbbreviation": "PLOS ONE",
+		"language": "en",
+		"note": "ZSCC: 0000358 \npublisher: Public Library of Science",
+		"page": "e6421",
+		"source": "PLoS Journals",
+		"title": "Reinforcement Learning or Active Inference?",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006421",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Friston",
+				"given": "Karl J."
+			},
+			{
+				"family": "Daunizeau",
+				"given": "Jean"
+			},
+			{
+				"family": "Kiebel",
+				"given": "Stefan J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					7,
+					29
+				]
+			]
+		}
+	}
+]
