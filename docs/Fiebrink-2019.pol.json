@@ -1,0 +1,679 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1z8YoQS4iV",
+      "guid": "126oBDAoaC",
+      "created": "2021-01-22T18:28:30.228Z",
+      "lastUpdated": "2021-01-22T19:07:04.779Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 106,
+          "right": 511,
+          "bottom": 129,
+          "width": 450,
+          "height": 22
+        },
+        "1": {
+          "left": 60,
+          "top": 129,
+          "right": 349,
+          "bottom": 151,
+          "width": 288,
+          "height": 22
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Machine Learning Education for Artists, Musicians,"
+        },
+        "1": {
+          "text": "and Other Creative Practitioners"
+        }
+      },
+      "text": {
+        "TEXT": "Machine Learning Education for Artists, Musicians, and Other Creative Practitioners"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Machine Learning Education for Artists, Musicians, and Other Creative Practitioners</h1>"
+      },
+      "tags": {
+        "ML": {
+          "id": "ML",
+          "label": "ML"
+        },
+        "Machine Learning Education": {
+          "id": "Machine Learning Education",
+          "label": "Machine Learning Education"
+        }
+      }
+    },
+    {
+      "id": "164ztHGkD6",
+      "guid": "18tYMFV2au",
+      "created": "2021-01-22T18:28:34.480Z",
+      "lastUpdated": "2021-01-22T18:28:55.389Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 172,
+          "right": 192,
+          "bottom": 189,
+          "width": 131,
+          "height": 16
+        },
+        "1": {
+          "left": 195,
+          "top": 175,
+          "right": 493,
+          "bottom": 188,
+          "width": 298,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "REBECCA FIEBRINK,"
+        },
+        "1": {
+          "text": "Department of Computing, Goldsmiths University of Londo"
+        }
+      },
+      "text": {
+        "TEXT": "REBECCA FIEBRINK, Department of Computing, Goldsmiths University of Londo"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>REBECCA FIEBRINK, Department of Computing, Goldsmiths University of London</p><p><span>\n<p>Citer: (Fiebrink, 2019)</p>\n<p>FTag: Fiebrink-2019</p>\n<p>APA7: Fiebrink, R. (2019). Machine Learning Education for Artists, Musicians, and Other Creative Practitioners. <em>ACM Transactions on Computing Education</em>, <em>19</em>(4), 31:1-31:32. <a href=\"https://doi.org/10.1145/3294008\">https://doi.org/10.1145/3294008</a></p>\n<p><a href=\"https://app.getpolarized.io/doc/12MSPyatVCApVe7CivVgyPaNFiS8tyZhijnUSwcfxu5EYbTN1XL\"><b>Polar</b></a></p>\n\n</span><br></p>"
+      }
+    },
+    {
+      "id": "1j5L6i5Kvz",
+      "guid": "16U2LyJXHu",
+      "created": "2021-01-22T18:57:12.575Z",
+      "lastUpdated": "2021-01-22T18:57:21.738Z",
+      "rects": {
+        "0": {
+          "left": 395,
+          "top": 213,
+          "right": 599,
+          "bottom": 227,
+          "width": 204,
+          "height": 13
+        },
+        "1": {
+          "left": 60,
+          "top": 228,
+          "right": 126,
+          "bottom": 241,
+          "width": 65,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "f machine learning education for creative"
+        },
+        "1": {
+          "text": "practitioners"
+        }
+      },
+      "text": {
+        "TEXT": "f machine learning education for creative practitioners"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>machine learning education for creative practitioners</h2>"
+      }
+    },
+    {
+      "id": "1HcvjYzBTy",
+      "guid": "1ZVVZ3pG3P",
+      "created": "2021-01-22T18:57:37.627Z",
+      "lastUpdated": "2021-01-22T18:58:04.687Z",
+      "rects": {
+        "0": {
+          "left": 252,
+          "top": 228,
+          "right": 600,
+          "bottom": 241,
+          "width": 347,
+          "height": 13
+        },
+        "1": {
+          "left": 60,
+          "top": 243,
+          "right": 270,
+          "bottom": 256,
+          "width": 209,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "at it is important to teach machine learning to creative practitioners"
+        },
+        "1": {
+          "text": "and to conduct research about this teachi"
+        }
+      },
+      "text": {
+        "TEXT": "at it is important to teach machine learning to creative practitioners and to conduct research about this teachi"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>Teach and research</h2><p>&gt;it is important to teach machine learning to creative practitioners and to conduct research about this teaching</p>"
+      }
+    },
+    {
+      "id": "1Mfw85QzKe",
+      "guid": "12EbNaQHK2",
+      "created": "2021-01-22T18:59:52.038Z",
+      "lastUpdated": "2021-01-22T19:00:00.593Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 213,
+          "right": 395,
+          "bottom": 227,
+          "width": 334,
+          "height": 13
+        },
+        "1": {
+          "left": 395,
+          "top": 213,
+          "right": 599,
+          "bottom": 227,
+          "width": 204,
+          "height": 13
+        },
+        "2": {
+          "left": 60,
+          "top": 228,
+          "right": 126,
+          "bottom": 241,
+          "width": 65,
+          "height": 13
+        },
+        "3": {
+          "left": 126,
+          "top": 228,
+          "right": 252,
+          "bottom": 241,
+          "width": 125,
+          "height": 13
+        },
+        "4": {
+          "left": 252,
+          "top": 228,
+          "right": 600,
+          "bottom": 241,
+          "width": 347,
+          "height": 13
+        },
+        "5": {
+          "left": 60,
+          "top": 243,
+          "right": 270,
+          "bottom": 256,
+          "width": 209,
+          "height": 13
+        },
+        "6": {
+          "left": 270,
+          "top": 243,
+          "right": 599,
+          "bottom": 256,
+          "width": 329,
+          "height": 13
+        },
+        "7": {
+          "left": 60,
+          "top": 257,
+          "right": 599,
+          "bottom": 271,
+          "width": 538,
+          "height": 13
+        },
+        "8": {
+          "left": 60,
+          "top": 272,
+          "right": 599,
+          "bottom": 285,
+          "width": 538,
+          "height": 13
+        },
+        "9": {
+          "left": 60,
+          "top": 286,
+          "right": 599,
+          "bottom": 300,
+          "width": 538,
+          "height": 13
+        },
+        "10": {
+          "left": 60,
+          "top": 301,
+          "right": 599,
+          "bottom": 314,
+          "width": 538,
+          "height": 13
+        },
+        "11": {
+          "left": 60,
+          "top": 316,
+          "right": 599,
+          "bottom": 329,
+          "width": 538,
+          "height": 13
+        },
+        "12": {
+          "left": 60,
+          "top": 330,
+          "right": 599,
+          "bottom": 344,
+          "width": 538,
+          "height": 13
+        },
+        "13": {
+          "left": 60,
+          "top": 345,
+          "right": 599,
+          "bottom": 358,
+          "width": 538,
+          "height": 13
+        },
+        "14": {
+          "left": 60,
+          "top": 359,
+          "right": 599,
+          "bottom": 373,
+          "width": 538,
+          "height": 13
+        },
+        "15": {
+          "left": 60,
+          "top": 374,
+          "right": 599,
+          "bottom": 387,
+          "width": 538,
+          "height": 13
+        },
+        "16": {
+          "left": 60,
+          "top": 389,
+          "right": 598,
+          "bottom": 402,
+          "width": 537,
+          "height": 13
+        },
+        "17": {
+          "left": 60,
+          "top": 403,
+          "right": 328,
+          "bottom": 417,
+          "width": 267,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This article aims to lay a foundation for the research and practice o"
+        },
+        "1": {
+          "text": "f machine learning education for creative"
+        },
+        "2": {
+          "text": "practitioners"
+        },
+        "3": {
+          "text": ". It begins by arguing th"
+        },
+        "4": {
+          "text": "at it is important to teach machine learning to creative practitioners"
+        },
+        "5": {
+          "text": "and to conduct research about this teachi"
+        },
+        "6": {
+          "text": "ng, drawing on related work in creative machine learning, creative"
+        },
+        "7": {
+          "text": "computing education, and machine learning education. It then draws on research about design processes in"
+        },
+        "8": {
+          "text": "engineering and creative practice to motivate a set of learning objectives for students who wish to design"
+        },
+        "9": {
+          "text": "new creative artifacts with machine learning. The article then draws on education research and knowledge"
+        },
+        "10": {
+          "text": "of creative computing practices to propose a set of teaching strategies that can be used to support creative"
+        },
+        "11": {
+          "text": "computing students in achieving these objectives. Explanations of these strategies are accompanied by con-"
+        },
+        "12": {
+          "text": "crete descriptions of how they have been employed to develop new lectures and activities, and to design new"
+        },
+        "13": {
+          "text": "experiential learning and scaffolding technologies, for teaching some of the first courses in the world focused"
+        },
+        "14": {
+          "text": "on teaching machine learning to creative practitioners. The article subsequently draws on data collected from"
+        },
+        "15": {
+          "text": "these courses—an online course as well as undergraduate and masters-level courses taught at a university—to"
+        },
+        "16": {
+          "text": "begin to understand how this curriculum supported student learning, to understand learners’ challenges and"
+        },
+        "17": {
+          "text": "mistakes, and to inform future teaching and research."
+        }
+      },
+      "text": {
+        "TEXT": "This article aims to lay a foundation for the research and practice o f machine learning education for creative practitioners . It begins by arguing th at it is important to teach machine learning to creative practitioners and to conduct research about this teachi ng, drawing on related work in creative machine learning, creative computing education, and machine learning education. It then draws on research about design processes in engineering and creative practice to motivate a set of learning objectives for students who wish to design new creative artifacts with machine learning. The article then draws on education research and knowledge of creative computing practices to propose a set of teaching strategies that can be used to support creative computing students in achieving these objectives. Explanations of these strategies are accompanied by con- crete descriptions of how they have been employed to develop new lectures and activities, and to design new experiential learning and scaffolding technologies, for teaching some of the first courses in the world focused on teaching machine learning to creative practitioners. The article subsequently draws on data collected from these courses—an online course as well as undergraduate and masters-level courses taught at a university—to begin to understand how this curriculum supported student learning, to understand learners’ challenges and mistakes, and to inform future teaching and research."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "This article aims to lay a foundation for the research and practice of machine learning education for creative practitioners. It begins by arguing that it is important to teach machine learning to creative practitioners and to conduct research about this teaching, drawing on related work in creative machine learning, creative computing education, and machine learning education. It then draws on research about design processes in engineering and creative practice to motivate a set of learning objectives for students who wish to design new creative artifacts with machine learning. The article then draws on education research and knowledge of creative computing practices to propose a set of teaching strategies that can be used to support creative computing students in achieving these objectives. Explanations of these strategies are accompanied by concrete descriptions of how they have been employed to develop new lectures and activities, and to design new experiential learning and scaffolding technologies, for teaching some of the first courses in the world focused on teaching machine learning to creative practitioners. The article subsequently draws on data collected from these courses—an online course as well as undergraduate and masters-level courses taught at a university—to begin to understand how this curriculum supported student learning, to understand learners’ challenges and mistakes, and to inform future teaching and research."
+      }
+    },
+    {
+      "id": "1jJKjXh12p",
+      "guid": "12eXRtGEnV",
+      "created": "2021-01-22T19:02:41.096Z",
+      "lastUpdated": "2021-01-22T19:03:31.835Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 426,
+          "right": 140,
+          "bottom": 439,
+          "width": 79,
+          "height": 13
+        },
+        "1": {
+          "left": 140,
+          "top": 426,
+          "right": 301,
+          "bottom": 439,
+          "width": 161,
+          "height": 13
+        },
+        "2": {
+          "left": 299,
+          "top": 426,
+          "right": 311,
+          "bottom": 439,
+          "width": 11,
+          "height": 13
+        },
+        "3": {
+          "left": 315,
+          "top": 426,
+          "right": 434,
+          "bottom": 439,
+          "width": 119,
+          "height": 13
+        },
+        "4": {
+          "left": 432,
+          "top": 426,
+          "right": 443,
+          "bottom": 439,
+          "width": 11,
+          "height": 13
+        },
+        "5": {
+          "left": 443,
+          "top": 426,
+          "right": 589,
+          "bottom": 439,
+          "width": 146,
+          "height": 13
+        },
+        "6": {
+          "left": 60,
+          "top": 441,
+          "right": 72,
+          "bottom": 454,
+          "width": 11,
+          "height": 13
+        },
+        "7": {
+          "left": 77,
+          "top": 441,
+          "right": 174,
+          "bottom": 454,
+          "width": 97,
+          "height": 13
+        },
+        "8": {
+          "left": 172,
+          "top": 441,
+          "right": 186,
+          "bottom": 454,
+          "width": 13,
+          "height": 13
+        },
+        "9": {
+          "left": 185,
+          "top": 441,
+          "right": 292,
+          "bottom": 454,
+          "width": 107,
+          "height": 13
+        },
+        "10": {
+          "left": 293,
+          "top": 441,
+          "right": 305,
+          "bottom": 454,
+          "width": 11,
+          "height": 13
+        },
+        "11": {
+          "left": 310,
+          "top": 441,
+          "right": 423,
+          "bottom": 454,
+          "width": 113,
+          "height": 13
+        },
+        "12": {
+          "left": 421,
+          "top": 441,
+          "right": 424,
+          "bottom": 454,
+          "width": 3,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CCS Concepts: •"
+        },
+        "1": {
+          "text": "Social and professional topics"
+        },
+        "2": {
+          "text": "→"
+        },
+        "3": {
+          "text": "Computing education"
+        },
+        "4": {
+          "text": ";•"
+        },
+        "5": {
+          "text": "Computing methodologies"
+        },
+        "6": {
+          "text": "→"
+        },
+        "7": {
+          "text": "Machine learning"
+        },
+        "8": {
+          "text": ";•"
+        },
+        "9": {
+          "text": "Applied computing"
+        },
+        "10": {
+          "text": "→"
+        },
+        "11": {
+          "text": "Arts and humanities"
+        },
+        "12": {
+          "text": ";"
+        }
+      },
+      "text": {
+        "TEXT": "CCS Concepts: • Social and professional topics → Computing education ;• Computing methodologies → Machine learning ;• Applied computing → Arts and humanities ;"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>CCS Concepts:</h2><h2><br></h2><h2> </h2><h3>Social and professional topics → Computing education</h3><p><br></p><h3> Computing methodologies → Machine learning</h3><p><br></p><p> </p><h3>Applied computing → Arts and humanities</h3>"
+      }
+    },
+    {
+      "id": "1AeyJqR5HL",
+      "guid": "14nzC48gaq",
+      "created": "2021-01-22T19:03:48.553Z",
+      "lastUpdated": "2021-01-22T19:04:11.320Z",
+      "rects": {
+        "0": {
+          "left": 60,
+          "top": 602,
+          "right": 574,
+          "bottom": 617,
+          "width": 513,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Machine learning (ML) systems that autonomously create new works of art, music, video, or te"
+        }
+      },
+      "text": {
+        "TEXT": "Machine learning (ML) systems that autonomously create new works of art, music, video, or te"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "Machine learning (ML) systems that autonomously create new works of art, music, video, or text"
+      },
+      "tags": {
+        "ML": {
+          "id": "ML",
+          "label": "ML"
+        },
+        "MLQuote": {
+          "id": "MLQuote",
+          "label": "MLQuote"
+        }
+      }
+    },
+    {
+      "id": "1kTK1fUYHD",
+      "guid": "1JyWpmYgLP",
+      "created": "2021-01-22T19:04:38.639Z",
+      "lastUpdated": "2021-01-22T19:05:23.168Z",
+      "rects": {
+        "0": {
+          "left": 540,
+          "top": 650,
+          "right": 598,
+          "bottom": 665,
+          "width": 57,
+          "height": 15
+        },
+        "1": {
+          "left": 60,
+          "top": 666,
+          "right": 373,
+          "bottom": 681,
+          "width": 312,
+          "height": 15
+        },
+        "2": {
+          "left": 366,
+          "top": 666,
+          "right": 379,
+          "bottom": 681,
+          "width": 12,
+          "height": 15
+        },
+        "3": {
+          "left": 379,
+          "top": 666,
+          "right": 386,
+          "bottom": 681,
+          "width": 7,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "de building"
+        },
+        "1": {
+          "text": "new digital musical instruments controlled by sensors ["
+        },
+        "2": {
+          "text": "46"
+        },
+        "3": {
+          "text": "],"
+        }
+      },
+      "text": {
+        "TEXT": "de building new digital musical instruments controlled by sensors [ 46 ],"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<p><br></p><p>&gt;building new digital musical instruments controlled by sensors [46]</p><p>### 46.&nbsp;<span>\n\nMichael Lee, Adrian Freed, and David Wessel. 1991. Real-time neural network processing of gestural and acoustic signals. In Proceedings of the International Computer Music Conference (ICMC’91). 277–280.\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+

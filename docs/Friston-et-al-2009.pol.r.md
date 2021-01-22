@@ -18,7 +18,9 @@ This paper questions the need for reinforcement learning or control theory when 
 
 ## Annotations
 
-Important to limit the goals an agent has.  "We start with the premise that adaptive agents or phenotypes must occupy a limited repertoire of states."  
+Important to limit the goals an agent has. 
+
+>We start with the premise that adaptive agents or phenotypes must occupy a limited repertoire of states.  
 [[AIDesign]] | [[ArticleAgent]] | [[AgentDesign]] 
 
 

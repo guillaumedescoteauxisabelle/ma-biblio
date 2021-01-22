@@ -2482,9 +2482,9 @@ Chaque feature map générée par l’application des filtres sur l’image de d
 # Fiche/SAGrid:Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
 Citer : (Ezratty, 2018)  
-FTag: Ezratty-2018  
 Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.  
 
+FTag: Ezratty-2018  
 
 [automd](Ezratty-Les-usages-de-lintelligence-artificielle.pdf.automd.md) - [automd-select](Ezratty-Les-usages-de-lintelligence-artificielle.pdf.automd.select.md) - 
 
@@ -2496,8 +2496,8 @@ Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 # Limite de l'IH et complément de l'IA
 
 ## Jet : Limite de l'IH et complément de l'IA
-
 L'IA deviendrait un complément de rationalité dans notre processus créatif.    
+
 
     Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
 
@@ -2553,13 +2553,13 @@ male un ou plusieurs objectifs. (Ezratty, 2018)
 
 
 
-----
 
+----
 
 ______
 # Ezratty-2018 Reading Session Jun 24, 2020 at 1:04:27 AM 
-## page 42.1
 
+## page 42.1
 
 <!--- o:42.1.1.1 -->  
 <!--- y:txt -->  

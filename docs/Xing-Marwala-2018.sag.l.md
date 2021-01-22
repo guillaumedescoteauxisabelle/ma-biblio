@@ -237,21 +237,21 @@ Une société dominée par l'innovation. Une orientation innovative pour la soci
 
 
 
-Qu'est-ce que la créativité? Définition de la créativité  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.3.1 -->  
 <!--- y:txt -->  
   
 >"In other words, if creativity is absent, innovation could be just luck" (p. 1)  
 
 
+
+----
+
+
+
+Qu'est-ce que la créativité? Définition de la créativité  
+              
+              
+              
 
 ----
 
@@ -417,15 +417,6 @@ Pourquoi l'art numérique?
 
 
 
-L'innovation influencent la créativité. Intéressant!  
-              
-              
-              
-
-----
-
-
-
 <!--- o:2.3.1 -->  
 <!--- y:txt -->  
   
@@ -438,6 +429,15 @@ L'innovation influencent la créativité. Intéressant!
 
 
 Exemple d'innovation qui donne accès à des références ou du matériel d'inspiration  
+              
+              
+              
+
+----
+
+
+
+L'innovation influencent la créativité. Intéressant!  
               
               
               

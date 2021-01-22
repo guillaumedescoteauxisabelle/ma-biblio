@@ -150,8 +150,8 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
-Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
-              
+  
+            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
               
               
 
@@ -159,8 +159,8 @@ Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce
 
 
 
-  
-            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
+Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
+              
               
               
 
@@ -482,7 +482,7 @@ Il existe donc dans la réalisation d'un compte rendu 4P ration intellectuelle q
 
 
 
-Qu'est-ce que l'identité d'un texte ?  
+  
               
               
               
@@ -491,7 +491,7 @@ Qu'est-ce que l'identité d'un texte ?
 
 
 
-  
+Qu'est-ce que l'identité d'un texte ?  
               
               
               
@@ -788,15 +788,6 @@ Question sur l'auteur
 
 
 
-Identification des compétences de l'auteur  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.1.10.5 -->  
 <!--- y:txt -->  
   
@@ -809,6 +800,15 @@ Identification des compétences de l'auteur
 
 
 Crédibilité de l'auteur  
+              
+              
+              
+
+----
+
+
+
+Identification des compétences de l'auteur  
               
               
               

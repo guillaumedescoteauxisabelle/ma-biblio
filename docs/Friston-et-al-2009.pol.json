@@ -2,10 +2,10 @@
   "version": 1,
   "items": [
     {
-      "id": "12jEkdFYuc",
+      "id": "12hPatgexy",
       "guid": "1e3avJV6ns",
       "created": "2021-01-03T13:12:00.967Z",
-      "lastUpdated": "2021-01-03T13:17:00.694Z",
+      "lastUpdated": "2021-01-03T13:29:04.805Z",
       "rects": {
         "0": {
           "left": 89,
@@ -52,7 +52,7 @@
       "flashcards": {},
       "color": "yellow",
       "revisedText": {
-        "HTML": "<p>Important to limit the goals an agent has.&nbsp; \"<span style=\"letter-spacing: 0.01071em;\">We start with the premise that adaptive agents or phenotypes must occupy a limited repertoire of states.\"&nbsp;</span></p>"
+        "HTML": "<p>Important to limit the goals an agent has.&nbsp; </p><p><span style=\"letter-spacing: 0.01071em;\">&gt;We start with the premise that adaptive agents or phenotypes must occupy a limited repertoire of states.</span></p><p><span style=\"letter-spacing: 0.01071em;\"><br></span></p>"
       },
       "tags": {
         "AIDesign": {
