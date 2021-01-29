@@ -19,11 +19,11 @@
 | 1.14.1 |  txt |    |   "Le terme critique dans le titre de cette première section ne renvoie pas à l'idée qu'il faut chercher à dire du mal à tout prix des textes à lire! Il signifie qu'il faut plus simplement prendre du recul, ne pas se contenter des premières impressions de lecture; chercher à voir, derrière les apparences, quelle est la portée d'un message et son mode de fonctionnement; considérer la cohérence de l’argumentation; réfléchir à la solidité et à la nature des éléments de preuve qui soutiennent cette argumentation; comparer les méthodes, interprétations et conclusions du texte avec les conclusions, interprétations et méthodes d’autres travaux dans le domaine, antérieurs et contemporains; estimer les apports du texte et en poser les limites" (p. 1)|   |
 | 1.14.2|  dic |     Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué? |   |   |
 | 1.14.2|  dic |      | mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  |   |
-| 1.15.2|  dic |     J'en retiens que le compte rendu est assez complexe, que je peux le structurer selon mes besoins et que l'objectif de lecture définierait la complexité de sa structure.  Il y a place à la créativité et à fabriquer son propre processus de compte rendu.   |   |   |
 | 1.15.1 |  txt |    |  |   |
+| 1.15.2|  dic |     J'en retiens que le compte rendu est assez complexe, que je peux le structurer selon mes besoins et que l'objectif de lecture définierait la complexité de sa structure.  Il y a place à la créativité et à fabriquer son propre processus de compte rendu.   |   |   |
 | 2.1.1 |  txt |    |   "Objectifs spécifiques    1" (p. 2)|   |
-| 2.2.1 |  txt |    |   "Comprendre, restituer et situer l’essentiel d’une étude publiée par un historien contemporain;  2" (p. 2)|   |
 | 2.1.2|  dic |     Titre   |   |   |
+| 2.2.1 |  txt |    |   "Comprendre, restituer et situer l’essentiel d’une étude publiée par un historien contemporain;  2" (p. 2)|   |
 | 2.2.2|  dic |     Situer l'essentiel d'une étude publiée   |   |   |
 | 2.3.0 |  txt |    |   "Formuler et présenter par écrit le résultat de ces opérations sous la forme d'un compte rendu de lecture" (p. 2)|   |
 | 2.3.1|  dic |     Il y a des actions qui sont effectuées et, le produit compte-rendu est où est formulé et présenté des actions.   |   |   |
@@ -63,12 +63,12 @@
 | 3.1.4.2|  dic |     Qu'est-ce que la structure d'un texte? Existe-t'il des exemples de structure de texte "compte-rendu"pour m'inspirer ?  |   |   |
 | 3.1.5.1 |  txt |    |   "les principaux concepts;" (p. 31)|   |
 | 3.1.5.2|  dic |     Qu'est-ce qu'un concept? Comment discerner un concepteur principal d'un concept de secondaire?   |   |   |
+| 3.1.6.1 |  txt |    |   "l'idée principale et les idées secondaires;" (p. 31)|   |
 | 3.1.6.2.1|  info |     Qu'est-ce qu'une idée?   |   |   |
 | 3.1.6.2.2|  info |     Qu'est-ce qu'une idée? Comment distinguer une idée principale d'une secondaire ?   |   |   |
-| 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
 | 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
-| 3.1.6.1 |  txt |    |   "l'idée principale et les idées secondaires;" (p. 31)|   |
 | 3.1.7.1 |  txt |    |   "les démonstrations" (p. 31)|   |
+| 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
 | 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
 | 3.1.7.2.2.1|   |      |   |   |
 | 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
@@ -104,11 +104,11 @@
 | 3.2.0.4.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2)|   |
 | 3.2.0.4.2|  dic |     Qu'est-ce qu'il visée d'atteindre par l'auteur? Quelle est son intention avec cette publication?   |   |   |
 | 3.2.0.5.1 |  txt |    |   "Les moyens employés par l’auteure" (p. 3.2)|   |
+| 3.2.0.5.2|  dic |     Sagis-t-il de la méthodologie?   |   |   |
 | 3.2.0.6.1 |  txt |    |   "Le plan choisi par l’auteure" (p. 3.2)|   |
 | 3.2.0.6.2|  dic |     Planification. Qu'est-ce qu'un plan? Qu'est-ce qu'un plan d'écriture? Est-ce un plan de recherche?   |   |   |
 | 3.2.0.7.2|  dic |     En gros les sous-section vont éclairer plus amplement ce que discuté dans cette introduction du point.   |   |   |
 | 3.2.0.7.1 |  txt |    |   Notes|   |
-| 3.2.0.5.2|  dic |     Sagis-t-il de la méthodologie?   |   |   |
 | 3.2.1.1.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2.1)|   |
 | 3.2.1.1.2|  dic |     Titre de la section   |   |   |
 | 3.2.1.2.1 |  txt |    |   "Selon les cas, l'étude peut commencer par une indication expresse de ses intentions, ou une simple désignation générale du sujet traité, ou ne donner aucune indication de cet ordre" (p. 3.2.1)|   |
@@ -138,9 +138,9 @@
 | 3.2.1.15.2|  dic |     Résolution de questionnement   |   |   |
 | 3.2.1.16.1 |  txt |    |   "Quelle hypothèse entreprend-elle de vérifier?" (p. 3.2.1)|   |
 | 3.2.1.16.2|  clarification |     Hypothèse. Clarifier la définition d'une hypothèse? Qu'est-ce qu'une hypothèse dans un cadre conceptuel artistique? Pour un artiste, qu'est-ce que c'est une hypothèse?   |   |   |
-| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.17.2|  dic |     Autre.   |   |   |
 | 3.2.1.18.1 |  txt |    |   "N’oubliez pas que, pour arriver à cerner correctement l'intention de l'auteur, il s'avère souvent nécessaire de clarifier l'identification de noms de personne ou de lieu, la définition de termes spécifiques à l'histoire de la période ou de la thématique concernées" (p. 3.2.1)|   |
+| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.18.2|  dic |     La définition des termes spécifiques est une des actions de cette étape. Il peut y avoir aussi d'autres clarification à effectuer.   |   |   |
 | 3.2.1.19.1 |  txt |    |   "Vous devez également comprendre les termes de vocabulaire inconnus ou ambigus, ainsi que les concepts et notions employées par l’auteure pour comprendre ou expliquer les phénomènes observés" (p. 3.2.1)|   |
 | 3.2.1.19.2|  dic |     S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de les expliquer.   |   |   |

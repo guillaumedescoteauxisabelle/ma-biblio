@@ -1,0 +1,898 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1cJU5yne7L",
+      "guid": "12CiWjoqnf",
+      "created": "2021-01-26T21:02:00.056Z",
+      "lastUpdated": "2021-01-26T21:06:26.742Z",
+      "rects": {
+        "0": {
+          "left": 123,
+          "top": 403,
+          "right": 135,
+          "bottom": 421,
+          "width": 12,
+          "height": 18
+        },
+        "1": {
+          "left": 135,
+          "top": 406,
+          "right": 260,
+          "bottom": 420,
+          "width": 124,
+          "height": 14
+        },
+        "2": {
+          "left": 119,
+          "top": 437,
+          "right": 726,
+          "bottom": 456,
+          "width": 607,
+          "height": 18
+        },
+        "3": {
+          "left": 119,
+          "top": 455,
+          "right": 723,
+          "bottom": 474,
+          "width": 603,
+          "height": 18
+        },
+        "4": {
+          "left": 119,
+          "top": 474,
+          "right": 679,
+          "bottom": 492,
+          "width": 559,
+          "height": 18
+        },
+        "5": {
+          "left": 659,
+          "top": 474,
+          "right": 697,
+          "bottom": 492,
+          "width": 38,
+          "height": 18
+        },
+        "6": {
+          "left": 119,
+          "top": 492,
+          "right": 722,
+          "bottom": 511,
+          "width": 602,
+          "height": 18
+        },
+        "7": {
+          "left": 119,
+          "top": 511,
+          "right": 448,
+          "bottom": 529,
+          "width": 328,
+          "height": 18
+        },
+        "8": {
+          "left": 429,
+          "top": 511,
+          "right": 435,
+          "bottom": 529,
+          "width": 5,
+          "height": 18
+        },
+        "9": {
+          "left": 434,
+          "top": 511,
+          "right": 708,
+          "bottom": 529,
+          "width": 274,
+          "height": 18
+        },
+        "10": {
+          "left": 119,
+          "top": 529,
+          "right": 493,
+          "bottom": 548,
+          "width": 373,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "O"
+        },
+        "1": {
+          "text": "BJECTIF DU COURS"
+        },
+        "2": {
+          "text": "Comprendre et évaluer les principaux paradigmes de la prévisualisation en usage "
+        },
+        "3": {
+          "text": "dans les contextes analogique et numérique de la création artistique profession-"
+        },
+        "4": {
+          "text": "nelle. Optimiser la maîtrise des techniques de préparation visuelle dans les"
+        },
+        "5": {
+          "text": "para-"
+        },
+        "6": {
+          "text": "mètres artistiques et logistiques d’une production complexe en art numérique. Si-"
+        },
+        "7": {
+          "text": "tuer graduellement son projet en recherche"
+        },
+        "8": {
+          "text": "-"
+        },
+        "9": {
+          "text": "création dans une approche philoso-"
+        },
+        "10": {
+          "text": "phique, artistique et organisationnelle satisfaisante"
+        }
+      },
+      "text": {
+        "TEXT": "O BJECTIF DU COURS Comprendre et évaluer les principaux paradigmes de la prévisualisation en usage dans les contextes analogique et numérique de la création artistique profession- nelle. Optimiser la maîtrise des techniques de préparation visuelle dans les para- mètres artistiques et logistiques d’une production complexe en art numérique. Si- tuer graduellement son projet en recherche - création dans une approche philoso- phique, artistique et organisationnelle satisfaisante"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>OBJECTIF DU COURS </h1><p>Comprendre et évaluer les principaux paradigmes de la prévisualisation en usage dans les contextes analogique et numérique de la création artistique professionnelle. Optimiser la maîtrise des techniques de préparation visuelle dans les paramètres artistiques et logistiques d’une production complexe en art numérique. Situer graduellement son projet en recherche-création dans une approche philosophique, artistique et organisationnelle satisfaisante</p>"
+      }
+    },
+    {
+      "id": "12JfDfn2ng",
+      "guid": "1mWNPHpA8N",
+      "created": "2021-01-26T21:02:06.397Z",
+      "lastUpdated": "2021-01-26T21:05:46.727Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 590,
+          "right": 131,
+          "bottom": 608,
+          "width": 11,
+          "height": 18
+        },
+        "1": {
+          "left": 131,
+          "top": 593,
+          "right": 256,
+          "bottom": 608,
+          "width": 124,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "C"
+        },
+        "1": {
+          "text": "ONTENU DU COURS"
+        }
+      },
+      "text": {
+        "TEXT": "C ONTENU DU COURS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>CONTENU DU COURS</h1>"
+      }
+    },
+    {
+      "id": "12Pxs8G11M",
+      "guid": "1ne59qCf1p",
+      "created": "2021-01-26T21:02:12.855Z",
+      "lastUpdated": "2021-01-26T21:05:57.731Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 635,
+          "right": 212,
+          "bottom": 653,
+          "width": 92,
+          "height": 18
+        },
+        "1": {
+          "left": 210,
+          "top": 635,
+          "right": 303,
+          "bottom": 653,
+          "width": 92,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Les  notions "
+        },
+        "1": {
+          "text": "d’imaginatio"
+        }
+      },
+      "text": {
+        "TEXT": "Les  notions d’imaginatio"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Les  notions d’imaginations</h2>"
+      }
+    },
+    {
+      "id": "12Qg2BB6Hz",
+      "guid": "1oVszUgXm9",
+      "created": "2021-01-26T21:02:15.225Z",
+      "lastUpdated": "2021-01-26T21:05:39.697Z",
+      "rects": {
+        "0": {
+          "left": 346,
+          "top": 635,
+          "right": 446,
+          "bottom": 653,
+          "width": 100,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "présentation "
+        }
+      },
+      "text": {
+        "TEXT": "présentation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>présentation</h3>"
+      }
+    },
+    {
+      "id": "1vPiyEMhWv",
+      "guid": "1vPiyEMhWv",
+      "created": "2021-01-26T21:02:17.429Z",
+      "lastUpdated": "2021-01-26T21:02:17.429Z",
+      "rects": {
+        "0": {
+          "left": 489,
+          "top": 635,
+          "right": 605,
+          "bottom": 653,
+          "width": 115,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "représentation "
+        }
+      },
+      "text": {
+        "TEXT": "représentation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12bSKAbM7q",
+      "guid": "1MeptmYiax",
+      "created": "2021-01-26T21:02:23.597Z",
+      "lastUpdated": "2021-01-26T21:06:33.829Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 653,
+          "right": 356,
+          "bottom": 672,
+          "width": 236,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "rapports avec la sphère artistiqu"
+        }
+      },
+      "text": {
+        "TEXT": "rapports avec la sphère artistiqu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "rapports avec la sphère artistique"
+      }
+    },
+    {
+      "id": "12EnShpYiY",
+      "guid": "12kpPuB7nN",
+      "created": "2021-01-26T21:02:29.835Z",
+      "lastUpdated": "2021-01-26T21:05:26.691Z",
+      "rects": {
+        "0": {
+          "left": 393,
+          "top": 653,
+          "right": 623,
+          "bottom": 672,
+          "width": 229,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "s concepts de déplacement cré"
+        }
+      },
+      "text": {
+        "TEXT": "s concepts de déplacement cré"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>concepts de déplacement créatif</h2>"
+      }
+    },
+    {
+      "id": "12HrHhXQ4h",
+      "guid": "1sM8BrjtZo",
+      "created": "2021-01-26T21:02:36.357Z",
+      "lastUpdated": "2021-01-26T21:05:07.642Z",
+      "rects": {
+        "0": {
+          "left": 654,
+          "top": 653,
+          "right": 720,
+          "bottom": 672,
+          "width": 66,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 672,
+          "right": 170,
+          "bottom": 690,
+          "width": 51,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "de remé-"
+        },
+        "1": {
+          "text": "diation"
+        }
+      },
+      "text": {
+        "TEXT": "de remé- diation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h3>de remédiation</h3>"
+      }
+    },
+    {
+      "id": "1cMCtGFpC2",
+      "guid": "1cMCtGFpC2",
+      "created": "2021-01-26T21:02:43.158Z",
+      "lastUpdated": "2021-01-26T21:02:43.158Z",
+      "rects": {
+        "0": {
+          "left": 214,
+          "top": 672,
+          "right": 575,
+          "bottom": 690,
+          "width": 360,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " mise en valeur des intervenants d’une product"
+        }
+      },
+      "text": {
+        "TEXT": "mise en valeur des intervenants d’une product"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "12bkt4nGFb",
+      "guid": "12XKjbs9ep",
+      "created": "2021-01-26T21:03:01.881Z",
+      "lastUpdated": "2021-01-26T21:09:46.139Z",
+      "rects": {
+        "0": {
+          "left": 578,
+          "top": 672,
+          "right": 732,
+          "bottom": 690,
+          "width": 153,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 690,
+          "right": 277,
+          "bottom": 709,
+          "width": 157,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "on. La dualité entre "
+        },
+        "1": {
+          "text": "simulacre et maquett"
+        }
+      },
+      "text": {
+        "TEXT": "on. La dualité entre simulacre et maquett"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>La dualité entre simulacre et maquette</h2>"
+      }
+    },
+    {
+      "id": "1f12XEPUKT",
+      "guid": "1AhxbxumN2",
+      "created": "2021-01-26T21:03:12.243Z",
+      "lastUpdated": "2021-01-26T21:09:37.251Z",
+      "rects": {
+        "0": {
+          "left": 320,
+          "top": 690,
+          "right": 470,
+          "bottom": 709,
+          "width": 149,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "caractéristiques des"
+        }
+      },
+      "text": {
+        "TEXT": "caractéristiques des"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>caractéristiques des</h1>"
+      }
+    },
+    {
+      "id": "12gek7GfXg",
+      "guid": "125BsuVceD",
+      "created": "2021-01-26T21:03:23.443Z",
+      "lastUpdated": "2021-01-26T21:09:32.736Z",
+      "rects": {
+        "0": {
+          "left": 535,
+          "top": 690,
+          "right": 710,
+          "bottom": 709,
+          "width": 174,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 708,
+          "right": 400,
+          "bottom": 727,
+          "width": 280,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "s outils de prévisualisa-"
+        },
+        "1": {
+          "text": "tion  utilisés  en  production  numériqu"
+        }
+      },
+      "text": {
+        "TEXT": "s outils de prévisualisa- tion  utilisés  en  production  numériqu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>outils de prévisualisation  utilisés  en  production  numérique</h2>"
+      }
+    },
+    {
+      "id": "16xyWZzDVG",
+      "guid": "12c6kUeTbT",
+      "created": "2021-01-26T21:03:32.497Z",
+      "lastUpdated": "2021-01-26T21:09:21.117Z",
+      "rects": {
+        "0": {
+          "left": 446,
+          "top": 708,
+          "right": 730,
+          "bottom": 727,
+          "width": 284,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 727,
+          "right": 220,
+          "bottom": 745,
+          "width": 100,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "la  mise  en  complémentarité  de  ces "
+        },
+        "1": {
+          "text": "mêmes outils"
+        }
+      },
+      "text": {
+        "TEXT": "la  mise  en  complémentarité  de  ces mêmes outils"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>la  mise  en  complémentarité  de  ces mêmes outils</h3>"
+      }
+    },
+    {
+      "id": "12eYxWevisfMqi6jePxf",
+      "guid": "12eYxWevisfMqi6jePxf",
+      "created": "2021-01-26T21:03:45.030Z",
+      "lastUpdated": "2021-01-26T21:03:45.030Z",
+      "content": {
+        "HTML": "<p>Ils peuvent être des compléments</p>"
+      },
+      "ref": "text-highlight:12c6kUeTbT"
+    },
+    {
+      "id": "1LXSWDnBK3",
+      "guid": "12oxeiQ7Xh",
+      "created": "2021-01-26T21:03:56.174Z",
+      "lastUpdated": "2021-01-26T21:09:10.440Z",
+      "rects": {
+        "0": {
+          "left": 229,
+          "top": 727,
+          "right": 442,
+          "bottom": 745,
+          "width": 212,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’identification des variables"
+        }
+      },
+      "text": {
+        "TEXT": "L’identification des variables"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>L’identification des variables</h2>"
+      }
+    },
+    {
+      "id": "1273hJEApZ",
+      "guid": "1273hJEApZ",
+      "created": "2021-01-26T21:03:58.372Z",
+      "lastUpdated": "2021-01-26T21:03:58.372Z",
+      "rects": {
+        "0": {
+          "left": 447,
+          "top": 727,
+          "right": 532,
+          "bottom": 745,
+          "width": 85,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "logistiques "
+        }
+      },
+      "text": {
+        "TEXT": "logistiques"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1DeeQXH53n",
+      "guid": "1jwE3Kyzq9",
+      "created": "2021-01-26T21:04:07.512Z",
+      "lastUpdated": "2021-01-26T21:04:39.769Z",
+      "rects": {
+        "0": {
+          "left": 551,
+          "top": 727,
+          "right": 716,
+          "bottom": 745,
+          "width": 165,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 745,
+          "right": 394,
+          "bottom": 764,
+          "width": 274,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "technologiques spéci-"
+        },
+        "1": {
+          "text": "fiques aux projets en art numérique"
+        }
+      },
+      "text": {
+        "TEXT": "technologiques spéci- fiques aux projets en art numérique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "technologiques spécifiques aux projets en art numérique"
+      }
+    },
+    {
+      "id": "12KQ6rQorZ",
+      "guid": "1viwqLUfB4",
+      "created": "2021-01-26T21:04:16.208Z",
+      "lastUpdated": "2021-01-26T21:09:03.818Z",
+      "rects": {
+        "0": {
+          "left": 404,
+          "top": 745,
+          "right": 467,
+          "bottom": 764,
+          "width": 63,
+          "height": 18
+        },
+        "1": {
+          "left": 448,
+          "top": 745,
+          "right": 499,
+          "bottom": 764,
+          "width": 51,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "La part l"
+        },
+        "1": {
+          "text": "udique"
+        }
+      },
+      "text": {
+        "TEXT": "La part l udique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>La part ludique</h3>"
+      }
+    },
+    {
+      "id": "12tAXaBrwf",
+      "guid": "12tAXaBrwf",
+      "created": "2021-01-26T21:04:23.002Z",
+      "lastUpdated": "2021-01-26T21:04:23.002Z",
+      "rects": {
+        "0": {
+          "left": 404,
+          "top": 745,
+          "right": 467,
+          "bottom": 764,
+          "width": 63,
+          "height": 18
+        },
+        "1": {
+          "left": 448,
+          "top": 745,
+          "right": 499,
+          "bottom": 764,
+          "width": 51,
+          "height": 18
+        },
+        "2": {
+          "left": 499,
+          "top": 745,
+          "right": 623,
+          "bottom": 764,
+          "width": 123,
+          "height": 18
+        },
+        "3": {
+          "left": 615,
+          "top": 745,
+          "right": 620,
+          "bottom": 764,
+          "width": 5,
+          "height": 18
+        },
+        "4": {
+          "left": 620,
+          "top": 745,
+          "right": 680,
+          "bottom": 764,
+          "width": 60,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "La part l"
+        },
+        "1": {
+          "text": "udique"
+        },
+        "2": {
+          "text": " de la recherche"
+        },
+        "3": {
+          "text": "-"
+        },
+        "4": {
+          "text": "création"
+        }
+      },
+      "text": {
+        "TEXT": "La part l udique de la recherche - création"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12Vit61Jwt",
+      "guid": "12hePDAfg4",
+      "created": "2021-01-26T21:07:23.420Z",
+      "lastUpdated": "2021-01-26T21:08:52.803Z",
+      "rects": {
+        "0": {
+          "left": 525,
+          "top": 764,
+          "right": 720,
+          "bottom": 782,
+          "width": 194,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 782,
+          "right": 157,
+          "bottom": 801,
+          "width": 37,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "es. Le concept du prototy-"
+        },
+        "1": {
+          "text": "page"
+        }
+      },
+      "text": {
+        "TEXT": "es. Le concept du prototy- page"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "revisedText": {
+        "HTML": "<h2>Le concept du prototypage</h2>"
+      }
+    },
+    {
+      "id": "12iB1kNTUX",
+      "guid": "12WFoAm7tR",
+      "created": "2021-01-26T21:07:33.622Z",
+      "lastUpdated": "2021-01-26T21:08:58.169Z",
+      "rects": {
+        "0": {
+          "left": 171,
+          "top": 782,
+          "right": 640,
+          "bottom": 801,
+          "width": 468,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "t les stratégies pertinentes de mise en images des œuvres à ve"
+        }
+      },
+      "text": {
+        "TEXT": "t les stratégies pertinentes de mise en images des œuvres à ve"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>les stratégies pertinentes de mise en images des œuvres à ve</h2>"
+      }
+    }
+  ]
+
+}
+

@@ -130,15 +130,6 @@ Compétences à développer
 
 
 
-Dépendamment de la matière étudiée, le compte rendu aura des variations.  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.14.1 -->  
 <!--- y:txt -->  
   
@@ -150,8 +141,8 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 
 
-  
-            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
+Dépendamment de la matière étudiée, le compte rendu aura des variations.  
+              
               
               
 
@@ -161,6 +152,15 @@ Dépendamment de la matière étudiée, le compte rendu aura des variations.
 
 Qu'est-ce qui motive la valeur d'une critique d'un texte qui sera lu?  Qu'est-ce qui sera évalué?  
               
+              
+              
+
+----
+
+
+
+  
+            mode de fonctionnement, cohérence(argumentation),solidité des preuves (évaluer le soutient)  
               
               
 
@@ -342,21 +342,21 @@ Je trouve que les objectifs pourrait être plus complet que cela pour mon propre
 
 
 
-Quels sont les étapes?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.2.1 -->  
 <!--- y:txt -->  
   
 >"Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)  
 
 
+
+----
+
+
+
+Quels sont les étapes?  
+              
+              
+              
 
 ----
 
@@ -482,7 +482,7 @@ Il existe donc dans la réalisation d'un compte rendu 4P ration intellectuelle q
 
 
 
-  
+Qu'est-ce que l'identité d'un texte ?  
               
               
               
@@ -491,7 +491,7 @@ Il existe donc dans la réalisation d'un compte rendu 4P ration intellectuelle q
 
 
 
-Qu'est-ce que l'identité d'un texte ?  
+  
               
               
               
@@ -788,6 +788,15 @@ Question sur l'auteur
 
 
 
+Identification des compétences de l'auteur  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.1.10.5 -->  
 <!--- y:txt -->  
   
@@ -800,15 +809,6 @@ Question sur l'auteur
 
 
 Crédibilité de l'auteur  
-              
-              
-              
-
-----
-
-
-
-Identification des compétences de l'auteur  
               
               
               
@@ -857,17 +857,6 @@ Qui est l'audience? À qui s'adresse le message? Qui est en mesure de recevoir l
 
 
 
-<!--- o:3.1.15.1 -->  
-<!--- y:txt -->  
-  
->"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
-
-
-
-----
-
-
-
 Contenu de la section Introduction  
               
               
@@ -881,6 +870,17 @@ Contenu de la section Introduction
               
               
               
+
+----
+
+
+
+<!--- o:3.1.15.1 -->  
+<!--- y:txt -->  
+  
+>"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
+
+
 
 ----
 

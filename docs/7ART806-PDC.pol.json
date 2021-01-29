@@ -1,0 +1,671 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1XVFd2jfC5",
+      "guid": "1HthFLmhwV",
+      "created": "2021-01-28T20:12:28.975Z",
+      "lastUpdated": "2021-01-28T22:34:46.832Z",
+      "rects": {
+        "0": {
+          "left": 196,
+          "top": 277,
+          "right": 283,
+          "bottom": 298,
+          "width": 87,
+          "height": 20
+        },
+        "1": {
+          "left": 282,
+          "top": 277,
+          "right": 317,
+          "bottom": 298,
+          "width": 34,
+          "height": 20
+        },
+        "2": {
+          "left": 321,
+          "top": 277,
+          "right": 327,
+          "bottom": 298,
+          "width": 6,
+          "height": 20
+        },
+        "3": {
+          "left": 331,
+          "top": 277,
+          "right": 344,
+          "bottom": 298,
+          "width": 13,
+          "height": 20
+        },
+        "4": {
+          "left": 344,
+          "top": 281,
+          "right": 513,
+          "bottom": 298,
+          "width": 168,
+          "height": 16
+        },
+        "5": {
+          "left": 510,
+          "top": 281,
+          "right": 619,
+          "bottom": 298,
+          "width": 108,
+          "height": 16
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "7ART806-"
+        },
+        "1": {
+          "text": "N11"
+        },
+        "2": {
+          "text": "-"
+        },
+        "3": {
+          "text": "D"
+        },
+        "4": {
+          "text": "ESIGN EN INTERACTIVI"
+        },
+        "5": {
+          "text": "TÉ NARRAT IVE"
+        }
+      },
+      "text": {
+        "TEXT": "7ART806- N11 - D ESIGN EN INTERACTIVI TÉ NARRAT IVE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>7ART806- N11 - DESIGN EN INTERACTIVITÉ NARRATIVE</h1>"
+      }
+    },
+    {
+      "id": "1tNpmqBTaQ",
+      "guid": "1KhLXCTTih",
+      "created": "2021-01-28T20:12:39.867Z",
+      "lastUpdated": "2021-01-29T18:45:29.866Z",
+      "rects": {
+        "0": {
+          "left": 539,
+          "top": 402,
+          "right": 545,
+          "bottom": 421,
+          "width": 5,
+          "height": 18
+        },
+        "1": {
+          "left": 543,
+          "top": 402,
+          "right": 669,
+          "bottom": 421,
+          "width": 126,
+          "height": 18
+        },
+        "2": {
+          "left": 668,
+          "top": 402,
+          "right": 678,
+          "bottom": 421,
+          "width": 10,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "("
+        },
+        "1": {
+          "text": "ptousign@nad.ca"
+        },
+        "2": {
+          "text": ") "
+        }
+      },
+      "text": {
+        "TEXT": "( ptousign@nad.ca )"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<a href=\"mailto:ptousign@nad.ca\" target=\"_blank\">( ptousign@nad.ca )</a>"
+      }
+    },
+    {
+      "id": "1bPNoxFxUe",
+      "guid": "1NSR56Z16S",
+      "created": "2021-01-28T20:12:47.441Z",
+      "lastUpdated": "2021-01-28T20:12:59.798Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 660,
+          "right": 132,
+          "bottom": 678,
+          "width": 12,
+          "height": 18
+        },
+        "1": {
+          "left": 132,
+          "top": 663,
+          "right": 257,
+          "bottom": 677,
+          "width": 125,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "O"
+        },
+        "1": {
+          "text": "BJECTIF DU COURS"
+        }
+      },
+      "text": {
+        "TEXT": "O BJECTIF DU COURS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>OBJECTIF DU COURS</h1>"
+      }
+    },
+    {
+      "id": "1dJWFifHoy",
+      "guid": "12siE16QNQ",
+      "created": "2021-01-28T20:12:51.552Z",
+      "lastUpdated": "2021-01-28T20:13:27.411Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 695,
+          "right": 708,
+          "bottom": 713,
+          "width": 588,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 713,
+          "right": 714,
+          "bottom": 732,
+          "width": 594,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 732,
+          "right": 708,
+          "bottom": 750,
+          "width": 589,
+          "height": 18
+        },
+        "3": {
+          "left": 119,
+          "top": 750,
+          "right": 545,
+          "bottom": 768,
+          "width": 425,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sensibiliser aux pensées contemporaines dans l'évolution de la conception du jeu "
+        },
+        "1": {
+          "text": "narratif.  Comprendre  l'impact  des  outils  conceptuels  contemporains  dans  la  "
+        },
+        "2": {
+          "text": "production d'une œuvre interactive. Développer un espace de réflexion théorique "
+        },
+        "3": {
+          "text": "et une palette d'outils conceptuels en fonction de sa pratiqu"
+        }
+      },
+      "text": {
+        "TEXT": "Sensibiliser aux pensées contemporaines dans l'évolution de la conception du jeu narratif.  Comprendre  l'impact  des  outils  conceptuels  contemporains  dans  la production d'une œuvre interactive. Développer un espace de réflexion théorique et une palette d'outils conceptuels en fonction de sa pratiqu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<div><br></div><div>Sensibiliser aux pensées contemporaines dans l'évolution de la conception du jeu narratif. Comprendre l'impact des outils conceptuels contemporains dans la production d'une œuvre interactive. Développer un espace de réflexion théorique et une palette d'outils conceptuels en fonction de sa pratique.</div>"
+      }
+    },
+    {
+      "id": "12TByQDrcj",
+      "guid": "1wrAa9zPKR",
+      "created": "2021-01-28T20:29:55.933Z",
+      "lastUpdated": "2021-01-28T20:30:05.754Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 776,
+          "right": 131,
+          "bottom": 794,
+          "width": 11,
+          "height": 18
+        },
+        "1": {
+          "left": 131,
+          "top": 779,
+          "right": 257,
+          "bottom": 793,
+          "width": 126,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "C"
+        },
+        "1": {
+          "text": "ONTENU DU COURS"
+        }
+      },
+      "text": {
+        "TEXT": "C ONTENU DU COURS"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>CONTENU DU COURS</h1>"
+      }
+    },
+    {
+      "id": "12NMwpn475",
+      "guid": "1o8ZbRSnXJ",
+      "created": "2021-01-28T20:30:31.530Z",
+      "lastUpdated": "2021-01-28T22:40:30.324Z",
+      "rects": {
+        "0": {
+          "left": 351,
+          "top": 829,
+          "right": 713,
+          "bottom": 848,
+          "width": 361,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 848,
+          "right": 516,
+          "bottom": 866,
+          "width": 397,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " L'impact  du  déterminisme  technologique  dans  "
+        },
+        "1": {
+          "text": "l'utilisation  d'outils  numériques  dans  un  contexte  créati"
+        }
+      },
+      "text": {
+        "TEXT": "L'impact  du  déterminisme  technologique  dans l'utilisation  d'outils  numériques  dans  un  contexte  créati"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "<h2>&gt;L'impact  du  déterminisme  technologique  dans l'utilisation  d'outils  numériques  dans  un  contexte  créatif</h2>"
+      },
+      "tags": {
+        "ChoixSujet": {
+          "id": "ChoixSujet",
+          "label": "ChoixSujet"
+        },
+        "SujetRecherche": {
+          "id": "SujetRecherche",
+          "label": "SujetRecherche"
+        },
+        "DeterminismeTechnologique": {
+          "id": "DeterminismeTechnologique",
+          "label": "DeterminismeTechnologique"
+        },
+        "Agency": {
+          "id": "Agency",
+          "label": "Agency"
+        },
+        "7ART806": {
+          "id": "7ART806",
+          "label": "7ART806"
+        }
+      }
+    },
+    {
+      "id": "1jyHJnrCrDZVXWDbS8xr",
+      "guid": "1jyHJnrCrDZVXWDbS8xr",
+      "created": "2021-01-28T20:49:41.360Z",
+      "lastUpdated": "2021-01-28T22:31:41.974Z",
+      "content": {
+        "HTML": "<p>Ca ressemble a mon sujet de recherche.</p>"
+      },
+      "ref": "text-highlight:1CDTpm8J1o"
+    },
+    {
+      "id": "12GPfFxaudcRqfX5nQ6x",
+      "guid": "12GPfFxaudcRqfX5nQ6x",
+      "created": "2021-01-28T22:33:19.287Z",
+      "lastUpdated": "2021-01-28T22:33:19.287Z",
+      "content": {
+        "HTML": "<p><span><p>Transformation de la notion d'agent dans l'acte créatif utilisant l'intelligence artificielle</p><p><br><span><p>Transformation de la notion d'agent dans l'acte créatif augmenté par l'intelligence artificielle</p><p><br></p></span></p></span></p><p><br></p>"
+      },
+      "ref": "text-highlight:12NMwpn475"
+    },
+    {
+      "id": "12wDDPxcwB",
+      "guid": "12kNxwTJoy",
+      "created": "2021-01-28T22:37:33.685Z",
+      "lastUpdated": "2021-01-28T22:38:29.185Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 811,
+          "right": 708,
+          "bottom": 829,
+          "width": 589,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 829,
+          "right": 342,
+          "bottom": 848,
+          "width": 223,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Les corrélations de notions et de contextes théoriques avec des pratiques en art, "
+        },
+        "1": {
+          "text": "en  architecture  ou  en  design"
+        }
+      },
+      "text": {
+        "TEXT": "Les corrélations de notions et de contextes théoriques avec des pratiques en art, en  architecture  ou  en  design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p>Les corrélations de notions et de contextes théoriques avec des pratiques en art, en  architecture  ou  en  design.</p><h2><span style=\"letter-spacing: 0.01071em;\">Les corrélations de notions théoriques avec des pratiques en art</span></h2>"
+      }
+    },
+    {
+      "id": "1u5cNBWK5X",
+      "guid": "1rEyWFnAbt",
+      "created": "2021-01-28T22:54:08.229Z",
+      "lastUpdated": "2021-01-28T22:55:31.654Z",
+      "rects": {
+        "0": {
+          "left": 379,
+          "top": 866,
+          "right": 560,
+          "bottom": 884,
+          "width": 180,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " stratégies   conceptuelles"
+        }
+      },
+      "text": {
+        "TEXT": "stratégies   conceptuelles"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>stratégies   conceptuelles</h1>"
+      }
+    },
+    {
+      "id": "1LogmXy4Bz",
+      "guid": "1LaKUj2kjY",
+      "created": "2021-01-28T22:54:22.101Z",
+      "lastUpdated": "2021-01-28T22:54:37.547Z",
+      "rects": {
+        "0": {
+          "left": 534,
+          "top": 848,
+          "right": 694,
+          "bottom": 866,
+          "width": 160,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Mise  en  hiérarchie  de"
+        }
+      },
+      "text": {
+        "TEXT": "Mise  en  hiérarchie  de"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Mise  en  hiérarchie  des stratégies conceptuelles</h2>"
+      }
+    },
+    {
+      "id": "15N7HdzrmB",
+      "guid": "11C34TJfvY",
+      "created": "2021-01-28T22:54:55.478Z",
+      "lastUpdated": "2021-01-29T19:11:26.884Z",
+      "rects": {
+        "0": {
+          "left": 383,
+          "top": 866,
+          "right": 560,
+          "bottom": 884,
+          "width": 176,
+          "height": 18
+        },
+        "1": {
+          "left": 560,
+          "top": 866,
+          "right": 714,
+          "bottom": 884,
+          "width": 154,
+          "height": 18
+        },
+        "2": {
+          "left": 119,
+          "top": 884,
+          "right": 442,
+          "bottom": 903,
+          "width": 323,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "stratégies   conceptuelles"
+        },
+        "1": {
+          "text": "   dans   la   création   "
+        },
+        "2": {
+          "text": "narrative en fonction de leur contemporanéit"
+        }
+      },
+      "text": {
+        "TEXT": "stratégies   conceptuelles dans   la   création narrative en fonction de leur contemporanéit"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "stratégies   conceptuelles dans   la   création narrative en fonction de leur contemporanéité"
+      }
+    },
+    {
+      "id": "1tEZuZMkfY",
+      "guid": "1438WPY6u5",
+      "created": "2021-01-28T22:55:00.547Z",
+      "lastUpdated": "2021-01-28T22:55:25.591Z",
+      "rects": {
+        "0": {
+          "left": 479,
+          "top": 884,
+          "right": 588,
+          "bottom": 903,
+          "width": 108,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " milieu d'accue"
+        }
+      },
+      "text": {
+        "TEXT": "milieu d'accue"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>milieu d'accueil</h3>"
+      }
+    },
+    {
+      "id": "1J3Yzugpqm",
+      "guid": "12mNfe8QR5",
+      "created": "2021-01-28T22:55:08.396Z",
+      "lastUpdated": "2021-01-28T22:55:16.005Z",
+      "rects": {
+        "0": {
+          "left": 614,
+          "top": 884,
+          "right": 709,
+          "bottom": 903,
+          "width": 95,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 903,
+          "right": 411,
+          "bottom": 921,
+          "width": 291,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "e la pratique "
+        },
+        "1": {
+          "text": "de l'étudiant et de son espace théorique"
+        }
+      },
+      "text": {
+        "TEXT": "e la pratique de l'étudiant et de son espace théorique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>la pratique de l'étudiant et de son espace théorique</h2>"
+      }
+    },
+    {
+      "id": "12pNVPXLQy",
+      "guid": "12pNVPXLQy",
+      "created": "2021-01-28T22:55:42.643Z",
+      "lastUpdated": "2021-01-28T22:55:42.643Z",
+      "rects": {
+        "0": {
+          "left": 416,
+          "top": 903,
+          "right": 709,
+          "bottom": 921,
+          "width": 293,
+          "height": 18
+        },
+        "1": {
+          "left": 119,
+          "top": 921,
+          "right": 389,
+          "bottom": 940,
+          "width": 269,
+          "height": 18
+        },
+        "2": {
+          "left": 385,
+          "top": 921,
+          "right": 703,
+          "bottom": 940,
+          "width": 317,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " Par exemple, l'espace théorique du jeu "
+        },
+        "1": {
+          "text": "numérique  narratif  englobe  le  joueur"
+        },
+        "2": {
+          "text": ",  l'avatar,  l'expérience  usager,  l'interaction, "
+        }
+      },
+      "text": {
+        "TEXT": "Par exemple, l'espace théorique du jeu numérique  narratif  englobe  le  joueur ,  l'avatar,  l'expérience  usager,  l'interaction,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red"
+    }
+  ]
+
+}
+
