@@ -66,9 +66,9 @@
 | 3.1.6.1 |  txt |    |   "l'idée principale et les idées secondaires;" (p. 31)|   |
 | 3.1.6.2.1|  info |     Qu'est-ce qu'une idée?   |   |   |
 | 3.1.6.2.2|  info |     Qu'est-ce qu'une idée? Comment distinguer une idée principale d'une secondaire ?   |   |   |
-| 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
 | 3.1.7.1 |  txt |    |   "les démonstrations" (p. 31)|   |
 | 3.1.7.2.1|  info |     Qu'est-ce qu'une démonstration?   |   |   |
+| 3.1.7.2.1.2| info  |       | L'étude démontre qu'il existe une amélioration de la capacité....  |   |
 | 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
 | 3.1.7.2.2.1|   |      |   |   |
 | 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
@@ -107,8 +107,8 @@
 | 3.2.0.5.2|  dic |     Sagis-t-il de la méthodologie?   |   |   |
 | 3.2.0.6.1 |  txt |    |   "Le plan choisi par l’auteure" (p. 3.2)|   |
 | 3.2.0.6.2|  dic |     Planification. Qu'est-ce qu'un plan? Qu'est-ce qu'un plan d'écriture? Est-ce un plan de recherche?   |   |   |
-| 3.2.0.7.2|  dic |     En gros les sous-section vont éclairer plus amplement ce que discuté dans cette introduction du point.   |   |   |
 | 3.2.0.7.1 |  txt |    |   Notes|   |
+| 3.2.0.7.2|  dic |     En gros les sous-section vont éclairer plus amplement ce que discuté dans cette introduction du point.   |   |   |
 | 3.2.1.1.1 |  txt |    |   "L'objectif de l’auteure" (p. 3.2.1)|   |
 | 3.2.1.1.2|  dic |     Titre de la section   |   |   |
 | 3.2.1.2.1 |  txt |    |   "Selon les cas, l'étude peut commencer par une indication expresse de ses intentions, ou une simple désignation générale du sujet traité, ou ne donner aucune indication de cet ordre" (p. 3.2.1)|   |
@@ -138,9 +138,9 @@
 | 3.2.1.15.2|  dic |     Résolution de questionnement   |   |   |
 | 3.2.1.16.1 |  txt |    |   "Quelle hypothèse entreprend-elle de vérifier?" (p. 3.2.1)|   |
 | 3.2.1.16.2|  clarification |     Hypothèse. Clarifier la définition d'une hypothèse? Qu'est-ce qu'une hypothèse dans un cadre conceptuel artistique? Pour un artiste, qu'est-ce que c'est une hypothèse?   |   |   |
+| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.17.2|  dic |     Autre.   |   |   |
 | 3.2.1.18.1 |  txt |    |   "N’oubliez pas que, pour arriver à cerner correctement l'intention de l'auteur, il s'avère souvent nécessaire de clarifier l'identification de noms de personne ou de lieu, la définition de termes spécifiques à l'histoire de la période ou de la thématique concernées" (p. 3.2.1)|   |
-| 3.2.1.17.1 |  txt |    |   "De quoi a-t-il choisi de parler?" (p. 3.2.1)|   |
 | 3.2.1.18.2|  dic |     La définition des termes spécifiques est une des actions de cette étape. Il peut y avoir aussi d'autres clarification à effectuer.   |   |   |
 | 3.2.1.19.1 |  txt |    |   "Vous devez également comprendre les termes de vocabulaire inconnus ou ambigus, ainsi que les concepts et notions employées par l’auteure pour comprendre ou expliquer les phénomènes observés" (p. 3.2.1)|   |
 | 3.2.1.19.2|  dic |     S'il y a des termes inconnu ou ambigu, il sera important de les comprendre et de les expliquer.   |   |   |

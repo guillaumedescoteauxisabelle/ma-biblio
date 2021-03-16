@@ -1,7 +1,7 @@
 # Q
 
-| -- |---|--------|--------| ---- |
 | no | qt | q | r | n|
+| -- |---|--------|--------| ---- |
 | 1.1.2|  dic |     Qu'est-ce que la connaissance directe?   |   |   |
 | 1.2.2|  dic |     Qu'est-ce que la forme d'un texte? Qu'est-ce que le fond d'un texte? Ce documents permettra de ne pas avoir à lire le texte en entier.   |   | Une compression de la source.  |
 | 1.3.2|  dic |     éléments qui le composent   |   |   |

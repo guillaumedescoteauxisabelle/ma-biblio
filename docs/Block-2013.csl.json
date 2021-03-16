@@ -1,0 +1,31 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/HNG8VZBB",
+		"type": "book",
+		"call-number": "TR850 .B514 2013",
+		"edition": "Second edition",
+		"event-place": "New York",
+		"ISBN": "978-0-240-80779-9",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s0]",
+		"number-of-pages": "297",
+		"publisher": "Focal Press, Taylor & Francis Group",
+		"publisher-place": "New York",
+		"source": "Library of Congress ISBN",
+		"title": "The visual story: creating the structure of film, tv, and digital media",
+		"title-short": "The visual story",
+		"author": [
+			{
+				"family": "Block",
+				"given": "Bruce A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	}
+]

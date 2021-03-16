@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12bgEZGMeh",
+      "guid": "12eiy6APoZ",
+      "created": "2021-03-16T19:48:08.416Z",
+      "lastUpdated": "2021-03-16T19:49:27.730Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "THE VISUAL STORY"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 50.5,
+      "revisedText": {
+        "HTML": "<h1>THE VISUAL STORY</h1>"
+      }
+    },
+    {
+      "id": "12D9cLwkLJ",
+      "guid": "12D9cLwkLJ",
+      "created": "2021-03-16T19:48:11.090Z",
+      "lastUpdated": "2021-03-16T19:48:11.090Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "BRUCE BLOCK"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 196.8984375
+    },
+    {
+      "id": "1xi3exvr7q",
+      "guid": "1xi3exvr7q",
+      "created": "2021-03-16T19:48:25.405Z",
+      "lastUpdated": "2021-03-16T19:48:25.405Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "The Basic Visual Components"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 483.296875
+    },
+    {
+      "id": "12VbLzN8K9",
+      "guid": "12VbLzN8K9",
+      "created": "2021-03-16T19:48:28.096Z",
+      "lastUpdated": "2021-03-16T19:48:28.096Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "SPACE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 609.9921875
+    },
+    {
+      "id": "12GAJFANsD",
+      "guid": "12GAJFANsD",
+      "created": "2021-03-16T19:48:33.022Z",
+      "lastUpdated": "2021-03-16T19:48:33.022Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "LINE AND SHAPE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 685.5859375
+    },
+    {
+      "id": "12EdN6USF7",
+      "guid": "12EdN6USF7",
+      "created": "2021-03-16T19:48:36.962Z",
+      "lastUpdated": "2021-03-16T19:48:36.962Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "COLOR"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 836.7734375
+    },
+    {
+      "id": "1CtRHNNYb5",
+      "guid": "1CtRHNNYb5",
+      "created": "2021-03-16T19:48:48.110Z",
+      "lastUpdated": "2021-03-16T19:48:48.110Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "TONE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 761.1796875
+    },
+    {
+      "id": "128JDJHDW8",
+      "guid": "128JDJHDW8",
+      "created": "2021-03-16T19:48:54.448Z",
+      "lastUpdated": "2021-03-16T19:48:54.448Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "MOVEMENT"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 912.3671875
+    },
+    {
+      "id": "12AssvWBJq",
+      "guid": "12AssvWBJq",
+      "created": "2021-03-16T19:48:56.790Z",
+      "lastUpdated": "2021-03-16T19:48:56.790Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "RHYTHM"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "order": 969.4609375
+    },
+    {
+      "id": "12kLUN7Qsy",
+      "guid": "12kLUN7Qsy",
+      "created": "2021-03-16T19:49:01.291Z",
+      "lastUpdated": "2021-03-16T19:49:01.291Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Understanding and Controlling Visual Components"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "order": 1028.65625
+    },
+    {
+      "id": "12WZcZwqM1",
+      "guid": "1C92w3gnUj",
+      "created": "2021-03-16T19:49:19.070Z",
+      "lastUpdated": "2021-03-16T19:54:38.773Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Terms"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "order": 1640.453125,
+      "revisedText": {
+        "HTML": "<h1>Terms</h1>"
+      }
+    },
+    {
+      "id": "1KFrabixsm",
+      "guid": "1KFrabixsm",
+      "created": "2021-03-16T19:49:21.221Z",
+      "lastUpdated": "2021-03-16T19:49:21.221Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "THE SCREEN"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "order": 1703.1484375
+    },
+    {
+      "id": "1exVVZYrhQ",
+      "guid": "1exVVZYrhQ",
+      "created": "2021-03-16T19:54:43.411Z",
+      "lastUpdated": "2021-03-16T19:54:43.411Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "REAL WORLD/SCREEN WORLD"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 1779.2421875
+    },
+    {
+      "id": "12L5Q48EDK",
+      "guid": "12L5Q48EDK",
+      "created": "2021-03-16T19:54:46.990Z",
+      "lastUpdated": "2021-03-16T19:54:46.990Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "FOREGROUND, MIDGROUND, AND BACKGROUND"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 1855.3359375
+    },
+    {
+      "id": "12ARG8cThn",
+      "guid": "12ARG8cThn",
+      "created": "2021-03-16T19:54:49.710Z",
+      "lastUpdated": "2021-03-16T19:54:49.710Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "THE PICTURE PLANE"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 1931.4296875
+    },
+    {
+      "id": "12VUWANpRC",
+      "guid": "12VUWANpRC",
+      "created": "2021-03-16T19:54:53.301Z",
+      "lastUpdated": "2021-03-16T19:54:53.301Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "VISUAL PROGRESSION"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 2227.0234375
+    },
+    {
+      "id": "12F14y1Bap",
+      "guid": "1GgCB35GVJ",
+      "created": "2021-03-16T19:55:07.061Z",
+      "lastUpdated": "2021-03-16T19:55:19.928Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Discussions about structure always lead to a discussion about progressions. A progression begins as one thing and changes to something else. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "order": 2256.8203125,
+      "revisedText": {
+        "HTML": "&gt;Discussions about structure always lead to a discussion about progressions. A progression begins as one thing and changes to something else."
+      }
+    },
+    {
+      "id": "12NsWa26JB",
+      "guid": "1DVypK3bVy",
+      "created": "2021-03-16T19:55:43.868Z",
+      "lastUpdated": "2021-03-16T19:55:50.295Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Contrast and Affinity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 157.5,
+      "revisedText": {
+        "HTML": "<h1>Contrast and Affinity</h1>"
+      }
+    },
+    {
+      "id": "1mfDAuunTo",
+      "guid": "1qhiS6Nutp",
+      "created": "2021-03-16T19:56:05.864Z",
+      "lastUpdated": "2021-03-16T19:56:22.775Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": " \nVisual structure is based on an understanding of the Principle of Contrast & Affinity. What is contrast? Contrast means difference."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "order": 237.296875,
+      "revisedText": {
+        "HTML": "<p>Visual structure is based on an understanding of the Principle of Contrast &amp; Affinity. </p><p>What is contrast? </p><h2>Contrast means difference.</h2>"
+      }
+    }
+  ]
+
+}
+

@@ -1,0 +1,133 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/PCS2SIBJ",
+		"type": "chapter",
+		"abstract": "We present a HMM based system for real-time gesture analysis. The system outputs continuously parameters relative to the gesture time progression and its likelihood. These parameters are computed by comparing the performed gesture with stored reference gestures. The method relies on a detailed modeling of multidimensional temporal curves. Compared to standard HMM systems, the learning procedure is simpliﬁed using prior knowledge allowing the system to use a single example for each class. Several applications have been developed using this system in the context of music education, music and dance performances and interactive installation. Typically, the estimation of the time progression allows for the synchronization of physical gestures to sound ﬁles by time stretching/compressing audio buﬀers or videos.",
+		"container-title": "Gesture in Embodied Communication and Human-Computer Interaction",
+		"event-place": "Berlin, Heidelberg",
+		"ISBN": "978-3-642-12552-2",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s0] \ncollection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-642-12553-9_7",
+		"page": "73-84",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "Berlin, Heidelberg",
+		"source": "DOI.org (Crossref)",
+		"title": "Continuous Realtime Gesture Following and Recognition",
+		"URL": "http://link.springer.com/10.1007/978-3-642-12553-9_7",
+		"volume": "5934",
+		"collection-editor": [
+			{
+				"family": "Hutchison",
+				"given": "David"
+			},
+			{
+				"family": "Kanade",
+				"given": "Takeo"
+			},
+			{
+				"family": "Kittler",
+				"given": "Josef"
+			},
+			{
+				"family": "Kleinberg",
+				"given": "Jon M."
+			},
+			{
+				"family": "Mattern",
+				"given": "Friedemann"
+			},
+			{
+				"family": "Mitchell",
+				"given": "John C."
+			},
+			{
+				"family": "Naor",
+				"given": "Moni"
+			},
+			{
+				"family": "Nierstrasz",
+				"given": "Oscar"
+			},
+			{
+				"family": "Pandu Rangan",
+				"given": "C."
+			},
+			{
+				"family": "Steffen",
+				"given": "Bernhard"
+			},
+			{
+				"family": "Sudan",
+				"given": "Madhu"
+			},
+			{
+				"family": "Terzopoulos",
+				"given": "Demetri"
+			},
+			{
+				"family": "Tygar",
+				"given": "Doug"
+			},
+			{
+				"family": "Vardi",
+				"given": "Moshe Y."
+			},
+			{
+				"family": "Weikum",
+				"given": "Gerhard"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kopp",
+				"given": "Stefan"
+			},
+			{
+				"family": "Wachsmuth",
+				"given": "Ipke"
+			}
+		],
+		"author": [
+			{
+				"family": "Bevilacqua",
+				"given": "Frédéric"
+			},
+			{
+				"family": "Zamborlin",
+				"given": "Bruno"
+			},
+			{
+				"family": "Sypniewski",
+				"given": "Anthony"
+			},
+			{
+				"family": "Schnell",
+				"given": "Norbert"
+			},
+			{
+				"family": "Guédy",
+				"given": "Fabrice"
+			},
+			{
+				"family": "Rasamimanana",
+				"given": "Nicolas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]

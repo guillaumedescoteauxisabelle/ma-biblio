@@ -153,6 +153,38 @@
 
 ----
 
+# Bevilacqua-et-al-2010
+
+
+## [Bevilacqua-et-al-2010.all.html](Bevilacqua-et-al-2010.all.html)
+## [Bevilacqua-et-al-2010.ht.all.html](Bevilacqua-et-al-2010.ht.all.html)
+## [Bevilacqua-et-al-2010.pol.fc.html](Bevilacqua-et-al-2010.pol.fc.html)
+## [Bevilacqua-et-al-2010.pol.r.html](Bevilacqua-et-al-2010.pol.r.html)
+## [Bevilacqua-et-al-2010.sag.html](Bevilacqua-et-al-2010.sag.html)
+## [Bevilacqua-et-al-2010.sag.j.html](Bevilacqua-et-al-2010.sag.j.html)
+## [Bevilacqua-et-al-2010.sag.l.html](Bevilacqua-et-al-2010.sag.l.html)
+## [Bevilacqua-et-al-2010.sag.ndl.html](Bevilacqua-et-al-2010.sag.ndl.html)
+## [Bevilacqua-et-al-2010.sag.q.html](Bevilacqua-et-al-2010.sag.q.html)
+## [Bevilacqua-et-al-2010.sag.r.html](Bevilacqua-et-al-2010.sag.r.html)
+
+----
+
+# Block-2013
+
+
+## [Block-2013.all.html](Block-2013.all.html)
+## [Block-2013.ht.all.html](Block-2013.ht.all.html)
+## [Block-2013.pol.fc.html](Block-2013.pol.fc.html)
+## [Block-2013.pol.r.html](Block-2013.pol.r.html)
+## [Block-2013.sag.html](Block-2013.sag.html)
+## [Block-2013.sag.j.html](Block-2013.sag.j.html)
+## [Block-2013.sag.l.html](Block-2013.sag.l.html)
+## [Block-2013.sag.ndl.html](Block-2013.sag.ndl.html)
+## [Block-2013.sag.q.html](Block-2013.sag.q.html)
+## [Block-2013.sag.r.html](Block-2013.sag.r.html)
+
+----
+
 # Boden-Edmonds-2009
 
 

@@ -130,21 +130,21 @@ Compétences à développer
 
 
 
+Dépendamment de la matière étudiée, le compte rendu aura des variations.  
+              
+              
+              
+
+----
+
+
+
 <!--- o:1.14.1 -->  
 <!--- y:txt -->  
   
 >"Le terme critique dans le titre de cette première section ne renvoie pas à l'idée qu'il faut chercher à dire du mal à tout prix des textes à lire! Il signifie qu'il faut plus simplement prendre du recul, ne pas se contenter des premières impressions de lecture; chercher à voir, derrière les apparences, quelle est la portée d'un message et son mode de fonctionnement; considérer la cohérence de l’argumentation; réfléchir à la solidité et à la nature des éléments de preuve qui soutiennent cette argumentation; comparer les méthodes, interprétations et conclusions du texte avec les conclusions, interprétations et méthodes d’autres travaux dans le domaine, antérieurs et contemporains; estimer les apports du texte et en poser les limites" (p. 1)  
 
 
-
-----
-
-
-
-Dépendamment de la matière étudiée, le compte rendu aura des variations.  
-              
-              
-              
 
 ----
 
@@ -342,21 +342,21 @@ Je trouve que les objectifs pourrait être plus complet que cela pour mon propre
 
 
 
+Quels sont les étapes?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.0.2.1 -->  
 <!--- y:txt -->  
   
 >"Pour réaliser un compte rendu, vous effectuerez quatre opérations intellectuelles :  " (p. 3)  
 
 
-
-----
-
-
-
-Quels sont les étapes?  
-              
-              
-              
 
 ----
 

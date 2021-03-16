@@ -266,17 +266,6 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
-<!--- o:1.5.1 -->  
-<!--- y:txt -->  
-  
->"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
-
-
-
-----
-
-
-
 <!--- o:1.4.1 -->  
 <!--- y:txt -->  
   
@@ -292,6 +281,17 @@ Il existe un enjeux sur la définition de la créativité dans la société. Bie
               
               
               
+
+----
+
+
+
+<!--- o:1.5.1 -->  
+<!--- y:txt -->  
+  
+>"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
+
+
 
 ----
 

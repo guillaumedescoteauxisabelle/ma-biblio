@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1CurcX8i7S",
+      "guid": "1CurcX8i7S",
+      "created": "2021-03-14T18:26:03.245Z",
+      "lastUpdated": "2021-03-14T18:26:03.245Z",
+      "rects": {
+        "0": {
+          "left": 201,
+          "top": 152,
+          "right": 628,
+          "bottom": 174,
+          "width": 426,
+          "height": 21
+        },
+        "1": {
+          "left": 354,
+          "top": 176,
+          "right": 466,
+          "bottom": 198,
+          "width": 112,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Continuous Realtime Gesture Following and"
+        },
+        "1": {
+          "text": "Recognition"
+        }
+      },
+      "text": {
+        "TEXT": "Continuous Realtime Gesture Following and Recognition"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "124MQmtnkF",
+      "guid": "124MQmtnkF",
+      "created": "2021-03-14T18:26:48.854Z",
+      "lastUpdated": "2021-03-14T18:26:48.854Z",
+      "rects": {
+        "0": {
+          "left": 179,
+          "top": 574,
+          "right": 253,
+          "bottom": 589,
+          "width": 73,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Key words:"
+        }
+      },
+      "text": {
+        "TEXT": "Key words:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1mUU8ryGbD",
+      "guid": "1mUU8ryGbD",
+      "created": "2021-03-14T18:26:52.970Z",
+      "lastUpdated": "2021-03-14T18:29:18.124Z",
+      "rects": {
+        "0": {
+          "left": 260,
+          "top": 574,
+          "right": 371,
+          "bottom": 589,
+          "width": 110,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "gesture recognition"
+        }
+      },
+      "text": {
+        "TEXT": "gesture recognition"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "GestureRecognition": {
+          "id": "GestureRecognition",
+          "label": "GestureRecognition"
+        }
+      }
+    },
+    {
+      "id": "1xk8zVuGJ4",
+      "guid": "1xk8zVuGJ4",
+      "created": "2021-03-14T18:26:56.996Z",
+      "lastUpdated": "2021-03-14T18:29:27.812Z",
+      "rects": {
+        "0": {
+          "left": 379,
+          "top": 574,
+          "right": 477,
+          "bottom": 589,
+          "width": 98,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "gesture following"
+        }
+      },
+      "text": {
+        "TEXT": "gesture following"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "GestureFollowing": {
+          "id": "GestureFollowing",
+          "label": "GestureFollowing"
+        }
+      }
+    },
+    {
+      "id": "12HatTRuQv",
+      "guid": "12HatTRuQv",
+      "created": "2021-03-14T18:27:05.031Z",
+      "lastUpdated": "2021-03-14T18:29:36.124Z",
+      "rects": {
+        "0": {
+          "left": 202,
+          "top": 590,
+          "right": 312,
+          "bottom": 605,
+          "width": 109,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "interactive systems"
+        }
+      },
+      "text": {
+        "TEXT": "interactive systems"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF",
+      "tags": {
+        "InteractiveSystems": {
+          "id": "InteractiveSystems",
+          "label": "InteractiveSystems"
+        }
+      }
+    },
+    {
+      "id": "1RvKhiTtqo",
+      "guid": "133fCccBsU",
+      "created": "2021-03-14T18:28:23.357Z",
+      "lastUpdated": "2021-03-14T18:28:28.126Z",
+      "rects": {
+        "0": {
+          "left": 183,
+          "top": 227,
+          "right": 641,
+          "bottom": 242,
+          "width": 457,
+          "height": 15
+        },
+        "1": {
+          "left": 283,
+          "top": 243,
+          "right": 540,
+          "bottom": 258,
+          "width": 257,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Fr ́ed ́eric Bevilacqua, Bruno Zamborlin, Anthony Sypniewski, Norbert Schnell,"
+        },
+        "1": {
+          "text": "Fabrice Gu ́edy, and Nicolas Rasamimanana"
+        }
+      },
+      "text": {
+        "TEXT": "Fr ́ed ́eric Bevilacqua, Bruno Zamborlin, Anthony Sypniewski, Norbert Schnell, Fabrice Gu ́edy, and Nicolas Rasamimanana"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Bevilacqua et al., 2010)</p>\n<p>FTag: Bevilacqua-et-al-2010</p>\n<p>APA7: Bevilacqua, F., Zamborlin, B., Sypniewski, A., Schnell, N., Guédy, F., &amp; Rasamimanana, N. (2010). Continuous Realtime Gesture Following and Recognition. In S. Kopp &amp; I. Wachsmuth (Eds.), <em>Gesture in Embodied Communication and Human-Computer Interaction</em> (Vol. 5934, pp. 73–84). Springer Berlin Heidelberg. <a href=\"https://doi.org/10.1007/978-3-642-12553-9_7\">https://doi.org/10.1007/978-3-642-12553-9_7</a></p>\n<p><a href=\"https://app.getpolarized.io/doc/12vNyoB6LznzS7PxWZqg5tdqsfgR34AVN74LudPb5N3KiUdZHqF\">Polar</a></p>\n<p>&nbsp;</p>\n\n</span></p>"
+      }
+    }
+  ]
+
+}
+
