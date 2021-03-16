@@ -303,7 +303,7 @@
       "id": "12NsWa26JB",
       "guid": "1DVypK3bVy",
       "created": "2021-03-16T19:55:43.868Z",
-      "lastUpdated": "2021-03-16T19:55:50.295Z",
+      "lastUpdated": "2021-03-16T20:32:33.166Z",
       "rects": {},
       "textSelections": {},
       "text": {
@@ -317,6 +317,12 @@
       "order": 157.5,
       "revisedText": {
         "HTML": "<h1>Contrast and Affinity</h1>"
+      },
+      "tags": {
+        "VisualComposition": {
+          "id": "VisualComposition",
+          "label": "VisualComposition"
+        }
       }
     },
     {

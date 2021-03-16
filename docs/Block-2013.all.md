@@ -99,7 +99,10 @@ VISUAL PROGRESSION
 
 
 Contrast and Affinity
-=====================
+=====================  
+[[VisualComposition]] 
+
+
 
 
 

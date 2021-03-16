@@ -857,6 +857,17 @@ Qui est l'audience? À qui s'adresse le message? Qui est en mesure de recevoir l
 
 
 
+<!--- o:3.1.15.1 -->  
+<!--- y:txt -->  
+  
+>"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
+
+
+
+----
+
+
+
 Contenu de la section Introduction  
               
               
@@ -870,17 +881,6 @@ Contenu de la section Introduction
               
               
               
-
-----
-
-
-
-<!--- o:3.1.15.1 -->  
-<!--- y:txt -->  
-  
->"Dans votre travail, ces informations figureront dans l’introduction" (p. 31)  
-
-
 
 ----
 

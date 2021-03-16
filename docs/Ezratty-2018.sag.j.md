@@ -16,8 +16,8 @@ Biblio: Ezratty, O. (2018). Les usages de l’intelligence artificielle. 522.
 
 # Limite de l'IH et complément de l'IA
 
-## Jet : Limite de l'IH et complément de l'IA
 
+## Jet : Limite de l'IH et complément de l'IA
 L'IA deviendrait un complément de rationalité dans notre processus créatif.    
 
     Qu'est-ce qui limite notre capacité à créer ? Avons-nous besoin de rationalité dans notre processus de création ? En quoi déléguer la rationalité à une IA pendant que nous sommes en train de créer affectera le résultat ?
@@ -38,8 +38,8 @@ note sur l'intelligence artificielle et ma compréhension de mes lectures actuel
 
 >Cette rationalité est habituellement limitée par notre volonté, le poids émotionnel de notre cerveau limbique et notre capacité d’optimisation. (Ezratty, 2018)
 
-
 Nous avons une limite cognitive en tant qu'êtres humains.
+
 
 @STCGoal paraphraser la définition suivante en y soustrayant l'inutile utilisation du mot problème.
 
@@ -48,8 +48,8 @@ Nous avons une limite cognitive en tant qu'êtres humains.
 
 
 La capacité humaines à tirer des conclusions basé sur des faits (l'objectivité) est limité par notre volonté et notre émotivité.
-L'intelligence artificielle est un ensemble d'outils qui permet d'atteindre une résolution.
 
+L'intelligence artificielle est un ensemble d'outils qui permet d'atteindre une résolution.
 
 L'intelligence artificielle maintenant ensemble d'outils qui permet d'atteindre un certain endroit de résolution et ainsi transcender la limite émotionnelle et cognitive de l'humain. (La volonté, comment l'intégrer dans ce paragraphe)
 > [...] le poids émotionnel de notre cerveau limbique [...]
@@ -62,8 +62,8 @@ Le poids émotionnelle de notre cerveau limbique limite notre capacité à ratio
 L'intelligence artificielle devient un complément à notre intelligence puisque sa spécialité se trouve dans la reconnaissance des faits et d'en tirer une conclusion rationnel.
 
 
-## Définition paraphaser Ezratty
 
+## Définition paraphaser Ezratty
 L'IA est une ensemble de techniques qui permettent de transcender les limites ra 
 tionnelles de l'IH.  Elle s'inspire de la mécanique cognitive humaine en agissant  
 en fonction de faits, de données et d'expériences afin d'atteindre de manière opti

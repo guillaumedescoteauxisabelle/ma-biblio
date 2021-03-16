@@ -139,4 +139,5 @@
 [pol.ht.TRPActivities](pol.ht.TRPActivities.md)
 [pol.ht.UnderlyingStructure](pol.ht.UnderlyingStructure.md)
 [pol.ht.UnProbleme](pol.ht.UnProbleme.md)
+[pol.ht.VisualComposition](pol.ht.VisualComposition.md)
 [pol.ht.VisualQualityAnalysis](pol.ht.VisualQualityAnalysis.md)
