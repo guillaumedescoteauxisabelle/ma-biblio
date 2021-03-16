@@ -10,15 +10,6 @@
 
 
 
-Titre  
-              
-              
-              
-
-----
-
-
-
 <!--- o:42.1.2.1 -->  
 <!--- y:txt -->  
   
@@ -39,6 +30,15 @@ Peut-on appeler cela de  programmation implicite ?
 
 
 
+Titre  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.4.1 -->  
 <!--- y:txt -->  
   
@@ -50,21 +50,21 @@ Peut-on appeler cela de  programmation implicite ?
 
 
 
-Prévision de la tendance. Et autres!  
-              
-              
-              
-
-----
-
-
-
 <!--- o:42.1.6.1 -->  
 <!--- y:txt -->  
   
 >"Selon son père fondateur Arthur Samuel, qui en définit le terme en 1959, le machine learning donne aux machines la capacité d’apprendre sans être explicitement programmées" (p. 42.1)  
 
 
+
+----
+
+
+
+Prévision de la tendance. Et autres!  
+              
+              
+              
 
 ----
 

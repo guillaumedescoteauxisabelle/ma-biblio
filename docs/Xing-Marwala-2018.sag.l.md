@@ -10,15 +10,6 @@
 
 
 
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
-
-----
-
-
-
 <!--- o:0.2.1 -->  
 <!--- y:txt -->  
   
@@ -31,6 +22,15 @@ l'application de l'IA dans la création d'art numérique
 
 
 La codification de l'intelligence dans une machine  
+              
+              
+              
+
+----
+
+
+
+l'application de l'IA dans la création d'art numérique  
               
               
               
@@ -237,26 +237,6 @@ Une société dominée par l'innovation. Une orientation innovative pour la soci
 
 
 
-Qu'est-ce que la créativité? Définition de la créativité  
-              
-              
-              
-
-----
-
-
-
-<!--- o:1.3.1 -->  
-<!--- y:txt -->  
-  
->"In other words, if creativity is absent, innovation could be just luck" (p. 1)  
-
-
-
-----
-
-
-
 L'innovation, la créativité et quelque chose que je sens que je ne serai pas d'accord. Moi c'est confus! Ou du moins c'est confus!   Bien sûr s'ils approchent la créativité selon une orientation à résoudre des problèmes, ils seront confus et une phrase comme celle là n'est pas surprenante.  Innover, c'est créer ! C'est une orientation d'innover puisque nous utilisons les principes du processus créatif  
               
               
@@ -277,7 +257,36 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
+<!--- o:1.3.1 -->  
+<!--- y:txt -->  
+  
+>"In other words, if creativity is absent, innovation could be just luck" (p. 1)  
+
+
+
+----
+
+
+
+Qu'est-ce que la créativité? Définition de la créativité  
+              
+              
+              
+
+----
+
+
+
 Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
+              
+              
+              
+
+----
+
+
+
+Lien possible entre synthétiser et créativité.  Expérimenter et utiliser la synthèse fait de celle-ci pour générer de nouvelles choses.  
               
               
               
@@ -292,15 +301,6 @@ Il existe un enjeux sur la définition de la créativité dans la société. Bie
 >"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
 
 
-
-----
-
-
-
-Lien possible entre synthétiser et créativité.  Expérimenter et utiliser la synthèse fait de celle-ci pour générer de nouvelles choses.  
-              
-              
-              
 
 ----
 
@@ -417,21 +417,21 @@ Pourquoi l'art numérique?
 
 
 
+L'innovation influencent la créativité. Intéressant!  
+              
+              
+              
+
+----
+
+
+
 <!--- o:2.3.1 -->  
 <!--- y:txt -->  
   
 >"Take ‘Gutenberg Revolution' (Kirschenbaum, 2016; Winston, 2005), the formation of the printing press in the fifteenth century paved the way to mass production of texts and images" (p. 2)  
 
 
-
-----
-
-
-
-L'innovation influencent la créativité. Intéressant!  
-              
-              
-              
 
 ----
 

@@ -72,8 +72,8 @@
 | 3.1.7.2.2|  info |     Exemple d'une démonstration  |   |   |
 | 3.1.7.2.2.1|   |      |   |   |
 | 3.1.8.1 |  txt |    |   "conclusions " (p. 31)|   |
-| 3.1.9.1 |  txt |    |   "interprétations" (p. 31)|   |
 | 3.1.8.2|  dic |     Qu'est-ce qu'une conclusion? Comment arrive-t-on à conclure quelque chose?   |   |   |
+| 3.1.9.1 |  txt |    |   "interprétations" (p. 31)|   |
 | 3.1.9.2.1|  info |     Qu'est-ce qu'une interprétation?   |   |   |
 | 3.1.9.2.1.1|   |       |   |   |
 | 3.1.9.2.2|  info |    Pourquoi faisons-nous une interprétation?    |   |   |

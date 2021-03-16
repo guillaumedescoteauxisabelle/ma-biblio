@@ -409,7 +409,7 @@
       "id": "1DjPLsk3VJ",
       "guid": "1iXXUdsHV5",
       "created": "2021-03-16T20:56:59.538Z",
-      "lastUpdated": "2021-03-16T21:00:36.227Z",
+      "lastUpdated": "2021-03-16T21:35:38.878Z",
       "rects": {},
       "textSelections": {},
       "text": {
@@ -423,11 +423,15 @@
       "order": 27732.84375,
       "revisedText": {
         "HTML": "<h1>Comparing the Four Space Types</h1><p><span>\n\n<a style=\"font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\"></a></span></p><h2 style=\"text-indent:0em\"><a style=\"font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\">&nbsp;uses deep space</a></h2><p></p><p><img src=\"https://i.imgur.com/rqyrRo7.png\" style=\"width: 366px;\"></p><p><br></p><h2>Flat space</h2><p><img src=\"https://i.imgur.com/phqwSGN.png\" style=\"width: 366px;\"></p><p><br></p><h2>Limited Space</h2><p><img src=\"https://i.imgur.com/PGMTyh6.png\" style=\"width: 366px;\"><br></p><p><br></p><h2>Ambiguous Space</h2><p><img src=\"https://i.imgur.com/0kQ19f2.png\" style=\"width: 366px;\"><br></p>"
+      },
+      "tags": {
+        "VisualComposition": {
+          "id": "VisualComposition",
+          "label": "VisualComposition"
+        }
       }
     }
   ]
 
 }
-
-
 

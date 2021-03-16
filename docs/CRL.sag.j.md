@@ -5,15 +5,15 @@ ______
 
 # 1
 ## La notion de compte rendu critique
-
 #### CRL Reading Session May 23, 2020 at 9:13:38 AM 
 
 
 
+
 ______
+## Objectifs spécifiques
 # 2
 
-## Objectifs spécifiques
 #### CRL Reading Session May 23, 2020 at 10:22:36 PM 
 
 
@@ -22,8 +22,8 @@ ______
 
 ## Actions
 
-
 ### Lire
+
 ### Analyser
 
 * Step 1 generated a Grid you can analyze
@@ -41,10 +41,10 @@ ______
 ## Qu'est-ce qu'une structure ?
 
 ## Qu'est-ce qu'un concept ?
-
 ## Qu'est-ce qu'une idée principale ?
-## Qu'est-ce qu'une idée secondaire ?
 
+
+## Qu'est-ce qu'une idée secondaire ?
 
 ## Qu'est-ce qu'une démonstrations ?
 
@@ -67,7 +67,6 @@ ______
 
 
 
-
 ----
 
 
@@ -76,12 +75,13 @@ ______
 
 ______
 
+
 # 3.1
+
 
 ## Lecture raisonnée [#7](https://github.com/jgwill/www.fichiers/issues/7)
 
 #### CRL Reading Session Jun 1, 2020 at 11:43:40 AM 
-
 
 
 ## Questions
@@ -89,18 +89,18 @@ ______
 ### 3.1.2.2.1 - Qu'est-ce que l'identité d'un texte? 
 
 ### 3.1.2.2.3 - Qu'est-ce qui fait que je suis attentif ?
-### 3.1.2.2.2 - Comment faire une lecture attentive ?
 
+### 3.1.2.2.2 - Comment faire une lecture attentive ?
 
 ### 3.1.10.1 - Que devons-nous savoir à propos de l'auteur ?
 
-
 ### 3.1.15.2 - Quel est le contenu de l'introduction ?
+
 ### 3.1.10 - Portrait de l'auteur ?
 
 ### 3.1.13 - Connaitre le contexte de parution ?
-### 3.1.14 - À qui s'adresse la publication ?
 
+### 3.1.14 - À qui s'adresse la publication ?
 
 
 
@@ -118,22 +118,22 @@ ______
 # 3.2.1
 
 ## L'objectif de l’auteure
-
 #### CRL Reading Session Jun 9, 2020 at 2:53:23 PM 
 
 
 
 
 
-
 ----
 
+
+----
 # References
-----
 
 ## 1. Source: (Le Compte Rendu de Lecture - Departement Des Sciences Historiques, n.d.)
 
 ## 2. (autre ref de JPP, bibliothecaire UQAC)
+
 
 
 ## 3. (Ouelette, n.d.)
@@ -141,13 +141,13 @@ ______
 Ouelette, S. (n.d.). Sources-primaires-et-secondaires.pdf. Retrieved May 25, 2020, from https://esr.cscmonavenir.ca/files/2013/01/Sources-primaires-et-secondaires.pdf
  
 
+## 4. (Larousse, n.d.)
 
 Larousse, É. (n.d.). Définitions: Bilan - Dictionnaire de français Larousse. Retrieved May 25, 2020, from https://www.larousse.fr/dictionnaires/francais/bilan/9269
 
 
 ## 5. What is Markdown?
 
-## 4. (Larousse, n.d.)
 
 ----
 
@@ -165,8 +165,8 @@ Larousse, É. (n.d.). Définitions: Bilan - Dictionnaire de français Larousse. 
 ### À propos de la dernière exrérience à créer une fiche
 
 #### [(Voir version à jour dans le WIKI)](https://github.com/jgwill/www.fichiers/wiki/Metho-Compte-Rendu)
-Je m'attend à avoir un plan de comment rendre optimal mes compte-rendu.  Depuis ma dernière étude de --@STCGoal Maîtriser l'art du Compte-Rendu, 
 
+Je m'attend à avoir un plan de comment rendre optimal mes compte-rendu.  Depuis ma dernière étude de --@STCGoal Maîtriser l'art du Compte-Rendu, 
 j'ai fait une lecture de [Xing-Marwala-2018](../_dictations/Xing-Marwala-2018.md).  
 Cette expérience a été bénéfique et compris les actions suivantes: 
 * Préparation du texte (nettoyage, organisation en section, publication et accès (mise à jour du fichier SNote))

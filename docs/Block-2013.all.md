@@ -158,7 +158,10 @@ Limited Space
 Ambiguous Space
 ---------------
 
-![](https://i.imgur.com/0kQ19f2.png)
+![](https://i.imgur.com/0kQ19f2.png)  
+[[VisualComposition]] 
+
+
 
 
 
