@@ -417,21 +417,21 @@ Pourquoi l'art numérique?
 
 
 
-L'innovation influencent la créativité. Intéressant!  
-              
-              
-              
-
-----
-
-
-
 <!--- o:2.3.1 -->  
 <!--- y:txt -->  
   
 >"Take ‘Gutenberg Revolution' (Kirschenbaum, 2016; Winston, 2005), the formation of the printing press in the fifteenth century paved the way to mass production of texts and images" (p. 2)  
 
 
+
+----
+
+
+
+L'innovation influencent la créativité. Intéressant!  
+              
+              
+              
 
 ----
 

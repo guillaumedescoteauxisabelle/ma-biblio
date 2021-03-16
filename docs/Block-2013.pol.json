@@ -344,8 +344,90 @@
       "revisedText": {
         "HTML": "<p>Visual structure is based on an understanding of the Principle of Contrast &amp; Affinity. </p><p>What is contrast? </p><h2>Contrast means difference.</h2>"
       }
+    },
+    {
+      "id": "1VVc1Ux1hy",
+      "guid": "1bdqhdBTov",
+      "created": "2021-03-16T20:53:11.960Z",
+      "lastUpdated": "2021-03-16T20:53:18.867Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "CHAPTER 3"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 34.5,
+      "revisedText": {
+        "HTML": "<h1>CHAPTER 3</h1>"
+      }
+    },
+    {
+      "id": "1go4xQmQuD",
+      "guid": "124varxsL8",
+      "created": "2021-03-16T20:53:13.760Z",
+      "lastUpdated": "2021-03-16T20:53:26.644Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Space"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 157.5,
+      "revisedText": {
+        "HTML": "<h2>Space</h2>"
+      }
+    },
+    {
+      "id": "14fNuGZUpw",
+      "guid": "1MB7SdsdE3",
+      "created": "2021-03-16T20:55:39.896Z",
+      "lastUpdated": "2021-03-16T20:56:15.333Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Overlap\nWhen one object overlaps another, illusory depth is created.\n"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 17082.625,
+      "revisedText": {
+        "HTML": "<p>Overlap\nWhen one object overlaps another, illusory depth is created.</p><p><img src=\"https://i.imgur.com/azzXOTi.png\" style=\"width: 366px;\"><br></p>"
+      }
+    },
+    {
+      "id": "1DjPLsk3VJ",
+      "guid": "1iXXUdsHV5",
+      "created": "2021-03-16T20:56:59.538Z",
+      "lastUpdated": "2021-03-16T21:00:36.227Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Comparing the Four Space Types"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 27732.84375,
+      "revisedText": {
+        "HTML": "<h1>Comparing the Four Space Types</h1><p><span>\n\n<a style=\"font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\"></a></span></p><h2 style=\"text-indent:0em\"><a style=\"font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px\">&nbsp;uses deep space</a></h2><p></p><p><img src=\"https://i.imgur.com/rqyrRo7.png\" style=\"width: 366px;\"></p><p><br></p><h2>Flat space</h2><p><img src=\"https://i.imgur.com/phqwSGN.png\" style=\"width: 366px;\"></p><p><br></p><h2>Limited Space</h2><p><img src=\"https://i.imgur.com/PGMTyh6.png\" style=\"width: 366px;\"><br></p><p><br></p><h2>Ambiguous Space</h2><p><img src=\"https://i.imgur.com/0kQ19f2.png\" style=\"width: 366px;\"><br></p>"
+      }
     }
   ]
 
 }
+
+
 

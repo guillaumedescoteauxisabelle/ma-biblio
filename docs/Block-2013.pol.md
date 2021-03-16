@@ -113,3 +113,29 @@ created: 2021-03-16T19:56:05.864Z
 color: #9900EF
  
 Visual structure is based on an understanding of the Principle of Contrast & Affinity. What is contrast? Contrast means difference.
+---
+page: 9
+type: text-highlight
+created: 2021-03-16T20:53:11.960Z
+color: yellow
+CHAPTER 3
+---
+page: 9
+type: text-highlight
+created: 2021-03-16T20:53:13.760Z
+color: yellow
+Space
+---
+page: 9
+type: text-highlight
+created: 2021-03-16T20:55:39.896Z
+color: yellow
+Overlap
+When one object overlaps another, illusory depth is created.
+
+---
+page: 9
+type: text-highlight
+created: 2021-03-16T20:56:59.538Z
+color: yellow
+Comparing the Four Space Types
