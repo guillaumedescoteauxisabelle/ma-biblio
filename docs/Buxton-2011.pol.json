@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12XsfJZj85",
+      "guid": "12XsfJZj85",
+      "created": "2021-03-17T23:07:48.583Z",
+      "lastUpdated": "2021-03-17T23:07:48.583Z",
+      "rects": {
+        "0": {
+          "left": 275,
+          "top": 264,
+          "right": 685,
+          "bottom": 294,
+          "width": 410,
+          "height": 30
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sketching User Experiences"
+        }
+      },
+      "text": {
+        "TEXT": "Sketching User Experiences"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12nzhKHuLs",
+      "guid": "1Y7D6xRXZj",
+      "created": "2021-03-17T23:07:57.406Z",
+      "lastUpdated": "2021-03-17T23:52:48.391Z",
+      "rects": {
+        "0": {
+          "left": 144,
+          "top": 257,
+          "right": 670,
+          "bottom": 295,
+          "width": 525,
+          "height": 38
+        },
+        "1": {
+          "left": 144,
+          "top": 305,
+          "right": 519,
+          "bottom": 323,
+          "width": 375,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sketching User Experiences"
+        },
+        "1": {
+          "text": "getting the design right and the right design"
+        }
+      },
+      "text": {
+        "TEXT": "Sketching User Experiences getting the design right and the right design"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Sketching User Experiences</h1><h2> getting the design right and the right design</h2>"
+      },
+      "tags": {
+        "Prototyping": {
+          "id": "Prototyping",
+          "label": "Prototyping"
+        },
+        "7ART802": {
+          "id": "7ART802",
+          "label": "7ART802"
+        }
+      }
+    },
+    {
+      "id": "1JWBXDjXdu",
+      "guid": "12DmczFAsk",
+      "created": "2021-03-17T23:07:58.990Z",
+      "lastUpdated": "2021-03-17T23:09:02.212Z",
+      "rects": {
+        "0": {
+          "left": 205,
+          "top": 430,
+          "right": 306,
+          "bottom": 470,
+          "width": 101,
+          "height": 39
+        },
+        "1": {
+          "left": 144,
+          "top": 257,
+          "right": 340,
+          "bottom": 295,
+          "width": 196,
+          "height": 38
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Buxton"
+        },
+        "1": {
+          "text": "Sketching "
+        }
+      },
+      "text": {
+        "TEXT": "Buxton Sketching"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer: (Buxton, 2011)</p>\n<p>FTag: Buxton-2011</p>\n<p>APA7: Buxton, B. (2011). <em>Sketching user experiences: Getting the design right and the right design</em> (Nachdr.). Morgan Kaufmann.</p>\n\n</span></p><p><span><br></span></p><p><br></p>"
+      }
+    },
+    {
+      "id": "12HAt6WuT6",
+      "guid": "12HAt6WuT6",
+      "created": "2021-03-17T23:11:25.788Z",
+      "lastUpdated": "2021-03-17T23:11:37.850Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 40,
+          "right": 322,
+          "bottom": 62,
+          "width": 245,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "A Sketch of the Process"
+        }
+      },
+      "text": {
+        "TEXT": "A Sketch of the Process"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F96676"
+    },
+    {
+      "id": "12cmHCmv7U",
+      "guid": "12P6L7GvMg",
+      "created": "2021-03-17T23:11:51.415Z",
+      "lastUpdated": "2021-03-17T23:52:21.325Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 40,
+          "right": 328,
+          "bottom": 62,
+          "width": 251,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "The Cycle of Innovation"
+        }
+      },
+      "text": {
+        "TEXT": "The Cycle of Innovation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F96676",
+      "revisedText": {
+        "HTML": "<h1>The Cycle of Innovation</h1><p><br></p>"
+      }
+    },
+    {
+      "id": "1ktxLHEokp",
+      "guid": "12KeUnBzix",
+      "created": "2021-03-17T23:12:05.029Z",
+      "lastUpdated": "2021-03-17T23:12:13.890Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 40,
+          "right": 302,
+          "bottom": 62,
+          "width": 224,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Sketching Interaction"
+        }
+      },
+      "text": {
+        "TEXT": "Sketching Interaction"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F96676",
+      "revisedText": {
+        "HTML": "<h2>Sketching Interaction</h2>"
+      }
+    },
+    {
+      "id": "1YqLiKdnBZ",
+      "guid": "12N91J7y5u",
+      "created": "2021-03-17T23:12:27.031Z",
+      "lastUpdated": "2021-03-17T23:12:55.188Z",
+      "rects": {
+        "0": {
+          "left": 77,
+          "top": 40,
+          "right": 450,
+          "bottom": 62,
+          "width": 373,
+          "height": 21
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Annotation: Sketching On Sketches"
+        }
+      },
+      "text": {
+        "TEXT": "Annotation: Sketching On Sketches"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "revisedText": {
+        "HTML": "<h2>Annotation: Sketching On Sketches</h2>"
+      }
+    },
+    {
+      "id": "1YGpRSy9Uv",
+      "guid": "1YGpRSy9Uv",
+      "created": "2021-03-17T23:12:31.904Z",
+      "lastUpdated": "2021-03-17T23:12:48.807Z",
+      "rects": {
+        "0": {
+          "left": 63.8124362895005,
+          "top": 71.582273573201,
+          "width": 15.290519877675841,
+          "height": 12.406947890818856
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "12WziTpufsdKq3L6HYYH",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "12WziTpufsdKq3L6HYYH.png"
+        },
+        "width": 1694,
+        "height": 1054,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 37,
+        "y": 372,
+        "width": 498,
+        "height": 310
+      }
+    },
+    {
+      "id": "1SDREnhwVc8heyLhg5mv",
+      "guid": "1SDREnhwVc8heyLhg5mv",
+      "created": "2021-03-17T23:52:17.378Z",
+      "lastUpdated": "2021-03-17T23:52:17.378Z",
+      "content": {
+        "HTML": "<p>...</p>"
+      },
+      "ref": "text-highlight:1d3yJTYWQQ"
+    }
+  ]
+
+}
+

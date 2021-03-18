@@ -1,0 +1,30 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/FE5C6ML4",
+		"type": "book",
+		"edition": "Nachdr.",
+		"event-place": "Amsterdam",
+		"ISBN": "978-0-12-374037-3",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s0] \nOCLC: 838676716",
+		"number-of-pages": "445",
+		"publisher": "Morgan Kaufmann",
+		"publisher-place": "Amsterdam",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Sketching user experiences: getting the design right and the right design",
+		"title-short": "Sketching user experiences",
+		"author": [
+			{
+				"family": "Buxton",
+				"given": "Bill"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	}
+]

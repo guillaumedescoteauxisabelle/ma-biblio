@@ -236,15 +236,15 @@ APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A
 # NOT SAGrid output
 
 Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A Digital Art Perspective. https://arxiv.org/abs/1807.08195v1
+
+
 ______
 # 0. Abstract
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
 
 
-
-
 ______
+
 
 # 1. introduction
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
@@ -258,11 +258,11 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
 
 
-
 ______
-# 3.0 Créativité et intelligence artificielle
-#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
 
+# 3.0 Créativité et intelligence artificielle
+
+#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
 
 
 
@@ -275,26 +275,26 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
 
 ______
-#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
 # Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
+#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
+
 
 
 
 ______
-
 # Partie 3.3 - Le long terme: une organisation autonome d'art décentralisé (ArtDAO)
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-# Partie 4 - Perspective
-
 ______
 
+# Partie 4 - Perspective
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 
-## Questions
 
+## Questions
 ###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
+
 
 ### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
  
@@ -303,26 +303,26 @@ ______
 ### 4.8.3  | clarication | Qu'est-ce que le Narrow AI 
 
 # 5.0 Actions
-
 # --@STCGoal  Une **Vision Artistique** claire pour ma thèse
 
 Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
-## --@STCGoal Ma definition de l'IA
+
 
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
 >(Shapiro, 2003)
-
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
+## --@STCGoal Ma definition de l'IA
 
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
 
 # Références
+
+
 ## evolutionary programming
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
-
 
 
 <!--- o:0.1.1 -->  
@@ -331,6 +331,15 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 >"This paper describes the application of artificial intelligence (AI) to the creation of digital art" (p. 0)  
 
 
+
+----
+
+
+
+l'application de l'IA dans la création d'art numérique  
+              
+              
+              
 
 ----
 
@@ -348,15 +357,6 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 
 
 La codification de l'intelligence dans une machine  
-              
-              
-              
-
-----
-
-
-
-l'application de l'IA dans la création d'art numérique  
               
               
               
@@ -563,6 +563,26 @@ Une société dominée par l'innovation. Une orientation innovative pour la soci
 
 
 
+Qu'est-ce que la créativité? Définition de la créativité  
+              
+              
+              
+
+----
+
+
+
+<!--- o:1.3.1 -->  
+<!--- y:txt -->  
+  
+>"In other words, if creativity is absent, innovation could be just luck" (p. 1)  
+
+
+
+----
+
+
+
 L'innovation, la créativité et quelque chose que je sens que je ne serai pas d'accord. Moi c'est confus! Ou du moins c'est confus!   Bien sûr s'ils approchent la créativité selon une orientation à résoudre des problèmes, ils seront confus et une phrase comme celle là n'est pas surprenante.  Innover, c'est créer ! C'est une orientation d'innover puisque nous utilisons les principes du processus créatif  
               
               
@@ -583,36 +603,7 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
-<!--- o:1.3.1 -->  
-<!--- y:txt -->  
-  
->"In other words, if creativity is absent, innovation could be just luck" (p. 1)  
-
-
-
-----
-
-
-
-Qu'est-ce que la créativité? Définition de la créativité  
-              
-              
-              
-
-----
-
-
-
 Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
-              
-              
-              
-
-----
-
-
-
-Lien possible entre synthétiser et créativité.  Expérimenter et utiliser la synthèse fait de celle-ci pour générer de nouvelles choses.  
               
               
               
@@ -627,6 +618,15 @@ Lien possible entre synthétiser et créativité.  Expérimenter et utiliser la 
 >"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
 
 
+
+----
+
+
+
+Lien possible entre synthétiser et créativité.  Expérimenter et utiliser la synthèse fait de celle-ci pour générer de nouvelles choses.  
+              
+              
+              
 
 ----
 
@@ -2323,8 +2323,8 @@ Note.
 # Q
 
 | no      | qt   | q                                                                                                                                                                                                  | r                                                                                                                                                                                                                  | n |
-| 0.1.2   | dic  | l'application de l'IA dans la création d'art numérique                                                                                                                                             |                                                                                                                                                                                                                    |   |
 | -- |---|--------|--------| ---- |
+| 0.1.2   | dic  | l'application de l'IA dans la création d'art numérique                                                                                                                                             |                                                                                                                                                                                                                    |   |
 | 0.2.2   | dic  | La codification de l'intelligence dans une machine                                                                                                                                                 |                                                                                                                                                                                                                    |   |
 | 0.3.2   | dic  | Trois types d'intelligence artificielle.                                                                                                                                                           |                                                                                                                                                                                                                    |   |
 | 0.4.2   | dic  | L'apprentissage profond dans une relation à la statistique. L'apprentissage profond est relatifs à la statistique. Qu'est-ce qui est statistique dans l'apprentissage profond?                       |                                                                                                                                                                                                                    |   |

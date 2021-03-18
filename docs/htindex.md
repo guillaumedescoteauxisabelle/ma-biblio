@@ -1,3 +1,4 @@
+[pol.ht.7ART802](pol.ht.7ART802.md)
 [pol.ht.7ART806](pol.ht.7ART806.md)
 [pol.ht.a2010051033](pol.ht.a2010051033.md)
 [pol.ht.Abduction.def](pol.ht.Abduction.def.md)
@@ -104,6 +105,7 @@
 [pol.ht.PratiqueReflexive](pol.ht.PratiqueReflexive.md)
 [pol.ht.Problematic](pol.ht.Problematic.md)
 [pol.ht.ProblemSolving](pol.ht.ProblemSolving.md)
+[pol.ht.Prototyping](pol.ht.Prototyping.md)
 [pol.ht.QualitativeAnalysis](pol.ht.QualitativeAnalysis.md)
 [pol.ht.Rechercher](pol.ht.Rechercher.md)
 [pol.ht.ref2011081831](pol.ht.ref2011081831.md)
