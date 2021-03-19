@@ -557,15 +557,6 @@ Exemple de résultat en art numérique.
 
 
 
-Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
-              
-              
-              
-
-----
-
-
-
 <!--- o:2.10.1 -->  
 <!--- y:txt -->  
   
@@ -578,6 +569,15 @@ Question de division  - l'art numérique n'est pas isolable des autres formes d'
 
 
 Nous sommes dans une nouvelle vague de révolution de la créativité.  
+              
+              
+              
+
+----
+
+
+
+Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
               
               
               
@@ -637,21 +637,21 @@ La créativité et l'intelligence artificielle.
 
 
 
-Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.3.1 -->  
 <!--- y:txt -->  
   
 >"Here, we sort them roughly into three movement-related groups, that is, short-term, mid-term, and long-term cases" (p. 3)  
 
 
+
+----
+
+
+
+Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
+              
+              
+              
 
 ----
 

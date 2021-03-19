@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12Qt7ppGKM",
+      "guid": "12Qt7ppGKM",
+      "created": "2021-03-19T23:02:36.453Z",
+      "lastUpdated": "2021-03-19T23:04:47.715Z",
+      "rects": {
+        "0": {
+          "left": 80,
+          "top": 110,
+          "right": 732,
+          "bottom": 135,
+          "width": 651,
+          "height": 25
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "DrawmaticAR - Automagical AR Content From Written Words!"
+        }
+      },
+      "text": {
+        "TEXT": "DrawmaticAR - Automagical AR Content From Written Words!"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "tags": {
+        "Siggraph": {
+          "id": "Siggraph",
+          "label": "Siggraph"
+        },
+        "SiggraphRealTime": {
+          "id": "SiggraphRealTime",
+          "label": "SiggraphRealTime"
+        }
+      }
+    },
+    {
+      "id": "12Ru813JnR",
+      "guid": "12Ru813JnR",
+      "created": "2021-03-19T23:02:42.891Z",
+      "lastUpdated": "2021-03-19T23:02:42.891Z",
+      "rects": {
+        "0": {
+          "left": 365,
+          "top": 145,
+          "right": 449,
+          "bottom": 163,
+          "width": 84,
+          "height": 17
+        },
+        "1": {
+          "left": 377,
+          "top": 164,
+          "right": 439,
+          "bottom": 179,
+          "width": 62,
+          "height": 14
+        },
+        "2": {
+          "left": 374,
+          "top": 180,
+          "right": 443,
+          "bottom": 195,
+          "width": 68,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Yosun Chang"
+        },
+        "1": {
+          "text": "AReality3D"
+        },
+        "2": {
+          "text": "Permute.xyz"
+        }
+      },
+      "text": {
+        "TEXT": "Yosun Chang AReality3D Permute.xyz"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12KLvAmyev",
+      "guid": "12KLvAmyev",
+      "created": "2021-03-19T23:06:44.462Z",
+      "lastUpdated": "2021-03-19T23:07:16.080Z",
+      "rects": {
+        "0": {
+          "left": 208,
+          "top": 691,
+          "right": 405,
+          "bottom": 705,
+          "width": 197,
+          "height": 13
+        },
+        "1": {
+          "left": 71,
+          "top": 706,
+          "right": 398,
+          "bottom": 719,
+          "width": 327,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "app capable of creating interactive 3D"
+        },
+        "1": {
+          "text": "animated experiences from story words written in the designate"
+        }
+      },
+      "text": {
+        "TEXT": "app capable of creating interactive 3D animated experiences from story words written in the designate"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green",
+      "tags": {
+        "ARGoal": {
+          "id": "ARGoal",
+          "label": "ARGoal"
+        },
+        "Previsualisation": {
+          "id": "Previsualisation",
+          "label": "Previsualisation"
+        },
+        "ARPreviz": {
+          "id": "ARPreviz",
+          "label": "ARPreviz"
+        }
+      }
+    }
+  ]
+
+}
+

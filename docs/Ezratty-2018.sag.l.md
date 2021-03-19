@@ -10,10 +10,12 @@
 
 
 
-Titre  
-              
-              
-              
+<!--- o:42.1.2.1 -->  
+<!--- y:txt -->  
+  
+>"Le vaste domaine du machine learning, ou apprentissage automatique, est défini comme le champ de l’IA qui utilise des méthodes probabilistes pour apprendre à partir des données sans être programmé explicitement" (p. 42.1)  
+
+
 
 ----
 
@@ -28,12 +30,10 @@ Peut-on appeler cela de  programmation implicite ?
 
 
 
-<!--- o:42.1.2.1 -->  
-<!--- y:txt -->  
-  
->"Le vaste domaine du machine learning, ou apprentissage automatique, est défini comme le champ de l’IA qui utilise des méthodes probabilistes pour apprendre à partir des données sans être programmé explicitement" (p. 42.1)  
-
-
+Titre  
+              
+              
+              
 
 ----
 

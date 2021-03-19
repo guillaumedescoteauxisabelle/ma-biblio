@@ -1,0 +1,44 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/RWWCXZCF",
+		"type": "paper-conference",
+		"abstract": "DrawmaticAR is an AI-AR app capable of creating interactive 3D animated experiences from story words written in the designated section on an AR marker (Magic Paper).",
+		"collection-title": "SIGGRAPH '20",
+		"container-title": "ACM SIGGRAPH 2020 Real-Time Live!",
+		"DOI": "10.1145/3407662.3407755",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-8060-7",
+		"note": "ZSCC: 0000000",
+		"page": "1",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "DrawmaticAR: automagical AR content from written words!",
+		"title-short": "DrawmaticAR",
+		"URL": "http://doi.org/10.1145/3407662.3407755",
+		"author": [
+			{
+				"family": "Chang",
+				"given": "Yosun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					17
+				]
+			]
+		}
+	}
+]
