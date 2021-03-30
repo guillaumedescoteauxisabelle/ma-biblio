@@ -11,8 +11,8 @@
 | 1.5.1 |  txt |    |   "On s'en tient en fait à trois aspects essentiels du travail historien : comprendre un texte (savoir le lire, saisir la démarche scientifique de l'auteure et récupérer tout son sens), le faire comprendre (savoir communiquer par écrit l'essentiel de son contenu et de sa manière d'être) et se situer par rapport à son contenu" (p. 1)|   |
 | 1.5.2|  dic |     Contient les résultats à produire et en quelque sorte les valeurs qui se trouveront dans le texte produits du compte rendu.   |   |   |
 | 1.6.1 |  txt |    |   "La préparation de comptes rendus simples dès le début des études universitaires présente le grand avantage de faire voir qu'un texte n'est jamais tout à fait neutre, même quand il est présenté comme tel : la personne qui l'a rédigé a certainement été influencée par ses valeurs et ses intérêts de recherche, pour le choix de son objet d'étude, dans la sélection des éléments rassemblés dans son étude et en ce qui concerne l'interprétation qu'elle en a faite et les liens qu'elle a établis entre eux" (p. 1)|   |
-| 1.6.2|  dic |     Notre interprétation sera influencé par nos valeurs et nos intérêts, ce qui donnera comme résultat aucun texte ne sera qualifiable d'être objectif.   |   |   |
 | 1.8.1 |  txt |    |   "Il s’agit donc d’acquérir la capacité de saisir, de restituer et de se situer par rapport aux interprétations variées, et parfois contradictoires, que proposent les spécialistes dont les textes sont consultés et digérés" (p. 1)|   |
+| 1.6.2|  dic |     Notre interprétation sera influencé par nos valeurs et nos intérêts, ce qui donnera comme résultat aucun texte ne sera qualifiable d'être objectif.   |   |   |
 | 1.8.2|  dic |     Compétences à développer   |   |   |
 | 1.9.1 |  txt |    |   "Au cours de ses études en histoire, il est normal que l'étudiant-e rencontre une diversité d'exigences dans les différents cours de son cheminement, y compris sur la manière de préparer des comptes rendus d'études historiques" (p. 1)|   |
 | 1.9.2|  dic |     Dépendamment de la matière étudiée, le compte rendu aura des variations.   |   |   |
@@ -43,8 +43,8 @@
 | 3.0.3.1 |  txt |    |   "une lecture raisonnée du texte;" (p. 3)|   |
 | 3.0.3.2|  dic |     Qu'est-ce que de lire de façon résonner?   |   |   |
 | 3.0.4.1 |  txt |    |   "son analyse;" (p. 3)|   |
-| 3.0.4.2|  dic |     Qu'est-ce qu'une analyse de texte? De quoi Allaire une analyse de texte?   |   |   |
 | 3.0.5.1 |  txt |    |   "sa synthèse;" (p. 3)|   |
+| 3.0.4.2|  dic |     Qu'est-ce qu'une analyse de texte? De quoi Allaire une analyse de texte?   |   |   |
 | 3.0.5.2|  dic |     Une synthèse de texte, ça a l'air de quoi?   |   |   |
 | 3.0.6.1 |  txt |    |   "un bilan du message et une analyse critique" (p. 3)|   |
 | 3.0.6.2|  dic |     Qu'est-ce qu'un bilan? Qu'est-ce qu'une analyse critique? Pourquoi faisons ou une critique?   |   |   |

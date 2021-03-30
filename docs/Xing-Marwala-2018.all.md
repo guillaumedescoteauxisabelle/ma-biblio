@@ -237,32 +237,32 @@ APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A
 
 Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A Digital Art Perspective. https://arxiv.org/abs/1807.08195v1
 
+
 ______
 # 0. Abstract
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
 
 
 
-
 ______
 
-#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
 # 1. introduction
+#### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
+
 
 
 
 ______
-
 # 2. Pourquoi l'art numérique?  
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:25:03 PM 
+
 
 
 
 ______
 # 3.0 Créativité et intelligence artificielle
-
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
+
 
 
 
@@ -275,20 +275,20 @@ ______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
 
 ______
-# Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
-
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
+# Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
 
 
 
 ______
 # Partie 3.3 - Le long terme: une organisation autonome d'art décentralisé (ArtDAO)
+
+
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-
-______
 # Partie 4 - Perspective
+______
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
 
 
@@ -296,9 +296,9 @@ ______
 
 ###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
 
-### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
  
 ### 4.5.3  | clarification | Qu'est-ce que teaching-learning-based optimization ?
+### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
 
 ### 4.8.3  | clarication | Qu'est-ce que le Narrow AI 
 
@@ -311,7 +311,6 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
 >(Shapiro, 2003)
-
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
@@ -319,9 +318,10 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
+
+
 # Références
 ## evolutionary programming
-
 
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
 
@@ -331,15 +331,6 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 >"This paper describes the application of artificial intelligence (AI) to the creation of digital art" (p. 0)  
 
 
-
-----
-
-
-
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
 
 ----
 
@@ -365,12 +356,10 @@ La codification de l'intelligence dans une machine
 
 
 
-<!--- o:0.3.1 -->  
-<!--- y:txt -->  
-  
->"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
-
-
+l'application de l'IA dans la création d'art numérique  
+              
+              
+              
 
 ----
 
@@ -380,6 +369,17 @@ Trois types d'intelligence artificielle.
               
               
               
+
+----
+
+
+
+<!--- o:0.3.1 -->  
+<!--- y:txt -->  
+  
+>"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
+
+
 
 ----
 
@@ -883,6 +883,15 @@ Exemple de résultat en art numérique.
 
 
 
+Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
+              
+              
+              
+
+----
+
+
+
 <!--- o:2.10.1 -->  
 <!--- y:txt -->  
   
@@ -895,15 +904,6 @@ Exemple de résultat en art numérique.
 
 
 Nous sommes dans une nouvelle vague de révolution de la créativité.  
-              
-              
-              
-
-----
-
-
-
-Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
               
               
               
@@ -943,6 +943,17 @@ Les artistes travaillent de concert avec les ingénieurs et les machines.
 
 
 
+<!--- o:3.0.2.1 -->  
+<!--- y:txt -->  
+  
+>"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
+
+
+
+----
+
+
+
 La créativité et l'intelligence artificielle.  
               
               
@@ -952,12 +963,10 @@ La créativité et l'intelligence artificielle.
 
 
 
-<!--- o:3.0.2.1 -->  
-<!--- y:txt -->  
-  
->"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
-
-
+Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
+              
+              
+              
 
 ----
 
@@ -974,10 +983,12 @@ La créativité et l'intelligence artificielle.
 
 
 
-Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
-              
-              
-              
+<!--- o:3.0.4.1 -->  
+<!--- y:txt -->  
+  
+>NOTES  
+
+
 
 ----
 
@@ -987,17 +998,6 @@ Time Frame
               
               
               
-
-----
-
-
-
-<!--- o:3.0.4.1 -->  
-<!--- y:txt -->  
-  
->NOTES  
-
-
 
 ----
 

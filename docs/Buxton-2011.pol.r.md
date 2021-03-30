@@ -66,6 +66,38 @@ Annotation: Sketching On Sketches
 
 
 
+Sketching Interaction
+
+
+
+Sketches are not Prototypes
+
+
+
+
+
+![](12wPNVb8xEocxXbUWmbH.png)
+
+
+
+
+
+![](12mye5oxAwDdd7SrZc4y.png)
+
+
+
+
+
+![](1nZQwv3XEuUYp79oVJiP.png)
+
+
+
+
+
+![](12Rh8x5XzDNCzsbKN6t2.png)
+
+
+
 
 
 

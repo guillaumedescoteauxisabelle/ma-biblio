@@ -7,7 +7,8 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 
-![](87d9f47d-5405-4106-91fa-b3275659e409)
+![](1YC3rXGD8AiFgSKUrCgs3AD19Yg5rRKY1pNSbjeH.png)
+![](42bbbed3-c6f9-451f-b571-1f58e669a384)
 
 
 
@@ -81,6 +82,38 @@ Annotation: Sketching On Sketches
 
 
 ![](12WziTpufsdKq3L6HYYH.png)
+
+
+
+Sketching Interaction
+
+
+
+Sketches are not Prototypes
+
+
+
+
+
+![](12wPNVb8xEocxXbUWmbH.png)
+
+
+
+
+
+![](12mye5oxAwDdd7SrZc4y.png)
+
+
+
+
+
+![](1nZQwv3XEuUYp79oVJiP.png)
+
+
+
+
+
+![](12Rh8x5XzDNCzsbKN6t2.png)
 
 
 

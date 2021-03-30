@@ -5,14 +5,3 @@ Dosnon, Odile, (1996). « Imaginaire et créativité : éléments pour un bilan 
 
 
 
-# ( [[Buxton-2011]])
-
-
-Sketching User Experiences
-==========================
-
-getting the design right and the right design
----------------------------------------------
-
-
-

@@ -10,15 +10,6 @@
 
 
 
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
-
-----
-
-
-
 <!--- o:0.2.1 -->  
 <!--- y:txt -->  
   
@@ -39,12 +30,10 @@ La codification de l'intelligence dans une machine
 
 
 
-<!--- o:0.3.1 -->  
-<!--- y:txt -->  
-  
->"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
-
-
+l'application de l'IA dans la création d'art numérique  
+              
+              
+              
 
 ----
 
@@ -54,6 +43,17 @@ Trois types d'intelligence artificielle.
               
               
               
+
+----
+
+
+
+<!--- o:0.3.1 -->  
+<!--- y:txt -->  
+  
+>"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
+
+
 
 ----
 
@@ -557,6 +557,15 @@ Exemple de résultat en art numérique.
 
 
 
+Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
+              
+              
+              
+
+----
+
+
+
 <!--- o:2.10.1 -->  
 <!--- y:txt -->  
   
@@ -569,15 +578,6 @@ Exemple de résultat en art numérique.
 
 
 Nous sommes dans une nouvelle vague de révolution de la créativité.  
-              
-              
-              
-
-----
-
-
-
-Question de division  - l'art numérique n'est pas isolable des autres formes d'art. ￼  
               
               
               
@@ -617,6 +617,17 @@ Les artistes travaillent de concert avec les ingénieurs et les machines.
 
 
 
+<!--- o:3.0.2.1 -->  
+<!--- y:txt -->  
+  
+>"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
+
+
+
+----
+
+
+
 La créativité et l'intelligence artificielle.  
               
               
@@ -626,12 +637,10 @@ La créativité et l'intelligence artificielle.
 
 
 
-<!--- o:3.0.2.1 -->  
-<!--- y:txt -->  
-  
->"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
-
-
+Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
+              
+              
+              
 
 ----
 
@@ -648,10 +657,12 @@ La créativité et l'intelligence artificielle.
 
 
 
-Les techniques d'intelligence artificielle sont importantes pour la créativité , elles nous permettent de générer nouveaux chemins créatif  
-              
-              
-              
+<!--- o:3.0.4.1 -->  
+<!--- y:txt -->  
+  
+>NOTES  
+
+
 
 ----
 
@@ -661,17 +672,6 @@ Time Frame
               
               
               
-
-----
-
-
-
-<!--- o:3.0.4.1 -->  
-<!--- y:txt -->  
-  
->NOTES  
-
-
 
 ----
 
