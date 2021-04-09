@@ -86,6 +86,23 @@ Par exemple, l'espace théorique du jeu numérique narratif englobe le joueur , 
 
 
 
+C OURS 04 - 4
+
+
+
+Thème : Le but du jeu
+---------------------
+
+
+
+### L’expérience usager
+
+
+
+### L’expérience esthétique
+
+
+
 
 
 

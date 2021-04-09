@@ -1,0 +1,54 @@
+[
+	{
+		"id": "http://zotero.org/users/180474/items/XBAEC42P",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/2643204",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "4",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"note": "ZSCC: NoCitationData[s1]",
+		"page": "1-34",
+		"source": "DOI.org (Crossref)",
+		"title": "Adaptive Gesture Recognition with Variation Estimation for Interactive Systems",
+		"URL": "https://dl.acm.org/doi/10.1145/2643204",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Caramiaux",
+				"given": "Baptiste"
+			},
+			{
+				"family": "Montecchio",
+				"given": "Nicola"
+			},
+			{
+				"family": "Tanaka",
+				"given": "Atau"
+			},
+			{
+				"family": "Bevilacqua",
+				"given": "Frédéric"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					28
+				]
+			]
+		}
+	}
+]

@@ -86,3 +86,39 @@ type: text-highlight
 created: 2021-01-28T22:55:42.643Z
 color: red
 Par exemple, l'espace théorique du jeu numérique  narratif  englobe  le  joueur ,  l'avatar,  l'expérience  usager,  l'interaction,
+---
+page: 3
+type: text-highlight
+created: 2021-02-04T22:36:44.404Z
+color: yellow
+C OURS 04 - 4
+---
+page: 3
+type: text-highlight
+created: 2021-02-04T22:36:47.291Z
+color: yellow
+Thème : Le but du jeu
+---
+page: 3
+type: text-highlight
+created: 2021-02-04T22:36:49.942Z
+color: yellow
+L’expérience usager
+---
+page: 3
+type: text-highlight
+created: 2021-02-04T22:36:52.997Z
+color: yellow
+L’expérience esthétique
+page: 1
+type: flashcard
+created: 2021-02-04T22:40:44.536Z
+front: <p>Il existe une hiérarchie dans les stratégies conceptuel</p>
+type: flashcard
+created: 2021-02-04T22:40:44.536Z
+back: Mise  en  hiérarchie  des stratégies conceptuelles
+---
+page: 1
+type: comment
+created: 2021-03-12T00:23:42.351Z
+<p>:)</p>

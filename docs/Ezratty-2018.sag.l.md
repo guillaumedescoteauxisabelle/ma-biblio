@@ -10,6 +10,15 @@
 
 
 
+Titre  
+              
+              
+              
+
+----
+
+
+
 <!--- o:42.1.2.1 -->  
 <!--- y:txt -->  
   
@@ -22,15 +31,6 @@
 
 
 Peut-on appeler cela de  programmation implicite ?  
-              
-              
-              
-
-----
-
-
-
-Titre  
               
               
               

@@ -9,6 +9,28 @@ Fiche créée par Guillaume D.Isabelle, 2020
 
 
 
+
+## Il existe une hiérarchie dans les stratégies conceptuel
+
+
+Mise en hiérarchie des stratégies conceptuelles
+
+
+
+
+### (p. 1) 
+
+
+
+
+
+
+----
+
+----
+
+
+
 # PDC-7ART806-N11-TOUSIGNANTPierre_H21.pdf
 
 
@@ -93,6 +115,23 @@ la pratique de l'étudiant et de son espace théorique
 
 
 Par exemple, l'espace théorique du jeu numérique narratif englobe le joueur , l'avatar, l'expérience usager, l'interaction,
+
+
+
+C OURS 04 - 4
+
+
+
+Thème : Le but du jeu
+---------------------
+
+
+
+### L’expérience usager
+
+
+
+### L’expérience esthétique
 
 
 

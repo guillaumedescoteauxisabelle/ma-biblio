@@ -1,0 +1,665 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "1JAY5m7Fux",
+      "guid": "1PtyXyQ758",
+      "created": "2021-02-11T16:43:12.429Z",
+      "lastUpdated": "2021-02-11T16:43:16.591Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 115,
+          "right": 603,
+          "bottom": 134,
+          "width": 458,
+          "height": 18
+        },
+        "1": {
+          "left": 145,
+          "top": 131,
+          "right": 298,
+          "bottom": 150,
+          "width": 153,
+          "height": 18
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Adaptive Gesture Recognition with Variation Estimation for"
+        },
+        "1": {
+          "text": "Interactive Systems"
+        }
+      },
+      "text": {
+        "TEXT": "Adaptive Gesture Recognition with Variation Estimation for Interactive Systems"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>Adaptive Gesture Recognition with Variation Estimation for Interactive Systems</h1>"
+      }
+    },
+    {
+      "id": "12SbcVqRc1",
+      "guid": "1qGeiQydhU",
+      "created": "2021-02-11T16:43:20.905Z",
+      "lastUpdated": "2021-04-09T14:17:53.705Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 163,
+          "right": 294,
+          "bottom": 180,
+          "width": 148,
+          "height": 17
+        },
+        "1": {
+          "left": 291,
+          "top": 164,
+          "right": 296,
+          "bottom": 179,
+          "width": 5,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "BAPTISTE CARAMIAUX"
+        },
+        "1": {
+          "text": ", "
+        }
+      },
+      "text": {
+        "TEXT": "BAPTISTE CARAMIAUX ,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<p><span>\n<p>Citer:(Caramiaux et al., 2015)</p>\n<p>FTag: Caramiaux-et-al-2015</p>\n<p>APA7: Caramiaux, B., Montecchio, N., Tanaka, A., &amp; Bevilacqua, F. (2015). Adaptive Gesture Recognition with Variation Estimation for Interactive Systems. <em>ACM Transactions on Interactive Intelligent Systems</em>, <em>4</em>(4), 1–34. <a href=\"https://doi.org/10.1145/2643204\">https://doi.org/10.1145/2643204</a></p>\n<p><a href=\"https://app.getpolarized.io/doc/1dVJNgCTU5push7YNVgsLE43j7ZzDdBCUPjiCsTLXorLDsCNiU\">Polar</a> -</p>\n\n</span></p>"
+      }
+    },
+    {
+      "id": "1g1dFNNZD1",
+      "guid": "1g3hanf7yB",
+      "created": "2021-02-11T16:43:38.743Z",
+      "lastUpdated": "2021-04-09T14:18:05.782Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 257,
+          "right": 607,
+          "bottom": 271,
+          "width": 462,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "This paper presents a gesture recognition/adaptation system for Human Computer Interacti"
+        }
+      },
+      "text": {
+        "TEXT": "This paper presents a gesture recognition/adaptation system for Human Computer Interacti"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "This paper presents a gesture recognition/adaptation system for Human Computer Interaction"
+      }
+    },
+    {
+      "id": "1dbk2WcQ8Q",
+      "guid": "12tPnCNXVw",
+      "created": "2021-04-09T14:09:06.727Z",
+      "lastUpdated": "2021-04-09T14:17:59.937Z",
+      "rects": {
+        "0": {
+          "left": 308,
+          "top": 766,
+          "right": 706,
+          "bottom": 781,
+          "width": 398,
+          "height": 14
+        },
+        "1": {
+          "left": 145,
+          "top": 781,
+          "right": 336,
+          "bottom": 795,
+          "width": 191,
+          "height": 14
+        },
+        "2": {
+          "left": 327,
+          "top": 781,
+          "right": 373,
+          "bottom": 795,
+          "width": 46,
+          "height": 14
+        },
+        "3": {
+          "left": 373,
+          "top": 781,
+          "right": 542,
+          "bottom": 795,
+          "width": 169,
+          "height": 14
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "]. These systems are fundamentally not designed to take into"
+        },
+        "1": {
+          "text": "account variations that occur"
+        },
+        "2": {
+          "text": "during"
+        },
+        "3": {
+          "text": "the movement performanc"
+        }
+      },
+      "text": {
+        "TEXT": "]. These systems are fundamentally not designed to take into account variations that occur during the movement performanc"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#FF6900",
+      "revisedText": {
+        "HTML": "These systems are fundamentally not designed to take into account variations that occur during the movement performanc"
+      }
+    },
+    {
+      "id": "1PHChFNokr",
+      "guid": "1PHChFNokr",
+      "created": "2021-04-09T14:12:54.981Z",
+      "lastUpdated": "2021-04-09T14:13:17.667Z",
+      "rects": {
+        "0": {
+          "left": 39.50980442022187,
+          "top": 44.37894532174776,
+          "width": 12.25490196078431,
+          "height": 9.469696969696969
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "11DhE6zmezi5NX95TuA4",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "11DhE6zmezi5NX95TuA4.png"
+        },
+        "width": 513,
+        "height": 748,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 270,
+        "y": 352,
+        "width": 274,
+        "height": 399
+      }
+    },
+    {
+      "id": "1fx8ZEPLt6",
+      "guid": "1fx8ZEPLt6",
+      "created": "2021-04-09T14:19:01.693Z",
+      "lastUpdated": "2021-04-09T14:19:01.693Z",
+      "rects": {
+        "0": {
+          "left": 147,
+          "top": 592,
+          "right": 307,
+          "bottom": 605,
+          "width": 160,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.1. Continuous state model"
+        }
+      },
+      "text": {
+        "TEXT": "4.1. Continuous state model"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12VbRoPyV1",
+      "guid": "12VbRoPyV1",
+      "created": "2021-04-09T14:19:09.313Z",
+      "lastUpdated": "2021-04-09T14:19:09.313Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 223,
+          "right": 274,
+          "bottom": 236,
+          "width": 129,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "4.2. State space model"
+        }
+      },
+      "text": {
+        "TEXT": "4.2. State space model"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "12SBxYU71o",
+      "guid": "12SBxYU71o",
+      "created": "2021-04-09T14:19:35.050Z",
+      "lastUpdated": "2021-04-09T14:19:59.020Z",
+      "rects": {
+        "0": {
+          "left": 40.947713415607126,
+          "top": 33.482480771613844,
+          "width": 12.254901960784316,
+          "height": 9.469696969696969
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "1wRbjQmRPCnzLAohnajS",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "1wRbjQmRPCnzLAohnajS.png"
+        },
+        "width": 667,
+        "height": 553,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 234,
+        "y": 254,
+        "width": 356,
+        "height": 295
+      }
+    },
+    {
+      "id": "12w17U9LU8",
+      "guid": "12w17U9LU8",
+      "created": "2021-04-09T14:19:40.891Z",
+      "lastUpdated": "2021-04-09T14:19:40.891Z",
+      "rects": {
+        "0": {
+          "left": 270,
+          "top": 527,
+          "right": 299,
+          "bottom": 539,
+          "width": 28,
+          "height": 11
+        },
+        "1": {
+          "left": 297,
+          "top": 527,
+          "right": 562,
+          "bottom": 539,
+          "width": 265,
+          "height": 11
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Fig. 3"
+        },
+        "1": {
+          "text": ".  Gesture vocabulary from [Wobbrock et al. 2007]."
+        }
+      },
+      "text": {
+        "TEXT": "Fig. 3 .  Gesture vocabulary from [Wobbrock et al. 2007]."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "18hNqVmsPf",
+      "guid": "18hNqVmsPf",
+      "created": "2021-04-09T14:21:08.103Z",
+      "lastUpdated": "2021-04-09T14:21:37.157Z",
+      "rects": {
+        "0": {
+          "left": 58.66013071895425,
+          "top": 32.23248346887454,
+          "width": 12.25490196078431,
+          "height": 9.469696969696969
+        }
+      },
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "images": {},
+      "image": {
+        "id": "128gdzLjApxqyn6dVkUH",
+        "type": "image/png",
+        "src": {
+          "backend": "image",
+          "name": "128gdzLjApxqyn6dVkUH.png"
+        },
+        "width": 1047,
+        "height": 602,
+        "rel": "screenshot"
+      },
+      "position": {
+        "x": 124,
+        "y": 117,
+        "width": 558,
+        "height": 321
+      }
+    },
+    {
+      "id": "124tajgWfY",
+      "guid": "124tajgWfY",
+      "created": "2021-04-09T14:21:29.789Z",
+      "lastUpdated": "2021-04-09T14:21:29.789Z",
+      "rects": {
+        "0": {
+          "left": 145,
+          "top": 406,
+          "right": 179,
+          "bottom": 418,
+          "width": 34,
+          "height": 11
+        },
+        "1": {
+          "left": 177,
+          "top": 406,
+          "right": 724,
+          "bottom": 418,
+          "width": 546,
+          "height": 11
+        },
+        "2": {
+          "left": 145,
+          "top": 418,
+          "right": 572,
+          "bottom": 430,
+          "width": 427,
+          "height": 11
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Fig. 11"
+        },
+        "1": {
+          "text": ".  Gesture variations allowed in the application: variations in size, speed and tilt. Each variation is"
+        },
+        "2": {
+          "text": "used to control the sound feedback parameter: loudness, playback speed and filter"
+        }
+      },
+      "text": {
+        "TEXT": "Fig. 11 .  Gesture variations allowed in the application: variations in size, speed and tilt. Each variation is used to control the sound feedback parameter: loudness, playback speed and filter"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "12G6F9e4iX",
+      "guid": "12qSd5Ys5y",
+      "created": "2021-04-09T14:22:18.244Z",
+      "lastUpdated": "2021-04-09T14:22:24.763Z",
+      "rects": {
+        "0": {
+          "left": 160,
+          "top": 267,
+          "right": 239,
+          "bottom": 280,
+          "width": 79,
+          "height": 13
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "CONCLUSION"
+        }
+      },
+      "text": {
+        "TEXT": "CONCLUSION"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h1>CONCLUSION</h1>"
+      }
+    },
+    {
+      "id": "1ev4K8hucr",
+      "guid": "1ev4K8hucr",
+      "created": "2021-04-09T14:22:36.653Z",
+      "lastUpdated": "2021-04-09T14:22:36.653Z",
+      "rects": {
+        "0": {
+          "left": 495,
+          "top": 283,
+          "right": 688,
+          "bottom": 299,
+          "width": 192,
+          "height": 15
+        },
+        "1": {
+          "left": 147,
+          "top": 298,
+          "right": 649,
+          "bottom": 313,
+          "width": 502,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "r gesture recognition that can"
+        },
+        "1": {
+          "text": "adapt and estimate in real-time variations occurring during gesture executio"
+        }
+      },
+      "text": {
+        "TEXT": "r gesture recognition that can adapt and estimate in real-time variations occurring during gesture executio"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#9900EF"
+    },
+    {
+      "id": "1Q4JxtH6Qc",
+      "guid": "1Q4JxtH6Qc",
+      "created": "2021-04-09T14:22:48.490Z",
+      "lastUpdated": "2021-04-09T14:22:48.490Z",
+      "rects": {
+        "0": {
+          "left": 339,
+          "top": 312,
+          "right": 692,
+          "bottom": 328,
+          "width": 353,
+          "height": 15
+        },
+        "1": {
+          "left": 147,
+          "top": 327,
+          "right": 226,
+          "bottom": 343,
+          "width": 79,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " ability of our method to track changes in phase, scaling"
+        },
+        "1": {
+          "text": "and rotation"
+        }
+      },
+      "text": {
+        "TEXT": "ability of our method to track changes in phase, scaling and rotation"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "green"
+    },
+    {
+      "id": "1kAbnsy1AQ",
+      "guid": "12atpmUqCi",
+      "created": "2021-04-09T14:23:54.453Z",
+      "lastUpdated": "2021-04-09T14:25:23.871Z",
+      "rects": {
+        "0": {
+          "left": 160,
+          "top": 619,
+          "right": 686,
+          "bottom": 635,
+          "width": 526,
+          "height": 15
+        },
+        "1": {
+          "left": 147,
+          "top": 634,
+          "right": 672,
+          "bottom": 649,
+          "width": 525,
+          "height": 15
+        },
+        "2": {
+          "left": 147,
+          "top": 649,
+          "right": 691,
+          "bottom": 664,
+          "width": 544,
+          "height": 15
+        },
+        "3": {
+          "left": 147,
+          "top": 663,
+          "right": 693,
+          "bottom": 679,
+          "width": 546,
+          "height": 15
+        },
+        "4": {
+          "left": 147,
+          "top": 678,
+          "right": 212,
+          "bottom": 693,
+          "width": 65,
+          "height": 15
+        },
+        "5": {
+          "left": 212,
+          "top": 678,
+          "right": 467,
+          "bottom": 693,
+          "width": 255,
+          "height": 15
+        },
+        "6": {
+          "left": 462,
+          "top": 678,
+          "right": 492,
+          "bottom": 693,
+          "width": 30,
+          "height": 15
+        },
+        "7": {
+          "left": 496,
+          "top": 678,
+          "right": 570,
+          "bottom": 693,
+          "width": 74,
+          "height": 15
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Another important feature of the algorithm resides in causal inference. This repre-"
+        },
+        "1": {
+          "text": "sents a clear advantage for interactive applications, since partial results are available"
+        },
+        "2": {
+          "text": "during the gestures (and not only after gesture completion). This allows the use of"
+        },
+        "3": {
+          "text": "the running estimation of the scaling as a control parameter during the gesture, or to"
+        },
+        "4": {
+          "text": "anticipate "
+        },
+        "5": {
+          "text": "which gesture is currently performed by"
+        },
+        "6": {
+          "text": "early"
+        },
+        "7": {
+          "text": "recognition."
+        }
+      },
+      "text": {
+        "TEXT": "Another important feature of the algorithm resides in causal inference. This repre- sents a clear advantage for interactive applications, since partial results are available during the gestures (and not only after gesture completion). This allows the use of the running estimation of the scaling as a control parameter during the gesture, or to anticipate which gesture is currently performed by early recognition."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "red",
+      "revisedText": {
+        "HTML": "&gt;[...] important feature [...] causal inference [...] represents a clear advantage for interactive applications [...] partial results are available during the gestures [...] anticipate which gesture is currently performed by early recognition."
+      }
+    }
+  ]
+
+}
+

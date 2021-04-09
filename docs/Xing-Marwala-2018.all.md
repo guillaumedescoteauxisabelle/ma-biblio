@@ -237,17 +237,17 @@ APA7: Xing, B., & Marwala, T. (2018). _Creativity and Artificial Intelligence: A
 
 Fiche: Xing, B., & Marwala, T. (2018). Creativity and Artificial Intelligence: A Digital Art Perspective. https://arxiv.org/abs/1807.08195v1
 
-
 ______
 # 0. Abstract
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 2:46:16 PM 
 
 
 
+
 ______
 
-# 1. introduction
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 3:13:20 PM 
+# 1. introduction
 
 
 
@@ -258,8 +258,8 @@ ______
 
 
 
-
 ______
+
 # 3.0 Créativité et intelligence artificielle
 #### Xing-Marwala-2018 Reading Session Jun 2, 2020 at 5:15:21 PM 
 
@@ -270,35 +270,35 @@ ______
 
 
 
-______
 # Part 3.1 - Les cas du court terme
+______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:47:09 PM 
 
 ______
-#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
 # Partie 3.2 - Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle
 
+#### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 4:55:56 PM 
 
 
-______
 # Partie 3.3 - Le long terme: une organisation autonome d'art décentralisé (ArtDAO)
 
-
+______
 #### Xing-Marwala-2018 Reading Session Jun 3, 2020 at 5:30:32 PM 
 
 
-# Partie 4 - Perspective
+
 ______
 #### Xing-Marwala-2018 Reading Session Jun 4, 2020 at 1:37:18 PM 
+# Partie 4 - Perspective
 
 
 ## Questions
 
 ###  0.5.2.2 | info | Qu'est-ce que la programmation évolutive (evolutionary programming) ?
 
+### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
  
 ### 4.5.3  | clarification | Qu'est-ce que teaching-learning-based optimization ?
-### 4.5.2  | info |  Quels sont les algorithmes d'inspiration musical ?
 
 ### 4.8.3  | clarication | Qu'est-ce que le Narrow AI 
 
@@ -307,20 +307,20 @@ ______
 # --@STCGoal  Une **Vision Artistique** claire pour ma thèse
 
 Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu'artiste.  Une de mes forces est d'élever mon niveau d'abstraction {Notion de connaissance de soi par rapport à }
-## --@STCGoal Ma definition de l'IA
 
+## --@STCGoal Ma definition de l'IA
 >Artificial Intelligence (AI) is a field of computer science and engineering concerned with the computational understanding of what is commonly called intelligent behavior, and with the creation of artifacts that exhibit such behavior  .
 >(Shapiro, 2003)
+
 ## Voir  **Méthodes statistiques** dans : Ezratty, O. (n.d.). Les usages de l’intelligence artificielle. 522. ref2006051301
 
 ## Réalité des librairies IA
 
-
 ## 4.5.2 - Essayer et évaluer des "algorithmes d'inspiration musical"
 
 
-
 # Références
+
 ## evolutionary programming
 
 ## Shapiro, S. C. (2003). Artificial intelligence (AI). In Encyclopedia of Computer Science (pp. 89–93). John Wiley and Sons Ltd.
@@ -331,6 +331,15 @@ Dans le contexte de l'IA, j'identifie une valeur à ma vision de l'IA en tant qu
 >"This paper describes the application of artificial intelligence (AI) to the creation of digital art" (p. 0)  
 
 
+
+----
+
+
+
+l'application de l'IA dans la création d'art numérique  
+              
+              
+              
 
 ----
 
@@ -356,10 +365,12 @@ La codification de l'intelligence dans une machine
 
 
 
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
+<!--- o:0.3.1 -->  
+<!--- y:txt -->  
+  
+>"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
+
+
 
 ----
 
@@ -369,17 +380,6 @@ Trois types d'intelligence artificielle.
               
               
               
-
-----
-
-
-
-<!--- o:0.3.1 -->  
-<!--- y:txt -->  
-  
->"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
-
-
 
 ----
 
@@ -603,21 +603,21 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
-Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.5.1 -->  
 <!--- y:txt -->  
   
 >"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
 
 
+
+----
+
+
+
+Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
+              
+              
+              
 
 ----
 
@@ -943,21 +943,21 @@ Les artistes travaillent de concert avec les ingénieurs et les machines.
 
 
 
+La créativité et l'intelligence artificielle.  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.0.2.1 -->  
 <!--- y:txt -->  
   
 >"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
 
 
-
-----
-
-
-
-La créativité et l'intelligence artificielle.  
-              
-              
-              
 
 ----
 
@@ -983,17 +983,6 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
-<!--- o:3.0.4.1 -->  
-<!--- y:txt -->  
-  
->NOTES  
-
-
-
-----
-
-
-
 Time Frame  
               
               
@@ -1012,10 +1001,10 @@ Trois mouvements
 
 
 
-<!--- o:3.1.3.1 -->  
+<!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
->"AI-Assisted Digital Art Creation" (p. 3.1)  
+>NOTES  
 
 
 
@@ -1023,10 +1012,12 @@ Trois mouvements
 
 
 
-La création assistée par l'intelligence artificielle.  
-              
-              
-              
+<!--- o:3.1.3.1 -->  
+<!--- y:txt -->  
+  
+>"AI-Assisted Digital Art Creation" (p. 3.1)  
+
+
 
 ----
 
@@ -1044,6 +1035,15 @@ La création assistée par l'intelligence artificielle.
 
 
 L'amélioration de la créativité avec l'intelligence artificielle.  
+              
+              
+              
+
+----
+
+
+
+La création assistée par l'intelligence artificielle.  
               
               
               
@@ -1143,21 +1143,21 @@ Organisation intéressante le centre l'institut culturel de Google. Il s'agit de
 
 
 
-Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle pour les arts numérique  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.2.1 -->  
 <!--- y:txt -->  
   
 >"Robots are marching towards us and the user friendly interface will become a crucial element for facilitating the interaction between human and robots ( Xing and Marwala, 2018)" (p. 3.2)  
 
 
+
+----
+
+
+
+Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle pour les arts numérique  
+              
+              
+              
 
 ----
 

@@ -10,6 +10,15 @@
 
 
 
+l'application de l'IA dans la création d'art numérique  
+              
+              
+              
+
+----
+
+
+
 <!--- o:0.2.1 -->  
 <!--- y:txt -->  
   
@@ -30,10 +39,12 @@ La codification de l'intelligence dans une machine
 
 
 
-l'application de l'IA dans la création d'art numérique  
-              
-              
-              
+<!--- o:0.3.1 -->  
+<!--- y:txt -->  
+  
+>"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
+
+
 
 ----
 
@@ -43,17 +54,6 @@ Trois types d'intelligence artificielle.
               
               
               
-
-----
-
-
-
-<!--- o:0.3.1 -->  
-<!--- y:txt -->  
-  
->"There are generally three types of AI and these are machine learning, evolutionary programming and soft computing" (p. 0)  
-
-
 
 ----
 
@@ -277,21 +277,21 @@ L'innovation, la créativité et quelque chose que je sens que je ne serai pas d
 
 
 
-Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:1.5.1 -->  
 <!--- y:txt -->  
   
 >"But putting it informally, by famous innovator Steve Jobs in 1995, we can think creativity like this way (Sanchez-Burks et al, 2015):"Creative people are able to connect experiences they've had and synthesize new things" (p. 1)  
 
 
+
+----
+
+
+
+Il existe un enjeux sur la définition de la créativité dans la société. Bien que nous la considérions comme étant la capacité (traduction de l'auteur). Quelle est ma définition de la créativité? Quelle est la définition de la créativité pour Robert Fritz?  
+              
+              
+              
 
 ----
 
@@ -617,21 +617,21 @@ Les artistes travaillent de concert avec les ingénieurs et les machines.
 
 
 
+La créativité et l'intelligence artificielle.  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.0.2.1 -->  
 <!--- y:txt -->  
   
 >"They enable us to create huge new realms of innovative ways that otherwise would have never been imagined" (p. 3)  
 
 
-
-----
-
-
-
-La créativité et l'intelligence artificielle.  
-              
-              
-              
 
 ----
 
@@ -657,17 +657,6 @@ Les techniques d'intelligence artificielle sont importantes pour la créativité
 
 
 
-<!--- o:3.0.4.1 -->  
-<!--- y:txt -->  
-  
->NOTES  
-
-
-
-----
-
-
-
 Time Frame  
               
               
@@ -686,10 +675,10 @@ Trois mouvements
 
 
 
-<!--- o:3.1.3.1 -->  
+<!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
->"AI-Assisted Digital Art Creation" (p. 3.1)  
+>NOTES  
 
 
 
@@ -697,10 +686,12 @@ Trois mouvements
 
 
 
-La création assistée par l'intelligence artificielle.  
-              
-              
-              
+<!--- o:3.1.3.1 -->  
+<!--- y:txt -->  
+  
+>"AI-Assisted Digital Art Creation" (p. 3.1)  
+
+
 
 ----
 
@@ -718,6 +709,15 @@ La création assistée par l'intelligence artificielle.
 
 
 L'amélioration de la créativité avec l'intelligence artificielle.  
+              
+              
+              
+
+----
+
+
+
+La création assistée par l'intelligence artificielle.  
               
               
               
@@ -817,21 +817,21 @@ Organisation intéressante le centre l'institut culturel de Google. Il s'agit de
 
 
 
-Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle pour les arts numérique  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.2.2.1 -->  
 <!--- y:txt -->  
   
 >"Robots are marching towards us and the user friendly interface will become a crucial element for facilitating the interaction between human and robots ( Xing and Marwala, 2018)" (p. 3.2)  
 
 
+
+----
+
+
+
+Le moyen terme : l'humain et la créativité en collaboration avec l'intelligence artificielle pour les arts numérique  
+              
+              
+              
 
 ----
 

@@ -362,21 +362,21 @@ Quels sont les étapes?
 
 
 
+Existe-t-il quatre compétences à développer qui sont complémentaires?  
+              
+              
+              
+
+----
+
+
+
 <!--- o:3.0.3.1 -->  
 <!--- y:txt -->  
   
 >"une lecture raisonnée du texte;" (p. 3)  
 
 
-
-----
-
-
-
-Existe-t-il quatre compétences à développer qui sont complémentaires?  
-              
-              
-              
 
 ----
 
@@ -391,21 +391,21 @@ Qu'est-ce que de lire de façon résonner?
 
 
 
-Qu'est-ce qu'une analyse de texte? De quoi Allaire une analyse de texte?  
-              
-              
-              
-
-----
-
-
-
 <!--- o:3.0.4.1 -->  
 <!--- y:txt -->  
   
 >"son analyse;" (p. 3)  
 
 
+
+----
+
+
+
+Qu'est-ce qu'une analyse de texte? De quoi Allaire une analyse de texte?  
+              
+              
+              
 
 ----
 

@@ -664,16 +664,215 @@
       "questions": {},
       "flashcards": {},
       "color": "red"
+    },
+    {
+      "id": "1TiGtKo9QX",
+      "guid": "1TiGtKo9QX",
+      "created": "2021-02-04T22:36:44.404Z",
+      "lastUpdated": "2021-02-04T22:36:44.404Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 95,
+          "right": 131,
+          "bottom": 112,
+          "width": 11,
+          "height": 17
+        },
+        "1": {
+          "left": 131,
+          "top": 96,
+          "right": 172,
+          "bottom": 112,
+          "width": 41,
+          "height": 15
+        },
+        "2": {
+          "left": 171,
+          "top": 95,
+          "right": 189,
+          "bottom": 112,
+          "width": 17,
+          "height": 17
+        },
+        "3": {
+          "left": 192,
+          "top": 95,
+          "right": 198,
+          "bottom": 112,
+          "width": 5,
+          "height": 17
+        },
+        "4": {
+          "left": 201,
+          "top": 95,
+          "right": 210,
+          "bottom": 112,
+          "width": 9,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "C"
+        },
+        "1": {
+          "text": "OURS "
+        },
+        "2": {
+          "text": "04"
+        },
+        "3": {
+          "text": "-"
+        },
+        "4": {
+          "text": "4"
+        }
+      },
+      "text": {
+        "TEXT": "C OURS 04 - 4"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow"
+    },
+    {
+      "id": "1922yYdwLP",
+      "guid": "1ziiEnXMCF",
+      "created": "2021-02-04T22:36:47.291Z",
+      "lastUpdated": "2021-02-04T22:37:03.458Z",
+      "rects": {
+        "0": {
+          "left": 119,
+          "top": 129,
+          "right": 174,
+          "bottom": 147,
+          "width": 54,
+          "height": 17
+        },
+        "1": {
+          "left": 173,
+          "top": 129,
+          "right": 277,
+          "bottom": 147,
+          "width": 103,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "Thème "
+        },
+        "1": {
+          "text": ": Le but du jeu"
+        }
+      },
+      "text": {
+        "TEXT": "Thème : Le but du jeu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h2>Thème : Le but du jeu</h2>"
+      }
+    },
+    {
+      "id": "1J8DxPwTFL",
+      "guid": "1RjSx2hxna",
+      "created": "2021-02-04T22:36:49.942Z",
+      "lastUpdated": "2021-02-04T22:37:10.090Z",
+      "rects": {
+        "0": {
+          "left": 167,
+          "top": 152,
+          "right": 314,
+          "bottom": 170,
+          "width": 147,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": "L’expérience usager"
+        }
+      },
+      "text": {
+        "TEXT": "L’expérience usager"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>L’expérience usager</h3>"
+      }
+    },
+    {
+      "id": "12B8mYT2er",
+      "guid": "1281NgXiiL",
+      "created": "2021-02-04T22:36:52.997Z",
+      "lastUpdated": "2021-02-04T22:37:16.852Z",
+      "rects": {
+        "0": {
+          "left": 162,
+          "top": 170,
+          "right": 340,
+          "bottom": 188,
+          "width": 177,
+          "height": 17
+        }
+      },
+      "textSelections": {
+        "0": {
+          "text": " L’expérience esthétique"
+        }
+      },
+      "text": {
+        "TEXT": "L’expérience esthétique"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "revisedText": {
+        "HTML": "<h3>L’expérience esthétique</h3>"
+      }
+    },
+    {
+      "id": "12ojB35Mbv",
+      "guid": "12ojB35Mbv",
+      "created": "2021-02-04T22:40:44.536Z",
+      "lastUpdated": "2021-02-04T22:40:44.536Z",
+      "type": "BASIC_FRONT_BACK",
+      "fields": {
+        "front": {
+          "HTML": "<p>Il existe une hiérarchie dans les stratégies conceptuel</p>"
+        },
+        "back": {
+          "HTML": "Mise  en  hiérarchie  des stratégies conceptuelles"
+        }
+      },
+      "archetype": "9d146db1-7c31-4bcf-866b-7b485c4e50ea",
+      "ref": "text-highlight:1LogmXy4Bz"
+    },
+    {
+      "id": "1otz7zQznyzP9gjCzign",
+      "guid": "1otz7zQznyzP9gjCzign",
+      "created": "2021-03-12T00:23:42.351Z",
+      "lastUpdated": "2021-03-12T00:23:42.351Z",
+      "content": {
+        "HTML": "<p>:)</p>"
+      },
+      "ref": "text-highlight:1dJWFifHoy"
     }
   ]
 
 }
-
-
-
-
-
-
-
-
 
